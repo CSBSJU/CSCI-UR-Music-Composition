@@ -1,0 +1,58 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 6, No. 11
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*clefC	*clefG	*clefG	*clefG	*clefC	*clefG	*clefG
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:	*d:	*d:	*d:	*d:
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1	=1	=1	=1
+2r	2r	2r	2r	2r	2r	2r
+4G	4a	4b-	4dd	4G	4b-	4dd
+=2	=2	=2	=2	=2	=2	=2
+2.F#	2.a	2.cc	2.ee-	2.F#	2.cc	2.ee-
+=3	=3	=3	=3	=3	=3	=3
+2r	2r	2r	2r	2r	2r	2r
+4G	4g	4b-	4dd	4G	4b-	4dd
+=4	=4	=4	=4	=4	=4	=4
+2.F	2.g	2.dd	2.b	2.F	2.dd	2.b
+=5	=5	=5	=5	=5	=5	=5
+2r	2r	2r	2r	2r	2r	2r
+4E-	4g	4g	4cc	4E-	4g	4cc
+=6	=6	=6	=6	=6	=6	=6
+2.BB	2.g	2.g	2.dd	2.BB	2.g	2.dd
+=7	=7	=7	=7	=7	=7	=7
+2r	2r	2r	2r	2r	2r	2r
+4c	4cc	4g	4ee-	4c	4g	4ee-
+=8	=8	=8	=8	=8	=8	=8
+2F#	2cc	2a	2dd	2F#	2a	2dd
+[4G	[4b-	[4d	[4b-	[4G	[4d	[4b-
+=9	=9	=9	=9	=9	=9	=9
+4G]	4b-]	4d]	4b-]	4G]	4d]	4b-]
+2E-	2e-	2g	2cc	2E-	2g	2cc
+=10	=10	=10	=10	=10	=10	=10
+2.D	2.A	2.f#	2.dd	2.D	2.f#	2.dd
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: concerto grosso
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 3217113440
+!!!EMD: Converted from MuseData to Humdrum Aug 2, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1543914358

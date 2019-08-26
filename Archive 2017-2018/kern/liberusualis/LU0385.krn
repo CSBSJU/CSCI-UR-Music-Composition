@@ -1,0 +1,85 @@
+!!image-file:	385_original_image.tiff
+!!image-id:	m-a9fbbba4-0610-4e15-8c51-cefe3484858b
+!!system: 1, page 385
+**kern	**neume	**facs
+*clefC4	*	*
+G	punctum	256,508,239,487
+(G	podatus	313,507,296,437
+c)	.	.
+A	punctum	362,491,345,470
+G	punctum	458,531,440,488
+A	punctum	546,492,530,469
+G	punctum	596,529,578,487
+F	punctum	758,523,739,503
+(G	podatus	838,510,821,468
+A)	.	.
+A	punctum	968,517,951,468
+G	punctum	1025,509,1007,487
+G.	punctum	1094,508,1064,487
+='	='	='
+A	punctum	1250,492,1233,470
+c	punctum	1347,458,1331,437
+!!system: 2, page 385
+*clefC4	*	*
+c	punctum	89,723,72,679
+c	punctum	202,699,184,678
+(c	cephalicus	251,744,233,678
+G)	.	.
+A	punctum	364,730,347,710
+c	punctum	420,698,403,677
+(B	podatus	550,740,532,676
+c)	.	.
+c.	punctum	642,698,613,668
+='	='	='
+c	punctum	734,697,718,678
+B	punctum	824,714,808,694
+c	punctum	897,722,879,679
+d	punctum	945,682,928,663
+c	punctum	994,721,976,676
+B	punctum	1082,713,1066,694
+c	punctum	1211,721,1194,676
+B	punctum	1292,713,1276,694
+(A	clivis	1358,754,1324,709
+G)	.	.
+!!system: 3, page 385
+*clefC4	*	*
+(A	cephalicus	92,993,73,938
+G)	.	.
+(G.	scandicus	198,980,148,900
+A	.	.
+B	.	.
+c)	.	.
+B	punctum	220,955,205,918
+A	punctum	250,976,222,940
+='	='	='
+E	punctum	359,1013,343,992
+F	punctum	439,996,423,975
+G	punctum	496,1003,479,960
+A	punctum	553,965,535,943
+G	punctum	697,980,681,959
+F	punctum	753,995,738,975
+E	virga	851,1021,834,967
+D	punctum	872,1030,859,1006
+C	punctum	890,1044,874,1022
+C.	punctum	959,1043,931,1024
+=`	=`	=`
+(G	podatus	1069,1006,1053,940
+A)	.	.
+(G	scandicus	1199,980,1150,899
+A	.	.
+B	.	.
+c)	.	.
+B	punctum	1221,949,1206,924
+A	punctum	1237,966,1223,941
+B	punctum	1295,970,1279,927
+A	punctum	1352,964,1335,943
+!!system: 4, page 385
+=||	=||	=||
+G	punctum	225,1208,206,1190
+G	punctum	127,1208,108,1190
+*clefC4	*	*
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=385
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

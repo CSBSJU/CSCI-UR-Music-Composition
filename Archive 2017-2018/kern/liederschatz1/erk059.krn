@@ -1,0 +1,80 @@
+!!!OTL@@DE: B&uuml;derschaft
+!!!COM: Volkweise (Ich stand auf hohem Berge)
+!!!OMD: M&auml;ssig langsam
+!!!LYR: M&uuml;ller, Wilhelm
+!!!LDT: 1821
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+*clefF4	*clefG2	*clefG2
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
+*E:	*E:	*E:
+*M2/4	*M2/4	*M2/4
+*MM72	*MM72	*MM72
+8r	16e/LL	(16e/LL
+.	16g#/JJ	16g#/JJ)
+=1	=1	=1
+*	*^	*
+4E\	8.b/L	4g#\	8b\
+.	.	.	(16b\LL
+.	16ee/Jk	.	16ee\JJ)
+8G#'\L	16b/LL	8e\L	(16b/LL
+.	16g#/	.	16g#/JJ)
+8B'\J	16a/	8d#\J	(16a/LL
+.	16f#/JJ	.	16f#/JJ)
+*	*v	*v	*
+=2	=2	=2
+8E'\L	4e/ 4g#/	4g#/
+8G#'\J	.	.
+8B\	8d#/ 8f#/L	8f#/
+8r	8d#/ 8f#/J	8f#/
+=3	=3	=3
+8E/L	8e/ 8g#/L	8g#/
+8Dn/	16e/ 16g#/L	(16g#/LL
+.	16b/JJ	16b/JJ)
+8C#/	8e/ 8a/L	8a/
+8AA/J	16e/ 16a/L	(16a/LL
+.	16cc#/JJ	16cc#/JJ)
+=4	=4	=4
+8E/L	4g#/ 4b/	4b\
+8EE/	.	.
+8E/J	8r	8r
+8A\	16cc#/LL	(16cc#\LL
+.	16dd#/JJ	16dd#\JJ)
+=5	=5	=5
+*	*^	*
+4G#\	(8ee'/L	4b\	8ee\
+.	8ee'/J)	.	8ee\
+8E\L	16ee/LL	8g#\L	(16ee\LL
+.	16dd#/	.	16dd#\JJ)
+8G#\J	16cc#/	8e\J	(16cc#\LL
+.	16b/JJ	.	16b\JJ)
+*	*v	*v	*
+=6	=6	=6
+8A\L	4a\ (4cc#\	4cc#\
+8c#\J	.	.
+4e\	4g#/ 4b/)	4b\
+=7	=7	=7
+8B\L	4d#/ (4a/	4a/
+8B#\	.	.
+8c#\J	&(8e/&) 8g#/)	8g#/
+8G#'\	8e'/ 8b'/	8b\
+=8	=8	=8
+8A'\L	8e'/ 8cc#'/L	8cc#\
+8A\ 8c#\	16f#/ 16b/L	(16b/LL
+.	16a/J	16a/JJ)
+8B'\	8e'/ 8g#'/	8g#/
+8BB'\ 8A'\J	8d#'/ 8f#'/J	8f#/
+=9	=9	=9
+*^	*	*
+4G#/	8E\L	4B/ 4e/	4e/
+.	8BB\	.	.
+8r	8EE\J	8r	8r
+*v	*v	*	*
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/05/26/
+!!!EFL: 059/651

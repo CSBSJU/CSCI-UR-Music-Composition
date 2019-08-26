@@ -1,0 +1,86 @@
+!!!OTL: Der Morgenstern (2-80) S. 237
+!!!id: P0952
+**kern
+*clefG2
+*k[b-]
+*g:
+{8d
+=1
+8g
+8a
+8b-
+8a
+8b-
+8cc
+=2
+8a
+4g}
+4r
+=3
+{16dd
+16cc
+=4
+8dd
+8cc
+8b-
+8g
+8cc
+8b-
+=5
+4.a}
+4r
+=6
+{8b-
+=7
+8a
+8b-
+8cc
+8dd
+8cc
+8dd
+=8
+4g
+8f
+4.f}
+=9
+{8.g
+8a
+16b-
+8.cc
+16b-
+8a
+=10
+8b-
+8a
+4g}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 6/8 ]  ZZ[4
+!!!cut: Der Morgenstern (2-80) S. 237
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X_  X_X_X_X_X_X_  X_X__0__
+!!!rhy2: XX  X_X_X_X_X_X_  X__.0__
+!!!key: P0952  16  G 6/8 ]  ZZ[4
+!!!mod: SECHSTONSKALA MOLL ?]  AMBITUS[8
+!!!kad: 12-7b1
+!!!akz: 122_512_251-7b_143b1_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__aw_aw_b__
+!!!fok: '^a_\__^d_^__
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Liebesleid, vergebliche Werbung
+!!!bem1: wahrscheinlich Taktfehler in Takt 3 (5 Achtel), tats&auml;chlich 6/8;
+!!!bem2: 5_4_3b_1_43b zu 5_4_3b_1_4_3b_ umge&auml;ndert
+!! LOTH VKL
+!! PR[10] 2K[3] 2G[13] 3K[3] 3G[3] 4A[10] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[37] ABS[30] SR[17] SP[20]
+!! ST[12] 2k[10] 2g[33] 3k[7] 3g[3] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[53] dm[-16] sr[43] sp[10]
+!! 1F[64] 2F[27] 3F[0] 4F[0] LF[0] 2P[9] 3P[0] 4P[0] TRI[0] DF[3] AB[33]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[6] U6K[0] U6[3] U7K[0] U7[3]
+!! N1[23] N2K[0] N2[23] N3K[0] N3[26] N4[6] N4Ü[0] N5[10] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

@@ -1,0 +1,65 @@
+!!!OTL: Sieben Str&auml;uss (2-71) S. 215
+!!!id: P0944
+**kern
+*clefG2
+*k[]
+*G:
+{4g
+4g
+4b
+4.dd
+8ee
+4dd
+4a
+4b
+4cc}
+4r
+=1
+{8dd
+8dd
+4b
+4a
+4b
+4g
+4f#
+8g
+8b
+4a}
+=2
+{4.dd
+8ff
+4ee
+4dd
+8dd
+8cc
+8b
+8g
+2a
+4g}
+==
+*-
+!!!minrhy: 8
+!!!meters: FREI]  ZZ[3 interpreted as [0/4, 0/4]
+!!!cut: Sieben Str&auml;uss (2-71) S. 215
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X_X_X_X_.XX_X_X_X_0_
+!!!rhy2: XXX_X_X_X_X_XXX_
+!!!key: P0944  08  G FREI]  ZZ[3
+!!!mod: ACHTTONSKALA DUR ?]  AMBITUS[7
+!!!kad: 421
+!!!akz: 1_5_5_
+!!!fot: 'a__b__c__
+!!!for: 'a__b__c__
+!!!fok: '~a_Vd_^d_
+!!!fkt: Fenstergang, Standesunterschied
+!! LOTH VKL
+!! PR[13] 2K[11] 2G[30] 3K[2] 3G[2] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[48] ABS[46] SR[41] SP[7]
+!! ST[19] 2k[7] 2g[26] 3k[4] 3g[0] 4d[0] 4ü[0] 5d[2] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[39] dm[+9] sr[33] sp[7]
+!! 1F[20] 2F[55] 3F[10] 4F[0] LF[0] 2P[8] 3P[6] 4P[0] TRI[0] DF[5] AB[49]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[2] U6K[0] U6[0] U7K[0] U7[2]
+!! N1[15] N2K[0] N2[21] N3K[0] N3[17] N4[17] N4Ü[0] N5[17] N6K[0] N6[9]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

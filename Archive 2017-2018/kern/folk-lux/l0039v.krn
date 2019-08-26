@@ -1,0 +1,163 @@
+!!!OTL: Echternacher Springprozessionslied, S.47f
+!!!id: L0039V
+**kern
+*clefG2
+*k[]
+*G:
+{16g
+=1
+16g
+8.cc
+16dd
+8ee
+8ff
+=2
+8gg
+8gg
+8gg
+8r
+=3
+8.aa
+16bb
+8ccc
+8aa
+=4
+4aa
+4gg}
+=5
+{8.cc
+16dd
+8ee
+8ff
+=6
+8gg
+8gg
+4gg
+=7
+8.aa
+16bb
+8ccc
+8aa
+=8
+4aa
+4gg}
+=9
+{16ff
+16gg
+16ff
+16dd
+16ee
+16ff
+16ee
+16cc
+=10
+16dd
+16ee
+16dd
+16b
+8cc
+8cc}
+=11
+{16ff
+16gg
+16ff
+16dd
+16ee
+16ff
+16ee
+16cc
+=12
+4dd
+8cc}
+8r
+=13
+{16g
+16ff#
+16g
+16a
+16b
+16a
+16b
+16cc
+=14
+8dd
+8dd
+8dd}
+8r
+=15
+{8gg
+16ff#
+16gg
+16aa
+16gg
+16ff#
+16ee
+=16
+4ee
+8dd
+8r
+=17
+8gg
+16ff#
+16gg
+16aa
+16gg
+16ff#
+16ee
+=18
+8ee
+8dd
+8dd}
+8r
+=19
+{8.cc
+16a
+8.b
+16g
+=20
+8.a
+16f#
+8a}
+8r
+=21
+{8cc
+16a
+16cc
+8b
+16g
+16b
+=22
+8a
+8f#
+8g}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[8
+!!!cut: Echternacher Springprozessionslied, S.47f
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1:   X_.XX_X_  X_X_X_0_  X_.XX_X_  X__X__
+!!!rhy2: X_.XX_X_  X_X_X__  X_.XX_X_  X__X__
+!!!key: L0039V 16  G 2/4 ]  ZZ[8
+!!!mod: ACHTTONSKALA DUR ?]  AMBITUS[11#
+!!!kad: +1+1445521
+!!!akz: 4+1+2+2_4+1+2+2_7b5_7b5_15_+16+16_42_42_
+!!!fot: 'a__av_b__bv_as'c__bs"bs'
+!!!for: 'a__av_b__c__d__e__f__g__
+!!!fok: '^a_^a_$d_Sd_/__Sd_Vd_\__
+!! PHRAS[VOLLTAKTIG]
+!!!fkt: Tanzlied
+!!!bem1: Variante zu Sign 0038
+!!!bem2: Zeilen 1 - 4 in c, Zeilen 5 - 8 in g
+!! FONTAINE, Ed.:
+!! PR[28] 2K[6] 2G[11] 3K[11] 3G[8] 4A[3] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[39] ABS[36] SR[17] SP[22]
+!! ST[12] 2k[6] 2g[6] 3k[11] 3g[11] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[33] dm[+6] sr[11] sp[22]
+!! 1F[82] 2F[11] 3F[0] 4F[0] LF[0] 2P[8] 3P[0] 4P[0] TRI[0] DF[3] AB[38]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[5]
+!! N1[19] N2K[0] N2[16] N3K[0] N3[22] N4[22] N4Ü[0] N5[11] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

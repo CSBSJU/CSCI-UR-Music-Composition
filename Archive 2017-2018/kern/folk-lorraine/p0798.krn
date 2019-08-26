@@ -1,0 +1,90 @@
+!!!OTL: Nun adje, jetzt mu&szlig; ich reiten fort (Band 1), S.  71
+!!!id: P0798
+**kern
+*clefG2
+*k[f#]
+*G:
+{8.d
+16d
+=1
+4.b
+8a
+8cc
+8b
+8a
+8g
+=2
+4.a
+8g
+4f#}
+=3
+{8.d
+16f#
+=4
+4a
+8a
+8d
+4cc
+8.b
+16a
+=5
+8.a
+16g
+4g}
+4r
+=6
+{8g
+8f#
+=7
+4e
+4e
+4g
+8f#
+8e
+=8
+8.d
+16f#
+8.f#
+16a
+4dd
+8cc}
+=9
+{8a
+=10
+4.g
+8b
+4dd
+8cc
+8a
+=11
+4a
+4g}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[4
+!!!cut: Nun adje, jetzt mu&szlig; ich reiten fort (Band 1), S.  71
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: X_.X  X__.X_X_X_X_X_  X__.X_X__
+!!!rhy2: X_.X  X__X_X_X__X_.X  X_.XX__0__
+!!!key: P0798  16  G 4/4 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: -7141
+!!!akz: 342-7_242_-61-55_152_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__c__d__
+!!!fok: '^a_^a_Va_^d_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Abschied, Tod
+!! LOTH VKL
+!! PR[21] 2K[8] 2G[18] 3K[0] 3G[3] 4A[5] 4Ü[0] 5A[5] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[38] ABS[39] SR[26] SP[13]
+!! ST[10] 2k[8] 2g[15] 3k[8] 3g[10] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[41] dm[-3] sr[23] sp[18]
+!! 1F[15] 2F[75] 3F[5] 4F[0] LF[0] 2P[5] 3P[0] 4P[0] TRI[0] DF[4] AB[40]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[3]
+!! N1[15] N2K[0] N2[8] N3K[23] N3[0] N4[18] N4Ü[0] N5[30] N6K[3] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: ÃŸ)

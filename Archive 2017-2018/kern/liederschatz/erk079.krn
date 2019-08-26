@@ -1,0 +1,152 @@
+!!!OTL@@DE: Abschied
+!!!COM: Volksweise
+!!!ODT: 1825
+!!!OMD: Moderato
+!!!ONB: Nach einem &auml;lteren Volksliede von Heinr. Wagner (pseud. Wergan)
+!!!LDT: 1825
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*Ipiano	*Ipiano	*Ivox
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
+*E:	*E:	*E:
+*M2/4	*M2/4	*M2/4
+*MM60	*MM60	*MM60
+(16G#\LL	(16e/LL	16e/
+16B\JJ)	16f#/JJ)	16f#/
+=1	=1	=1
+*^	*	*
+16E/LL	4E\	8e/ 8g#/L	8g#/
+16G#/	.	.	.
+16B/	.	(16e/ 16g#/L	16g#/
+16G#/JJ	.	16b/JJ)	16b\
+16E/LL	4E\	8f#/ 8a/L	8a/
+16A/	.	.	.
+16c#/	.	(16f#/ 16a/L	16a\
+16A/JJ	.	16cc#/JJ)	16cc#\
+*v	*v	*	*
+=2	=2	=2
+(16E\LL	8g#/ 8b/L	8b/
+16G#\	.	.
+16B\	(16g#/ 16b/L	16b/
+16G#\JJ	16f#/) 16a/JJ	16a/
+16E\)	8e/ 8g#/	4g#/
+*clefG2	*	*
+(16B/LL	.	.
+16e/	8r	.
+[16g#/JJ)	.	.
+=3	=3	=3
+8g#/] 8b/L	8gg#\ 8bb\L	8b/
+(16g#/ 16b/L	16gg#\ (16bb\L	16b/
+16f#/) 16a/JJ	16ff#\ 16aa\JJ)	16a/
+8e/ 8g#/	8ee\ 8gg#\	8g#/
+8r	(16e/ 16g#/LL	16g#/LL
+.	16b/JJ)	16b/JJ
+*clefF4	*	*
+=4	=4	=4
+*^	*	*
+16D#/LL	4D#\	8f#/ 8a/L	8a/
+16F#/	.	.	.
+16B/	.	8f#/ 8a/J	8a/
+16F#/JJ	.	.	.
+16BB/LL	4BB\	8d#/ 8f#/L	8f#/
+16F#/	.	.	.
+16A/	.	8d#/ 8b/J	8b\
+16B/JJ	.	.	.
+*v	*v	*	*
+=5	=5	=5
+(16E\LL	4e/ 4g#/	4g#/
+16G#\	.	.
+16B\	.	.
+16G#\JJ	.	.
+8E\)	8r	8r
+=!|:	=!|:	=!|:
+*>B	*>B	*>B
+8E\	16e/LL	16e/
+.	16g#/JJ	16g#/
+=6	=6	=6
+*^	*^	*
+(8.D#/L	2BB\	(8.f#/L	16f#\LL	8.f#/
+.	.	.	16B\	.
+.	.	.	16d#\	.
+16E/Jk	.	16g#/Jk	16B\JJ	16g#/
+8F#/L	.	8a/L	16a\LL	8a/
+.	.	.	16B\	.
+8D#/J)	.	8f#/J	16f#\)	8f#/
+.	.	.	16B\JJ	.
+*v	*v	*	*	*
+=7	=7	=7	=7
+(8.E\L	(8.g#/L	16e\LL	8.g#/
+.	.	16B\	.
+.	.	16e\	.
+16F#\Jk	16a/Jk	16B\JJ	16a/
+16G#\LL	8b/L)	8e\L	8b\
+16B\	.	.	.
+16G#\	8b/J	8e\J	16b\
+16E\JJ)	.	.	16b\
+=8	=8	=8	=8
+(16AA\LL	8cc#/L	8e\L	8cc#\
+16C#\	.	.	.
+16E\	8cc#/J	8e\J	8cc#\
+16A\JJ	.	.	.
+8c#\L	(8ee/L	4e\	8ee\
+16B\L	16dd#/L	.	16dd#\LL
+16A\JJ)	16cc#/JJ)	.	16cc#\JJ
+=9	=9	=9	=9
+4E\ 4G#\	(4b/	16b\LL	4b\
+.	.	16g#\	.
+.	.	16e\	.
+.	.	16B\JJ)	.
+*	*v	*v	*
+(16G#/LL	8r	8r
+16E/	.	.
+16BB/	16e/LL	16e/
+16GG#/JJ)	16g#/JJ	16g#/
+=10	=10	=10
+(16EE/LL	8g#/ 8b/L	8b\
+16GG#/	.	.
+16BB/	(16g#/ 16b/L	16b\
+16E/JJ	16a/) 16cc#/JJ	16cc#\
+16G#/LL	8g#\ 8b\L	8b\
+16E/	.	.
+16BB/	16g#\ (16b\L	16b\LL
+16GG#/JJ)	16ee\JJ)	16ee\JJ
+=11	=11	=11
+(16EE/LL	8g#/ 8b/L	8b\
+16GG#/	.	.
+16BB/	(16g#/ 16b/L	16b/LL
+16E/JJ	16f#/) 16a/JJ	16a/JJ
+*clefG2	*	*
+16G#/LL	8e/ 8g#/	4g#/
+16B/	.	.
+16e/	8r	.
+[16g#/JJ)	.	.
+=12	=12	=12
+8g#/] 8b/L	8gg#\ 8bb\L	8b\
+(16g#/ 16b/L	16gg#\ (16bb\L	16b/LL
+16f#/) 16a/JJ	16ff#\ 16aa\JJ)	16a/JJ
+8e/ 8g#/	8ee\ 8gg#\	8g#/
+*clefF4	*	*
+(16E\LL	16e/ (16g#/LL	16g#\LL
+16C#\JJ)	16e#/ 16b/JJ)	16b\JJ
+=13	=13	=13
+8FF#/L	8f#/ 8a/L	8a/
+8AA/J	8c#/ 8f#/ 8a/J	8a/
+8BB/L	8d#/ 8f#/L	8f#/
+8BB/J	8d#/ 8f#/ 8b/J	8b\
+=14	=14	=14
+16r	4B/ 4e/ 4g#/	4g#/
+(16E/LL	.	.
+16BB/	.	.
+16GG#/JJ)	.	.
+8EE/	8r	8r
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/06/04/
+!!!EFL: 079/651

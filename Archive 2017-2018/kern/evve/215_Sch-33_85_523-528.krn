@@ -1,0 +1,54 @@
+!!!COM:	Schoenberg
+!!!OTL:	Sch-33/85/523-528
+**kern	**kern	**kern
+*part2	*part2	*part1
+*staff3	*staff2	*staff1
+*I"Piano	*	*I"Tenor Solo
+*I'Pno.	*	*I'T. Solo
+*clefF4	*clefG2	*clefGv2
+*k[]	*k[]	*k[]
+*M2/2	*M2/2	*M2/2
+*met(c|)	*met(c|)	*met(c|)
+=1	=1	=1
+2FFn~ 2Cn 2Gn	4r	2B-
+.	4.e-~	.
+2DD-~ 2AA- 2Gn	.	4.B
+.	4.dn~	.
+.	.	8B
+=2	=2	=2
+2GG-~ 2Cn 2Fn	4.e-~	2Bn
+.	4.dn~	.
+2FFn~ 2D- 2A-	.	4An
+.	4e~	8r
+.	.	8e-
+=3	=3	=3
+2EEn~ 2AA- 2Gn	4r	2e-
+.	4.b-~	.
+2FFn~ 2G- 2A	.	4.c#
+.	4.ccn~	.
+.	.	8c#
+=4	=4	=4
+2GGn~ 2En 2A-	4.b-~	2c#
+.	4.ccn~	.
+2FF#~ 2AAn 2F	.	2dn
+.	4b-X~	.
+=5	=5	=5
+*	*^	*
+2BBn~ 2An	(2bb-	8r	2.fn
+.	.	4.a-~	.
+2En~ 2e-	2ddn	4.g~	.
+.	.	.	[4G-
+.	.	[8a-~	.
+=6	=6	=6	=6
+2BBn~ 2B-	2aan	4a-]	8G-L]
+.	.	.	8G-J
+.	.	4.g~	4.G-
+4.En~ 4.e	4.ee-	.	.
+.	.	4.dd-~	8cnL
+.	.	.	(8c
+[8BBn~ [8B-X	8ccn)	.	[8enJ)
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
+!!!YEM:	Copyright © Natalie Dietterich

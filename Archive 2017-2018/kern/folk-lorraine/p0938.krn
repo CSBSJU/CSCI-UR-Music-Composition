@@ -1,0 +1,101 @@
+!!!OTL: Schönste Sch&auml;ferin (2-65) S. 199
+!!!id: P0938
+**kern
+*clefG2
+*k[f#]
+*D:
+{8f#
+8a
+=1
+8.a
+16f#
+8d
+8d
+8g
+8b
+=2
+4b
+4a}
+=3
+{8g
+8f#
+=4
+8f#
+8e
+8g
+8f#
+8e
+8d
+=5
+4d
+4A}
+=6
+{8g
+8a
+=7
+8b
+8b
+8b
+8b
+8.a
+16g
+=8
+2f#}
+=9
+{8b
+8g
+=10
+8f#
+8b
+4a
+8e
+8g
+=11
+16.f#
+32g
+8a
+16.g
+32a
+8b
+[4a
+=12
+2a]}
+=13
+{8b
+8g
+=14
+8f#
+8b
+4a
+8e
+8g
+=15
+2f#}
+==
+*-
+!!!minrhy: 32
+!!!meters: 3/4 ]  ZZ[5
+!!!cut: Schönste Sch&auml;ferin (2-65) S. 199
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X__X__  X__.X_X__X__X__X__  X___X___   (x2)
+!!!rhy2: X__X__  X__X__X__X__X__X__  X___X___
+!!!key: P0938  32  D 3/4 ]  ZZ[5
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 5-5353
+!!!akz: 56_31_63_335_33_
+!!!fot: 'a__b__as"c__cv_
+!!!for: 'a__b__c__d__dw_
+!!!fok: '~a_\__^d_Vd_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: ???
+!! LOTH VKL
+!! PR[31] 2K[4] 2G[10] 3K[1] 3G[4] 4A[4] 4Ü[0] 5A[0] 6K[1] 6G[4]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[29] ABS[72] SR[14] SP[15]
+!! ST[16] 2k[6] 2g[26] 3k[4] 3g[0] 4d[1] 4ü[0] 5d[0] 6k[0] 6g[1]
+!! 7k[0] 7g[0] 8d[1] mehr[0] si[40] dm[-11] sr[32] sp[8]
+!! 1F[12] 2F[66] 3F[4] 4F[6] LF[0] 2P[6] 3P[5] 4P[0] TRI[0] DF[6] AB[77]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[4] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[7] N2K[0] N2[4] N3K[0] N3[22] N4[12] N4Ü[0] N5[26] N6K[0] N6[12]
+!!!n7k: 0] N7[8] O1[4] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

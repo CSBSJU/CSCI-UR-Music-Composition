@@ -1,0 +1,118 @@
+!!!OTL: Zwei liebten sich (20b), S. 86
+!!!id: T0136
+**kern
+*clefG2
+*k[b-]
+*F:
+{8c
+8f
+8g
+=1
+4.a
+8a
+8g
+8f
+=2
+4g}
+8r
+=3
+{8c
+8c
+8b-
+=4
+4b-
+8r
+8b-
+8a
+8g
+=5
+4a}
+8r
+=6
+{8cc
+8cc
+8cc
+=7
+8.b-
+16a
+8g
+8cc
+8cc
+8cc
+=8
+8.a
+16g
+8f}
+=9
+{8a
+8g
+8g
+=10
+4f
+4dd
+8cc
+16cc
+16b-
+=11
+4a}
+8r
+=12
+{8cc
+8cc
+8cc
+=13
+8.b-
+16a
+8g
+8cc
+8cc
+8cc
+=14
+8.a
+16g
+8f}
+=15
+{8a
+8a
+8a
+=16
+4g
+8b-
+8dd
+8cc
+16cc
+16b-
+=17
+4a}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[6
+!!!cut: Zwei liebten sich (20b), S. 86
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_X_X_  X__.X_X_X_  X__0   (x2)
+!!!rhy2: X_X_X_  X__0X_X_X_  X__0
+!!!key: T0136  16  F 3/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 231313
+!!!akz: 32_43_43_13_43_23_
+!!!fot: 'a__as"b__c__b__d__
+!!!for: 'a__av_b__c__b__d__
+!!!fok: '/__/__\__S__\__^__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem1: Merzig, hhh Anton Koob (* 29.12.1843),
+!!!bem2: 1861 (Liederheft),
+!!!bem3: 11.2.1943 (m&uuml;ndlich)
+!! THILL, Mathias:
+!! PR[26] 2K[6] 2G[9] 3K[3] 3G[3] 4A[3] 4Ü[0] 5A[0] 6K[0] 6G[3]
+!! 7K[0] 7G[0] 8A[0] MEHR[3] SI[29] ABS[35] SR[14] SP[14]
+!! ST[13] 2k[11] 2g[29] 3k[0] 3g[0] 4d[6] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[46] dm[-17] sr[40] sp[6]
+!! 1F[57] 2F[35] 3F[0] 4F[0] LF[0] 2P[8] 3P[0] 4P[0] TRI[0] DF[3] AB[37]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[6] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[3] N2K[0] N2[11] N3K[0] N3[17] N4[19] N4Ü[0] N5[33] N6K[0] N6[11]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

@@ -1,0 +1,41 @@
+!!image-file:	451_original_image.tiff
+!!image-id:	m-fd937838-19cf-408f-a723-fe9c2447ffed
+!!system: 1, page 451
+**kern	**neume	**facs
+*clefC3	*	*
+d	punctum	295,470,276,426
+B	punctum	356,480,335,458
+d	virga	440,464,421,425
+(e	torculus	499,446,446,393
+f	.	.
+d)	.	.
+d.	punctum	564,446,532,426
+=||	=||	=||
+d	punctum	677,446,660,425
+d	punctum	729,445,711,425
+e	punctum	781,428,762,407
+d	punctum	831,445,813,425
+c	punctum	882,462,864,440
+(B	podatus	952,465,932,436
+c)	.	.
+=||	=||	=||
+!!system: 2, page 451
+*clefC4	*	*
+G	punctum	357,739,340,719
+G	punctum	408,739,390,719
+A	punctum	468,721,450,700
+(G.	clivis	549,768,499,719
+F)	.	.
+=||	=||	=||
+c	punctum	663,690,645,667
+c	punctum	714,690,696,667
+B	punctum	765,706,747,686
+c	punctum	816,690,797,669
+A	punctum	867,722,849,703
+G.	punctum	932,740,900,719
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=451
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

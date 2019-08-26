@@ -1,0 +1,15 @@
+!!!OTL: Editorial accidentals
+!!
+!! Step 1: Click on note.
+!! Step 2: Press "#" to make it sharp.
+!! Step 3: Press "i" to make it an editorial accidental.
+!! Step 4: Add the text "brackets" to RDF text line to change style.
+!! Step 5: Change the text to "parentheses" to change style.
+!!
+**kern
+*clefG2
+*M4/4
+=1
+1c
+==
+*-

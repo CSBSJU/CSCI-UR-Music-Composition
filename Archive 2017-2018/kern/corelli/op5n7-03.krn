@@ -1,0 +1,97 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 5, No. 7
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern
+*clefC	*clefG
+*k[]	*k[]
+*a:	*a:
+*M3/4	*M3/4
+=1	=1
+4d	4aa
+2D	4ff
+.	4dd
+=2	=2
+2G	2bb-
+4F	4aa
+=3	=3
+4C#	4gg
+4D	4.ff
+4GG	.
+.	8gg
+=4	=4
+2AA	2ee
+4D	4dd
+=5	=5
+4d	4aa
+2D	4ff
+.	4dd
+=6	=6
+4c	4ee
+2C	4aa
+.	4a
+=7	=7
+4B-	4.dd
+2BB-	.
+.	8cc#
+.	8dd
+.	8ee
+=8	=8
+2.AA	2.cc#
+=9	=9
+4F#	4aa
+4D	4.cc
+4F#	.
+.	8cc
+=10	=10
+4G	2cc
+2GG	.
+.	4b
+=11	=11
+4E	4gg
+4C	4.b-
+4E	.
+.	8b-
+=12	=12
+4F	2b-
+2FF	.
+.	4a
+=13	=13
+4F	4ff
+2G	4ee-
+.	4gg
+=14	=14
+4.A	4.cc#
+8G	8cc#
+4F	[4dd
+=15	=15
+4G	8dd]
+.	8ee
+4A	4.ee
+4AA	.
+.	8dd
+=16	=16
+2.D	2.dd
+==	==
+*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: 
+!!!AGN: violin
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 2501812247
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 2388506258

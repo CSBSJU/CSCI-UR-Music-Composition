@@ -1,0 +1,78 @@
+!!!OTL@@DE: Prinz Eugen
+!!!COM: Volkslied
+!!!ODT: 1717///-1745///
+!!!OMD: Nicht zu langsam und nachdr&uuml;cklich
+!!!LYR: Der Sage nach gedichtet von einem preussichen Krieger, der unter dem F&uuml;rsten von Dessau im Heere des Prinzen Eugen diente.
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+*>[A,B,B]	*>[A,B,B]	*>[A,B,B]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]
+*F:	*F:	*F:
+*M5/4	*M5/4	*M5/4
+*MM92	*MM92	*MM92
+8C/L	8c/L	8c/
+8C/J	8c/J	8c/
+=1	=1	=1
+4.FF/ 4.F/	4.A/ 4.c/ 4.f/	4.f/
+8AA/ 8F/	8c/ 8f/	8f/
+8AA\ 8F\L	8c/ 8f/L	8f/
+8C\ 8G\J	8c/ 8e/ 8g/J	8g/
+8F^\ 8A^\	8c^/ 8f^/ 8a^/	8a^/
+4F;\ 4A;\	4c;/ 4f;/ 4a;/	4a;/
+8r	8r	8r
+=2	=2	=2
+8AA\ 8F\L	8c/ 8f/L	8f/
+8C\ 8G\J	8c/ 8e/ 8g/J	8g/
+4F\ 4A\	4f/ 4a/	4a/
+4A\ 4c\	4a/ 4cc/	4cc\
+8A\ 8c\L	8a/ 8cc/L	8cc\
+8G\ 8B-\	8g/ 8b-/	8b-\
+8G\ 8B-\	8g/ 8b-/	8b-\
+8F\ 8A\J	8f/ 8a/J	8a/
+=3	=3	=3
+8C/ 8G/L	8e/ 8g/L	8g/
+8AA/ 8F/J	8c/ 8f/J	8f/
+8C\ 8G\L	8e/ 8g/L	8g/
+8F\ 8A\J	8f/ 8a/J	8a/
+8G\ 8B-\L	8g/ 8b-/L	8b-\
+8F\ 8A\J	8f/ 8a/J	8a/
+4.C;\ 4.G;\	4.e;/ 4.g;/	4.g;/
+8r	8r	8r
+=4!|:	=4!|:	=4!|:
+*>B	*>B	*>B
+8A\ 8c\L	8a/ 8cc/L	8cc\
+8G\ 8B-\J	8g/ 8b-/J	8b-\
+4F\ 4A\	4f/ 4a/	4a/
+4A\ 4c\	4a/ 4cc/	4cc\
+8B-\L	8f/ 8dd/L	8dd\
+8A\ 8c\	8f/ 8cc/	8cc\
+8G\ 8c\	8e/ 8b-/	8b-\
+8F\ 8c\J	8f/ 8a/J	8a/
+=5	=5	=5
+8C/L	8c/ 8e/ 8g/L	8g/
+8AA/J	8c/ 8f/J	8f/
+4C/	4c/ 4e/ 4g/	4g/
+4G\	4c/ 4e/ 4b-/	4b-\
+8A\L	8c/ 8f/ 8cc/L	8cc\
+8E\	8c/ 8g/ 8b-/	8b-\
+8F\	8c/ 8f/ 8a/	8a/
+8C\J	8B-/ 8e/ 8g/J	8g/
+=6	=6	=6
+8D\L	8A/ 8d/ 8f/L	8f/
+8D\J	8A/ 8d/ 8f/J	8f/
+4D\	4A/ 4d/ 4f/	4f/
+4AA/	4c/ 4f/ 4a/	4a/
+.	(aq/	.
+8C/L	8B-/ 8e/ 8g/L)	8g/
+8CC/J	8B-/ 8e/ 8g/J	8g/
+4FF;/	4A;/ 4c;/ 4f;/	4f;/
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/06/27/
+!!!EFL: 157/651

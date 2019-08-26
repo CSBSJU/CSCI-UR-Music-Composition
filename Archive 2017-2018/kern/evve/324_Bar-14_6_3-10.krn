@@ -1,0 +1,70 @@
+!!!COM:	Bartok
+!!!OTL:	Bar-14/6/3-10
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M3/4	*M3/4	*
+=1	=1	=1
+(4GG 4E#	2.r	p
+4CC	.	.
+[4GG [4E#	.	.
+=2	=2	=2
+4GG] 4E#]	2.r	.
+4CC	.	.
+[4GG [4E#	.	.
+=3	=3	=3
+4GG]) 4E#]	2ee~	.
+(4CC	.	.
+4GG 4E#	4ee~	.
+=4	=4	=4
+4CC	12ggL	.
+.	12ff	.
+.	12eeJ	.
+4FF 4D	8.ddL	.
+.	16cc#Jk	.
+4CC	8.ddL	.
+.	16eeJk	.
+=5	=5	=5
+4FF 4D-	12ffL	.
+.	12ee	.
+.	12ddJ	.
+4CC	8.cc#L	.
+.	16aJk	.
+4FF 4AA	8.b-L	.
+.	16ddJk	.
+=6	=6	=6
+!!linebreak:original
+4CC	16cc#LL	.
+.	16a	.
+.	16b-	.
+.	16ddJJ	.
+4EE# 4GG	2a	.
+4CC)	.	.
+=7	=7	=7
+(4BB 4E	2ee~	.
+4CC	.	.
+4AA# 4E	4ee~	.
+=8	=8	=8
+4CC	12ggL	.
+.	12ff	.
+.	12eeJ	.
+4AAn 4D-	8.ddL	.
+.	16cc#Jk	.
+4CC	8.ddL	.
+.	16eeJk	.
+=9	=9	=9
+4GG 4C	12ffL	.
+.	12ee	.
+.	12ddJ	.
+4CC	8.cc#L	.
+.	16aJk	.
+4FF) 4BB	8.b-L	.
+.	16ddJk	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM:	Copyright © Natalie Dietterich

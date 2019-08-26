@@ -1,0 +1,33 @@
+!!!OTL: Editing accidentals graphically
+!!
+!! Step 1: Click on a note.
+!! Step 2: Press "#" to make it sharp.
+!! Step 3: Press "-" to make it flat.
+!! Step 4: Press "-" to remove flat.
+!! Step 5: Press esc to stop editing pitches.
+!!
+**kern
+*M4/4
+*k[f#]
+=1
+2g
+2f#
+=
+2f#
+2g
+=
+4a
+4a
+4b
+4b
+=
+8ccL
+8bJ
+8ddL
+8ccJ
+8bL
+8aJ
+8f#L
+8gJ
+=
+*-

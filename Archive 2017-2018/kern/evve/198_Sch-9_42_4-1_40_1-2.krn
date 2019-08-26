@@ -1,0 +1,28 @@
+!!!COM:	Schoenberg
+!!!OTL:	Sch-9/42/4-1[40]1-2
+**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part11	*part10	*part9	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff11	*staff10	*staff9	*	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*I"Viola	*	*I"Violin II	*I"Violin I	*I"Horn in F	*I"Contrabassoon	*I"Bassoon	*I"Clarinet in Bb	*I"Cor Anglais	*I"Oboe
+*I'Cb.	*I'Vc.	*I'Vla.	*	*I'Vln. II	*I'Vln. I	*I'Hn.	*I'Cbsn.	*I'Bsn.	*I'Cl.	*I'C. A.	*I'Ob.
+*clefF4	*clefF4	*clefC3	*	*clefG2	*clefG2	*clefG2	*clefF4	*clefF4	*clefG2	*clefG2	*clefG2
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4EE-X	4.GG	8r	.	2.d-	4r	4BB-X 4B-X	4GGG	4E-X	2.d-t	4B-X	4B-X
+.	.	8e'L	p	.	.	.	.	.	.	.	.
+4r	.	8f'	.	.	8r	4r	4r	4r	.	4r	4r
+.	8D- 8A-X	8e'J	.	.	8b-'	.	.	.	.	.	.
+4GGG	[4GG	4a-	.	.	8cc-'L	4r	4r	4r	.	4r	4r
+.	.	.	.	.	8b-'J	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4r	8GGL]	8r	.	2.d-	4ee-X	2.r	2.r	2.r	2.d-	2.r	2.r
+.	8D-J 8A-	8e-X'	.	.	.	.	.	.	.	.	.
+4GGG	4.GG	8f'L	.	.	8r	.	.	.	.	.	.
+.	.	8e-'J	.	.	8b'	.	.	.	.	.	.
+4r	.	4g	.	.	8ccn'L	.	.	.	.	.	.
+.	8D- 8B-X	.	.	.	8b'J	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)]s6[(s7,s8,s9,s10,s11)]
+!!!YEM:	Copyright © Natalie Dietterich

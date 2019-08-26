@@ -1,0 +1,55 @@
+!!!OTL: Old Brass Wagon
+!!!ARE: United States of America
+!!!ONB: American Singing Game
+!!!AMD: Pentatonic
+**kern
+=1-
+*clefG2
+*k[f#]
+*M2/4
+*MM132
+{16g/LL
+16g/
+16g/
+16g/JJ
+8.g'/L
+16d/Jk
+=2
+8g/L
+8g/J
+8e/L
+8d/J}
+=3
+{16a/LL
+16a/
+16a/
+16a/JJ
+8.a/L
+16a/Jk
+=4
+8d/L
+8d/J
+8e/L
+8g/J}
+=5
+{16b/LL
+16b/
+16b/
+16b/JJ
+8.b/L
+16g/Jk
+=6
+8a/L
+8g/J
+8e/L
+8g/J}
+=7
+{8.a/L
+16b/Jk
+8d/L
+8e/J
+=8
+4g/
+4g/}
+==
+*-

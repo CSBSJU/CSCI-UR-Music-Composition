@@ -1,0 +1,77 @@
+!!!COM:	Varese
+!!!OTL:	426_Var-4/17/[1]5-10
+**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern
+*part7	*part6	*part5	*part4	*part3	*part2	*part2	*part1
+*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*	*staff1
+*I"Contrabass	*I"Trumpet in C	*I"Horn in F	*I"Bassoon	*I"Oboe	*I"Clarinet in Eb	*	*I"Flute
+*I'Cb.	*I'C Tpt.	*I'Hn.	*I'Bsn.	*I'Ob.	*I'Eb Cl.	*	*I'Fl.
+*clefF4	*clefG2	*clefG2	*clefC4	*clefG2	*clefG2	*	*clefG2
+*k[]	*k[]	*	*k[]	*k[]	*k[]	*	*k[]
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1
+1r	1r	1r	16G#KL	8aL	1r	.	1r
+.	.	.	8B-^	.	.	.	.
+.	.	.	.	8ee-J	.	.	.
+.	.	.	[16bn^Jk	.	.	.	.
+.	.	.	2b_	12eeL	.	.	.
+.	.	.	.	(12f	.	.	.
+.	.	.	.	[12dd#J)	.	.	.
+.	.	.	.	4dd#	.	.	.
+.	.	.	8bL]	8f#L	.	.	.
+.	.	.	8cn^J	8cc#J	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4
+2.r	2.r	2.r	16g'KL	8dd#L	2.r	.	2.r
+.	.	.	8.g^J	.	.	.	.
+.	.	.	.	16eeL	.	.	.
+.	.	.	.	16fJJ	.	.	.
+.	.	.	12c^L	[2g#	.	.	.
+.	.	.	12b	.	.	.	.
+.	.	.	(8qb	.	.	.	.
+.	.	.	12g^J)	.	.	.	.
+.	.	.	8f#^L	.	.	.	.
+.	.	.	8a^J	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4
+1r	1r	1r	[2.b	2g#_	4r	.	1r
+.	.	.	.	.	24cc'LL	ff	.
+.	.	.	.	.	24dd-'	.	.
+.	.	.	.	.	24cc'J	.	.
+.	.	.	.	.	8cc^J	.	.
+.	.	.	.	6g#]	24cc'LL	.	.
+.	.	.	.	.	24dd-'	.	.
+.	.	.	.	.	24cc'J	.	.
+.	.	.	.	.	8cc^J	.	.
+.	.	.	.	6b-	.	.	.
+.	.	.	8bL]	.	16r	.	.
+.	.	.	.	.	8.cc^	.	.
+.	.	.	.	[6dd	.	.	.
+.	.	.	[8c#^J	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+!!linebreak:original
+1r	1r	1r	8c#L]	4dd	1r	.	1r
+.	.	.	8d#J	.	.	.	.
+.	.	.	12g#L	4r	.	.	.
+.	.	.	12B-	.	.	.	.
+.	.	.	[12g#J	.	.	.	.
+.	.	.	4g#	2r	.	.	.
+.	.	.	4Gn	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4
+2.r	2.r	2.r	8fnL	2.r	2.r	.	2.r
+.	.	.	8cnJ	.	.	.	.
+.	.	.	4B	.	.	.	.
+.	.	.	(4e-	.	.	.	.
+*	*	*	*clefF4	*	*	*	*
+=6	=6	=6	=6	=6	=6	=6	=6
+4r	8r	8r	2.Dn)	2.r	2.r	.	2.r
+.	[8g^	[8dd#^	.	.	.	.	.
+(16EEKL	2g_	2dd#_	.	.	.	.	.
+[8.AA#^J)	.	.	.	.	.	.	.
+16AA#KL]	.	.	.	.	.	.	.
+8EE^	.	.	.	.	.	.	.
+[16AA#Jk	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)]s7
+!!!YEM:	Copyright © Natalie Dietterich

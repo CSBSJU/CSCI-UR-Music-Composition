@@ -1,0 +1,89 @@
+!!!OTL: Der Ackermann, S. 16
+!!!id: L0013
+**kern
+*clefG2
+*k[b-e-]
+*g:
+{4g
+=1
+4dd
+4dd
+4dd
+=2
+4ee-
+4dd
+4cc
+=3
+2dd
+4cc
+=4
+2b-}
+=5
+{4b-
+=6
+2cc
+4dd
+=7
+4ee-
+4dd
+4cc
+=8
+4b-
+4g
+4a
+=9
+2g}
+4r
+=10
+{2.cc
+=11
+4b-
+4a
+4g
+=12
+[2.f
+=13
+2f]}
+4r
+=14
+{4cc
+4b-
+4cc
+=15
+2dd
+4cc
+=16
+4b-
+4g
+4a
+=17
+2g}
+4r
+==
+*-
+!!!minrhy: 4
+!!!meters: 3/4 ]  ZZ[4
+!!!cut: Der Ackermann, S. 16
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1: X  XXX  XXX  X_X  X_
+!!!rhy2: X  X_X  XXX  XXX  X_0
+!!!key: L0013  04  G 3/4 ]  ZZ[4
+!!!mod: HEPTATONIK AEOLISCH]  AMBITUS[7b
+!!!kad: 3b1-7b1
+!!!akz: 56b53b_46b3b1_43b-7b-7b_453b1_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__c__d__
+!!!fok: '^a_^d_\__\__
+!! PHRAS[GEMISCHTTAKTIG]
+!!!fkt: geistliches, religiöses Lied
+!! FONTAINE, Ed.:
+!! PR[6] 2K[10] 2G[25] 3K[3] 3G[3] 4A[3] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[45] ABS[67] SR[36] SP[9]
+!! ST[21] 2k[12] 2g[28] 3k[3] 3g[3] 4d[1] 4ü[0] 5d[1] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[49] dm[-4] sr[40] sp[9]
+!! 1F[11] 2F[40] 3F[22] 4F[4] LF[0] 2P[3] 3P[11] 4P[0] TRI[0] DF[7] AB[72]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[1] U6K[0] U6[0] U7K[0] U7[1]
+!! N1[16] N2K[0] N2[25] N3K[0] N3[31] N4[15] N4Ü[0] N5[9] N6K[0] N6[1]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

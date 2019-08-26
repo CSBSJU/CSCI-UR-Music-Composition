@@ -1,0 +1,119 @@
+!!!OTL: Toujours la la (277), S. 589
+!!!id: T0467
+**kern
+*clefG2
+*k[]
+*G:
+{8d
+8d
+=1
+4g
+4g
+8b
+8b
+=2
+4g
+4g}
+=3
+{4a
+=4
+4a
+4a
+8b
+8a
+=5
+4g
+4g}
+=6
+{8d
+8d
+=7
+4g
+4g
+8b
+8b
+=8
+4g
+4g}
+=9
+{8b
+8b
+=10
+4a
+4a
+4dd
+=11
+4b}
+4r
+=12
+{4dd
+=13
+8b
+8b
+4b}
+=14
+{4dd
+=15
+8b
+8b
+4b}
+=16
+{4dd
+=17
+4dd
+4cc
+4ee
+=18
+4ee
+4dd}
+=19
+{4dd
+=20
+8b
+8b
+4b}
+=21
+{4dd
+=22
+8b
+8b
+4b}
+=23
+{4dd
+=24
+4dd
+4cc
+8dd
+8cc
+=25
+4b}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 ]  ZZ[10
+!!!cut: Toujours la la (277), S. 589
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette, 1937 posth.
+!!!rhy1: XX  X_X_XX  X_X_
+!!!rhy2: X_  X_X_XX  X_X_
+!!!key: T0467  08  G 3/4 ]  ZZ[10
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 1113335333
+!!!akz: 11_21_11_23_3_3_56_3_3_53_
+!!!fot: 'a__b__a__c__d__d__bs"d__d__e__
+!!!for: 'a__av_a__b__c__c__bw_c__c__aw_
+!!!fok: '^a_\__^a_^__\__\__-__\__\__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: ???, Abz&auml;hllied
+!!!bem: Blascheid, hhh Nikolaus Perl, 1902
+!! THILL; Mathias
+!! PR[39] 2K[3] 2G[11] 3K[6] 3G[3] 4A[6] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[31] ABS[36] SR[14] SP[17]
+!! ST[12] 2k[6] 2g[11] 3k[6] 3g[6] 4d[0] 4ü[0] 5d[3] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[31] dm[0] sr[17] sp[14]
+!! 1F[82] 2F[13] 3F[0] 4F[0] LF[0] 2P[5] 3P[0] 4P[0] TRI[0] DF[3] AB[39]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[3]
+!! N1[16] N2K[0] N2[16] N3K[0] N3[16] N4[14] N4Ü[0] N5[22] N6K[0] N6[11]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

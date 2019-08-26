@@ -1,0 +1,73 @@
+!!!OTL: Kommst du nit hurtig heraus in unsere Mitt'?, S. 19
+!!!id: S0067
+**kern
+*clefG2
+*k[b-]
+*F:
+{16f
+=1
+16f
+8.cc
+16a
+4a
+=2
+8.cc
+16a
+4a
+=3
+8b-
+16b-
+16b-
+8b-
+8b-
+=4
+8cc
+16cc
+16cc
+8cc}
+8r
+=5
+{8cc
+16a
+16a
+4a
+=6
+8.cc
+16a
+4a
+=7
+8g
+8g
+8cc
+8b-
+=8
+4a}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[2
+!!!cut: Kommst du nit hurtig heraus in unsere Mitt'?, S. 19
+!!!reg: Luxemburg
+!!!trd: Die Bauernhochzeit in fr&uuml;heren Zeiten
+!!!rhy1:   X_.XX__  X_.XX__  X_XXX_X_  X_XXX_0_
+!!!rhy2: X_XXX__  X_.XX__  X_X_X_X_  X__0__ // 
+!!!key: S0067  16  F 2/4 ]  ZZ[2
+!!!mod: VIERTONSKALA ]  AMBITUS[4
+!!!kad: 53
+!!!akz: 5545_5523_
+!!!fot: 'a__b__
+!!!for: 'a__b__
+!!!fok: 'V__\__
+!! PHRAS[VOLLTAKTIG]
+!!!fkt: Brautlied
+!! SPEDENER, G:
+!! PR[8] 2K[17] 2G[33] 3K[0] 3G[0] 4A[8] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[58] ABS[12] SR[50] SP[8]
+!! ST[4] 2k[8] 2g[25] 3k[0] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[33] dm[+25] sr[33] sp[0]
+!! 1F[21] 2F[43] 3F[14] 4F[0] LF[0] 2P[21] 3P[0] 4P[0] TRI[0] DF[4] AB[14]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[0] N3K[0] N3[8] N4[8] N4Ü[0] N5[15] N6K[0] N6[23]
+!!!n7k: 0] N7[15] O1[23] O2K[0] O2[8] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

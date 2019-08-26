@@ -1,0 +1,139 @@
+!!!OTL@ENG: One of Them Will Be Killed
+!!!ONM: 168
+**kern
+*Imale
+*clefF4
+*M2/4
+*MM104
+*>[A,B,B]
+*>norep[A,B]
+*>A
+8e
+8e
+=1
+4.e
+8d
+=2
+4c
+8A
+8A
+=3||
+*M3/4
+2.A
+=4
+4c
+8d
+8c
+4A
+=5||
+*M2/4
+4G
+8A
+8G
+=6
+4.E
+8D
+=7
+4C
+8D
+8C
+=8||
+*M3/4
+2.AA
+=9
+2E
+4D
+=10||
+*M2/4
+4C
+8D
+8C
+=11
+4AA
+8AA
+8AA
+=12
+2AA
+=13||
+*M3/4
+[2AA
+8AA]
+*>B
+=!|:
+8c
+=14||
+*M2/4
+8.A
+16A
+4A
+=15||
+*M3/4
+4c
+8.c
+16e
+4A
+=16||
+*M2/4
+4G
+(8A
+8E)
+=17
+8.E
+16E
+4E
+=18
+4C
+(8D
+8AA)
+=19
+8.AA
+16AA
+4AA
+=20
+4AA
+4E
+=21
+8.E
+16E
+4D
+=22
+8.C
+16C
+12D
+12D
+12D
+=23||
+*M3/4
+8.AA
+16AA
+2AA
+=24
+2AA
+8AA
+==:|!
+*-
+!!!CNT: Native American -- Sioux
+!!!MRD: 1911/07//-1914///
+!!!OCL: Frances Densmore
+!!!YOR1: Teton Sioux Music, Bulletin 61,
+!!!YOR2: Bureau of American Ethnology, Smithsonian Institution
+!!!PPR: Government Printing Office
+!!!PPP: Washington, D.C.
+!!!PDT: 1918///
+!!!ENC: Craig Stuart Sapp
+!!!END: 2002/03/25/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2002/03/31/
+!!!YEC: 2002 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux168.krn
+!!!title: @{ONM}. <i>@{OTL}</i>
+!!!AGN: War Song/Song of Personal Narrative Concerning War
+!!!MPN@@SIO: Wangbli'-waha'chungka
+!!!MPN@ENG: Eagle Shield
+!!!TXO: Teton Sioux
+!!!MLC: Standing Rock Reservation, South Dakota, United States of America
+!!!ARL: 45.9/-100.7#
+!!!catalog: Catalogue No. 521
+!!!PPG: 400
+!!!EFL: 173/245

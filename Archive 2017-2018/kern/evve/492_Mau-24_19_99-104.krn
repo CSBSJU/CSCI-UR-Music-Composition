@@ -1,0 +1,52 @@
+!!!COM:	Martinu
+!!!OTL:	Mau-24/19/99-104
+**kern	**kern	**dynam	**kern	**kern
+*part3	*part3	*part3	*part2	*part1
+*staff4	*staff3	*	*staff2	*staff1
+*I"Piano	*	*	*I"Violoncello	*I"Violin
+*I'Pno.	*	*	*I'Vc.	*I'Vln.
+*clefF4	*clefG2	*	*clefF4	*clefG2
+*k[]	*k[]	*	*k[]	*k[]
+*M4/4	*M4/4	*	*M4/4	*M4/4
+=1	=1	=1	=1	=1
+8d'	8.ddd	f	(4F#	(4ddd
+8r	.	.	.	.
+.	16r	.	.	.
+*clefG2	*	*	*	*
+*	*8va	*	*	*
+4g' 4b-	4bb-' 4ddd 4bbb-	f	2d)	2bbb-)
+4B-'	4gg' 4bb 4ggg	.	.	.
+4e-' 4g	4een' 4gg# 4eeen	<	(4F	(4ccc#
+*clefF4	*	*	*	*
+=2	=2	=2	=2	=2
+4G'	4aa' 4ccc# 4aaa	[	2d-)	2aaa-)
+4c#' 4e	4ff#' 4aa 4fff#	.	.	.
+4E'	4ddn' 4ff 4aan 4dddn	<	(4E	(4cccn
+4B-' 4d	4aa-' 4ccc- 4aaa-	.	4c)	4aaa-)
+=3	=3	=3	=3	=3
+4C#'	4een' 4gg# 4eeen	<	(4Bn	(4een
+4G#' 4Bn	4cc#' 4ee 4ccc#	.	2g)	2ccc#)
+4F#'	4ff#' 4aa 4fff#	.	.	.
+4B' 4dn	4dd' 4ff 4ddd	<	(4f	(4dd
+*	*X8va	*	*	*
+=4	=4	=4	=4	=4
+4E'	4b' 4dd 4bb	[	2a-)	2bb)
+*clefG2	*	*	*	*
+4d-' 4f	4ff' 4ddd- 4fff	.	.	.
+4d' 4f#	4cc#' 4aa 4ccc#	<	(4f#	(4cc#
+4e-' 4g	4a' 4ffn 4aa	.	4a-)	4aa)
+*	*	*	*clefG2	*
+=5	=5	=5	=5	=5
+4c' 4e	4ee' 4cccn 4eee	[	(4g	(4b
+4d-' 4fn	4cc' 4aa- 4ccc	.	2dd)	2fn)
+4d' 4f#	4g#' 4ee 4gg#	.	.	.
+4B' 4d#	4dd#' 4bb 4ddd#	.	(4d#	(4g
+=6	=6	=6	=6	=6
+4c' 4e	4b' 4gg 4bb	.	2b)	2d)
+4d-' 4f	4g' 4ee- 4gg	.	.	.
+4d' 4f#	4e' 4cc 4ee	.	(4c#	(4e
+4e-' 4g	4c#' 4a 4cc#	.	[4a)	[4c#)
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)]{(s3,s4)}
+!!!YEM:	Copyright © Natalie Dietterich

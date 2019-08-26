@@ -1,0 +1,117 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/3//-1750/7/28/
+!!!OTL@@DE: Freu' dich sehr, O meine Seele
+!!!AGN: 4-Part Chorale
+!!!SCT: BH 282
+!!!SCT: BWV 25
+!!!YEC: Copyright 1994, David Huron
+!!!YEC: Changes/Additions 2001 by Craig Stuart Sapp
+!!!YEN: United States of America
+!!!SMA: 371 Bach Chorales, edited by Ludwig Erk, C.F. Peters
+!!!PDT: 1850, 1865
+!!!ONB: Harmony and Root analysis done manually
+**harm	**root	**kern	**kern	**kern	**kern
+!	!	!bass	!tenor	!alto	!soprno
+*	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*C:	*C:	*C:	*C:	*C:	*C:
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A	*>A	*>A	*>A
+=1-	=1-	=1-	=1-	=1-	=1-
+I	4CC	4C	4e	4g	4cc
+V	4GG	4G	4B	4g	4dd
+I	4CC	4c	4c	4g	4ee
+Vb	4GG	4B	4d	4g	4dd
+=2	=2	=2	=2	=2	=2
+vi	4AA	4A	8e	4a	4cc
+.	.	.	8f#	.	.
+V	4GG	4G	4g	4d	4b
+V/V	4DD	4D	8g	4d	4a
+.	.	.	8f#	.	.
+V;	4GG;	4G;	4B;	4d;	4g;
+=3	=3	=3	=3	=3	=3
+Ib	4CC	4E	4c	4g	4cc
+ii	4DD	4D	4fn	8a	4dd
+.	.	.	.	8b	.
+I	4CC	4C	8g	8cc	4ee
+.	.	.	8c	8g	.
+Vb	4GG	4BB	[4d	4g	8dd
+.	.	.	.	.	16ee
+.	.	.	.	.	16ff
+=4	=4	=4	=4	=4	=4
+I	4CC	4C	8d]	4g	4ee
+.	.	.	8c	.	.
+V	4GG	4GG	8c	4g	8.dd
+.	.	.	8B	.	.
+.	.	.	.	.	16cc
+I;	2CC;	2C;	2e;	2g;	2cc;
+*>B	*>B	*>B	*>B	*>B	*>B
+=5:|!	=5:|!	=5:|!	=5:|!	=5:|!	=5:|!
+I	4CC	4c	4c	4g	4ee
+IVb	4FF	4A	4c	8a	4ff
+.	.	.	.	16b-	.
+.	.	.	.	16cc	.
+I7b	4CC	4E	4c	4b-	4gg
+IV	4FF	4F	8c	4a	4ff
+.	.	.	8d	.	.
+=6	=6	=6	=6	=6	=6
+V7b/ii	4AA	4C#	8e	4g	4ee
+.	.	.	8A	.	.
+ii	4DD	4D	8A	8f	4dd
+.	.	.	8B	16a	.
+.	.	.	.	16g#	.
+VI;	2AA;	2AA;	2c#;	2a;	2ee;
+!!linebreak: 2
+=7	=7	=7	=7	=7	=7
+Ib	4CC	4E	8cn	4gn	4gg
+.	.	.	8d	.	.
+I	4CC	4C	4e	4cc	4gg
+IV	4FF	4F	8f	4cc	4aa
+.	.	.	8e	.	.
+V	4GG	4G	4d	4b	4gg
+=8	=8	=8	=8	=8	=8
+IVb	4FF	8A	4c	4a	4ff
+.	.	8B	.	.	.
+I	4CC	4c	4c	8g	4ee
+.	.	.	.	8f#	.
+V;	2GG;	2G;	2B;	2g;	2dd;
+=9	=9	=9	=9	=9	=9
+I	4CC	4c	8c	4g	4ee
+.	.	.	8d	.	.
+I	4CC	4C	4e	8cc	4gg
+.	.	.	.	8b	.
+ii	4DD	4D	4f	8a	4ff
+.	.	.	.	8b	.
+Ib	4CC	4E	8g	4cc	8ee
+.	.	.	8G	.	8dd
+=10	=10	=10	=10	=10	=10
+IV7	4FF	4F	8A	4a	4cc
+.	.	.	8e	.	.
+Vb/V	4DD	4F#	8d	4a	4dd
+.	.	.	8c	.	.
+iiib	4EE	4G	2B	4b	2ee
+Vb/vi	4EE	4G#	.	4e	.
+=11	=11	=11	=11	=11	=11
+vi;	2AA;	2A;	2A;	2e;	2cc;
+iiiob	4EE	4Gn	4B-	8g	4ee
+.	.	.	.	8a	.
+V7/IV	4CC	4C	4E	4b-	4gg
+=12	=12	=12	=12	=12	=12
+ii	4DD	4D	4F	8a	4ff
+.	.	.	.	8bn	.
+Ib	4CC	8E	8G	4cc	4ee
+.	.	8F	8A	.	.
+V	4GG	8G	4B	4g	4dd
+.	.	8F	.	.	.
+Ib	4CC	8E	4c	4g	4cc
+.	.	8C	.	.	.
+=13	=13	=13	=13	=13	=13
+V	2GG	2GG	4c	2g	2dd
+.	.	.	4B	.	.
+I;	2CC;	2C;	2e;	2g;	2cc;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

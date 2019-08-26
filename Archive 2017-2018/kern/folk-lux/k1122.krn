@@ -1,0 +1,159 @@
+!!!OTL: Altes Mˆbel (2-38), S. 99f
+!!!id: K1122
+**kern	**text
+*clefG2	*clefG2
+*k[f#]	*k[f#]
+*G:	*G:
+*M2/4	*M2/4
+{8g	{Wenn
+8g	ich
+8d	nur
+8d	ein
+=2	=2
+8e	M&auml;d-
+8e	-chen
+8d	H&auml;t-
+8d	-te,
+=3	=3
+8c	das
+8c	mir
+8B	recht
+8B	ge-
+=4	=4
+8d	-wo-
+8d	-gen
+4A}	w&auml;r!}
+=5yy	=5yy
+{8g	{W&uuml;&szlig;t
+8g	ich
+8d	dann
+8d	wohl,
+=6	=6
+8e	was
+8e	ich
+8d	t&auml;-
+8d	-te,
+=7	=7
+8c	denn
+8c	mir
+8B	f&auml;llt
+8B	das
+=8	=8
+8d	Le-
+8d	-ben
+4A}	schwer!}
+=9yy	=9yy
+{8g	{Ja,
+8g	ich
+8a	mˆcht
+8a	so
+=10	=10
+8b	ger-
+8g	-ne
+8a	frei-
+8a	-en
+=11	=11
+8g	und
+8g	ge-
+8a	-seh
+8a	mir
+=12	=12
+8b	kei-
+8g	-nes;
+4a}	|}
+=13yy	=13yy
+{8g	{kommt
+8g	ich
+8dd	will
+8dd	euch
+=14	=14
+8ee	al-
+8ee	-les
+8dd	wei-
+8dd	-sen,
+=15	=15
+8cc	denn
+8cc	ich
+8b	bin
+8a	ein
+=16	=16
+8cc	bra-
+8cc	-ver
+8b	Mann!
+8g	|
+=17	=17
+8a	|
+8f#	|*
+4g}	|}
+=18yy	=18yy
+{8.g	{Tra-
+16a	-de-
+8b	-ri-
+8g	-di-
+=19	=19
+8e	-ra-
+8e	-la-
+4e	-la,
+=20	=20
+8.a	tra-
+16b	-de-
+8cc	-ri-
+8a	-di-
+=21	=21
+8g	-ra-
+8b	-la-
+4dd}	-la,}
+=22yy	=22yy
+{8.cc	{Tra-
+16dd	-de-
+8ee	-ri-
+8cc	-di-
+=23	=23
+8b	-ra-
+8cc	-la-
+4dd	-la,
+=24	=24
+8.a	tra-
+16b	-de-
+8cc	-ri-
+8f#	-di-
+=25	=25
+2g}	-ra-}
+==	==
+*-	*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[6
+!!!cut: Altes Mˆbel (2-38), S. 99f
+!! PR[31] 2K[6] 2G[19] 3K[4] 3G[1] 4A[1] 4ö[0] 5A[1] 6K[0] 6G[0]
+!! 7K[2] 7G[0] 8A[0] MEHR[0] SI[35] ABS[89] SR[25] SP[10]
+!! ST[25] 2k[6] 2g[12] 3k[3] 3g[6] 4d[6] 4Å[1] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[34] dm[+1] sr[18] sp[16]
+!! 1F[4] 2F[82] 3F[8] 4F[1] LF[0] 2P[4] 3P[0] 4P[0] TRI[0] DF[5] AB[90]
+!! TF[2] U3K[0] U3[4] U4[4] U4ö[0] U5[13] U6K[0] U6[8] U7K[0] U7[2]
+!! N1[20] N2K[0] N2[14] N3K[0] N3[10] N4[10] N4ö[0] N5[8] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] Hô[0
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 2, Luxemburg 1927
+!!!rhy1: X_X_X_X_  X_X_X_X_  X_X_X_X_  X_X_X__   (x2)
+!!!rhy2: X_X_X_X_  X_X_X_X_  X_X_X_X_  X_X_X__
+!!!key: K1122  16  G 2/4 ]  ZZ[6
+!!!mod: HEPTATONIK  IONISCH]  AMBITUS[12
+!!!kad: -2-22151
+!!!akz: 1-6-4-5_1-6-4-5_1313_16442_1-621_4321_
+!!!fot: 'a__a__b__c__d__e__
+!!!for: 'a__a__a__aw_b__bw_
+!!!fok: '\__\__/__^__$a_Md_
+!! PHRAS[VOLLTAKTIG]
+!! KINTZELE
+!! PR[46] 2K[5] 2G[10] 3K[5] 3G[3] 4A[3] 4‹[0] 5A[0] 6K[0] 6G[0]
+!! 7K[3] 7G[0] 8A[0] MEHR[0] SI[28] ABS[39] SR[15] SP[13]
+!! ST[8] 2k[3] 2g[10] 3k[8] 3g[3] 4d[0] 4¸[0] 5d[0] 6k[3] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[26] dm[+2] sr[13] sp[13]
+!! 1F[20] 2F[59] 3F[20] 4F[2] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[4] AB[41]
+!! TF[3] U3K[0] U3[3] U4[5] U4‹[0] U5[23] U6K[0] U6[23] U7K[0] U7[10]
+!! N1[23] N2K[0] N2[8] N3K[0] N3[5] N4[0] N4‹[0] N5[0] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] Hô[0
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: √ü)
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: ≈Ñ)
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: √º)
+!!!RWG: Lyric placement mismatch in phrase (too many syllables) 1 [K1122]

@@ -1,0 +1,83 @@
+!!!OTL: Es zogen drei Burschen wohl &uuml;ber den Rhein (3-9), S. 25
+!!!id: K1146
+**kern
+*clefG2
+*k[]
+*C:
+{4c
+=1
+4.c
+8e
+4g
+=2
+4.cc
+8b
+4a
+=3
+4.a
+8g
+4g
+=4
+2e}
+=5
+{4g
+=6
+4.g
+8f
+4f
+=7
+4.d
+8e
+4f
+=8
+4.a
+8g
+4g
+=9
+4.e}
+8r
+=10
+{4c
+=11
+4.c
+8e
+4g
+=12
+4.ee
+8dd
+4cc
+=13
+4.dd
+8cc
+4b
+=14
+2cc}
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 ]  ZZ[3
+!!!cut: Es zogen drei Burschen wohl &uuml;ber den Rhein (3-9), S. 25
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 3 Luxemburg 1928
+!!!rhy1: X_  X_.XX_  X_.XX_  X_.XX_  X__
+!!!rhy2: X_  X_.XX_  X_.XX_  X_.XX_  X_.0
+!!!key: K1146  08  C 3/4 ]  ZZ[3
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[10
+!!!kad: 33+1
+!!!akz: 1+163_5263_1+3+2+1_
+!!!fot: 'a__b__c__
+!!!for: 'a__av_a__
+!!!fok: '^a_Sd_^a_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: ???
+!!!bem: in der Quelle mit einer 2. Stimme versehen
+!! KINTZELE
+!! PR[27] 2K[5] 2G[16] 3K[0] 3G[0] 4A[9] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[31] ABS[55] SR[22] SP[9]
+!! ST[16] 2k[7] 2g[24] 3k[7] 3g[4] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[42] dm[-11] sr[31] sp[11]
+!! 1F[22] 2F[58] 3F[19] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[4] AB[59]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[9] U6K[0] U6[4] U7K[0] U7[11]
+!! N1[25] N2K[0] N2[23] N3K[0] N3[20] N4[4] N4Ü[0] N5[5] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

@@ -1,0 +1,82 @@
+!!!OTL: Holvinger M&auml;dchen (2-81) S. 239
+!!!id: P0953
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+=1
+4g
+4f#
+=2
+4g
+8a}
+=3
+{8g
+=4
+8b
+8g
+8dd
+8b
+=5
+4.a}
+8r
+=6
+{4a
+8dd
+8cc
+=7
+8b
+8a
+8g
+8e
+=8
+4.d}
+8r
+=9
+{4g
+4a
+=10
+4b
+8b
+8b
+=11
+4a}
+=12
+{4b
+=13
+8dd
+8cc
+8b
+8a
+=14
+4.g}
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[5
+!!!cut: Holvinger M&auml;dchen (2-81) S. 239
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X  X_X_  X_X
+!!!rhy2: X  XXXX  X_.0
+!!!key: P0953  08  G 2/4 ]  ZZ[5
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 22-521
+!!!akz: 11_32_23-5_132_51_
+!!!fot: 'a__b__c__d__e__
+!!!for: 'a__b__c__aw_bv_
+!!!fok: '/__^a_^d_/__^d_
+!! PHRAS[GEMISCHTTAKTIG]
+!!!fkt: ???
+!!!bem: Tochter will von zuhause mit Reiter weg
+!! LOTH VKL
+!! PR[19] 2K[0] 2G[13] 3K[3] 3G[3] 4A[10] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[29] ABS[31] SR[13] SP[16]
+!! ST[6] 2k[13] 2g[35] 3k[0] 3g[3] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[52] dm[-23] sr[48] sp[3]
+!! 1F[53] 2F[44] 3F[0] 4F[0] LF[0] 2P[3] 3P[0] 4P[0] TRI[0] DF[3] AB[32]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[9] U6K[0] U6[9] U7K[0] U7[9]
+!! N1[34] N2K[0] N2[16] N3K[0] N3[16] N4[3] N4Ü[0] N5[3] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

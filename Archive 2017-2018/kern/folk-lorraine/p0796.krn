@@ -1,0 +1,111 @@
+!!!OTL: Es war einmal ein M&auml;dchen (Band 1), S. 66
+!!!id: P0796
+**kern
+*clefG2
+*k[]
+*a:
+{8e
+=1
+8a
+8b
+8cc
+8b
+=2
+4a
+8g}
+=3
+{8g
+=4
+8a
+8b
+8cc
+8a
+=5
+4b}
+8r
+=6
+{16a
+16b
+=7
+8cc
+8cc
+8dd
+8dd
+=8
+8ee
+8r
+8dd
+8r
+=9
+8cc
+8b
+8a}
+=10
+{8b
+=11
+16cc
+16cc
+16cc
+16cc
+8b
+8b
+=12
+4a}
+8r
+=13
+{16a
+16b
+=14
+8cc
+8cc
+8dd
+8dd
+=15
+8ee
+8r
+8dd
+8r
+=16
+8cc
+8b
+8a}
+=17
+{8b
+=18
+16cc
+16cc
+16cc
+16cc
+8b
+8b
+=19
+4a}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[6
+!!!cut: Es war einmal ein M&auml;dchen (Band 1), S. 66
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: X_  X_X_X_X_  X__X_   (x2)
+!!!rhy2: X_  X_X_X_X_  X__0
+!!!key: P0796  16  A 2/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA MOLL ?]  AMBITUS[8
+!!!kad: -7b21111
+!!!akz: 11_12_3b53b_3b1_3b53b_3b1_
+!!!fot: 'a__aw_b__c__b__c__
+!!!for: 'a__a__aw_b__aw_b__
+!!!fok: '^a_/__^__\__^__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebe, Standesunterschied, Hochzeit, Tod
+!! LOTH VKL
+!! PR[33] 2K[7] 2G[20] 3K[0] 3G[0] 4A[10] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[37] ABS[30] SR[27] SP[10]
+!! ST[12] 2k[7] 2g[13] 3k[0] 3g[3] 4d[7] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[30] dm[+7] sr[20] sp[10]
+!! 1F[84] 2F[16] 3F[0] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[2] AB[31]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[13] U6K[0] U6[16] U7K[0] U7[10]
+!! N1[26] N2K[0] N2[26] N3K[0] N3[10] N4[0] N4Ü[0] N5[0] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

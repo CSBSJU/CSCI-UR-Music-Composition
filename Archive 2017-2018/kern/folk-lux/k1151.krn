@@ -1,0 +1,133 @@
+!!!OTL: Die verlass'ne G&auml;rtnerin (3-14), S. 38
+!!!id: K1151
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+=1
+4g
+8b
+8g
+4.d
+8d
+=2
+4e
+8e
+8e
+8e
+8f#
+8g
+8e
+=3
+4e
+2d}
+8r
+{8d
+=4
+8d
+8cc
+8cc
+8dd
+4b
+4b
+=5
+4a
+8a
+8f#
+4g}
+8r
+=6
+{8b
+=7
+8.g
+16a
+8b
+8cc
+4.dd
+8b
+=8
+4g
+4b
+4dd
+4cc
+=9
+4b
+2a}
+8r
+=10
+{8d
+=11
+8d
+8cc
+8cc
+8dd
+4b
+4b
+=12
+4a
+8a
+8f#
+4g}
+8r
+=13
+{8d
+=14
+4g
+16a
+8b
+16cc
+4.dd
+8b
+=15
+4g
+4b
+4dd
+4cc
+=16
+4b
+2a}
+8r
+=17
+{8d
+=18
+8d
+8cc
+8cc
+8dd
+4b
+4b
+=19
+4a
+8a
+8f#
+4g}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[6
+!!!cut: Die verlass'ne G&auml;rtnerin (3-14), S. 38
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 3 Luxemburg 1928
+!!!rhy1: X_  X__X_X_X__.X_  X__X_X_X_X_X_X_  X__X___0   (x2)
+!!!rhy2: X_  X_X_X_X_X__X__  X__X_X_X__0
+!!!key: K1151  16  G 4/4 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: -512121
+!!!akz: 1-5-6-6-6-5_-5321_151532_-5321_151532_-5321_
+!!!fot: 'a__b__c__b__cv_b__
+!!!for: 'a__b__c__b__d__b__
+!!!fok: 'M__^a_$d_^a_Ma_^a_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Brautsuche
+!! KINTZELE
+!! PR[10] 2K[10] 2G[12] 3K[2] 3G[2] 4A[10] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[4] 7G[0] 8A[0] MEHR[0] SI[40] ABS[50] SR[22] SP[18]
+!! ST[12] 2k[14] 2g[26] 3k[0] 3g[0] 4d[8] 4ü[0] 5d[0] 6k[2] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[50] dm[-10] sr[40] sp[10]
+!! 1F[8] 2F[54] 3F[27] 4F[4] LF[0] 2P[8] 3P[0] 4P[0] TRI[0] DF[5] AB[52]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[2] N3K[0] N3[8] N4[8] N4Ü[0] N5[24] N6K[0] N6[8]
+!!!n7k: 0] N7[4] O1[16] O2K[0] O2[12] O3K[0] O3[8] HÖ[12
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

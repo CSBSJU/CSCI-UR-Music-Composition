@@ -1,0 +1,133 @@
+!!!COM: Bach, Johann Sebastian
+!!!OTL: 183. Nun freut euch, lieben Christen, g'mein
+!!!ONM: No. 183
+!!!OCL: Erk
+!!!SCA: BWV 388
+!!!YOE: Riemenschneider, Albert
+!!!OPR: 371 Harmonized Chorales and 69 Chorale Melodies with Figured Bass
+!!!OPT: Bach Chorale Harmonizations
+**harm	**root	**kern	**kern	**kern	**kern
+!	!	!bass	!tenor	!alto	!sprno
+*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A	*>A
+*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*G:	*G:	*G:	*G:	*G:	*G:
+*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+I	4GG	8GG	8B	4d	4g
+.	.	8AA	8A	.	.
+=1	=1	=1	=1	=1	=1
+Ib	4GG	8BB	4G	4d	4g
+.	.	8C	.	.	.
+V	4DD	8D	4F#	4A	4d
+.	.	8C	.	.	.
+Ib	4GG	4BB	[4G	4d	4g
+viib	4FF#	4AA	8G]	4a	4cc
+.	.	.	8F#	.	.
+=2	=2	=2	=2	=2	=2
+I	4GG	8GG	4.G	4d	4b
+.	.	8BB	.	.	.
+V	4DD	4D	.	8.d	4a
+.	.	.	8F#	.	.
+.	.	.	.	16c	.
+I;	4GG;	4GG;	4D;	4B;	4g;
+vi	4EE	4E	4G	8B	4g
+.	.	.	.	8c#	.
+=3	=3	=3	=3	=3	=3
+V	8DD	4D	8F#	8d	8a
+viioD7c/ii	8GG#	.	8G#	8fn	8b
+ii	4AA	4AA	4A	8e	4cc
+.	.	.	.	8f#	.
+Ib	4GG	8BB	8D	4g	4b
+.	.	8C	8E	.	.
+V	4DD	4D	4F#	8d	4a
+.	.	.	.	16A	.
+.	.	.	.	16B	.
+=4	=4	=4	=4	=4	=4
+IV	4CC	8C	4G	2c	4e
+.	.	8BB	.	.	.
+viib	4FF#	4AA	4A	.	4f#
+I;	4GG;	4GG;	4D;	4B;	4g;
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B	*>B
+!! Continuing.
+I	4GG	8G	4B	4d	4g
+.	.	8F#	.	.	.
+=5	=5	=5	=5	=5	=5
+IVb	8CC	8E	8e	8g	4cc
+V7b	8DD	8F#	8d	[8a	.
+I	4GG	[4G	4d	8a]	4b
+.	.	.	.	16g	.
+.	.	.	.	16f#	.
+V7d/V	4AA	8G]	4c#	4e	4a
+.	.	16A	.	.	.
+.	.	16G	.	.	.
+Vb	8DD	8F#	4d	8a	4dd
+iii	8BB	8B	.	8f#	.
+=6	=6	=6	=6	=6	=6
+!!linebreak: 2
+vi7b	4EE	4G	8B	8e	4dd
+.	.	.	8E	[8g	.
+V7/V	4AA	8A	4A	8g]	4cc#
+.	.	8AA	.	16f#	.
+.	.	.	.	16e	.
+V;	4DD;	4D;	4A;	4f#;	4dd;
+Ib	4GG	4BB	[4d	4g	4dd
+=7	=7	=7	=7	=7	=7
+IV	4CC	8C	8d]	4g	4ee
+.	.	8D	16c	.	.
+.	.	.	16B	.	.
+IVb	4CC	4E	8c	4g	4cc
+.	.	.	8e	.	.
+Vb	8DD	8F#	8d	8a	4.dd
+V7	8DD	8D	8c	8f#	.
+vi7	8EE	8E	8B	8g	.
+vii	8FF#	8F#	8A	[8a	8cc
+=8	=8	=8	=8	=8	=8
+I	4GG	4G	16B	8a]	4b
+.	.	.	16c	.	.
+.	.	.	4d	4g	.
+V	4DD	4D	.	.	4a
+.	.	.	8c	8f#	.
+vi;	4EE;	4E;	4B;	4e;	4g;
+vi	4EE	4E	4G	[4e	4b
+=9	=9	=9	=9	=9	=9
+Vb	4DD	4F#	4A	8e]	4a
+.	.	.	.	16d	.
+.	.	.	.	16c	.
+I	4GG	8G	8G	4B	4d
+.	.	8F#	8A	.	.
+vi	4EE	4E	4B	8e	4g
+.	.	.	.	8d	.
+ii	4AA	4AA	4A	8e	4cc
+.	.	.	.	8f#	.
+=10	=10	=10	=10	=10	=10
+Ib	4GG	8BB	[4d	4.g	4b
+.	.	8C	.	.	.
+V	4DD	4D	8.d]	.	4a
+.	.	.	.	8f#	.
+.	.	.	16c	.	.
+I;	4GG;	4GG;	4B;	4d;	4g;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!CDT: 1685/3//-1750/7/28
+!!!OCY: Deutschland
+!!!AGN: chorale
+!!!AST: Baroque
+!!!AIN: vox
+!!!YOY: 1941
+!!!PPP: New York; London
+!!!PPR: G. Schirmer
+!!!ENC: David Huron
+!!!EED: David Huron
+!!!YEN: United States of America
+!!!YER: 1992
+!!!YEC: Copyright 1992 David Huron
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YER: March 20, 1996
+!!!AMT: simple quadruple
+!!!EEV: 1.1
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

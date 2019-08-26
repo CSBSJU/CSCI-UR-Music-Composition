@@ -1,0 +1,123 @@
+!!image-file:	577_original_image.tiff
+!!image-id:	m-f235a03a-427d-48d0-8937-28a0d9f5c8b0
+!!system: 1, page 577
+**kern	**neume	**facs
+*clefC4	*	*
+G	punctum	243,214,226,192
+G	punctum	317,204,298,186
+A	punctum	359,195,342,173
+A	punctum	426,222,409,174
+G	punctum	475,213,458,191
+(G	clivis	542,233,507,191
+F)	.	.
+=`	=`	=`
+(G	podatus	692,239,674,172
+A)	.	.
+(c	clivis	807,197,773,134
+B)	.	.
+(A	podatus	874,205,856,143
+c)	.	.
+(B	clivis	939,195,906,159
+A)	.	.
+G	punctum	1032,213,1014,190
+A	punctum	1080,195,1063,174
+A	punctum	1131,195,1113,174
+G.	punctum	1261,212,1229,190
+G.	punctum	1326,212,1296,190
+=||	=||	=||
+!!system: 2, page 577
+*clefC4	*	*
+c	punctum	76,385,58,361
+c	punctum	126,385,109,364
+B	punctum	176,403,158,383
+c	punctum	225,386,209,365
+A	punctum	276,422,258,399
+G.	punctum	338,439,308,417
+=||	=||	=||
+!!system: 3, page 577
+*clefC4	*	*
+G	punctum	239,1012,220,991
+(B	compound	368,973,294,934
+A	.	.
+B	.	.
+c)	.	.
+B	punctum	471,1001,452,958
+G	punctum	553,1012,536,991
+G	punctum	603,1031,586,964
+=`	=`	=`
+G	punctum	703,1012,686,990
+G	punctum	803,1011,786,991
+(A	porrectus	918,1021,868,970
+G	.	.
+A)	.	.
+(F	podatus	977,1037,960,974
+A)	.	.
+c	punctum	1060,960,1041,942
+c	punctum	1085,960,1067,941
+(c	podatus	1134,961,1117,921
+d)	.	.
+c	punctum	1158,963,1143,940
+A	punctum	1197,995,1168,961
+='	='	='
+c	punctum	1291,961,1275,929
+c	punctum	1317,961,1298,930
+c	punctum	1367,960,1349,940
+!!system: 4, page 577
+*clefC4	*	*
+(c	torculus	105,1230,53,1163
+d	.	.
+A)	.	.
+(A	podatus	172,1240,153,1177
+c)	.	.
+G	punctum	271,1248,252,1226
+G	punctum	320,1247,304,1226
+(F	clivis	461,1289,426,1233
+E)	.	.
+D	punctum	528,1315,510,1265
+=`	=`	=`
+F	punctum	677,1264,658,1242
+(G	podatus	727,1249,708,1206
+A)	.	.
+G.	punctum	855,1246,825,1226
+G.	punctum	922,1246,892,1226
+=||	=||	=||
+c	punctum	1034,1197,1015,1175
+c	punctum	1084,1196,1066,1175
+B	punctum	1134,1213,1116,1193
+c	punctum	1183,1196,1166,1175
+A	punctum	1233,1228,1216,1208
+G.	punctum	1296,1245,1265,1225
+=||	=||	=||
+!!system: 5, page 577
+*clefC4	*	*
+C	punctum	245,2261,226,2243
+D	punctum	304,2254,286,2232
+(E	podatus	362,2237,345,2183
+G)	.	.
+(G	clivis	445,2225,410,2183
+F)	.	.
+(E	porrectus	528,2256,477,2213
+D	.	.
+E)	.	.
+F	punctum	610,2240,593,2199
+E	punctum	677,2238,659,2216
+D.	punctum	739,2255,710,2220
+='	='	='
+(C	podatus	877,2270,858,2215
+E)	.	.
+G	punctum	959,2227,941,2182
+A	punctum	1009,2188,992,2165
+A	punctum	1075,2188,1058,2165
+G	punctum	1141,2204,1124,2184
+G	punctum	1208,2204,1190,2184
+(A	scandicus	1300,2188,1265,2129
+B	.	.
+c)	.	.
+B	virga	1349,2192,1331,2147
+A	punctum	1373,2189,1357,2163
+G	punctum	1390,2205,1372,2175
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=577
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

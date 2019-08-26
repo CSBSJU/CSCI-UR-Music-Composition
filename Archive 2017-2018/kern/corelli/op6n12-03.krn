@@ -1,0 +1,138 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 6, No. 12
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*clefC	*clefG	*clefG	*clefG	*clefC	*clefG	*clefG
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:	*d:	*d:	*d:	*d:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1
+4D	8d	8f	8a	8D	8f	8a
+.	8d	8f	8a	8D	8f	8a
+4r	8d	8f	8a	8D	8f	8a
+.	8d	8f	8a	8D	8f	8a
+4D	8d	8g	8b-	8D	8g	8b-
+.	8d	8g	8b-	8D	8g	8b-
+4r	8d	8g	8b-	8D	8g	8b-
+.	8d	8g	8b-	8D	8g	8b-
+=2	=2	=2	=2	=2	=2	=2
+4C#	8e	8g	8a	8C#	8g	8a
+.	8e	8g	8a	8C#	8g	8a
+4r	8e	8g	8a	8C#	8g	8a
+.	8e	8g	8a	8C#	8g	8a
+4D	8e	8g	8a	8D	8g	8a
+.	8A	8f	8a	8D	8f	8a
+4d	8d	8f	8b-	8d	8f	8b-
+.	8d	8f	8b-	8d	8f	8b-
+=3	=3	=3	=3	=3	=3	=3
+4r	8e	8e	8g	8d	8e	8g
+.	8e	8e	8g	8d	8e	8g
+4c	8e	8e	8a	8c	8e	8a
+.	8e	8e	8a	8c	8e	8a
+4r	8a	8d	8f#	8c	8d	8f#
+.	8a	8d	8f#	8c	8d	8f#
+4B-	8d	8d	8g	8B-	8d	8g
+.	8d	8d	8g	8B-	8d	8g
+=4	=4	=4	=4	=4	=4	=4
+4r	8g	8c	8e	8B-	8c	8e
+.	8g	8c	8e	8B-	8c	8e
+4A	8a	8cc	8f	8A	8cc	8f
+.	8a	8cc	8f	8A	8cc	8f
+4G	8d	8b-	8f	8G	8b-	8f
+.	8d	8b-	8f	8G	8b-	8f
+4C	8c	8b-	8e	8C	8b-	8e
+.	8c	8b-	8e	8C	8b-	8e
+=5	=5	=5	=5	=5	=5	=5
+4F	8c	8a	8e	8F	8a	8e
+.	8c	8a	8e	8F	8a	8e
+4r	8d	8a	8d	8F	8a	8d
+.	8d	8a	8d	8F	8a	8d
+4E	8e	8g#	8d	8E	8g#	8d
+.	8e	8g#	8d	8E	8g#	8d
+4r	8e	8a	8c	8AA	8a	8c
+.	8e	8a	8c	8AA	8a	8c
+=6	=6	=6	=6	=6	=6	=6
+4E	8e	8a	8B	8E	8a	8B
+.	8e	8a	8B	8E	8a	8B
+4r	8e	8g	8b	8EE	8g	8b
+.	8e	8g	8b	8EE	8g	8b
+4AA	8e	8g	8cc#	8AA	8g	8cc#
+.	8e	8g	8cc#	8AA	8g	8cc#
+4r	8d	8f	8dd	8D	8f	8dd
+.	8d	8f	8dd	8D	8f	8dd
+=7	=7	=7	=7	=7	=7	=7
+4GG#	8B	8e	8dd	8GG#	8e	8dd
+.	8B	8e	8dd	8GG#	8e	8dd
+4r	8e	8b	8dd	8GG#	8b	8dd
+.	8e	8b	8dd	8GG#	8b	8dd
+4AA	8e	8b	8cc	8AA	8b	8cc
+.	8e	8b	8cc	8AA	8b	8cc
+4r	8a	8a	8cc	8A	8a	8cc
+.	8a	8g	8cc	8A	8g	8cc
+=8	=8	=8	=8	=8	=8	=8
+4D	8a	8f#	8cc	8D	8f#	8cc
+.	8a	8f#	8cc	8D	8f#	8cc
+4r	8d	8a	8cc	8D	8a	8cc
+.	8d	8a	8cc	8D	8a	8cc
+4GG	8d	8a	8b-	8GG	8a	8b-
+.	8d	8a	8b-	8GG	8a	8b-
+4r	8g	8g	8b-	8G	8g	8b-
+.	8g	8f	8b-	8G	8f	8b-
+=9	=9	=9	=9	=9	=9	=9
+4C#	8g	8e	8b-	8C#	8e	8b-
+.	8g	8e	8b-	8C#	8e	8b-
+4r	8a	8ee	8a	8C#	8ee	8a
+.	8a	8ee	8g	8C#	8ee	8g
+4D	8a	8ee	8f	8D	8ee	8f
+.	8a	8a	8f	8D	8a	8f
+4F#	8d	8dd	8a	8F#	8dd	8a
+.	8d	8cc	8a	8F#	8cc	8a
+=10	=10	=10	=10	=10	=10	=10
+4G	8d	8b-	8a	8G	8b-	8a
+.	8d	8b-	8d	8G	8b-	8d
+8r	8d	8b-	8g	8G	8b-	8g
+8G	8g	8b-	8g	8G	8b-	8g
+4A	8e	8c#	8g	8A	8c#	8g
+.	8e	8c#	8g	8A	8c#	8g
+4D	8d	8a	8f	8D	8a	8f
+.	8d	8a	8f	8D	8a	8f
+=11	=11	=11	=11	=11	=11	=11
+4GG	4B-	4g	8e-	4GG	4g	8e-
+.	.	.	8c#	.	.	8c#
+4GG#	4B	8f	2d	4GG#	8f	2d
+.	.	8e	.	.	8e	.
+2AA	4A	4f	.	2AA	4f	.
+.	4A	4e	4c#	.	4e	4c#
+=12	=12	=12	=12	=12	=12	=12
+4D	4A	4d	4d	4D	4d	4d
+4r	4r	4r	4r	4r	4r	4r
+4C	4A	4e	4a	4C	4e	4a
+4r	4r	4r	4r	4r	4r	4r
+=13	=13	=13	=13	=13	=13	=13
+4BB-	4d	4d	4g	4BB-	4d	4g
+4r	4r	4r	4r	4r	4r	4r
+2AA	2e	2c#	2a	2AA	2c#	2a
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: concerto grosso
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 2439496164
+!!!EMD: Converted from MuseData to Humdrum Aug 2, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1688574067

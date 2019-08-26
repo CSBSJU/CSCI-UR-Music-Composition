@@ -1,0 +1,103 @@
+!!!OTL: Der erste sprach seid wohlgemuth, S. 46
+!!!id: L0037
+**kern
+*clefG2
+*k[]
+*A:
+{4e
+=1
+4a
+4g#
+4a
+4b
+=2
+4cc#
+8cc#
+8a
+4b}
+=3
+{4cc#
+=4
+2dd
+4cc#
+4ee
+=5
+2b}
+4r
+=6
+{4e
+=7
+4a
+4g#
+8a
+8a
+4b
+=8
+4cc#
+4a
+4b}
+=9
+{4cc#
+=10
+2dd
+4cc#
+4ee
+=11
+2b}
+4r
+=12
+{4cc#
+=13
+4a
+4cc#
+4ee
+4cc#
+=14
+4b
+4cc#
+4dd}
+=15
+{4b
+=16
+2cc#
+2b
+=17
+4a
+4cc#
+4ee}
+=18
+{4dd
+=19
+2cc#
+2b
+=20
+2a}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 4/4 ]  ZZ[7
+!!!cut: Der erste sprach seid wohlgemuth, S. 46
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1: X_  X_X_X_X_  X_XXX_
+!!!rhy2: X_  X__X_X_  X__0_
+!!!key: L0037  08  A 4/4 ]  ZZ[7
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 2222451
+!!!akz: 1132_432_1132_432_1524_3215_321_
+!!!fot: 'a__b__av_b__c__bs'bs'
+!!!for: 'a__b__c__b__d__e__ew_
+!!!fok: '/__^d_/__^d_Wa_/__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: ??, Kriegslied, geschichtliches Lied
+!! FONTAINE, Ed.:
+!! PR[14] 2K[14] 2G[24] 3K[3] 3G[3] 4A[3] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[48] ABS[29] SR[38] SP[10]
+!! ST[8] 2k[3] 2g[10] 3k[17] 3g[7] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[38] dm[+10] sr[14] sp[24]
+!! 1F[18] 2F[76] 3F[0] 4F[0] LF[0] 2P[6] 3P[0] 4P[0] TRI[0] DF[3] AB[34]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[7]
+!! N1[17] N2K[0] N2[17] N3K[0] N3[13] N4[13] N4Ü[0] N5[17] N6K[0] N6[10]
+!!!n7k: 0] N7[3] O1[3] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

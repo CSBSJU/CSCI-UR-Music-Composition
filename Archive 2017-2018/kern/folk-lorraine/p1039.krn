@@ -1,0 +1,91 @@
+!!!OTL: Es war einmal ein Reiter (3-66), S. 189
+!!!id: P1039
+**kern
+*clefG2
+*k[b-]
+*g:
+{8g
+=1
+4g
+8g
+8g
+8a
+8g
+=2
+4.f
+4g}
+=3
+{8a
+=4
+8b-
+8a
+8g
+8cc
+8b-
+8a
+=5
+[2g
+8g]}
+=6
+{8g
+=7
+4b-
+8f
+4b-
+8cc
+=8
+4.dd
+8dd
+8cc}
+=9
+{8cc
+=10
+8dd
+8dd
+8dd
+8g
+8a
+8g
+=11
+4.f
+4g}
+=12
+{8a
+=13
+8b-
+8a
+8g
+8cc
+8b-
+8a
+=14
+[2g
+8g]}
+==
+*-
+!!!minrhy: 8
+!!!meters: 6/8 ]  ZZ[5
+!!!cut: Es war einmal ein Reiter (3-66), S. 189
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X  X_XXXX  X_.X_
+!!!rhy2: X  XXXXXX  X__^
+!!!key: P1039  08  G 6/8 ]  ZZ[5
+!!!mod: SECHSTONSKALA MOLL ?]  AMBITUS[6
+!!!kad: 11411
+!!!akz: 11-7b1_3b411_3b3b55_51-7b1_3b411_
+!!!fot: 'a__b__c__aw_b__
+!!!for: 'a__b__c__bw_b__
+!!!fok: '-__^d_~a_\__^d_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Beischlaf, T&auml;uschung
+!! LOTH VKL
+!! PR[53] 2K[3] 2G[9] 3K[3] 3G[0] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[3] MEHR[0] SI[18] ABS[34] SR[12] SP[6]
+!! ST[8] 2k[0] 2g[15] 3k[12] 3g[3] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[29] dm[-11] sr[15] sp[15]
+!! 1F[6] 2F[61] 3F[25] 4F[3] LF[0] 2P[6] 3P[0] 4P[0] TRI[0] DF[5] AB[36]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[3] U7K[0] U7[0]
+!! N1[17] N2K[0] N2[11] N3K[0] N3[20] N4[20] N4Ü[0] N5[17] N6K[0] N6[11]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

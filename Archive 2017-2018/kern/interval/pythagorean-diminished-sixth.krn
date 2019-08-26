@@ -1,0 +1,16 @@
+!!!OTL: Pythagorean diminished sixth (678.495 cents)
+!!!ratio: 262144/177147
+!! C to A-double-flat in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4aa--	-21.505	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1aa--	-21.505
+*-	*-	*-	*-

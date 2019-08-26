@@ -1,0 +1,94 @@
+!!!OTL: Sch&auml;fer und Edelmann (7d), S. 47
+!!!id: T0112
+**kern
+*clefG2
+*k[]
+*C:
+{4g
+=1
+4cc
+4cc
+=2
+4b
+8a
+8a
+=3
+4a
+8g
+8g
+=4
+4g}
+=5
+{8a
+8a
+=6
+4g
+8e
+8e
+=7
+4e
+8a
+8a
+=8
+4g
+8e
+8e
+=9
+4e}
+=10
+{4g
+=11
+4cc
+8cc
+8cc
+=12
+4dd
+4dd
+=13
+4ee
+8ee
+8ee
+=14
+4cc}
+=15
+{8cc
+8cc
+=16
+4dd
+8dd
+8dd
+=17
+4b
+8b
+8b
+=18
+4cc}
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[4
+!!!cut: Sch&auml;fer und Edelmann (7d), S. 47
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_X_  X_XX  X_XX  X_
+!!!rhy2: XX  X_XX  X_XX  X_XX  X_
+!!!key: T0112  08  C 2/4 ]  ZZ[4
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 53+1+1
+!!!akz: +1765_5353_+1+2+3+1_+27+1_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__c__bw_
+!!!fok: '^__\__^a_-__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: "erz&auml;hlende Lieder"
+!!!bem: STRASSEN; BONNEWEG; gesungen von Kindern beim Spiele
+!! THILL, Mathias:
+!! PR[30] 2K[0] 2G[16] 3K[12] 3G[0] 4A[2] 4Ü[0] 5A[2] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[32] ABS[50] SR[16] SP[16]
+!! ST[12] 2k[10] 2g[22] 3k[4] 3g[2] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[38] dm[-6] sr[32] sp[6]
+!! 1F[82] 2F[11] 3F[5] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[4] AB[55]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[2] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[8] N2K[0] N2[10] N3K[0] N3[16] N4[20] N4Ü[0] N5[35] N6K[0] N6[10]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

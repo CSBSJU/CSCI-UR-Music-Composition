@@ -1,0 +1,106 @@
+!!!OTL: Die hl. Dreifaltigkeit (3-2), S. 15
+!!!id: P0973
+**kern
+*clefG2
+*k[]
+*G:
+*M2/4
+4r
+{8d
+8d
+=2
+4g
+4g
+=3
+4a
+8a
+8a
+=4
+4b
+8b
+8a
+=5
+2g}
+=6
+4r
+=7
+{8g
+8a
+=8
+4b
+4dd
+=9
+2dd
+=10
+4ee
+4ee
+=11
+2dd}
+=12
+4r
+=13
+{4dd
+=14
+8ee
+8ee
+4ee
+=15
+8.dd
+16b
+8b
+8dd
+=16
+4.dd
+8g
+=17
+2g}
+=18
+{4cc
+4b
+=19
+2a
+=20
+4.b
+8a
+=21
+2g}
+=22
+4r
+=23
+{8g
+8b
+=24
+4dd
+4dd
+=25
+4cc
+4dd
+=26
+2b}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[5
+!!!cut: Die hl. Dreifaltigkeit (3-2), S. 15
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: 0_X_X_  X__X__  X__X_X_  X__X_X_  X___  0_   (x2)
+!!!rhy2: X_X_  X__X__  X___  X__X__  X___  0_
+!!!key: P0973  16  G 2/4 ]  ZZ[5
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 15113
+!!!akz: 1231_3565_6551_4231_543_
+!!!fot: 'a__b__c__d__e__
+!!!for: 'a__b__c__d__e__
+!!!fok: '^a_/__\__\__^a_
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: yyy
+!! LOTH VKL
+!! PR[24] 2K[5] 2G[17] 3K[2] 3G[2] 4A[0] 4Ü[0] 5A[5] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[31] ABS[42] SR[21] SP[10]
+!! ST[12] 2k[10] 2g[31] 3k[2] 3g[2] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[45] dm[-14] sr[40] sp[5]
+!! 1F[7] 2F[42] 3F[35] 4F[7] LF[0] 2P[2] 3P[7] 4P[0] TRI[0] DF[6] AB[43]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[12] N2K[0] N2[19] N3K[0] N3[23] N4[9] N4Ü[0] N5[21] N6K[0] N6[9]
+!!!n7k: 0] N7[5] O1[2] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

@@ -1,0 +1,66 @@
+!!!OTL: A wu santi, S. 58
+!!!id: S0077
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+8g
+=1
+8g
+8g
+8f#
+8g
+=2
+8a
+8d}
+=3
+{8d
+8a
+=4
+8a
+8a
+8g
+8a
+=5
+8b
+8g}
+=6
+{8g
+8b
+=7
+4dd
+4dd
+=8
+4cc
+4b
+=9
+4a}
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[3
+!!!cut: A wu santi, S. 58
+!!!reg: Luxemburg
+!!!trd: Die Bauernhochzeit in fr&uuml;heren Zeiten
+!!!rhy1: XX  XXXX  XX
+!!!rhy2: XX  XXXX  XX
+!!!key: S0077  08  G 2/4 ]  ZZ[3
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: -512
+!!!akz: 12_23_542_
+!!!fot: 'a__as"b__
+!!!for: 'a__a__b__
+!!!fok: '^__^a_^a_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Trinklied
+!! SPEDENER, G:
+!! PR[21] 2K[14] 2G[19] 3K[5] 3G[2] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[40] ABS[63] SR[33] SP[6]
+!! ST[16] 2k[16] 2g[17] 3k[2] 3g[2] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[40] dm[0] sr[33] sp[6]
+!! 1F[45] 2F[42] 3F[6] 4F[2] LF[0] 2P[0] 3P[5] 4P[0] TRI[0] DF[5] AB[66]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[5] U6K[0] U6[0] U7K[5] U7[3]
+!! N1[31] N2K[0] N2[28] N3K[23] N3[0] N4[3] N4Ü[0] N5[2] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

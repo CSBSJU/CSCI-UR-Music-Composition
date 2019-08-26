@@ -1,0 +1,107 @@
+!!!OTL: Es stand ein Schlo&szlig; in Österreich (13b), S. 59
+!!!id: T0121
+**kern
+*clefG2
+*k[]
+*C:
+{8g
+=1
+8g
+8cc
+4.e
+8e
+=2
+8d
+8g
+4.f}
+=3
+{8g
+=4
+8g
+8a
+4.a
+8f
+=5
+8f
+8e}
+4.r
+=6
+{8g
+=7
+8g
+8b
+4.dd
+8f
+=8
+8e
+8g
+4cc}
+=9
+{4ee
+=10
+16dd
+16cc
+16b
+16a
+4.g
+8f
+=11
+8a
+8g}
+4.r
+=12
+{8g
+=13
+8g
+8b
+4.dd
+8f
+=14
+8e
+8g
+4cc}
+=15
+{4ee
+=16
+16dd
+16cc
+16b
+16a
+4.g
+8f
+=17
+8f
+8e}
+4.r
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[6
+!!!cut: Es stand ein Schlo&szlig; in Österreich (13b), S. 59
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_X_X__.X_  X_X_X__.   (x2)
+!!!rhy2: X_  X_X_X__.X_  X_X_0_.
+!!!key: T0121  16  C 3/4 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: 43+15+13
+!!!akz: 52_54_53_+26_53_+24_
+!!!fot: 'a__b__c__d__c__dw_
+!!!for: 'a__a__av_b__av_b__
+!!!fok: 'Vd_\__~a_\__~a_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: "erz&auml;hlende Lieder"
+!!!bem1: REULAND; gesungen von hhh Johann Frank, 1902,
+!!!bem2: (13c)- Esch-Alz., Nikolaus Weis (Sch&uuml;ler), 1921
+!! THILL, Mathias:
+!! PR[16] 2K[0] 2G[8] 3K[12] 3G[10] 4A[6] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[37] ABS[49] SR[8] SP[29]
+!! ST[12] 2k[10] 2g[29] 3k[0] 3g[0] 4d[2] 4ü[0] 5d[0] 6k[2] 6g[4]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[47] dm[-10] sr[39] sp[8]
+!! 1F[4] 2F[74] 3F[8] 4F[0] LF[0] 2P[0] 3P[15] 4P[0] TRI[0] DF[4] AB[53]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[0] N3K[0] N3[14] N4[16] N4Ü[0] N5[28] N6K[0] N6[10]
+!!!n7k: 0] N7[10] O1[10] O2K[0] O2[8] O3K[0] O3[4] HÖ[0
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: ÃŸ)
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

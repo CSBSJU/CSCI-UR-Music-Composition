@@ -1,0 +1,99 @@
+!!!OTL: Kommt, ihr B&uuml;rschchen (Band 1), S. 234
+!!!id: P0859
+**kern
+*clefG2
+*k[f#]
+*G:
+{8.b
+16dd
+=1
+8dd
+8cc
+8b
+8g
+=2
+4a}
+=3
+{8b
+8dd
+=4
+8cc
+8ee
+16dd
+16dd
+8f#
+=5
+8g}
+16r
+=6
+{16g
+8b
+8dd
+=7
+8dd
+8cc
+8b
+8g
+=8
+8a
+8g}
+=9
+{8.b
+16dd
+=10
+8dd
+8cc
+8b
+8g
+=11
+8a
+8d}
+=12
+{8.g
+16b
+=13
+8dd
+8dd
+8ee
+8cc
+=14
+4dd}
+=15
+{8cc
+8a
+=16
+8b
+8g
+8b
+8a
+=17
+8g}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[6
+!!!cut: Kommt, ihr B&uuml;rschchen (Band 1), S. 234
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: X_.X  X_X_X_X_  X__
+!!!rhy2: X_X_  X_X_XXX_  X_0
+!!!key: P0859  16  G 2/4 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: 211-551
+!!!akz: 52_41_52_52_55_31_
+!!!fot: 'a__b__av_av_c__d__
+!!!for: 'a__b__aw_aw_a__av_
+!!!fok: '^d_^d_^__^d_/__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Spottlied
+!! LOTH VKL
+!! PR[33] 2K[6] 2G[17] 3K[6] 3G[8] 4A[6] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[42] ABS[36] SR[22] SP[19]
+!! ST[13] 2k[0] 2g[8] 3k[6] 3g[6] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[3] mehr[0] si[25] dm[+17] sr[8] sp[17]
+!! 1F[24] 2F[58] 3F[11] 4F[0] LF[0] 2P[8] 3P[0] 4P[0] TRI[0] DF[4] AB[38]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[11] U6K[0] U6[11] U7K[0] U7[5]
+!! N1[30] N2K[0] N2[22] N3K[0] N3[16] N4[0] N4Ü[0] N5[5] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

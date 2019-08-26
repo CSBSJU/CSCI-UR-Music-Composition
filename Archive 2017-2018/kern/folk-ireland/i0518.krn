@@ -1,0 +1,147 @@
+!!!OTL: Lough erne shore, S. 68
+!!!id: I0518
+**kern
+*clefG2
+*k[]
+*d:
+{8A
+8c
+=1
+4d
+4d
+4f
+=2
+8g
+8a
+4f}
+=3
+{4d
+=4
+4f
+4g
+4a
+=5
+4cc
+4.dd
+8a
+=6
+8g
+8a
+4f
+4d
+=7
+4.c}
+8r
+=8
+{8A
+8c
+=9
+4d
+4d
+4f
+=10
+8g
+8a
+4f
+4d
+=11
+4f
+4g
+4a}
+=12
+{4cc
+4.dd
+8a
+=13
+8g
+8a
+4f
+4d
+=14
+2d}
+=15
+{8a
+8cc
+=16
+4dd
+4.dd
+16cc
+16a
+=17
+4cc
+4.f
+8a}
+=18
+{4g
+4.f
+16a
+16cc
+=19
+4dd
+4.dd
+16cc
+16a
+=20
+8g
+8a
+4f
+4d
+=21
+4.c}
+8r
+=22
+{8c
+8A
+=23
+4d
+4d
+4f
+=24
+8g
+8a
+4f
+4d
+=25
+4f
+4g
+4a}
+=26
+{4cc
+4.dd
+8a
+=27
+8g
+8a
+4f#
+4d
+=28
+2d}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[8
+!!!cut: Lough erne shore, S. 68
+!!!reg: Irland
+!!!trd: O BOYLE, Sean: 25 Irish Folksongs, Dublin 1976
+!!!rhy1: X_X_  X__X__X__  X_X_X__   (x2)
+!!!rhy2: X__  X__X__X__  X__X__.X_  X_X_X__X__  X__.0
+!!!key: I0518  16  D 3/4 ]  ZZ[8
+!!!mod: SECHSTONSKALA ]  AMBITUS[11
+!!!kad: 3b-7b515-7b51
+!!!akz: 14_3b7b4-7b_143b_7b41_+17b_4+14-7b_143b_7b41_
+!!!fot: 'a__b__av_c__d__e__aw_cv_
+!!!for: 'a__b__aw_c__d__dw_aw_c__
+!!!fok: '^a_^d_~a_\__~__^d_~a_\__
+!! PHRAS[GEMISCHTTAKTIG]
+!!!fkt: "Reverdie", Liebeslied
+!!!bem: Zeilen wegen Überla&auml;nge geteilt
+!! IRISCHE VKL.
+!! PR[13] 2K[12] 2G[25] 3K[0] 3G[3] 4A[2] 4Ü[0] 5A[2] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[2] MEHR[0] SI[45] ABS[60] SR[37] SP[8]
+!! ST[8] 2k[3] 2g[22] 3k[7] 3g[3] 4d[3] 4ü[0] 5d[2] 6k[2] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[42] dm[+3] sr[25] sp[17]
+!! 1F[18] 2F[74] 3F[0] 4F[0] LF[0] 2P[2] 3P[7] 4P[0] TRI[0] DF[4] AB[61]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[10] N2K[0] N2[15] N3K[0] N3[16] N4[13] N4Ü[0] N5[21] N6K[0] N6[3]
+!!!n7k: 0] N7[3] O1[10] O2K[0] O2[7] O3K[0] O3[2] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

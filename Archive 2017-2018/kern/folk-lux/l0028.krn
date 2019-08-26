@@ -1,0 +1,80 @@
+!!!OTL: Dengelengeleng meng Fra as krank, S. 35f
+!!!id: L0028
+**kern
+*clefG2
+*k[f#]
+*D:
+{16d
+=1
+16d
+16d
+16e
+16f#
+16g
+8a
+8a
+=2
+8dd
+8b
+4a}
+=3
+{16d
+16e
+16f#
+16g
+8a
+8a
+=4
+8dd
+8b
+4a}
+=5
+{16dd
+16dd
+16dd
+16dd
+8dd
+8a
+=6
+8b
+8b
+4a}
+=7
+{16dd
+16dd
+16dd
+16dd
+8dd
+8a
+=8
+8b
+8b
+4a}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[4
+!!!cut: Dengelengeleng meng Fra as krank, S. 35f
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1:   XXXXX_X_  X_X_X__
+!!!rhy2: XXXXX_X_  X_X_X__
+!!!key: L0028  16  D 2/4 ]  ZZ[4
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 5555
+!!!akz: 1+1_1+1_+16_+16_
+!!!fot: 'a__a__b__b__
+!!!for: 'a__a__a__a__
+!!!fok: '^a_^a_\__\__
+!! PHRAS[VOLLTAKTIG]
+!!!fkt: ??, Trinklied
+!! FONTAINE, Ed.:
+!! PR[43] 2K[9] 2G[17] 3K[2] 3G[2] 4A[2] 4Ü[0] 5A[2] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[35] ABS[46] SR[26] SP[9]
+!! ST[16] 2k[4] 2g[7] 3k[4] 3g[4] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[2] mehr[0] si[22] dm[+13] sr[11] sp[11]
+!! 1F[8] 2F[33] 3F[40] 4F[10] LF[0] 2P[8] 3P[0] 4P[0] TRI[0] DF[5] AB[48]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[2] U6K[0] U6[0] U7K[0] U7[17]
+!! N1[36] N2K[0] N2[21] N3K[0] N3[17] N4[4] N4Ü[0] N5[0] N6K[0] N6[0]
+!!!n7k: 0] N7[2] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

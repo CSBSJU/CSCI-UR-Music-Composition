@@ -1,0 +1,80 @@
+!!!COM:	Ravel
+!!!OTL:	Rav-21/2/8-9
+**kern	**kern	**dynam	**kern
+*part2	*part2	*part2	*part1
+*staff3	*staff2	*	*staff1
+*I"Piano	*	*	*I"Soprano Solo
+*I'Pno.	*	*	*I'S. Solo
+*clefG2	*clefG2	*	*clefG2
+*k[f#]	*k[f#]	*	*k[f#]
+*M4/4	*M4/4	*	*M4/4
+=1	=1	=1	=1
+8r	(32bLLL	.	(4e
+.	32dd	.	.
+.	32ee	.	.
+.	32aaJJ	.	.
+[8d~ [8e	32bbLL	pp	.
+.	32aa	.	.
+.	32ee	.	.
+.	32ddJJJ	.	.
+4d_ 4e_ [4g [4a	32bLLL	.	8aL
+.	32dd	.	.
+.	32ee	.	.
+.	32aaJJ	.	.
+.	32bbLL	.	8aJ
+.	32aa	.	.
+.	32ee	.	.
+.	32ddJJJ	.	.
+4r	32bLLL	.	8gL
+.	32dd	.	.
+.	32ee	.	.
+.	32aaJJ	.	.
+.	32bbLL	.	8gJ
+.	32aa	.	.
+.	32ee	.	.
+.	32ddJJJ	.	.
+8r	32bLLL	.	4d
+.	32dd	.	.
+.	32ee	.	.
+.	32aaJJ	.	.
+[8B~ [8d	32bbLL	.	.
+.	32aa	.	.
+.	32ee	.	.
+.	32ddJJJ	.	.
+=2	=2	=2	=2
+4B_ 4d_ [4e [4a [4b	32bLLL	.	8eL
+.	32dd	.	.
+.	32ee	.	.
+.	32aaJJ	.	.
+.	32bbLL	.	8eJ
+.	32aa	.	.
+.	32ee	.	.
+.	32ddJJJ	.	.
+4r	32bLLL	.	4g
+.	32dd	.	.
+.	32ee	.	.
+.	32aaJJ	.	.
+.	32bbLL	.	.
+.	32aa	.	.
+.	32ee	.	.
+.	32ddJJJ	.	.
+8r	32bLLL	.	8aL
+.	32dd	.	.
+.	32ee	.	.
+.	32aaJJ	.	.
+[8d~	32bbLL	.	8aJ
+.	32aa	.	.
+.	32ee	.	.
+.	32ddJJJ	.	.
+4d] 4g 4a	32bLLL	.	[4cc#)
+.	32dd	.	.
+.	32ee	.	.
+.	32aaJJ	.	.
+.	32bbLL	.	.
+.	32aa	.	.
+.	32ee	.	.
+.	32ddJJJ)	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
+!!!YEM:	Copyright © Natalie Dietterich

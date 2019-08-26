@@ -1,0 +1,65 @@
+!!!COM:	Gershwin
+!!!OTL:	687_Ger-6/24/[19]1-3
+**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part11	*part11	*part10	*part9	*part8	*part7	*part6	*part6	*part5	*part4	*part3	*part2	*part1
+*staff12	*	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Piano	*	*I"Snare Drum	*I"Horn in F	*I"Horn in F	*I"English Horn	*I"Oboe
+*I'Cb.	*	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Pno.	*	*I'S. D.	*I'Hn.	*I'Hn.	*I'Eng. Hn.	*I'Ob.
+*clefF4	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefG2	*clefG2	*clefpercussion0	*clefG2	*clefG2	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8BBL	<	8BL	4.g	4.b	4.dd	(12dL	(12ddL	4.x	4.dn	1r	4.gn	4.b 4.dd
+.	.	.	.	.	.	12d#	12dd#	.	.	.	.	.
+8C	.	8c	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	12eJ)	12eeJ)	.	.	.	.	.
+8BB	.	8B	.	.	.	(8.eL	(8.eeL	.	.	.	.	.
+[8AAJ	[	[8AJ	8g	8b	8dd#	.	.	8x	8d#	.	8g	8b 8dd#
+.	.	.	.	.	.	16gJk)	16ggJk)	.	.	.	.	.
+2AA]	.	2A]	8r	8r	8r	(12gL	(12ggL	2r	8r	.	8r	8r
+.	.	.	.	.	.	12g#	12gg#	.	.	.	.	.
+.	.	.	16r	16r	16r	.	.	.	16r	.	16r	16r
+.	.	.	.	.	.	12aJ)	12aaJ)	.	.	.	.	.
+.	.	.	16g	16b	16dd#	.	.	.	16d#	.	16g	16b 16dd#
+.	.	.	8.gL	8.bL	8.dd#L	(12aL	(12aaL	.	8.d#L	.	8.gL	8.bL 8.dd#
+.	.	.	.	.	.	12g	12gg	.	.	.	.	.
+.	.	.	.	.	.	12fJ)	12ffJ)	.	.	.	.	.
+.	.	.	16gJk	16bJk	16dd#Jk	.	.	.	16d#Jk	.	16gJk	16bJk 16dd#
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8AA-L	<	8A-L	4.a-	4.cc	4.ee-	(12e-L	(12ee-L	4.x	4.e-	1r	4.a-	4.cc 4.ee-
+.	.	.	.	.	.	12e	12ee	.	.	.	.	.
+8BB-	.	8B-	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	12fJ)	12ffJ)	.	.	.	.	.
+8AA-	.	8A-	.	.	.	(8.fL	(8.ffL	.	.	.	.	.
+[8GG-J	[	[8G-J	8b-	8cc	8ee	.	.	8x	8e	.	8b-	8cc 8ee
+.	.	.	.	.	.	16a-Jk)	16aa-Jk)	.	.	.	.	.
+2GG-]	[	2G-]	8r	8r	8r	(12a-L	(12aa-L	2r	8r	.	8r	8r
+.	.	.	.	.	.	12a	12aa	.	.	.	.	.
+.	.	.	16r	16r	16r	.	.	.	16r	.	16r	16r
+.	.	.	.	.	.	12b-J)	12bb-J)	.	.	.	.	.
+.	.	.	16b-	16cc	16ee	.	.	.	16e	.	16b-	16cc 16ee
+.	.	.	8.b-L	8.ccL	8.eeL	(12b-L	(12bb-L	.	8.eL	.	8.b-L	8.ccL 8.ee
+.	.	.	.	.	.	12a-	12aa-	.	.	.	.	.
+.	.	.	.	.	.	12g-J)	12gg-J)	.	.	.	.	.
+.	.	.	16b-Jk	16ccJk	16eeJk	.	.	.	16eJk	.	16b-Jk	16ccJk 16ee
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8.FFL	.	8.FL	8.anL	8.cc#L	8.ffL	(12fL	(12ffL	8.xL	8.AL 8.f	8.c#L 8.a	8.anL	8.cc#L 8.ff
+.	.	.	.	.	.	12f#	12ff#	.	.	.	.	.
+.	.	.	.	.	.	12gJ)	12ggJ)	.	.	.	.	.
+16FFJk	.	16FJk	16aJk	16cc#Jk	16ffJk	.	.	16xJk	16AJk 16f	16c#Jk 16a	16aJk	16cc#Jk 16ff
+8.FFL	.	8.FL	8.aL	8.cc#L	8.ffL	(12gL	(12ggL	8.xL	8.AL 8.f	8.c#L 8.a	8.aL	8.cc#L 8.ff
+.	.	.	.	.	.	12g#	12gg#	.	.	.	.	.
+.	.	.	.	.	.	12aJ)	12aaJ)	.	.	.	.	.
+16FFJk	.	16FJk	16aJk	16cc#Jk	16ffJk	.	.	16xJk	16AJk 16f	16c#Jk 16a	16aJk	16cc#Jk 16ff
+8.EEL	.	8.EL	8.b-L	8.ddL	8.ff#L	(12b-L	(12bb-L	8.xL	8.B-L 8.f#	8.dL 8.b-	8.b-L	8.ddL 8.ff#
+.	.	.	.	.	.	12b	12bb	.	.	.	.	.
+.	.	.	.	.	.	12ccnJ)	12cccnJ)	.	.	.	.	.
+16EEJk	.	16EJk	16b-Jk	16ddJk	16ff#Jk	.	.	16xJk	16B-Jk 16f#	16dJk 16b-	16b-Jk	16ddJk 16ff#
+8.EEL	.	8.EL	8.b-L	8.ddL	8.ff#L	(12ccL	(12cccL	8.xL	8.B-L 8.f#	8.dL 8.b-	8.b-L	8.ddL 8.ff#
+.	.	.	.	.	.	12cc#	12ccc#	.	.	.	.	.
+.	.	.	.	.	.	12ddJ)	12dddJ)	.	.	.	.	.
+16EEJk	.	16EJk	16b-Jk	16ddJk	16ff#Jk	.	.	16xJk	16B-Jk 16f#	16dJk 16b-	16b-Jk	16ddJk 16ff#
+==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)]s5{(s6,s7)}[(s8,s9,s10,s11,s12)]
+!!!YEM:	Copyright © Natalie Dietterich

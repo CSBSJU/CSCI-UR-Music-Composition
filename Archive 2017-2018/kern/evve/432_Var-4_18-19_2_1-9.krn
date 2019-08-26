@@ -1,0 +1,102 @@
+!!!COM:	Varese
+!!!OTL:	432_Var-4/18-19/[2]1-9
+**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*	*I"Trombone	*I"Trumpet in C	*I"Horn in F	*I"Bassoon	*I"Oboe	*I"Clarinet in Eb	*I"Flute
+*I'Cb.	*	*I'Tbn.	*I'C Tpt.	*I'Hn.	*I'Bsn.	*I'Ob.	*I'Eb Cl.	*I'Fl.
+*clefF4	*	*clefF4	*clefG2	*clefG2	*clefF4	*clefG2	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1
+8r	.	8r	4r	8r	8r	8r	8r	8r
+[8FFF#^ [8DDn	p	[8BBn^	.	[8cn^	[8CC#^	[8an^	[8ee-X^	[8g#^
+2.FFF#] 2.DD]	<	2.BB]	[4gg^	2.c]	2.CC#]	2.a]	2.ee-]	2.g#]
+.	.	.	(8.ggL]	.	.	.	.	.
+.	.	.	16ffJk)	.	.	.	.	.
+.	.	.	16ee^	.	.	.	.	.
+.	.	.	16r	.	.	.	.	.
+.	.	.	[8gg^	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M5/4	*	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4
+8r	fff	8r	2.gg]	8r	8r	8r	8r	8r
+8FFF#^ 8DD	fff	8BB^	.	8c^	8CC#^	8a^	8ee-^	8g#^
+8r	.	8r	.	8r	8r	8r	8r	8r
+16FFF#^LL 16DD	.	16BB^LL	.	16c^LL	16CC#^LL	16a^LL	16ee-^LL	16g#^LL
+16FFF#^JJ 16DD	.	16BB^JJ	.	16c^JJ	16CC#^JJ	16a^JJ	16ee-^JJ	16g#^JJ
+4r	.	4r	.	4r	4r	4r	4r	4r
+12FFF#~L 12DD	.	12BB~L	[2gg	12c~L	12CC#~L	12a~L	12ee-~L	12g#~L
+12FFF#~ 12DD	.	12BB~	.	12c~	12CC#~	12a~	12ee-~	12g#~
+[12FFF#^ [12DD	.	[12BB^	.	[12c^	[12CC#^	[12a^	[12ee-^	[12g#^
+12FFF# 12DD	.	12BB	.	12c	12CC#	12a	12ee-	12g#
+12FFF#^J 12DD	.	12BB^J	.	12c^J	12CC#^J	12a^J	12ee-^J	12g#^J
+12r	.	12r	.	12r	12r	12r	12r	12r
+=3	=3	=3	=3	=3	=3	=3	=3	=3
+*M5/8	*	*M5/8	*M5/8	*M5/8	*M5/8	*M5/8	*M5/8	*M5/8
+8r	.	8r	(8.ggL]	8r	8r	8r	8r	8r
+[4.FFF# [4.DD	p	[4.BB	.	[4.c	[4.CC#	[4.a	[4.ee-	[4.g#
+.	.	.	16ffk	.	.	.	.	.
+.	.	.	8eeJ)	.	.	.	.	.
+.	.	.	8ee'L	.	.	.	.	.
+8FFF#] 8DD]	fff	8BB]	[8ee^J	8c]	8CC#]	8a]	8ee-]	8g#]
+=4	=4	=4	=4	=4	=4	=4	=4	=4
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+8r	.	8r	1ee]	8r	8r	8r	8r	8r
+[8FFF#^ [8DD	fff	[8BB^	.	[8c^	[8CC#^	[8a^	[8ee-^	[8g#^
+4FFF#] 4DD]	.	4BB]	.	4c]	4CC#]	4a]	4ee-]	4g#]
+8FFF# 8DD	.	8BB	.	8c	8CC#	8a	8ee-	8g#
+4FFF#^ 4DD	.	4BB^	.	4c^	4CC#^	4a^	4ee-^	4g#^
+[8FFF#^ [8DD	.	[8BB^	.	[8c^	[8CC#^	[8a^	[8ee-^	[8g#^
+=5	=5	=5	=5	=5	=5	=5	=5	=5
+!!pagebreak:original
+*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+12FFF#L] 12DD]	.	12BBL]	4gg	12cL]	12CC#L]	12aL]	12ee-L]	12g#L]
+12FFF#^ 12DD	.	12BB^	.	12c^	12CC#^	12a^	12ee-^	12g#^
+12FFF#^J 12DD	.	12BB^J	.	12c^J	12CC#^J	12a^J	12ee-^J	12g#^J
+8r	.	8r	(16ffLL	8r	8r	8r	8r	8r
+.	.	.	16ggJ)	.	.	.	.	.
+8FFF#^ 8DD	.	8BB^	[8ffJ	8c^	8CC#^	8a^	8ee-^	8g#^
+8r	.	8r	8ffL]	8r	8r	8r	8r	8r
+16FFF#^LL 16DD	.	16BB^LL	8ee^J	16c^LL	16CC#^LL	16a^LL	16ee-^LL	16g#^LL
+16FFF#^JJ 16DD	.	16BB^JJ	.	16c^JJ	16CC#^JJ	16a^JJ	16ee-^JJ	16g#^JJ
+=6	=6	=6	=6	=6	=6	=6	=6	=6
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+8r	.	8r	16ee^KL	8r	8r	8r	8r	8r
+.	.	.	[8.gg^J	.	.	.	.	.
+[8FFF#^ [8DD	fff	[8BB^	.	[8c^	[8CC#^	[8a^	[8ee-^	[8g#^
+4FFF#] 4DD]	.	4BB]	2.gg_	4c]	4CC#]	4a]	4ee-]	4g#]
+8FFF# 8DD	.	8BB	.	8c	8CC#	8a	8ee-	8g#
+4FFF#^ 4DD	.	4BB^	.	4c^	4CC#^	4a^	4ee-^	4g#^
+[8FFF#^ [8DD	.	[8BB^	.	[8c^	[8CC#^	[8a^	[8ee-^	[8g#^
+=7	=7	=7	=7	=7	=7	=7	=7	=7
+!!pagebreak:original
+12FFF#L] 12DD]	.	12BBL]	4gg]	12cL]	12CC#L]	12aL]	12ee-L]	12g#L]
+12FFF#^ 12DD	.	12BB^	.	12c^	12CC#^	12a^	12ee-^	12g#^
+12FFF#^J 12DD	.	12BB^J	.	12c^J	12CC#^J	12a^J	12ee-^J	12g#^J
+8r	.	8r	(16ffKL	8r	8r	8r	8r	8r
+.	.	.	[8.ee^J)	.	.	.	.	.
+8FFF#^ 8DD	.	8BB^	.	8c^	8CC#^	8a^	8ee-^	8g#^
+8r	.	8r	4ee]	8r	8r	8r	8r	8r
+16FFF#^LL 16DD	.	16BB^LL	.	16c^LL	16CC#^LL	16a^LL	16ee-^LL	16g#^LL
+16FFF#^JJ 16DD	.	16BB^JJ	.	16c^JJ	16CC#^JJ	16a^JJ	16ee-^JJ	16g#^JJ
+4r	.	4r	[4ee^	4r	4r	4r	4r	4r
+=8	=8	=8	=8	=8	=8	=8	=8	=8
+*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+8r	>	8r	2.ee_	8r	8r	8r	8r	8r
+8FFF#^ 8DD	.	8BB^	.	8c^	8CC#^	8a^	8ee-^	8g#^
+4r	.	4r	.	8r	8r	8r	8r	8r
+.	.	.	.	8c^	4r	4r	4r	4r
+8FFF#^ 8DD	.	8BB^	.	8r	.	.	.	.
+8r	.	8r	.	16c^LL	8CC#^	8a^	8ee-^	8g#^
+.	.	.	.	16c^JJ	.	.	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+4r	mp	4r	1ee]	4r	4r	4r	4r	4r
+16FFF#^LL 16DD	fff	16BB^LL	.	16c^LL	16CC#^LL	16a^LL	16ee-^LL	16g#^LL
+16FFF#^JJ 16DD	.	16BB^JJ	.	16c^JJ	16CC#^JJ	16a^JJ	16ee-^JJ	16g#^JJ
+8r	.	8r	.	8r	8r	8r	8r	8r
+2r	.	2r	.	2r	2r	2r	2r	2r
+==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7)]s8
+!!!YEM:	Copyright © Natalie Dietterich

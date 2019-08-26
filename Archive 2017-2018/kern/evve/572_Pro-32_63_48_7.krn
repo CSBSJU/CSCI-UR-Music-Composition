@@ -1,0 +1,28 @@
+!!!COM:	Prokofiev
+!!!OTL:	Pro-32/63/[48]7
+**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
+*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff7	*	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Bassoon	*I"Clarinet in Bb
+*I'Cb.	*	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Bsn.	*I'Cl.
+*clefF4	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*clefG2
+*k[f#c#]	*	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1
+8.GG#L	.	2r	4d# 4b	4dd#	4dd#	8.GG#L	8d#'L
+.	.	.	.	.	.	.	8f#'J
+16CC#Jk	.	.	.	.	.	16CC#Jk	.
+8C#^L	.	.	4G# 4e	4B	4B	8C#^L	[4e^
+8C#^J	.	.	.	.	.	8C#^J	.
+8C#^	mf	12C#^L	4g# 4ee	4b 4ee	4b 4ee	12C#^L	8eL]
+.	.	12C##^	.	.	.	12C##^	.
+8r	.	.	.	.	.	.	(8d#
+.	.	12D#^J	.	.	.	12D#^J	.
+4r	.	12D#^L	4B	4B	4G# 4f#	12D#^L	8f#
+.	.	12E^	.	.	.	12E^	.
+.	.	.	.	.	.	.	8eJ)
+.	.	12E#^J	.	.	.	12E#^J	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4,s5,s6,s7)]
+!!!YEM:	Copyright © Natalie Dietterich

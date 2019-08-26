@@ -1,0 +1,79 @@
+!!!OTL: Entschwundenes Gl&uuml;ck (124), 2. Melodie S.284
+!!!id: T0289V
+**kern
+*clefG2
+*k[f#c#]
+*D:
+{4f#
+=1
+4f#
+4f#
+4f#
+=2
+8e
+8f#
+4g}
+=3
+{8e
+8f#
+=4
+4g
+4a
+8b
+8a
+=5
+4a}
+4r
+=6
+{8f#
+8g
+=7
+4a
+4f#
+8b
+8a
+=8
+8a
+8e
+4e}
+=9
+{8a
+8dd
+=10
+8cc#
+8b
+4a
+4g
+=11
+8f#
+8g
+4f#}
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 ]  ZZ[4
+!!!cut: Entschwundenes Gl&uuml;ck (124), 2. Melodie S.284
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_X_X_  XXX_
+!!!rhy2: XX  X_X_XX  X_0_
+!!!key: T0289V 08  D 3/4 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[7b
+!!!kad: 4523
+!!!akz: 32_45_55_73_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__bw_c__
+!!!fok: '/__/__^d_^d_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem: Burglinster
+!! THILL, Mathias:
+!! PR[15] 2K[3] 2G[10] 3K[10] 3G[7] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[2]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[33] ABS[61] SR[13] SP[20]
+!! ST[12] 2k[13] 2g[34] 3k[0] 3g[0] 4d[5] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[52] dm[-19] sr[48] sp[5]
+!! 1F[15] 2F[47] 3F[12] 4F[6] LF[0] 2P[15] 3P[6] 4P[0] TRI[0] DF[6] AB[68]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[0] N3K[0] N3[10] N4[15] N4Ü[0] N5[18] N6K[0] N6[16]
+!!!n7k: 0] N7[13] O1[16] O2K[0] O2[10] O3K[0] O3[3] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

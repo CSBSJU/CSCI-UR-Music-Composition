@@ -1,0 +1,95 @@
+!!!OTL: Es reit't ein Reiter (Band 1), S. 103
+!!!id: P0807
+**kern
+*clefG2
+*k[f#c#]
+*D:
+{4a
+=1
+2a
+4g
+=2
+4e
+4e
+4b
+=3
+4b
+4b
+4a
+=4
+4f#}
+4r
+=5
+{4a
+=6
+2a
+4g
+=7
+4e
+4f#
+4g
+=8
+4b
+4a
+4a
+=9
+2f#}
+=10
+{4a
+=11
+4f#
+4a
+4a
+=12
+4f#
+4g
+4a
+=13
+2b
+4cc#
+=14
+4dd
+4cc#}
+=15
+{4b
+=16
+4.a
+8b
+4a
+=17
+4a
+4a
+4f#
+=18
+2g
+4a
+=19
+2f#}
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 ]  ZZ[4
+!!!cut: Es reit't ein Reiter (Band 1), S. 103
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: X_  X__X_  X_X_X_  X_X_X_  X_0   (x2)
+!!!rhy2: X_  X__X_  X_X_X_  X_X_X_  X__
+!!!key: P0807  08  D 3/4 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[7b
+!!!kad: 3373
+!!!akz: 5263_5263_336+1_5543_
+!!!fot: 'a__aw_b__c__
+!!!for: 'a__av_b__c__
+!!!fok: '\__Sd_Va_Sd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Verf&uuml;hrung, Vergewaltigung, Mord
+!! LOTH VKL
+!! PR[14] 2K[2] 2G[7] 3K[16] 3G[18] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[45] ABS[44] SR[9] SP[36]
+!! ST[15] 2k[0] 2g[14] 3k[9] 3g[9] 4d[5] 4ü[0] 5d[2] 6k[2] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[41] dm[+4] sr[14] sp[27]
+!! 1F[54] 2F[20] 3F[24] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[4] AB[46]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[7] U6K[0] U6[2] U7K[0] U7[7]
+!! N1[29] N2K[0] N2[11] N3K[0] N3[27] N4[0] N4Ü[0] N5[16] N6K[0] N6[2]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

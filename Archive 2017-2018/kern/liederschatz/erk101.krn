@@ -1,0 +1,102 @@
+!!!OTL@@DE: Schweizerlied
+!!!ONB: Volksweise
+!!!ODT: 1829
+!!!OMD: M&auml;ssig bewegt
+!!!LYR: Goethe, Wolfgang von
+!!!LDT: 1811
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*C:	*C:	*C:
+*M3/4	*M3/4	*M3/4
+*MM108	*MM108	*MM108
+4r	8c/ 8e/L	8e/L
+.	8d/ 8f/J	8f/J
+=1	=1	=1
+4C/	(8e/ 8g/L	(8g\L
+.	8ee/J)	8ee\J)
+4G\ 4c\	4e/ 4cc/	4cc\
+4G\	8c/ 8e/L	8e/L
+.	8d/ 8f/J	8f/J
+=2	=2	=2
+4C/	(8e/ 8g/L	(8g\L
+.	8ee/J)	8ee\J)
+4G\ 4c\	4e/ 4cc/	4cc\
+*	*^	*
+4G\ 4c\	8g/L	4e\	8g/L
+.	8g/J	.	8g/J
+*	*v	*v	*
+=3	=3	=3
+4GG/	(8f/ 8g/L	(8g\L
+.	8ee/J)	8ee\J)
+4G\ 4B\	4f/ 4dd/	4dd\
+*	*^	*
+4G\ 4B\	8f/L	4d\	8f/L
+.	8f/J	.	8f/J
+*	*v	*v	*
+=4	=4	=4
+(8C\L	4c/ 4e/	4.e/
+8G\J	.	.
+4c\)	4r	.
+.	.	8r
+4r	8c/ 8e/L	8e/
+.	8d/ 8f/J	8f/
+=5	=5	=5
+4GG/	8e\ (8g\L	(8g\L
+.	8g\ 8ee\J)	8ee\J)
+4G\ 4B\	4f/ 4dd/	4dd\
+*	*^	*
+4G\ 4B\	8f/L	4d\	8f/
+.	8f/J	.	8f/
+*	*v	*v	*
+=6	=6	=6
+4GG/	(8c/ 8e/L	(8e/L
+.	8e/) 8cc/J	8cc/J)
+4G\ 4B\	4d/ 4b/	4b\
+4G\ 4B\	(8f/L	8f/L
+.	8d/J)	8d/J
+=7	=7	=7
+4GG/	(8B/L	(8B/L
+.	8a/J)	8a/J)
+4F\ 4G\ 4B\	4g/	4g/
+4F\ 4G\ 4B\	(8f/L	8f/L
+.	8d/J)	8d/J
+=8	=8	=8
+4C\ 4E\ 4G\	4.c/	4.c/
+4CC/	.	.
+.	8r	8r
+4r	(12e/L	12e/L
+.	12g/	12g/
+.	12cc/J)	12cc/J
+=9	=9	=9
+4GG/	4g\ (4ee\	4ee\
+4G\ 4B\ 4f\	4dd\)	4dd\
+4G\ 4B\ 4f\	(12g\L	12g\L
+.	12b\	12b\
+.	12dd\J)	12dd\J
+=10	=10	=10
+*	*^	*
+4C/	(4ff/	2g\ 2cc\	4ff\
+4G\ 4c\ 4e\	4ee/)	.	4ee\
+4c\ 4e\	4ryy	(12cc\L	12cc\L
+.	.	12ee\	12ee\
+.	.	12gg\J)	12gg\J
+*	*v	*v	*
+=11	=11	=11
+4G\ 4B\ 4f\	(4.aa\	(4.aa\
+4G\ 4B\ 4f\	.	.
+.	8gg\L	8gg\L
+4G\ 4B\ 4f\	8dd\	8dd\
+.	8ee\J)	8ee\J)
+=12	=12	=12
+4c\ 4e\	4cc\	4cc\
+4C/	4r	4r
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/05/27/
+!!!EFL: 101/651

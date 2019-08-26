@@ -1,0 +1,30 @@
+!!!COM:	Ravel
+!!!OTL:	279_Rav-15/1/4-5
+**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part8	*part8	*part7	*part6	*part5	*part4	*part4	*part3	*part2	*part1
+*staff9	*	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Violin I	*I"Harp	*	*I"Clarinet in Bb	*I"Oboe	*I"Flute
+*I'Cb.	*	*I'Vc.	*I'Vla.	*I'Vln. I	*I'Hp.	*	*I'Cl.	*I'Ob.	*I'Fl.
+*clefF4	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!
+4DD^	p	4D^	(8fL	(8ffL	4g#	4b-	[4A-'^ [4B-	(8ffL	[4a-'^ [4b-
+.	.	.	8eJ	8eeJ	.	.	.	8eeJ	.
+4r	.	4r	8dL	8ddL	4r	4r	2A-'] 2B-]	8ddL	2a-'] 2b-]
+.	.	.	8c#J)	8cc#J)	.	.	.	8cc#J	.
+4AAA	.	4AA	(8fL	(8ffL	4r	4r	.	8ffL	.
+.	.	.	8eJ	8eeJ	.	.	.	8eeJ	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4DD^	pp	4D^	8dL	8ddL	2an	2cc-	[4A-'^ [4B-	8ddL	[4a-'^ [4b-
+.	.	.	8c#J)	8cc#J)	.	.	.	8cc#J	.
+4r	.	4r	(8fL	(8ffL	.	.	2A-'] 2B-]	8ffL	2a-'] 2b-]
+.	.	.	8eJ	8eeJ	.	.	.	8eeJ	.
+4AAA	.	4AA	8dL	8ddL	4r	4r	.	8ddL	.
+.	.	.	8c#J)	8cc#J)	.	.	.	8cc#J)	.
+==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)]{(s4,s5)}[(s6,s7,s8,s9)]
+!!!YEM:	Copyright © Natalie Dietterich

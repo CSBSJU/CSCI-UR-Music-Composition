@@ -1,0 +1,48 @@
+!!!COM:	Messiaen
+!!!OTL:	Mes-16^1/8/26-27
+**kern	**kern	**kern
+*part2	*part1	*part1
+*staff3	*staff2	*staff1
+*I"Pedals	*I"Organ	*
+*I'Ped.	*I'Org.	*
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M11/8	*M11/8	*M11/8
+=1	=1	=1
+8C#L	4c# 4e 4f# 4b-	4ee 4aa 4ddd#
+[8D#	.	.
+16D#k]	8.r	16ccnLL 16ee 16aa
+8Fn	.	16cc#JJ 16ff# 16bb-
+.	.	16dd#KL 16ggn 16ccc
+[8Gn	16r	8ee 8aa 8ccc#
+.	[4.c# [4.e [4.f# [4.b-	.
+8G]	.	8.b-J 8.dd#X 8.ggn
+[16AJk	.	.
+8AL_	.	8cc#X 8ff#X 8bb-X
+8.A]	8c#L] 8e] 8f#] 8b-]	2dd#X 2ggn 2cccn
+.	8fJ 8g 8b- 8ddn	.
+[16D#XJk	.	.
+8.D#XL]	8.eL 8.f# 8.a 8.cc#	.
+[16BBnJk	[16c#XJk [16e [16f#X [16b-X	.
+=2	=2	=2
+!!linebreak:original
+8.BBnL]	16c#LL] 16e] 16f#] 16b-]	4ee 4aa 4ddd#
+.	16fn 16g# 16b- 16ddn	.
+.	16e# 16f 16a 16cc#	.
+[16Fnk	16dJ 16fn 16g#X 16cc	.
+8.F_	[8.c#X [8.e [8.f#X [8.b-X	16ccnLL 16ee 16aa
+.	.	16cc#JJ 16ff# 16bb-
+.	.	16dd#KL 16ggn 16ccc
+8F]	16c#XJk] 16e] 16f#X] 16b-X]	8ee 8aa 8ccc#
+.	16r	.
+[8.BBnJ	8.r	8.b-J 8.dd#X 8.ggn
+16BBLL]	[8c#X [8e [8f#X [8b-X	8cc#X 8ff#X 8bb-X
+[16C#	.	.
+16C#J]	4.c#X] 4.e] 4.f#X] 4.b-X]	2dd#X 2ggn 2cccn
+8.D#J	.	.
+8FnL	.	.
+8GnJ	8f 8g#X 8b-X 8ddn	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}s3
+!!!YEM:	Copyright © Natalie Dietterich

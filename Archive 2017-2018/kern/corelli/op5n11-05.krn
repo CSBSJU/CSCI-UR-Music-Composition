@@ -1,0 +1,158 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 5, No. 11
+!!!OMV: 5
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern
+*clefC	*clefG
+*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:
+*M2/4	*M2/4
+4r	4r
+4E	16ee
+.	16gg#
+.	16ff#
+.	16ee
+=1	=1
+4D#	16bb
+.	16b
+.	16dd#
+.	16b
+4C#	16ee
+.	16gg#
+.	16ff#
+.	16ee
+=2	=2
+4BB	16bb
+.	16b
+.	16dd#
+.	16b
+8G#	16ee
+.	16gg#
+8A#	16ff#
+.	16ee
+=3	=3
+8B	16dd#
+.	16ff#
+8D#	16bb
+.	16dd#
+8E	16cc#
+.	16bb
+8F#	16aa#
+.	16cc#
+=4	=4
+4BB	4b
+4G#	16b
+.	16ee
+.	16dd#
+.	16ee
+=5	=5
+4A	16cc#
+.	16ff#
+.	16ee
+.	16ff#
+4A#	16cc#
+.	16ff#
+.	16ee
+.	16ff#
+=6	=6
+4B	16dd#
+.	16gg#
+.	16ff#
+.	16gg#
+4B#	16dd#
+.	16gg#
+.	16ff#
+.	16gg#
+=7	=7
+8c#	16ee
+.	16gg#
+8F#	16ff#
+.	16ee
+8G#	4dd#
+8GG#	.
+=8	=8
+4C#	4cc#
+4GG#	16ee
+.	16dd#
+.	16ee
+.	16b
+=9	=9
+4AA	16ee
+.	16dd#
+.	16ee
+.	16b
+4BB	16ee
+.	16dd#
+.	16ee
+.	16b
+=10	=10
+4C#	16ee
+.	16dd#
+.	16ee
+.	16b
+4GG#	16ee
+.	16dd#
+.	16ee
+.	16b
+=11	=11
+4AA	16cc#
+.	16dd#
+.	16ee
+.	16f#
+4BB	4f#
+=12	=12
+4E	4e
+4GG#	16ee
+.	16dd#
+.	16ee
+.	16b
+=13	=13
+4AA	16ee
+.	16dd#
+.	16ee
+.	16b
+4BB	16ee
+.	16dd#
+.	16ee
+.	16b
+=14	=14
+4C#	16ee
+.	16dd#
+.	16ee
+.	16b
+4GG#	16ee
+.	16dd#
+.	16ee
+.	16b
+=15	=15
+4AA	16cc#
+.	16dd#
+.	16ee
+.	16f#
+4BB	4f#
+=16	=16
+4EE	4e
+4r	4r
+==	==
+*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: 
+!!!AGN: violin
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 2183828849
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 3286885703

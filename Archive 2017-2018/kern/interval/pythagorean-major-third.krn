@@ -1,0 +1,17 @@
+!!!OTL: Pythagorean major third (407.820 cents)
+!!!OTL: Ditone
+!!!ratio: 81/64
+!! C to E in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4ee	7.820	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1ee	7.820
+*-	*-	*-	*-

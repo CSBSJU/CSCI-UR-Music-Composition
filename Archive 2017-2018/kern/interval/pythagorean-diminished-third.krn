@@ -1,0 +1,16 @@
+!!!OTL: Pythagorean diminished third (180.450 cents)
+!!!ratio: 65536/59049
+!! C to E-double-flat in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4ee--	-19.550	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1ee--	-19.550
+*-	*-	*-	*-

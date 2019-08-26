@@ -1,0 +1,71 @@
+!!!OTL: Mariechen sa&szlig; auf einem Stein (6b), S. 41
+!!!id: T0108
+**kern
+*clefG2
+*k[b-]
+*F:
+{8cc
+=1
+8dd
+8cc
+8b-
+8g
+=2
+8f
+8a
+4a
+=3
+8g
+8b-
+4b-
+=4
+8a
+8cc
+8cc}
+=5
+{8cc
+=6
+8dd
+8cc
+8b-
+8g
+=7
+8f
+8a
+4a
+=8
+4cc
+4cc
+=9
+4f}
+8r
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[2
+!!!cut: Mariechen sa&szlig; auf einem Stein (6b), S. 41
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X  XXXX  XXX_  XXX_  XXX
+!!!rhy2: X  XXXX  XXX_  X_X_  X_0 // 
+!!!key: T0108  08  F 2/4 ]  ZZ[2
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[6
+!!!kad: 51
+!!!akz: 6123_6151_
+!!!fot: 'a__b__
+!!!for: 'a__b__
+!!!fok: 'V__Sd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: "erz&auml;hlendes Lied"
+!!!bem: JUNGLINSTER; 1890
+!! THILL, Mathias:
+!! PR[38] 2K[1] 2G[8] 3K[5] 3G[0] 4A[7] 4Ü[0] 5A[1] 6K[0] 6G[1]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[25] ABS[73] SR[10] SP[15]
+!! ST[20] 2k[10] 2g[22] 3k[1] 3g[0] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[1]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[37] dm[-12] sr[32] sp[5]
+!! 1F[11] 2F[79] 3F[9] 4F[0] LF[0] 2P[0] 3P[1] 4P[0] TRI[0] DF[4] AB[75]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[1] N3K[0] N3[4] N4[8] N4Ü[0] N5[34] N6K[0] N6[9]
+!!!n7k: 0] N7[7] O1[26] O2K[0] O2[8] O3K[0] O3[1] HÖ[1
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: ÃŸ)
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

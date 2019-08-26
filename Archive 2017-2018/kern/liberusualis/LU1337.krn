@@ -1,0 +1,104 @@
+!!image-file:	1337_original_image.tiff
+!!image-id:	m-ac9eb56d-278f-42bb-8c7b-7502db818d93
+!!system: 1, page 1337
+**kern	**neume	**facs
+*clefC3	*	*
+F	punctum	296,600,277,578
+(A	scandicus	407,565,372,507
+B	.	.
+c)	.	.
+c	punctum	457,531,439,510
+c	virga	542,545,523,511
+A	punctum	558,565,540,541
+(B	torculus	644,548,593,511
+c	.	.
+B)	.	.
+A.	punctum	708,565,677,532
+=`	=`	=`
+(c	podatus	856,532,839,491
+d)	.	.
+c	punctum	932,530,914,509
+(c	porrectus	1062,565,989,509
+A	.	.
+B)	.	.
+(A	torculus	1145,565,1094,510
+c	.	.
+A)	.	.
+(A	clivis	1188,600,1154,543
+G)	.	.
+=	=	=
+F	punctum	1316,598,1298,578
+F	punctum	1393,601,1374,578
+(A	podatus	1443,564,1425,509
+c)	.	.
+!!system: 2, page 1337
+*clefC3	*	*
+(c	clivis	139,811,103,756
+A)	.	.
+(c	podatus	164,780,146,737
+d)	.	.
+(f	porrectus	225,745,170,701
+e	.	.
+f)	.	.
+(d	clivis	292,782,256,739
+c)	.	.
+(c	clivis	376,815,340,756
+B)	.	.
+c	virga	402,783,384,758
+A.	punctum	431,811,399,778
+='	='	='
+A	punctum	546,811,528,789
+(c	torculus	636,777,577,740
+d	.	.
+c)	.	.
+(B	podatus	656,795,638,754
+c)	.	.
+A	punctum	680,814,665,788
+G	punctum	697,852,681,799
+(G	clivis	741,852,705,807
+F)	.	.
+G	virga	769,850,749,807
+=`	=`	=`
+(A	torculus	864,790,770,751
+c	.	.
+A	.	.
+A)	.	.
+(A.	clivis	881,848,831,790
+G)	.	.
+='	='	='
+c	virga	981,816,961,758
+(B	torculus	1047,810,995,758
+c	.	.
+A)	.	.
+c	virga	1073,817,1053,756
+G	punctum	1097,852,1080,799
+F	punctum	1114,849,1099,822
+F	punctum	1184,846,1164,825
+(D	torculus	1316,873,1228,834
+E	.	.
+D	.	.
+C)	.	.
+(D	cephalicus	1378,870,1358,851
+C)	.	.
+(F	torculus	1462,846,1410,790
+A	.	.
+G)	.	.
+!!system: 3, page 1337
+*clefC3	*	*
+(G	scandicus	262,1079,94,1030
+A	.	.
+B	.	.
+c)	.	.
+A	punctum	182,1094,168,1067
+G	punctum	200,1110,183,1078
+A	punctum	226,1091,208,1071
+F	punctum	294,1127,275,1105
+(G	clivis	328,1126,293,1086
+F)	.	.
+=||	=||	=||
+F.	punctum	392,1124,360,1092
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=1337
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

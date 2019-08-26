@@ -1,0 +1,35 @@
+!!!OTL: Forcing the direction of a slur, stem or beam
+!!
+!! Step 1: click on the slur and press "a" to move it above the notes.
+!! Step 2: press "b" to force slur below again.
+!! Step 3: press "c" to clear the forced direction.
+!! Step 4: click on a stemmed note and type "a", "b" and "c" to do same for stems.
+!! Step 5: click on a beam and type "a", "b" and "c" to do same for beams.
+!!
+**kern
+*M4/4
+=1
+(1c
+=2
+2d
+2f)
+=3
+4g
+4f
+4e
+4d
+=4
+16cLL
+16d
+16e
+16fJJ
+16gLL
+16a
+16g
+16fJJ
+8eL
+8g
+8cc
+8aJ
+==
+*-

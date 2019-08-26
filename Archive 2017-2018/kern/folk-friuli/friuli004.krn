@@ -1,0 +1,72 @@
+!!!OTL@@FUR: Al &egrave; gnot e sc&ucirc;r di ploe
+!!!OTL@IT: E' notte e minaccia la pioggia
+!!!OTL@EN: It is night and darkened by clouds
+**kern
+*clefG2
+*k[f#c#]
+*D:
+*M2/4
+*MM120
+*>[A,B,C,B,D]
+*>A
+8d
+8e
+=1!|:
+*>B
+8f#
+8g
+8f#
+8e
+=2||
+*M3/4
+4f#
+4a
+8a
+8f#
+=3
+4g
+4a
+8b
+8g
+=4
+4f#
+4f#
+8d
+8e
+=5||
+*M2/4
+8f#
+8g
+8f#
+8e
+=6||
+*M3/4
+4f#
+4a
+8a
+8f#
+=7
+*>C
+4g
+4a
+8b
+8g
+=8
+4.f#
+8r
+8d
+8e
+=9:|!
+*>D
+4g
+4a
+8b
+8cc#
+=10
+2.dd
+==
+*-
+!!!ARE: Friuli
+!!!ENC: Kelly Leistikow
+!!!END: 2002/02/05
+!!!ref: @{OTL@@FUR}/@{OTL@EN}

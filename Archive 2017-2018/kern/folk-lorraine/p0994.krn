@@ -1,0 +1,86 @@
+!!!OTL: Der Reiter und seine Geliebte (3-22), S. 75
+!!!id: P0994
+**kern
+*clefG2
+*k[b-]
+*g:
+{16g
+16a
+=1
+8b-
+8dd
+8b-
+=2
+8dd
+8dd
+8dd
+=3
+8dd
+8cc
+8b-
+=4
+4a}
+=5
+{8b-
+=6
+8cc
+8cc
+16dd
+16dd
+=7
+8b-
+8b-
+8b-
+=8
+8a
+8a
+16g
+16g
+=9
+4dd}
+=10
+{8d
+=11
+8g
+8g
+16a
+16a
+=12
+8b-
+8dd
+8cc
+=13
+8b-
+8b-
+16a
+16a
+=14
+4g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/8 ]  ZZ[3
+!!!cut: Der Reiter und seine Geliebte (3-22), S. 75
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: XX  X_X_X_  X_X_X_  X_X_X_  X__
+!!!rhy2: X_  X_X_XX  X_X_X_  X_X_XX  X__
+!!!key: P0994  16  G 3/8 ]  ZZ[3
+!!!mod: PENTATONIK MOLL ?]  AMBITUS[8
+!!!kad: 251
+!!!akz: 3b552_43b25_13b3b1_
+!!!fot: 'a__b__c__
+!!!for: 'a__b__b__
+!!!fok: '^a_~a_^a_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Verf&uuml;hrung, Standesunterschied, Beischlaf, Tod
+!! LOTH VKL
+!! PR[20] 2K[0] 2G[23] 3K[3] 3G[0] 4A[3] 4Ü[0] 5A[7] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[37] ABS[30] SR[23] SP[13]
+!! ST[11] 2k[3] 2g[23] 3k[7] 3g[7] 4d[0] 4ü[0] 5d[3] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[43] dm[-6] sr[27] sp[17]
+!! 1F[18] 2F[70] 3F[6] 4F[0] LF[0] 2P[6] 3P[0] 4P[0] TRI[0] DF[4] AB[33]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[6] U6K[0] U6[3] U7K[0] U7[3]
+!! N1[29] N2K[0] N2[16] N3K[0] N3[13] N4[10] N4Ü[0] N5[16] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

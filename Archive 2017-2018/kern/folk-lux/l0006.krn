@@ -1,0 +1,67 @@
+!!!OTL: O Uodem, Strefuodem, S. 11
+!!!id: L0006
+**kern
+*clefG2
+*k[f#]
+*e:
+{4g
+=1
+4g
+4e
+4g
+=2
+4g
+4e
+4g
+=3
+4g
+4e
+4ee
+=4
+4cc}
+4r
+=5
+{4b
+=6
+4b
+4a
+4a
+=7
+4a
+4g
+4g
+=8
+4g
+4f#
+4b
+=9
+4e}
+2r
+==
+*-
+!!!minrhy: 4
+!!!meters: 3/4 ]  ZZ[2
+!!!cut: O Uodem, Strefuodem, S. 11
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1: X  XXX  XXX  XXX  X0
+!!!rhy2: X  XXX  XXX  XXX  X0_ // 
+!!!key: L0006  04  E 3/4 ]  ZZ[2
+!!!mod: SECHSTONSKALA MOLL ?]  AMBITUS[8
+!!!kad: 6b1
+!!!akz: 3b3b3b6b_543b1_
+!!!fot: 'a__b__
+!!!for: 'a__av_
+!!!fok: '^a_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Kinderlied
+!! FONTAINE, Ed.:
+!! PR[61] 2K[0] 2G[3] 3K[0] 3G[0] 4A[6] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[10] ABS[31] SR[3] SP[6]
+!! ST[8] 2k[10] 2g[19] 3k[0] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[29] dm[-19] sr[29] sp[0]
+!! 1F[63] 2F[3] 3F[0] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[3] AB[35]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[9] N2K[9] N2[0] N3K[69] N3[0] N4[13] N4Ü[0] N5[0] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

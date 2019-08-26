@@ -1,0 +1,64 @@
+!!!OTL: M&auml;dchen und Mörder (2-35) S. 111
+!!!id: P0908
+**kern
+*clefG2
+*k[f#]
+*e:
+{4b
+4b
+4a
+4.g
+8a
+4b
+4b
+8b
+8a
+4g}
+=1
+{4b
+4a
+4a
+4.e
+8e
+4a
+8g
+8f#
+4e
+4d}
+=2
+{4d
+4g
+4a
+4.b
+8f#
+4a
+4g
+4f#
+4e}
+==
+*-
+!!!minrhy: 8
+!!!meters: FREI]  ZZ[3 interpreted as [0/4, 0/4]
+!!!cut: M&auml;dchen und Mörder (2-35) S. 111
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X_X_X_X_.XX_X_XXX_
+!!!rhy2: X_X_X_X_.XX_XXX_X_
+!!!key: P0908  08  E FREI]  ZZ[3
+!!!mod: SECHSTONSKALA MOLL ?]  AMBITUS[6
+!!!kad: 3b-7b1
+!!!akz: 5_5_-7b_
+!!!fot: 'a__b__c__
+!!!for: 'a__b__c__
+!!!fok: '\__\__^a_
+!!!fkt: Mord
+!! LOTH VKL
+!! PR[17] 2K[4] 2G[19] 3K[6] 3G[6] 4A[8] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[42] ABS[53] SR[23] SP[19]
+!! ST[14] 2k[6] 2g[26] 3k[0] 3g[0] 4d[8] 4ü[0] 5d[2] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[42] dm[0] sr[32] sp[9]
+!! 1F[33] 2F[41] 3F[17] 4F[0] LF[0] 2P[9] 3P[0] 4P[0] TRI[0] DF[4] AB[54]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[7] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[19] N2K[0] N2[24] N3K[0] N3[22] N4[9] N4Ü[0] N5[15] N6K[0] N6[4]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

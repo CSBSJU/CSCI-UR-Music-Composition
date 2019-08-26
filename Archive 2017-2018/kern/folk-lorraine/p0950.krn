@@ -1,0 +1,94 @@
+!!!OTL: Mach auf (2-77) S. 230
+!!!id: P0950
+**kern
+*clefG2
+*k[b-]
+*g:
+{8d
+=1
+8d
+8g
+8g
+8f#
+4.g
+8a
+=2
+8b-
+8a
+4g
+4.a}
+=3
+{8g
+=4
+4f
+8a
+8a
+4g
+8d
+8e
+=5
+4f
+4e
+4d}
+8r
+=6
+{8dd
+=7
+8dd
+8cc
+8dd
+16dd
+16cc
+4.b-
+8cc
+=8
+8dd
+8ee-
+8dd
+16cc
+16b-
+4.a}
+=9
+{8g
+=10
+8g
+8f
+8g
+8a
+8b-
+8cc
+8dd
+8cc
+=11
+4b-
+4a
+4g}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[4
+!!!cut: Mach auf (2-77) S. 230
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X_  X_X_X_X_X__.X_  X_X_X__X__.   (x2)
+!!!rhy2: X_  X__X_X_X__X_X_  X__X__X__0
+!!!key: P0950  16  G 4/4 ]  ZZ[4
+!!!mod: NEUNTONSKALA MOLL ?]  AMBITUS[9b
+!!!kad: 2-521
+!!!akz: -513b2_-7b1-7b-5_53b52_13b3b1_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__c__d__
+!!!fok: '/__Sd_Sd_^__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebe. Fenstergang, Geklatsche der Mitb&uuml;rger
+!! LOTH VKL
+!! PR[33] 2K[0] 2G[20] 3K[3] 3G[7] 4A[3] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[33] ABS[30] SR[20] SP[13]
+!! ST[10] 2k[0] 2g[20] 3k[3] 3g[7] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[33] dm[0] sr[20] sp[13]
+!! 1F[31] 2F[59] 3F[9] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[3] AB[32]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[19] N2K[0] N2[35] N3K[0] N3[39] N4[0] N4Ü[0] N5[6] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

@@ -1,0 +1,111 @@
+!!!OTL: Folk song Number 20
+!!!CNT: Chinese
+**kern
+*k[f#]
+*M2/4
+8.dd
+16b
+=1
+[2dd
+=2
+4dd]
+(16dd
+16gg)
+(16dd
+16b)
+=3
+4g
+(4b
+=4
+2dd
+=5
+8gg)
+8r;
+(8.dd
+16b)
+=6
+[2dd
+=7
+4dd]
+(16dd
+16gg)
+(16dd
+16b)
+=8
+4g
+[(4b-
+=9
+4.b-;]
+16g
+16e
+=10
+8d)
+8r
+(8dd
+8b)
+=11
+[2dd
+=12
+4dd]
+(16dd
+16gg)
+(16dd
+16b)
+=13
+(4.g
+8e
+=14
+2d)
+*M5/8
+=15
+(16dd
+16b)
+8dd
+(16dd
+16gg)
+(16dd
+16b)
+8g
+=16
+(16dd
+16b)
+8dd
+(16dd
+16gg)
+(16dd
+16b)
+8g
+=17
+(16dd
+16b)
+8dd
+(16dd
+16gg)
+(16dd
+16b)
+8g
+*M2/4
+=18
+(4.b-;
+16g
+16e
+=19
+4d)
+4r
+==
+*-
+!!!PPR: Yin yueh ch'u pan she
+!!!OPR: Chung-kuo min ko Chung-kuo yin yueh yen chiu so pien [Chinese folk songs]
+!!!OCL: Chung-kuo yin yueh yen chiu so
+!!!PPP: Beijing, China
+!!!PDT: 1959///
+!!!SML: Edward Johnson Library, University of Toronto M1804.C4694C5
+!!!PPG: p.17
+!!!ENC: David Huron
+!!!EMD: Paul von Hippel updated this file in the following ways (1998/9/29/):
+!!!EMD:  (1) changed the representation of slurs from curly braces to parentheses 
+!!!EMD:  (2) changed freeform comments into reference records and tandem interpretations
+!!!EMD:  (3) changed final barline from quadruple (====) to double (==)
+!!!EMD:  (4) corrected the author, title, author, and call number of the printed source 
+!!!EMD:  (5) added a reference record ("!!!ENC: Chinese") on the nationality of the "composers"
+!!!EEV: Version 2.0

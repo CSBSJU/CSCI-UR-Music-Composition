@@ -1,0 +1,90 @@
+!!!OTL: Der Schuster und das M&auml;dchen (180b), S.395f
+!!!id: T0360
+**kern
+*clefG2
+*k[]
+*G:
+{8d
+=1
+4g
+8a
+4b
+8d
+=2
+4g
+8a
+4b}
+=3
+{8d
+=4
+4g
+8a
+4b
+8g
+=5
+4.a}
+4r
+=6
+{16d
+16d
+=7
+8g
+8g
+8g
+4a
+8b
+=8
+4.g
+4d}
+=9
+{8d
+=10
+8d
+8g
+8g
+4a
+8cc
+=11
+4.b
+4a}
+=12
+{8cc
+=13
+4b
+8g
+4a
+8a
+=14
+4.g}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 6/8 ]  ZZ[5
+!!!cut: Der Schuster und das M&auml;dchen (180b), S.395f
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette, 1937 posth.
+!!!rhy1: X_  X__X_X__X_  X__X_X__   (x2)
+!!!rhy2: X_  X__X_X__X_  X__.0_
+!!!key: T0360  16  G 6/8 ]  ZZ[5
+!!!mod: PENTATONIK DUR ?]  AMBITUS[7b
+!!!kad: 32-521
+!!!akz: 1313_132_121-5_-5232_321_
+!!!fot: 'a__aw_b__c__d__
+!!!for: 'a__aw_b__bv_aw_
+!!!fok: '/__/__^__^a_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Tage-, W&auml;chter-, Fenstergang-, St&auml;ndchenlieder, Liebeslied
+!!!bem1: Heffingen, fff Anna Kimmel, 12.4.1933
+!!!bem2: (181)- StraPen, hhh Nikolaus Lersch, um 1850, ohne Melodie;
+!!!bem3: (182)- StraPen, fff Witry, 13.12.1932, ohne Melodie
+!! THILL; Mathias
+!! PR[68] 2K[4] 2G[4] 3K[4] 3G[0] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[11] ABS[28] SR[7] SP[4]
+!! ST[0] 2k[7] 2g[14] 3k[0] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[21] dm[-10] sr[21] sp[0]
+!! 1F[0] 2F[100] 3F[0] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[1] AB[29]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[3] N2K[0] N2[17] N3K[0] N3[69] N4[7] N4Ü[0] N5[3] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

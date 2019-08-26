@@ -1,0 +1,83 @@
+!!!OTL@@FR: En roulant ma boule
+!!!OTL@EN: Keep the Ball A-Rolling
+!!!ARE: Canada
+!!!ONB: French-Canadian River Song
+!!!AMD: Pentatonic
+**kern
+*>[A,A1,A,A2,B,B,C,A,A1]
+*>norep[A,A2,B,C,A,A1]
+*>A
+=1-
+*clefG2
+*k[f#]
+*M6/8
+*MM120
+{4b/
+8a/
+4g/
+8d/
+=2
+8e/L
+8d/
+8e/J
+4.d/}
+=3
+{4b/
+8a/
+4g/
+8d/
+=4a
+*>A1
+4.e/
+4.g/}
+!! Fine
+==4b:|!
+*>A2
+4.e/
+4g/}
+=!|:
+*>B
+{8d/
+=5
+4g/
+8a/
+4g/
+8d/
+=6
+4e/
+8e/
+4.d/}
+=7
+{4g/
+8a/
+4g/
+8d/
+=8
+4.e/
+4d/}
+=:|!
+*>C
+{8d/
+=9
+4g/
+8g/
+4a/
+8a/
+=10
+4b/
+8g/
+4a/}
+{8g/
+=11
+4b/
+8g/
+4a/
+8g/
+=12
+8b/L
+8a/
+8g/J
+4.a/}
+!! Da Capo al Fine
+=
+*-

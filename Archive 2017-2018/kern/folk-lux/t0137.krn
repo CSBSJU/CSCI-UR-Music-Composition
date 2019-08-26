@@ -1,0 +1,89 @@
+!!!OTL: Der verwundete Knabe (21a), S87
+!!!id: T0137
+**kern
+*clefG2
+*k[]
+*G:
+{4d
+=1
+4b
+8a
+8a
+=2
+4g
+4d}
+=3
+{8ee
+8ee
+=4
+4.dd
+8cc
+=5
+4b
+4dd
+=6
+4a}
+4r
+=7
+{4dd
+=8
+8dd
+8dd
+8dd
+8cc
+=9
+4.b
+8cc
+=10
+4dd}
+=11
+{4ee
+=12
+8dd
+8dd
+8cc
+8b
+=13
+4.a
+8b
+=14
+4cc}
+=15
+{8cc
+8ee
+=16
+8dd
+8dd
+8dd
+8cc
+=17
+4b}
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 3/4 ]  ZZ[5
+!!!cut: Der verwundete Knabe (21a), S87
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_XX  X_X_
+!!!rhy2: XX  X_.X  X_X_  X_0_
+!!!key: T0137  08  G 2/4 3/4 ]  ZZ[5
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: -52543
+!!!akz: 31_532_535_524_53_
+!!!fot: 'a__b__c__d__bw_
+!!!for: 'a__b__c__c__cw_
+!!!fok: '^__\__V__Vd_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem: K&uuml;ntzig, fff Wachtmeister-Kaiser, 28.12.1932
+!! THILL, Mathias:
+!! PR[25] 2K[8] 2G[8] 3K[3] 3G[3] 4A[3] 4Ü[0] 5A[0] 6K[0] 6G[3]
+!! 7K[0] 7G[0] 8A[0] MEHR[3] SI[31] ABS[36] SR[17] SP[14]
+!! ST[10] 2k[11] 2g[25] 3k[3] 3g[0] 4d[6] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[44] dm[-13] sr[36] sp[8]
+!! 1F[56] 2F[33] 3F[0] 4F[0] LF[0] 2P[10] 3P[0] 4P[0] TRI[0] DF[3] AB[39]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[5] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[3] N2K[0] N2[11] N3K[0] N3[22] N4[19] N4Ü[0] N5[30] N6K[0] N6[11]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

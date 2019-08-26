@@ -1,0 +1,135 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonate a tre [in c]
+!!!XEN: Trio Sonata Opus 1, No. 8
+!!!OPS: Opus 1
+!!!ONM: No. 8
+!!!OMV: Movement 1.
+!!!OMD: Grave
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!! For the following instrumentation: Violino I & II, Violone/Archlute,
+!!    and Organo.
+!! Grave.
+**kern	**kern	**kern	**kern
+*ICklav	*ICstr	*ICstr	*ICstr
+*Iorgan	*Icello	*Ivioln	*Ivioln
+*	*Iarchl	*	*
+*I"Organo	*I"Violone (Archlute)	*I"Violino II	*I"Violino I
+!Organo	!Violone	!Violin 2	!Violin 1
+!	! or	!	!
+!	!Archlute	!	!
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*c:	*c:	*c:	*c:
+*M4/4	*M4/4	*M4/4	*M4/4
+*MM40	*MM40	*MM40	*MM40
+=1-	=1-	=1-	=1-
+4c\	4c\	4r	2cc\
+4A-\	4A-\	2cc\	.
+4G\	4G\	.	2dd\
+4GG/	4GG/	4b\	.
+=2	=2	=2	=2
+8C\L	8C\L	4cc\	2ee-\
+8D\	8D\	.	.
+8E-\	8E-\	2cc\	.
+8F\J	8F\J	.	.
+2G\	2G\	.	4dd\
+.	.	4b\	(8gg\L
+.	.	.	8ff\J)
+=3	=3	=3	=3
+4.c\	4.c\	4.cc\	(8ee-\L
+.	.	.	8ff\J)
+.	.	.	2gg\
+8B-\	8B-\	8dd\	.
+2A-\	2A-\	2cc\	.
+.	.	.	4ff\
+=4	=4	=4	=4
+2G\	2G\	2b\	2gg\
+2r	2r	2r	2r
+=5	=5	=5	=5
+4G\	4G\	4r	2gg\
+4E-\	4E-\	2gg\	.
+4D\	2D\	.	2aa\
+4DD/	.	4ff#\	.
+=6	=6	=6	=6
+8GG/L	8GG/L	4gg\	2bb-\
+8AA/	8AA/	.	.
+8BB-/	8BB-/	2gg\	.
+8C/J	8C/J	.	.
+2D\	2D\	.	4aa\
+.	.	4ff#\	(8ddd\L
+.	.	.	8ccc\J)
+=7	=7	=7	=7
+4.G\	4.G\	4.gg\	(8bb-\L
+.	.	.	8ccc\J)
+.	.	.	2ddd\
+8F\	8F\	8aa\	.
+2E-\	2E-\	2gg\	.
+.	.	.	4ccc\
+=8	=8	=8	=8
+2D\	2D\	2ff#\	2ddd\
+2F#\	2r	2r	4dd\
+.	.	.	4cc\
+=9	=9	=9	=9
+2G\	2r	4gg\	4b-\
+.	.	4ff\	4bn\
+4c\	4c\	4ee-\	4cc\
+4B-\	4B-\	4een\	4g/
+=10	=10	=10	=10
+4A-\	4A-\	4ff\	2cc\
+4An\	4An\	4ee-\	.
+4B-\	4B-\	2dd\	4gg\
+4Bn\	4Bn\	.	4ff\
+=11	=11	=11	=11
+4c\	4c\	4cc\	4ee-\
+4G\	4G\	4b-\	4een\
+4F\	4F\	4a-/	[2ff\
+4BB-/	4BB-/	4dd-\	.
+=12	=12	=12	=12
+2C/	2C/	2g/	4ff\]
+.	.	.	4ee\
+4F\	4F\	4f/	4ff\
+4E\	4E\	4g/	[4cc\
+=13	=13	=13	=13
+4F\	4F\	4a-/	4cc\]
+4F#\	4F#\	4an/	(8dd\L
+.	.	.	8cc\J)
+4G\	4G\	4d/	2b\
+4Fn\	4Fn\	4dd\	.
+=14	=14	=14	=14
+4E-\	4E-\	4g/	4cc\
+4En\	4En\	4gg\	4b-\
+4F\	4F\	4cc\	4a-/
+4F#\	4F#\	[4dd\	4an/
+=15	=15	=15	=15
+2G\	2G\	4dd\]	8b/L
+.	.	.	8g/J
+.	.	4ee-\	2cc\
+2GG/	2GG/	2dd\	.
+.	.	.	4b\
+=16	=16	=16	=16
+1C/	1C/	1cc\	1cc\
+==	==	==	==
+*-	*-	*-	*-
+!!!CDT: 1653/2/17/-1713/1/8
+!!!OCY: Italia
+!!!ODE: Queen Christina Alexandra of Sweden
+!!!ODT: 1681//
+!!!OPC: Roma; Rome
+!!!AGN: trio sonata
+!!!AST: baroque, chamber
+!!!AMT: simple quadruple
+!!!YOR1: J. Joachim & F. Chrysander (eds.) Les Oeuvre de Arcangelo Corelli
+!!!YOR2: London: Augener & Co. 1871
+!!!YOY: 1871
+!!!AIN: archl cello organ violn
+!!!EEV: 1.1
+!!!RDT: 1993 August 31
+!!!YER: 1994 December 14
+!!!EMD: 1996 July 9
+!!!YEN: United States of America
+!!!EFL: 1/4
+!!!ENC: Frances Bennion & Steven Rasmussen
+!!!EED: W.B. Hewlett
+!!!VTS: 2934375241

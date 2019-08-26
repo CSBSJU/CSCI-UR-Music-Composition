@@ -1,0 +1,52 @@
+!!!COM:	Martinu
+!!!OTL:	Mau-85/12/57-60
+**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part17	*part17	*part16	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff17	*	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Timpani	*I"Trumpet in C	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Bassoon	*I"Clarinet in Bb	*I"Clarinet in Bb	*I"Oboe	*I"Oboe	*I"Flute	*I"Piccolo
+*I'Cb.	*	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Timp.	*I'C Tpt.	*I'Hn.	*I'Hn.	*I'Bsn.	*I'Bsn.	*I'Cl.	*I'Cl.	*I'Ob.	*I'Ob.	*I'Fl.	*I'Picc.
+*clefF4	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*clefG2	*clefG2	*clefG2	*clefF4	*clefC4	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]	*k[]	*	*k[]	*	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8CC'	f	8C'L	8c'L	8c'L	8c'L	8C	8r	8r	8r	2.B	4e 4g	2.b	4ee 4gg	2.bb	4ee 4gg	4eee 4ggg	4ggg
+8r	f	(8E'J	(8e'J	(8e'J	(8e'J	8r	4cc~	4c~	4c~	.	.	.	.	.	.	.	.
+4r	.	8C')	8c')	8c')	8c')	4r	.	.	.	.	(8c 8e-	.	(8cc 8ee-	.	(8cc 8ee-	(8ccc 8eee-	(8eee-
+.	.	8r	8r	8r	8r	.	[8ee-	[8e-	[8e-	.	4e-) 4g	.	4ee-) 4gg	.	4ee-) 4gg	4eee-) 4ggg	4ggg)
+2r	.	8E-'L	8e-'L	8e-'L	8e-'L	4r	8ee-L]	8e-L]	8e-L]	.	.	.	.	.	.	.	.
+.	.	8C'J	8c'J	8c'J	8c'J	.	8cc'J	8c'J	8c'J	.	(8c 8e	.	(8cc 8ee	.	(8cc 8ee	(8ccc 8eee	(8eee
+*	*	*	*	*	*	*	*	*	*	*clefC4	*	*	*	*	*	*	*
+.	.	8r	8r	8r	8r	8r	8ee'	8e'	8e'	(4b	[4e [4g	(4B	[4ee [4gg	(4b	[4ee [4gg	[4eee [4ggg	[4ggg
+.	.	8E'	8e'	8e'	8e'	8F'	8r	8r	8r	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	.	8C'	8c'	8c'	8c'	8C'	4dd~	4d~	4d~	2.b)	4e]) 4g]	2.b)	4ee]) 4gg]	2.bb)	4ee]) 4gg]	4eee]) 4ggg]	4ggg])
+.	.	8r	8r	8r	8r	8r	.	.	.	.	.	.	.	.	.	.	.
+.	.	8E-'L	8e-'L	8e-'L	8e-'L	4r	[8ee-L	[8e-L	[8e-L	.	(8c 8e-	.	(8cc 8ee-	.	(8cc 8ee-	(8ccc 8eee-	(8eee-
+.	.	8C'J	8c'J	8c'J	8c'J	.	8ee-J]	8e-J]	8e-J]	.	4e-) 4g	.	4ee-) 4gg	.	4ee-) 4gg	4eee-) 4ggg	4ggg)
+.	.	8r	8r	8r	8r	4r	8cc'L	8c'L	8c'L	.	.	.	.	.	.	.	.
+.	.	8E'	8e'	8e'	8e'	.	8ee'J	8e'J	8e'J	.	(8c 8e	.	(8cc 8ee	.	(8cc 8ee	(8ccc 8eee	(8eee
+*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*
+.	.	8C'	8c'	8c'	8c'	8F'L	8r	8r	8r	(4B	[4e [4g	(4B	[4ee [4gg	(4b	[4ee [4gg	[4eee [4ggg	[4ggg
+.	.	8r	8r	8r	8r	8C'J	[8dd~	[8d~	[8d~	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	.	8E-'L	8e-'L	8ee-'L	8ee-'L	2r	8ddL]	8dL]	8dL]	2.B)	4e]) 4g]	2.b)	4ee]) 4gg]	2.bb)	4ee]) 4gg]	4eee]) 4ggg]	4ggg])
+.	.	8C'J	8c'J	8cc'J	8cc'J	.	[8ee-	[8e-	[8e-	.	.	.	.	.	.	.	.
+.	.	8r	8r	8r	8r	.	8ee-]	8e-]	8e-]	.	(8c 8e-	.	(8cc 8ee-	.	(8cc 8ee-	(8ccc 8eee-	(8eee-
+.	.	8E'	8e'	8ee'	8ee'	.	8cc'J	8c'J	8c'J	.	4e-) 4g	.	4ee-) 4gg	.	4ee-) 4gg	4eee-) 4ggg	4ggg)
+.	.	8C'	8c'	8cc'	8cc'	8r	8ee'	8e'	8e'	.	.	.	.	.	.	.	.
+.	.	8r	8r	8r	8r	8F'	8r	8r	8r	.	(8c 8e	.	(8cc 8ee	.	(8cc 8ee	(8ccc 8eee	(8eee
+.	.	8E-'L	8e-'L	8ee-'L	8ee-'L	8C'	[8dd~L	[8d~L	[8d~L	(4C	[4e [4g	(4B	[4ee [4gg	(4b	[4ee [4gg	[4eee [4ggg	[4ggg
+.	.	8C'J	8c'J	8cc'J	8cc'J	8r	8ddJ]	8dJ]	8dJ]	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8r	.	8r	8r	8r	8r	2r	[8ee-L	[8e-L	[8e-L	2.C)	4e]) 4g]	2.b)	4ee]) 4gg]	2.bb)	4ee]) 4gg]	4eee]) 4ggg]	4ggg])
+8EE-'	.	8E-'	8e-'	8ee-'	8eee-'	.	8ee-]	8e-]	8e-]	.	.	.	.	.	.	.	.
+8CC'	.	8C'	8c'	8cc'	8ccc'	.	8cc'	8c'	8c'	.	(8c 8e-	.	(8cc 8ee-	.	(8cc 8ee-	(8ccc 8eee-	(8eee-
+8r	.	8r	8r	8r	8r	.	8ee'J	8e'J	8e'J	.	4e-) 4g	.	4ee-) 4gg	.	4ee-) 4gg	4eee-) 4ggg	4ggg)
+8EE'L	.	8E'L	8e'L	8ee'L	8eee'L	8F'L	8r	8r	8r	.	.	.	.	.	.	.	.
+8CC'J	.	8C'J	8c'J	8cc'J	8ccc'J	8C'J	8r	8r	8r	.	(8c 8e	.	(8cc 8ee	.	(8cc 8ee	(8ccc 8eee	(8eee
+8r	.	8r	8r	8r	8r	4r	4r	4r	4r	(4BB)	[4e) [4g	(4B)	[4ee) [4gg	(4b)	[4ee) [4gg	[4eee) [4ggg	[4ggg)
+(8EE')	.	(8E')	(8e')	(8ee')	(8eee')	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9,s10,s11)][(s12)][(s13,s14,s15,s16,s17)]
+!!!YEM:	Copyright © Natalie Dietterich

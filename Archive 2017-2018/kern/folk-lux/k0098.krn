@@ -1,0 +1,129 @@
+!!!OTL: Wie die Bl&uuml;mlein drau&szlig;en zittern (1-24), S. 65
+!!!id: K0098
+**kern
+*clefG2
+*k[]
+*C:
+{8.g
+16a
+=1
+4g
+4e
+8.cc
+16dd
+=2
+4cc
+4b}
+=3
+{8d
+8d
+=4
+4b
+4a
+8.g
+16f
+=5
+4e}
+4r
+=6
+{8.g
+16a
+=7
+4g
+4e
+8.cc
+16dd
+=8
+4cc
+4b}
+=9
+{8d
+8d
+=10
+4b
+4a
+8g
+8f
+=11
+4e}
+8r
+=12
+{8g
+8g
+8ee
+=13
+4.cc
+8b
+8a
+8ff
+=14
+4.dd}
+=15
+{8cc
+8b
+8cc
+=16
+8.dd
+16g
+8g
+8g
+8a
+8b
+=17
+4cc}
+8r
+=18
+{8g
+8g
+8ee
+=19
+4.cc
+8b
+8a
+8ff
+=20
+4.dd}
+=21
+{8cc
+8b
+8cc
+=22
+8.dd
+16g
+8g
+8g
+8a
+8b
+=23
+4cc}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[8
+!!!cut: Wie die Bl&uuml;mlein drau&szlig;en zittern (1-24), S. 65
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 1, Luxemburg 1926
+!!!rhy1: X_.X  X__X__X_.X  X__X__
+!!!rhy2: X_X_  X__X__X_.X  X__0__
+!!!key: K0098  16  C 3/4 ]  ZZ[8
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[10b
+!!!kad: 7373+2+1+2+1
+!!!akz: 5+1_73_5+1_73_+1+2_+2+1_+1+2_+2+1_
+!!!fot: 'a__b__a__b__c__d__c__d__
+!!!for: 'a__aw_a__b__c__d__c__dv_
+!!!fok: '^a_^a_^a_^a_^a_V__^a_V__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Trennung, Abschied
+!!!bem: in der Quelle mit einer 2. Stimme versehen
+!! KINTZELE
+!! PR[5] 2K[9] 2G[16] 3K[7] 3G[7] 4A[4] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[44] ABS[55] SR[25] SP[18]
+!! ST[16] 2k[15] 2g[29] 3k[2] 3g[4] 4d[2] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[51] dm[-7] sr[44] sp[7]
+!! 1F[27] 2F[50] 3F[17] 4F[0] LF[0] 2P[7] 3P[0] 4P[0] TRI[0] DF[4] AB[60]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[4] U6K[0] U6[0] U7K[0] U7[11]
+!! N1[25] N2K[0] N2[21] N3K[0] N3[20] N4[11] N4Ü[0] N5[7] N6K[0] N6[2]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: ÃŸ)
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

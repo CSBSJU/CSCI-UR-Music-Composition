@@ -1,0 +1,99 @@
+!!image-file:	209_original_image.tiff
+!!image-id:	m-a64cefed-0d5c-48c2-a292-a0868c7a9208
+!!system: 1, page 209
+**kern	**neume	**facs
+*clefF3	*	*
+(F	epiphonus	108,200,91,158
+G)	.	.
+(E	clivis	172,233,139,191
+D)	.	.
+(F	clivis	212,229,179,175
+E)	.	.
+(C	podatus	261,242,242,190
+E)	.	.
+(F	porrectus	333,220,266,150
+D	.	.
+E)	.	.
+(E.	clivis	410,238,363,190
+D)	.	.
+=||	=||	=||
+!!system: 2, page 209
+*clefC4	*	*
+(G	podatus	94,439,77,399
+A)	.	.
+(G	clivis	158,457,123,417
+F)	.	.
+A	virga	183,459,165,399
+G	punctum	204,445,189,408
+F	punctum	220,478,206,430
+G	punctum	247,436,228,416
+(E	torculus	327,471,277,416
+G	.	.
+F)	.	.
+F	punctum	351,455,334,433
+(F.	clivis	426,489,381,420
+E)	.	.
+=||	=||	=||
+!!system: 3, page 209
+*clefC4	*	*
+F	punctum	94,680,77,659
+D.	punctum	155,713,126,679
+(G	podatus	168,665,149,626
+A)	.	.
+G	punctum	191,686,175,637
+F	punctum	205,684,192,659
+(G	torculus	262,664,215,628
+A	.	.
+G)	.	.
+(E	torculus	344,697,294,644
+G	.	.
+F)	.	.
+F	punctum	367,680,351,659
+(F.	clivis	444,715,398,649
+E)	.	.
+=||	=||	=||
+!!system: 4, page 209
+!!system: 5, page 209
+!!system: 6, page 209
+*clefC3	*	*
+(A	scandicus	113,1375,80,1321
+B	.	.
+c)	.	.
+(c	torculus	193,1342,143,1279
+d	.	.
+c)	.	.
+(B	torculus	261,1360,200,1305
+d	.	.
+c.)	.	.
+(A	torculus	334,1374,263,1310
+c	.	.
+B	.	.
+c)	.	.
+(A	torculus	385,1391,336,1312
+B	.	.
+G)	.	.
+(G	torculus	464,1392,416,1344
+A	.	.
+G)	.	.
+=||	=||	=||
+G.	punctum	526,1392,496,1371
+!!system: 7, page 209
+*clefC4	*	*
+G	punctum	95,1585,77,1565
+(G	torculus	207,1604,125,1547
+A	.	.
+F	.	.
+G)	.	.
+(G	podatus	256,1586,238,1548
+A)	.	.
+(c	porrectus	328,1573,262,1513
+A	.	.
+B)	.	.
+(A.	clivis	405,1596,358,1538
+G)	.	.
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=209
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

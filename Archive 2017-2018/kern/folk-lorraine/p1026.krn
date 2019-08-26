@@ -1,0 +1,86 @@
+!!!OTL: Es blaset ein J&auml;ger wohl in sein Horn (3-54), S. 157
+!!!id: P1026
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+=1
+4g
+8f#
+8e
+=2
+4d
+8d
+8d
+=3
+4cc
+4cc
+=4
+4.b}
+=5
+{8b
+=6
+8b
+8a
+8cc
+8a
+=7
+4g
+8g
+8b
+=8
+4a
+8a
+8f#
+=9
+4.g}
+=10
+{16g
+16g
+=11
+8f#
+8a
+8a
+16a
+16a
+=12
+8g
+8b
+8dd}
+=13
+{8cc
+=14
+4b
+8a
+8a
+=15
+4.g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[4
+!!!cut: Es blaset ein J&auml;ger wohl in sein Horn (3-54), S. 157
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X_  X__X_X_  X__X_X_  X__X__  X__.   (x2)
+!!!rhy2: X_  X_X_X_X_  X__X_X_  X__X_X_  X__.
+!!!key: P1026  16  G 2/4 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 3151
+!!!akz: 1-543_3121_-71_31_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__c__aw_
+!!!fok: '~a_\__/__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Jagdlied
+!! LOTH VKL
+!! PR[41] 2K[5] 2G[8] 3K[8] 3G[3] 4A[3] 4Ü[0] 5A[0] 6K[0] 6G[3]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[30] ABS[37] SR[14] SP[16]
+!! ST[15] 2k[5] 2g[14] 3k[5] 3g[3] 4d[0] 4ü[0] 5d[0] 6k[3] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[30] dm[0] sr[19] sp[11]
+!! 1F[16] 2F[53] 3F[21] 4F[0] LF[0] 2P[11] 3P[0] 4P[0] TRI[0] DF[4] AB[38]
+!! TF[3] U3K[0] U3[3] U4[3] U4Ü[0] U5[21] U6K[0] U6[21] U7K[0] U7[11]
+!! N1[21] N2K[0] N2[8] N3K[0] N3[8] N4[3] N4Ü[0] N5[0] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

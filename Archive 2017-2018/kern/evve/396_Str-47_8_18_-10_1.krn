@@ -1,0 +1,116 @@
+!!!COM:	Stravinsky
+!!!OTL:	Str-47/8/1[8]-[10]1
+**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern
+*part6	*part5	*part4	*part4	*part3	*part2	*part1	*part1
+*staff7	*staff6	*staff5	*	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*I"Viola	*	*I"Violin II	*I"Violin I	*I"Piano	*
+*I'Cb.	*I'Vc.	*I'Vla.	*	*I'Vln. II	*I'Vln. I	*I'Pno.	*
+*clefF4	*clefF4	*clefC3	*	*clefG2	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]
+*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1
+4CC	4C	12G'L	.	12e-'L	12g'L	1r	1r
+.	.	12G'J	.	12e-'J	12g'J	.	.
+.	.	12r	.	12r	12r	.	.
+4AA	4A	8r	.	8r	8r	.	.
+.	.	8G	sf	8e-	8g	.	.
+4AAA	4AA	4r	.	4r	4r	.	.
+4CC	4C	12G'L	.	12e-'L	12g'L	.	.
+.	.	12G'J	.	12e-'J	12g'J	.	.
+.	.	12r	.	12r	12r	.	.
+=2	=2	=2	=2	=2	=2	=2	=2
+4AA	4A	12G'L	.	12e-'L	12g'L	1r	1r
+.	.	12G'J	.	12e-'J	12g'J	.	.
+.	.	12r	.	12r	12r	.	.
+4AAA	4AA	12G'L	.	12e-'L	12g'L	.	.
+.	.	12G'J	.	12e-'J	12g'J	.	.
+.	.	12r	.	12r	12r	.	.
+4CC	4C	8r	.	8r	8r	.	.
+.	.	8G	sf	8e-	8g	.	.
+4AA	4A	4r	.	4r	4r	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4AAA	4AA	12G'L	.	12g'L	12b-'L	1r	12ggL 12bb- 12ccc- 12ddd- 12fff
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+4CC	4C	12G'L	.	12g'L	12b-'L	.	12dd-L 12ee- 12gg 12bb-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+4AA	4A	8r	.	8r	8r	.	8r
+.	.	8G 8g 8b-	.	8G 8g 8b-	8G 8g 8b-	.	8g 8b- 8cc 8ee 8gg 8bb- 8ccc- 8eeen 8ggg
+4AAA	4AA	4r	.	4r	4r	.	4r
+=4	=4	=4	=4	=4	=4	=4	=4
+4CC	4C	12G'L	.	12g'L	12b-'L	1r	12dd-L 12ee- 12gg 12bb-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+4AA	4A	8r	.	8r	8r	.	8r
+.	.	8G 8g 8b-	.	8G 8g 8b-	8G 8g 8b-	.	8g 8b- 8cc 8ee 8gg 8bb- 8ccc
+4AAA	4AA	4r	.	4r	4r	.	4r
+4CC	4C	12G'L	.	12g'L	12b-'L	.	12dd-L 12ee- 12gg 12bb-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+=5	=5	=5	=5	=5	=5	=5	=5
+!!linebreak:original
+*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4
+4AA	4A	12G'L	.	12g'L	12b-'L	2.r	12eenL 12gg 12bb- 12ccc
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12cc 12ee 12gg
+.	.	12r	.	12r	12r	.	12r
+4AAA	4AA	8r	.	8r	8r	.	8r
+.	.	8G 8g 8b-	.	8G 8g 8b-	8G 8g 8b-	.	8g 8b- 8dd- 8ee- 8gg 8bb- 8ddd-
+4CC	4C	4r	.	4r	4r	.	4r
+=6	=6	=6	=6	=6	=6	=6	=6
+*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4
+4AA	4A	12G'L	.	12g'L	12b-'L	1r	12ee-L 12gg 12bb- 12ddd- 12eee-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+4AAA	4AA	8r	.	8r	8r	.	8r
+.	.	8G 8g 8b-	.	8G 8g 8b-	8G 8g 8b-	.	8g 8b- 8cc 8ee 8gg 8bb- 8ccc 8eee
+4CC	4C	4r	.	4r	4r	.	4r
+4AA	4A	12G'L	.	12g'L	12b-'L	.	12eenL 12gg 12bb- 12ccc
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12cc 12ee 12gg
+.	.	12r	.	12r	12r	.	12r
+=7	=7	=7	=7	=7	=7	=7	=7
+*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4
+4AAA	4AA	12G'L	.	12g'L	12b-'L	2.r	12ee-L 12gg 12bb- 12ddd-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee-X 12gg
+.	.	12r	.	12r	12r	.	12r
+4CC	4C	12G'L	.	12g'L	12b-'L	.	12ee-L 12gg 12bb- 12ddd- 12eee-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+4AA	4A	8r	.	8r	8r	.	8r
+.	.	8G 8g 8b-	.	8G 8g 8b-	8G 8g 8b-	.	8g 8b- 8cc 8ee 8gg 8bb- 8ccc 8eeen
+=8	=8	=8	=8	=8	=8	=8	=8
+!!pagebreak:original
+*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4
+4AAA	4AA	4r	.	4r	4r	1r	4r
+4CC	4C	12G'L	.	12g'L	12b-'L	.	12dd-L 12ee- 12gg 12bb-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+4AA	4A	12G'L	.	12g'L	12b-'L	.	12eenL 12gg 12bb- 12ccc
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12cc 12een 12gg
+.	.	12r	.	12r	12r	.	12r
+4AAA	4AA	12G'L	.	12g'L	12b-'L	.	12ee-L 12gg 12bb- 12ddd-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+=9	=9	=9	=9	=9	=9	=9	=9
+*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4
+4CC	4C	12G'L	.	12g'L	12b-'L	2.r	12ee-L 12gg 12bb- 12ddd- 12eee-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+4AA	4A	8r	.	8r	8r	.	8r
+.	.	8G 8g 8b-	.	8G 8g 8b-	8G 8g 8b-	.	8g 8b- 8cc 8ee 8gg 8bb- 8ccc 8eee
+4AAA	4AA	4r	.	4r	4r	.	4r
+=10	=10	=10	=10	=10	=10	=10	=10
+*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4
+4CC	4C	12G'L	.	12g'L	12b-'L	1r	12ee-L 12gg 12bb- 12ddd- 12eee-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee-X 12gg
+.	.	12r	.	12r	12r	.	12r
+4AA	4A	8r	.	8r	8r	.	8r
+.	.	8G 8g 8b-	.	8G 8g 8b-	8G 8g 8b-	.	8g 8b- 8cc 8ee 8gg 8bb- 8ccc 8eee
+4AAA	4AA	4r	.	4r	4r	.	4r
+4CC	4C	12G'L	.	12g'L	12b-'L	.	12dd-XL 12ee- 12gg 12bb-
+.	.	12G'J	.	12g'J	12b-'J	.	12gJ 12b- 12dd- 12ee- 12gg
+.	.	12r	.	12r	12r	.	12r
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}[(s3,s4,s5,s6,s7)]
+!!!YEM:	Copyright © Natalie Dietterich

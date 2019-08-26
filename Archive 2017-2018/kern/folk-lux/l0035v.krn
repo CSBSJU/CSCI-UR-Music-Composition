@@ -1,0 +1,83 @@
+!!!OTL: Man scheckt Jokele aus, S. 42
+!!!id: L0035V
+**kern
+*clefG2
+*k[f#c#g#]
+*A:
+{16a
+=1
+16a
+4a
+8a
+8b
+=2
+8cc#
+8cc#
+8cc#}
+8r
+=3
+{8ee
+8ee
+8dd
+8b
+=4
+8dd
+8cc#
+4b}
+=5
+{8a
+8a
+8a
+8b
+=6
+8a
+8g#
+8f#
+8e}
+=7
+{8a
+8a
+16a
+16a
+8b
+=8
+4cc#
+4cc#}
+=9
+{8cc#
+8b
+8a
+8g#
+=10
+4b
+4a}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[5
+!!!cut: Man scheckt Jokele aus, S. 42
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1:   X__X_X_  X_X_X_0   (x2)
+!!!rhy2: X_X_X_X_  X_X_X__
+!!!key: L0035V 16  A 2/4 ]  ZZ[5
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 32-531
+!!!akz: 13_54_11_13_32_
+!!!fot: 'a__b__bs"av_c__
+!!!for: 'a__b__bw_c__d__
+!!!fok: '/__\__\__/__\__
+!! PHRAS[VOLLTAKTIG]
+!!!fkt: ??, Kinderlied
+!!!bem1: 2 Weisen;
+!!!bem2: 1. Weise mit Sign. 0034
+!! FONTAINE, Ed.:
+!! PR[11] 2K[6] 2G[17] 3K[0] 3G[6] 4A[9] 4Ü[0] 5A[2] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[40] ABS[47] SR[23] SP[17]
+!! ST[10] 2k[6] 2g[32] 3k[4] 3g[0] 4d[0] 4ü[0] 5d[6] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[49] dm[-9] sr[38] sp[11]
+!! 1F[48] 2F[50] 3F[0] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[3] AB[52]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[15] U6K[0] U6[10] U7K[0] U7[4]
+!! N1[23] N2K[0] N2[25] N3K[0] N3[19] N4[4] N4Ü[0] N5[0] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

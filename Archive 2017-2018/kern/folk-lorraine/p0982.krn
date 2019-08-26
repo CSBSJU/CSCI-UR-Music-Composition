@@ -1,0 +1,96 @@
+!!!OTL: Klostergang (3-11), S. 41
+!!!id: P0982
+**kern
+*clefG2
+*k[b-]
+*F:
+{4f
+=1
+4f
+4f
+=2
+*M4/4
+2.a
+4b-
+=3
+*M2/4
+4a
+8b-
+8dd
+=4
+2.cc}
+=5
+{4a
+=6
+4g
+4cc
+=7
+*M4/4
+2.b-
+4g
+=8
+*M2/4
+4g
+8cc
+8b-
+=9
+2.a}
+=10
+{4f
+=11
+4f
+4f
+=12
+*M4/4
+2.dd
+4dd
+=13
+*M2/4
+4ff
+4dd
+=14
+2cc
+=15yy
+4a}
+=16
+{4cc
+=17
+4cc
+4cc
+=18
+*M4/4
+2b-
+2g
+=19
+*M2/4
+4cc
+4b-
+=20
+2.a}
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 4/4 ]  ZZ[4
+!!!cut: Klostergang (3-11), S. 41
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X_  X_X_  X__.X_  X_XX  X__.
+!!!rhy2: X_  X_X_  X__.X_  X_XX  X__.
+!!!key: P0982  08  F 2/4 4/4 ]  ZZ[4
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 5333
+!!!akz: 133355_244233_166+153_542533_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__a__b__c__
+!!!fok: '/__^__^a_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: yyy
+!! LOTH VKL
+!! PR[24] 2K[6] 2G[3] 3K[6] 3G[6] 4A[9] 4Ü[0] 5A[0] 6K[0] 6G[3]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[32] ABS[34] SR[9] SP[24]
+!! ST[16] 2k[6] 2g[18] 3k[15] 3g[3] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[44] dm[-12] sr[24] sp[21]
+!! 1F[11] 2F[63] 3F[9] 4F[0] LF[0] 2P[0] 3P[17] 4P[0] TRI[0] DF[4] AB[35]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[17] N2K[0] N2[14] N3K[0] N3[17] N4[14] N4Ü[0] N5[23] N6K[0] N6[11]
+!!!n7k: 0] N7[0] O1[3] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

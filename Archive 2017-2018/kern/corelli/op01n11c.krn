@@ -1,0 +1,173 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonate a tre [in d]
+!!!XEN: Trio Sonata Opus 1, No. 11
+!!!OPS: Opus 1
+!!!ONM: No. 11
+!!!OMV: Movement 3.
+!!!OMD: Adagio
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!! For the following instrumentation: Violino I & II, Violone/Archlute,
+!!    and Organo.
+!! Adagio.
+**kern	**kern	**kern	**kern
+*ICklav	*ICstr	*ICstr	*ICstr
+*Iorgan	*Icello	*Ivioln	*Ivioln
+*	*Iarchl	*	*
+*I"Organo	*I"Violone (Archlute)	*I"Violino II	*I"Violino I
+!Organo	!Violone	!Violin 2	!Violin 1
+!	! or	!	!
+!	!Archlute	!	!
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:	*d:
+*M3/2	*M3/2	*M3/2	*M3/2
+*MM108	*MM108	*MM108	*MM108
+=1-	=1-	=1-	=1-
+1.D\	1.D\	2r	2r
+.	.	2dd\	2ff\
+.	.	2ee\	2gg\
+=2	=2	=2	=2
+2.D\	2.D\	2.ff\	2.aa\
+4E\	4E\	4ee\	4gg\
+2F\	2F\	2dd\	2ff\
+=3	=3	=3	=3
+2D\	2D\	2ff\	2aa\
+1G\	1G\	2.ee\	2.gg\
+.	.	4dd\	4ff\
+=4	=4	=4	=4
+1A\	1A\	1cc#\	1ee\
+2F\	2F\	2a/	2r
+=5	=5	=5	=5
+1G\	1G\	1b\	2r
+.	.	.	2r
+2A\	2A\	2cc#\	2ee\
+=6	=6	=6	=6
+2D\	2D\	[1.dd\	2ff\
+2E\	2E\	.	2gg\
+2F\	2F\	.	2aa\
+=7	=7	=7	=7
+2G\	2G\	2dd\]	2bb-\
+2A\	2A\	2.dd\	2.ee\
+2AA/	2AA/	.	.
+.	.	4cc#\	4ee\
+=8	=8	=8	=8
+1D\	1D\	1dd\	1dd\
+2D\	2D\	2f/	2b-\
+=9	=9	=9	=9
+1C/	1C/	1e/	(2b-\
+.	.	.	2a/)
+2AA/	2AA/	2f/	2a/
+=10	=10	=10	=10
+1BB-/	1BB-/	1d/	(2a/
+.	.	.	2g/)
+2BB-/	2BB-/	2e/	2g/
+=11	=11	=11	=11
+1AA/	1AA/	1c#/	1a/
+2AA/	2AA/	2cc#\	2aa\
+=12	=12	=12	=12
+1BB/	1BB/	1dd\	(2aa\
+.	.	.	2gg\)
+2C#/	2C#/	2ee\	2gg\
+=13	=13	=13	=13
+1D\	1D\	1a/	(2gg\
+.	.	.	2ff\)
+2E\	2E\	2ee\	2gg#\
+=14	=14	=14	=14
+1F#\	1F#\	(2ee\	1aa\
+.	.	2dd\)	.
+2G#\	2G#\	2dd\	2bb\
+=15	=15	=15	=15
+1A\	1A\	(2dd\	1ee\
+.	.	2cc\)	.
+2C/	2C/	2cc\	2r
+=16	=16	=16	=16
+1D\	1D\	2b-\	2r
+.	.	2a/	2r
+2E\	2E\	2g#/	2ee\
+=17	=17	=17	=17
+2F\	2F\	[1.a/	2dd\
+2E\	2E\	.	2cc\
+2D\	2D\	.	2b\
+=18	=18	=18	=18
+2E\	2E\	2a/]	2cc\
+1EE/	1EE/	2.a/	2.b\
+.	.	4g#/	4b\
+=19	=19	=19	=19
+1AA/	1AA/	1a/	1a/
+2AA/	2AA/	2aa\	2cc#\
+=20	=20	=20	=20
+1BB/	1BB/	(2aa\	1dd\
+.	.	2gg\)	.
+2C#/	2C#/	2gg\	2ee\
+=21	=21	=21	=21
+1D\	1D\	(2gg\	1a/
+.	.	2ff\)	.
+2AA/	2AA/	2cc\	2ff\
+=22	=22	=22	=22
+1GG/	1GG/	1b-\	1ff\
+2C/	2C/	2b-\	2ee\
+=23	=23	=23	=23
+1FF/	1FF/	1a/	1ff\
+2AA/	2AA/	2ccc\	2ff\
+=24	=24	=24	=24
+1C/	1C/	2gg\	1ee\
+.	.	2gg\	.
+2C/	2C/	2aa\	2ee\
+=25	=25	=25	=25
+1GG/	1GG/	1bb-\	2dd\
+.	.	.	2dd\
+2G\	2G\	2bb-\	2ee\
+=26	=26	=26	=26
+2F\	2F\	2aa\	2ff\
+2c\	2c\	2.gg\	2.ff\
+2C/	2C/	.	.
+.	.	4gg\	4ee\
+=27	=27	=27	=27
+1F\	1F\	1ff\	1ff\
+2F\	2F\	2ff\	2r
+=28	=28	=28	=28
+1G\	1G\	2ee-\	2r
+.	.	2dd\	2r
+2A\	2A\	2cc#\	2aa\
+=29	=29	=29	=29
+2B-\	2B-\	[1.dd\	2gg\
+2A\	2A\	.	2ff\
+2G\	2G\	.	2ee\
+=30	=30	=30	=30
+2A\	2A\	2dd\]	2ff\
+1AA/	1AA/	2.dd\	2.ee\
+.	.	4cc#\	4ee\
+=31	=31	=31	=31
+1D\	1D\	1dd\	1dd\
+[2D\	[2D\	[2a/	[2f/
+=32	=32	=32	=32
+2D\]	2D\]	2a/]	2f/]
+1BB-/	1BB-/	2.d/	2.g/
+.	.	4c#/	4a/
+=33	=33	=33	=33
+1.AA/	1.AA/	1.c#/	1.a/
+==	==	==	==
+*-	*-	*-	*-
+!!!CDT: 1653/2/17/-1713/1/8
+!!!OCY: Italia
+!!!ODE: Queen Christina Alexandra of Sweden
+!!!ODT: 1681//
+!!!OPC: Roma; Rome
+!!!AGN: trio sonata
+!!!AST: baroque, chamber
+!!!AMT: simple triple
+!!!YOR1: J. Joachim & F. Chrysander (eds.) Les Oeuvre de Arcangelo Corelli
+!!!YOR2: London: Augener & Co. 1871
+!!!YOY: 1871
+!!!AIN: archl cello organ violn
+!!!EEV: 1.1
+!!!RDT: 1993 September 16
+!!!YER: 1994 December 14
+!!!EMD: 1996 July 9
+!!!YEN: United States of America
+!!!EFL: 3/4
+!!!ENC: Frances Bennion & Steven Rasmussen
+!!!EED: W.B. Hewlett
+!!!VTS: 2453930982

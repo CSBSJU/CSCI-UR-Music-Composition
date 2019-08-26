@@ -1,0 +1,54 @@
+!!!OTL: De profundis, S. 25
+!!!id: L0018
+**kern
+*clefG2
+*k[b-]
+*F:
+{4a
+4a
+4a
+4a
+4a
+4g
+4a
+4b-
+2a}
+=1
+{4a
+4g
+8b-
+4cc
+4b-
+8a
+4a
+2g
+4e
+2f}
+==
+*-
+!!!minrhy: 8
+!!!meters: FREI]  ZZ[2 interpreted as [0/4, 0/4]
+!!!cut: De profundis, S. 25
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1: X_X_X_X_X_X_X_X_X__
+!!!rhy2: X_X_XX_X_XX_X__X_X__ // 
+!!!key: L0018  08  F FREI]  ZZ[2
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[6b
+!!!kad: 31
+!!!akz: 3_3_
+!!!fot: 'a__b__
+!!!for: 'a__b__
+!!!fok: '-__^d_
+!!!fkt: geistliches, religiöses Lied
+!!!bem: psalmierend
+!! FONTAINE, Ed.:
+!! PR[23] 2K[0] 2G[6] 3K[17] 3G[10] 4A[2] 4Ü[0] 5A[2] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[38] ABS[48] SR[6] SP[31]
+!! ST[14] 2k[2] 2g[17] 3k[10] 3g[2] 4d[2] 4ü[0] 5d[6] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[40] dm[-2] sr[19] sp[21]
+!! 1F[12] 2F[75] 3F[13] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[3] AB[52]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[2] U6K[0] U6[0] U7K[0] U7[2]
+!! N1[18] N2K[0] N2[20] N3K[0] N3[31] N4[0] N4Ü[0] N5[24] N6K[0] N6[2]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

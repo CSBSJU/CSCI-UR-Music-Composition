@@ -1,0 +1,251 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 3, No. 3
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*F:	*F:	*F:	*F:
+*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1
+4B-	4B-	1r	8r
+.	.	.	8dd
+4A	4A	.	8cc
+.	.	.	8ff
+4G	4G	.	8r
+.	.	.	8bb-
+4F	4F	.	8aa
+.	.	.	8ddd
+=2	=2	=2	=2
+4E-	4E-	1r	8r
+.	.	.	8gg
+4D	4D	.	8ff
+.	.	.	8bb-
+4E-	4E-	.	16gg
+.	.	.	16ff
+.	.	.	16ee-
+.	.	.	16dd
+4F	4F	.	8.cc
+.	.	.	16b-
+=3	=3	=3	=3
+4B-	4B-	8r	4b-
+.	.	8dd	.
+4A	4A	8cc	8r
+.	.	8ff	8cc
+4G	4G	8r	8b-
+.	.	8bb-	8ee-
+4F	4F	8aa	8r
+.	.	8ddd	8a
+=4	=4	=4	=4
+4E-	4E-	8r	8g
+.	.	8gg	8cc
+4D	4D	8ff	8r
+.	.	8bb-	8ff
+4E-	4E-	16gg	8gg
+.	.	16ff	.
+.	.	16ee-	8bb-
+.	.	16dd	.
+4F	4F	8.cc	8r
+.	.	.	8aa
+.	.	16ff	.
+=5	=5	=5	=5
+4B-	4B-	8dd	8bb-
+.	.	4bb-	8gg
+4F	4F	.	8cc
+.	.	4aa	8ff
+4G	4G	.	8b-
+.	.	4gg	8ee-
+4D	4D	.	8a
+.	.	[8ff	8dd
+=6	=6	=6	=6
+4E-	4E-	8ff]	8g
+.	.	4ee-	8cc
+4BB-	4BB-	.	8f
+.	.	8dd	8b-
+4E-	4E-	16g	16gg
+.	.	16a	16ff
+.	.	8b-	16ee-
+.	.	.	16dd
+4F	4F	8.b-	8.cc
+.	.	16a	16cc
+=7	=7	=7	=7
+4B-	4B-	8b-	8dd
+.	.	8dd	4gg
+4A	4A	4cc	.
+.	.	.	8ff#
+8G	8G	8b-	8gg
+8F	8F	8a	4dd
+4E-	4E-	4g	.
+.	.	.	8cc
+=8	=8	=8	=8
+8D	8D	8f#	8dd
+8d	8d	8ff#	4ddd
+8e-	8e-	8gg	.
+8c	8c	8aa	4ccc
+8F#	8F#	8dd	.
+8G	8G	4gg	8bb-
+8C	8C	.	4aa
+8D	8D	8ff#	.
+=9	=9	=9	=9
+4GG	4GG	8gg	8gg
+.	.	8ee-	4gg
+4D	4D	8a	.
+.	.	8dd	4ff
+4E-	4E-	8g	.
+.	.	8cc	4ee-
+4BB-	4BB-	8f	.
+.	.	8ff	8dd
+=10	=10	=10	=10
+4E-	4E-	8ee-	16g
+.	.	.	16a
+.	.	8dd	8b-
+4F	4F	4cc	8.b-
+.	.	.	16a
+8BB-	8BB-	8b-	4b-
+8B-	8B-	8dd	.
+8A	8A	8cc	8r
+8F	8F	8a	8ff
+=11	=11	=11	=11
+8B-	8B-	8r	8dd
+8BB-	8BB-	8dd	8b-
+8AA	8AA	8cc	8r
+8FF	8FF	8a	8ff
+8BB-	8BB-	8r	8dd
+8AA	8AA	8ccc	4ff
+4GG	4GG	4bb-	.
+.	.	.	8ee
+=12	=12	=12	=12
+8FF	8FF	8aa	8ff
+8F	8F	8cc	4aa
+8BB-	8BB-	4dd	.
+8B-	8B-	.	4gg
+8A	8A	4cc	.
+8d	8d	.	4ff
+8G	8G	4b-	.
+8c	8c	.	8ee
+=13	=13	=13	=13
+4F	4F	8a	4ff
+.	.	8aa	.
+4C	4C	8gg	8r
+.	.	8ccc	8gg
+4D	4D	8r	8ff
+.	.	8ff	8bb-
+4AA	4AA	8ee	8r
+.	.	8aa	8ee
+=14	=14	=14	=14
+4BB-	4BB-	8r	8dd
+.	.	8dd	8gg
+4FF	4FF	8cc	8r
+.	.	8ff	8ccc
+4BB-	4BB-	16dd	16dd
+.	.	16cc	16ee
+.	.	16b-	8ff
+.	.	16a	.
+4C	4C	8.g	8.ff
+.	.	16cc	16ee
+=15	=15	=15	=15
+4F	4F	8a	8ff
+.	.	4ff	8dd
+4C	4C	.	8g
+.	.	4ee	8cc
+4D	4D	.	8f
+.	.	4dd	8b-
+4AA	4AA	.	8e
+.	.	[8cc	8a
+=16	=16	=16	=16
+4BB-	4BB-	8cc]	8d
+.	.	4b-	8g
+4FF	4FF	.	8c
+.	.	8a	8cc
+4BB-	4BB-	16d	16dd
+.	.	16e	16cc
+.	.	8f	16b-
+.	.	.	16a
+4C	4C	8.f	4g
+.	.	16e	.
+=17	=17	=17	=17
+8FF	8FF	4f	8f
+8B-	8B-	.	8dd
+4A	4A	8r	8cc
+.	.	8cc	8ff
+4G	4G	8b-	8r
+.	.	8ee-	8bb-
+4F	4F	8r	8aa
+.	.	8aa	8ddd
+=18	=18	=18	=18
+4E-	4E-	8gg	8r
+.	.	8ccc	8gg
+4D	4D	8r	8ff
+.	.	8ff	8bb-
+4E-	4E-	8gg	16gg
+.	.	.	16ff
+.	.	8bb-	16ee-
+.	.	.	16dd
+4F	4F	8r	8.cc
+.	.	8aa	.
+.	.	.	16cc
+=19	=19	=19	=19
+4B-	4B-	4bb-	8dd
+.	.	.	8gg
+4A	4A	8r	8gg
+.	.	8cc	8ff
+4G	4G	8cc	8r
+.	.	8b-	8ee-
+4F	4F	8r	8ee-
+.	.	8a	8dd
+=20	=20	=20	=20
+4E-	4E-	8a	8r
+.	.	8g	8cc
+4D	4D	8r	8cc
+.	.	8dd	8b-
+4E-	4E-	16g	16gg
+.	.	16a	16ff
+.	.	8b-	16ee-
+.	.	.	16dd
+4F	4F	8.b-	8.cc
+.	.	16a	16cc
+=21	=21	=21	=21
+4B-	4B-	4.b-	8dd
+.	.	.	8ff
+4A	4A	.	4.b-
+.	.	8ff	.
+4G	4G	4.b-	.
+.	.	.	8ff
+4F	4F	.	[4b-
+.	.	8ff	.
+=22	=22	=22	=22
+4E-	4E-	4.b-	8b-]
+.	.	.	8ff
+4D	4D	.	8b-
+.	.	8ff	8bb-
+4E-	4E-	16g	16gg
+.	.	16a	16ff
+.	.	8b-	16ee-
+.	.	.	16dd
+4F	4F	8.b-	4cc
+.	.	16a	.
+=23	=23	=23	=23
+1BB-	1BB-	1b-	1b-
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 3069026500
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1200384061

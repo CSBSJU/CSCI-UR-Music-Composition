@@ -1,0 +1,318 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonate a tre [in a]
+!!!XEN: Trio Sonata Opus 1, No. 4
+!!!OPS: Opus 1
+!!!ONM: No. 4
+!!!OMV: Movement 1.
+!!!OMD: Vivace
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!! For the following instrumentation: Violino I & II, Violone/Archlute,
+!!    and Organo.
+!! Vivace.
+**kern	**kern	**kern	**kern
+*ICklav	*ICstr	*ICstr	*ICstr
+*Iorgan	*Icello	*Ivioln	*Ivioln
+*	*Iarchl	*	*
+*I"Organo	*I"Violone (Archlute)	*I"Violino II	*I"Violino I
+!Organo	!Violone	!Violin 2	!Violin 1
+!	! or	!	!
+!	!Archlute	!	!
+*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]	*>[A,A,B,B]
+*>A	*>A	*>A	*>A
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*a:	*a:	*a:	*a:
+*M4/4	*M4/4	*M4/4	*M4/4
+*MM72	*MM72	*MM72	*MM72
+=1-	=1-	=1-	=1-
+2AA/	1r	1r	16aa\LL
+.	.	.	16gg\
+.	.	.	16ff\
+.	.	.	16ee\JJ
+.	.	.	16dd\LL
+.	.	.	16cc\
+.	.	.	16b\
+.	.	.	16a\JJ
+4C/	.	.	4ee\
+4D\	.	.	4ff\
+=2	=2	=2	=2
+2C/	1r	16ee\LL	4.ee\
+.	.	16dd\	.
+.	.	16cc\	.
+.	.	16b\JJ	.
+.	.	16a/LL	.
+.	.	16g/	.
+.	.	16f#/	8aa\
+.	.	16e/JJ	.
+4D\	.	4b\	4ff#\
+4AA/	.	4cc\	4ee\
+=3	=3	=3	=3
+4BB/	2r	16b/LL	4dd#\
+.	.	16a/	.
+.	.	16g/	.
+.	.	16f#/JJ	.
+4GG#/	.	4e/	16ee\LL
+.	.	.	16ddn\
+.	.	.	16cc\
+.	.	.	16b\JJ
+4AA/	16A\LL	16cc/LL	4a/
+.	16G\	16b/	.
+.	16F\	16a/	.
+.	16E\JJ	16g#/JJ	.
+4D\	16D/LL	4a/	16ff\LL
+.	16C/	.	16ee\
+.	16BB/	.	16dd\
+.	16AA/JJ	.	16cc\JJ
+=4	=4	=4	=4
+4E\	4E\	4g#/	4b\
+4F\	4F\	4a/	4a/
+4E\	4E\	4b\	4g#/
+4C/	4C/	4ee\	16aa\LL
+.	.	.	16gg\
+.	.	.	16ff\
+.	.	.	16ee\JJ
+=5	=5	=5	=5
+2F\	2F\	4.a/	16dd\LL
+.	.	.	16cc\
+.	.	.	16b\
+.	.	.	16a\JJ
+.	.	.	8.dd\L
+.	.	8g#/	.
+.	.	.	16ee\Jk
+2E\	2E\	2g#/	2ee\
+=6||	=6||	=6||	=6||
+*>B	*>B	*>B	*>B
+2r	2r	2r	16bb\LL
+.	.	.	16aa\
+.	.	.	16gg\
+.	.	.	16ff\JJ
+.	.	.	16ee\LL
+.	.	.	16dd\
+.	.	.	16cc\
+.	.	.	16b\JJ
+2C/	2C/	16ee\LL	4gg\
+.	.	16dd\	.
+.	.	16cc\	.
+.	.	16b\JJ	.
+.	.	16a/LL	4r
+.	.	16g/	.
+.	.	16f/	.
+.	.	16e/JJ	.
+=7	=7	=7	=7
+2F\	2F\	4cc\	16aa\LL
+.	.	.	16gg\
+.	.	.	16ff\
+.	.	.	16ee\JJ
+.	.	4r	16dd\LL
+.	.	.	16cc\
+.	.	.	16b\
+.	.	.	16a\JJ
+2D\	2D\	16dd\LL	4ff\
+.	.	16cc\	.
+.	.	16b\	.
+.	.	16a\JJ	.
+.	.	16g/LL	4r
+.	.	16f/	.
+.	.	16e/	.
+.	.	16d/JJ	.
+=8	=8	=8	=8
+2E\	2E\	4b\	16gg\LL
+.	.	.	16ff\
+.	.	.	16ee\
+.	.	.	16dd\JJ
+.	.	4r	16cc/LL
+.	.	.	16b/
+.	.	.	16a/
+.	.	.	16g/JJ
+2AA/	2AA/	16cc/LL	4ee\
+.	.	16b/	.
+.	.	16a/	.
+.	.	16g/JJ	.
+.	.	16f/LL	4r
+.	.	16e/	.
+.	.	16d/	.
+.	.	16c/JJ	.
+=9	=9	=9	=9
+2F\	2F\	4cc\	16aa\LL
+.	.	.	16gg\
+.	.	.	16ff\
+.	.	.	16ee\JJ
+.	.	4r	16dd\LL
+.	.	.	16cc\
+.	.	.	16b\
+.	.	.	16a\JJ
+2D\	2D\	16ff\LL	16dd\LL
+.	.	16ee\	16cc\
+.	.	16dd\	16b\
+.	.	16cc\JJ	16a\JJ
+.	.	16b/LL	16g/LL
+.	.	16a/	16f/
+.	.	16g/	16e/
+.	.	16f/JJ	16d/JJ
+=10	=10	=10	=10
+4E\	4E\	4e/	4c/
+4F\	4F\	4ee-\	2cc\
+4G\	4G\	2dd\	.
+4GG/	4GG/	.	4b\
+=11	=11	=11	=11
+2C/	16C/LL	4cc\	4cc\
+.	16BB/	.	.
+.	16C/	.	.
+.	16D/JJ	.	.
+.	16E\LL	4r	4r
+.	16D\	.	.
+.	16E\	.	.
+.	16F\JJ	.	.
+2G\	2G\	16g/LL	16b\LL
+.	.	16f/	16a\
+.	.	16g/	16b\
+.	.	16a/JJ	16cc\JJ
+.	.	16b\LL	16dd\LL
+.	.	16a\	16cc\
+.	.	16b\	16dd\
+.	.	16cc\JJ	16ee\JJ
+=12	=12	=12	=12
+2D\	16D\LL	4dd\	4ff\
+.	16C\	.	.
+.	16D\	.	.
+.	16E\JJ	.	.
+.	16F\LL	4r	4r
+.	16E\	.	.
+.	16F\	.	.
+.	16G\JJ	.	.
+2AA/	2A\	16aa\LL	16ccc\LL
+.	.	16gg\	16bb\
+.	.	16ff\	16aa\
+.	.	16ee\JJ	16gg\JJ
+.	.	16dd\LL	16ff\LL
+.	.	16cc\	16ee\
+.	.	16b\	16dd\
+.	.	16a\JJ	16cc\JJ
+=13	=13	=13	=13
+4E\	16E\LL	16g#/LL	4b\
+.	16F#\	16a/	.
+.	16G#\	16b/	.
+.	16F#\JJ	16a/JJ	.
+4EE/	16E/LL	16g#/LL	4r
+.	16D/	16f#/	.
+.	16C/	16e/	.
+.	16BB/JJ	16d/JJ	.
+2AA/	2AA/	4c/	16cc\LL
+.	.	.	16dd\
+.	.	.	16ee\
+.	.	.	16dd\JJ
+.	.	4r	16cc/LL
+.	.	.	16b/
+.	.	.	16a/
+.	.	.	16gn/JJ
+=14	=14	=14	=14
+2D\	2D\	16ff\LL	4f/
+.	.	16gg\	.
+.	.	16aa\	.
+.	.	16gg\JJ	.
+.	.	16ff\LL	4r
+.	.	16ee\	.
+.	.	16dd\	.
+.	.	16cc\JJ	.
+2D\	2D\	4b\	16dd\LL
+.	.	.	16ee\
+.	.	.	16ff\
+.	.	.	16ee\JJ
+.	.	4r	16dd\LL
+.	.	.	16cc\
+.	.	.	16b\
+.	.	.	16a\JJ
+=15	=15	=15	=15
+4E\	4E\	16bb\LL	4g#/
+.	.	16ee\	.
+.	.	16ff#\	.
+.	.	16gg#\JJ	.
+4AA/	4AA/	2aa\	16r
+.	.	.	16cc\LL
+.	.	.	16b\
+.	.	.	16a\JJ
+4E\	4E\	.	16b\LL
+.	.	.	16ee\
+.	.	.	16dd\
+.	.	.	16cc\JJ
+4EE/	4EE/	4gg#\	8.b/L
+.	.	.	16a/Jk
+=16	=16	=16	=16
+2AA/	2AA/	16aa\LL	4a/
+.	.	16gg\	.
+.	.	16ff\	.
+.	.	16ee\JJ	.
+.	.	16dd\LL	4r
+.	.	16cc\	.
+.	.	16b\	.
+.	.	16a\JJ	.
+2BB/	2BB/	4dd\	16bb\LL
+.	.	.	16aa\
+.	.	.	16gg\
+.	.	.	16ff\JJ
+.	.	4r	16ee\LL
+.	.	.	16dd\
+.	.	.	16cc\
+.	.	.	16b\JJ
+=17	=17	=17	=17
+2C/	2C/	16gg\LL	4ee\
+.	.	16ff\	.
+.	.	16ee\	.
+.	.	16dd\JJ	.
+.	.	16cc/LL	4r
+.	.	16b/	.
+.	.	16a/	.
+.	.	16g/JJ	.
+2D\	2D\	4ff\	16aa\LL
+.	.	.	16gg\
+.	.	.	16ff\
+.	.	.	16ee\JJ
+.	.	4r	16dd\LL
+.	.	.	16cc\
+.	.	.	16b\
+.	.	.	16a\JJ
+=18	=18	=18	=18
+2E\	2E\	16ee\LL	4g#/
+.	.	16dd\	.
+.	.	16cc\	.
+.	.	16b\JJ	.
+.	.	16a/LL	4r
+.	.	16g#/	.
+.	.	16f#/	.
+.	.	16e/JJ	.
+2F\	2F\	4cc\	(16aa\LL
+.	.	.	16gg\
+.	.	.	16ff\
+.	.	.	16ee\JJ)
+.	.	4r	(16dd\LL
+.	.	.	16cc\
+.	.	.	16b\
+.	.	.	16a\JJ)
+=19	=19	=19	=19
+2F#\	2F#\	2aT/	2dd#t\
+2E\	2E\	2g#/	2ee\
+==	==	==	==
+*-	*-	*-	*-
+!!!CDT: 1653/2/17/-1713/1/8
+!!!OCY: Italia
+!!!ODE: Queen Christina Alexandra of Sweden
+!!!ODT: 1681//
+!!!OPC: Roma; Rome
+!!!AGN: trio sonata
+!!!AST: baroque, chamber
+!!!AMT: simple quadruple
+!!!YOR1: J. Joachim & F. Chrysander (eds.) Les Oeuvre de Arcangelo Corelli
+!!!YOR2: London: Augener & Co. 1871
+!!!YOY: 1871
+!!!AIN: archl cello organ violn
+!!!EEV: 1.1
+!!!RDT: 1993 August 19
+!!!YER: 1994 December 14
+!!!EMD: 1996 July 9
+!!!YEN: United States of America
+!!!EFL: 1/4
+!!!ENC: Frances Bennion & Steven Rasmussen
+!!!EED: W.B. Hewlett
+!!!VTS: 3398835351

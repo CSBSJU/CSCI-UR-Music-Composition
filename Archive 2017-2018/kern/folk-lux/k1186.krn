@@ -1,0 +1,129 @@
+!!!OTL: Heimat, o Heimat, ich mu&szlig; dich verlassen! (3-58), S. 152
+!!!id: K1186
+**kern
+*clefG2
+*k[b-]
+*F:
+{16f
+=1
+16f
+4f
+8a
+8cc
+=2
+4f
+8a
+8cc
+=3
+4cc
+8b-
+8a
+=4
+8a
+8g
+4g}
+=5
+{4f
+8a
+8cc
+=6
+4f
+8a
+8cc
+=7
+4cc
+8b-
+8a
+=8
+8a
+8g
+4g}
+=9
+{8.f
+16g
+8a
+8b-
+=10
+4cc
+4ff
+=11
+8.dd
+16dd
+8ff
+8dd
+=12
+4cc}
+4r
+=13
+{4dd
+16dd
+16dd
+8dd
+=14
+4cc
+8a
+8cc
+=15
+4cc
+4b-
+=16
+2a}
+=17
+{8.f
+16g
+8a
+8b-
+=18
+4cc
+4ff
+=19
+8.dd
+16dd
+8ff
+8dd
+=20
+4cc}
+4r
+=21
+{4dd
+16dd
+16dd
+8dd
+=22
+4cc
+8a
+8cc
+=23
+4cc
+4b-
+=24
+2a}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[6
+!!!cut: Heimat, o Heimat, ich mu&szlig; dich verlassen! (3-58), S. 152
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 3 Luxemburg 1928
+!!!rhy1:   X__X_X_  X__X_X_  X__X_X_  X_X_X__   (x2)
+!!!rhy2: X__X_X_  X__X_X_  X__X_X_  X_X_X__
+!!!key: K1186  16  F 2/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 225353
+!!!akz: 1153_1153_1565_6553_1565_6553_
+!!!fot: 'a__a__b__c__b__c__
+!!!for: 'a__a__b__c__b__c__
+!!!fok: '^a_^a_^a_\__^a_\__
+!! PHRAS[VOLLTAKTIG]
+!!!fkt: Abschieds-, Soldatenlied
+!!!bem: in der Quelle mit einer 2. Stimme versehen
+!! THILL, Mathias:
+!! PR[35] 2K[0] 2G[10] 3K[8] 3G[4] 4A[4] 4Ü[0] 5A[0] 6K[0] 6G[4]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[29] ABS[51] SR[10] SP[20]
+!! ST[12] 2k[4] 2g[16] 3k[4] 3g[4] 4d[0] 4ü[4] 5d[0] 6k[4] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[35] dm[-6] sr[20] sp[16]
+!! 1F[70] 2F[26] 3F[0] 4F[0] LF[0] 2P[4] 3P[0] 4P[0] TRI[0] DF[3] AB[54]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[0] N3K[0] N3[12] N4[19] N4Ü[0] N5[31] N6K[0] N6[12]
+!!!n7k: 0] N7[4] O1[12] O2K[0] O2[4] O3K[0] O3[8] HÖ[0
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: ÃŸ)

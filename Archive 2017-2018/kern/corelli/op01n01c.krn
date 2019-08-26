@@ -1,0 +1,200 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonate a tre [in F]
+!!!XEN: Trio Sonata Opus 1, No. 1
+!!!OPS: Opus 1
+!!!ONM: No. 1
+!!!OMV: Movement 3.
+!!!OMD: Adagio
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!! For the following instrumentation: Violino I & II, Violone/Archlute,
+!!    and Organo.
+!! Adagio.
+**kern	**kern	**kern	**kern
+*ICklav	*ICstr	*ICstr	*ICstr
+*Iorgan	*Icello	*Ivioln	*Ivioln
+*	*Iarchl	*	*
+*I"Organo	*I"Violone (Archlute)	*I"Violino II	*I"Violino I
+!Organo	!Violone	!Violin 2	!Violin 1
+!	! or	!	!
+!	!Archlute	!	!
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*?:	*?:	*?:	*?:
+*M3/4	*M3/4	*M3/4	*M3/4
+*MM54	*MM54	*MM54	*MM54
+=1-	=1-	=1-	=1-
+2.F\	2.F\	4r	4r
+.	.	4ff\	4aa\
+.	.	4gg\	4bb-\
+=2	=2	=2	=2
+4.F\	4.F\	4.aa\	4.ccc\
+8G\	8G\	8gg\	8bb-\
+4A\	4A\	4ff\	4aa\
+=3	=3	=3	=3
+4B-\	4B-\	(8gg\L	4ddd\
+.	.	8bb-\J)	.
+4c\	4c\	4.aa\	4.ccc\
+4C/	4C/	.	.
+.	.	8gg\	8bb-\
+=4	=4	=4	=4
+4D\	4D\	2ff\	4.aa\
+4F\	4F\	.	.
+.	.	.	8bb-\
+4E\	4E\	4gg\	4ccc\
+=5	=5	=5	=5
+2D\	2D\	2ff\	2bb-\
+4C/	4C/	4ee\	[4aa\
+=6	=6	=6	=6
+4BB-/	4BB-/	4dd\	4aa\]
+2BB-/	2BB-/	4.dd\	4.gg\
+.	.	8cc#\	8aa\
+=7	=7	=7	=7
+4AA/	4AA/	2cc#\	4aa\
+2AA/	2AA/	.	[2aa\
+.	.	4cc#\	.
+=8	=8	=8	=8
+2BB/	2BB/	2dd\	4aa\]
+.	.	.	[2gg\
+4C#/	4C#/	4ee\	.
+=9	=9	=9	=9
+2D\	2D\	2a/	4gg\]
+.	.	.	[2ff\
+4F\	4F\	4dd\	.
+=10	=10	=10	=10
+2G\	2G\	2b-\	4ff\]
+.	.	.	[2ee-\
+4A\	4A\	4cc\	.
+=11	=11	=11	=11
+2B-\	2B-\	2f/	4ee-\]
+.	.	.	[2dd\
+4F\	4F\	4a/	.
+=12	=12	=12	=12
+4G\	4G\	4b-\	4dd\]
+4A\	4A\	4.e/	4.dd\
+4AA/	4AA/	.	.
+.	.	8e/	8cc#\
+=13	=13	=13	=13
+4DD/	4DD/	2d/	4dd\
+4D\	4D\	.	[2b-\
+4E\	4E\	4r	.
+=14	=14	=14	=14
+4F\	4F\	4r	4b-\]
+4F\	4F\	[2dd\	4a/
+4G\	4G\	.	4b-\
+=15	=15	=15	=15
+2A\	2A\	4dd\]	4e/
+.	.	4cc#\	[2aa\
+4A\	4A\	4r	.
+=16	=16	=16	=16
+2B-\	2B-\	2.bb-\	4aa\]
+.	.	.	[2gg\
+4G\	4G\	.	.
+=17	=17	=17	=17
+4c\	4c\	2.aa\	4gg\]
+4A\	4A\	.	[2ff\
+4F\	4F\	.	.
+=18	=18	=18	=18
+4G\	4G\	4bb\	4ff\]
+4A-\	4A-\	[2ccc\	2ee-\
+4E-\	4E-\	.	.
+=19	=19	=19	=19
+4F\	4F\	4ccc\]	4dd\
+4G\	4G\	2bb\	2dd\
+4GG/	4GG/	.	.
+=20	=20	=20	=20
+4c\	4c\	4ccc\	4cc\
+4B-\	4B-\	4r	4gg\
+4A\	4A\	4r	4aa\
+=21	=21	=21	=21
+2G\	2G\	4r	4bb-\
+.	.	4dd\	[2bb-\
+4GG/	4GG/	4ee\	.
+=22	=22	=22	=22
+2D\	2D\	4ff\	4bb-\]
+.	.	[2ff\	2aa\
+4AA/	4AA/	.	.
+=23	=23	=23	=23
+4BB-/	4BB-/	4ff\]	2.gg\
+4C/	4C/	[2ee\	.
+4c\	4c\	.	.
+=24	=24	=24	=24
+4A\	4A\	4ee\]	2.ff\
+4F\	4F\	[2dd\	.
+4D\	4D\	.	.
+=25	=25	=25	=25
+4G\	4G\	4dd\]	2.ee\
+4A\	4A\	2cc#\	.
+4AA/	4AA/	.	.
+=26	=26	=26	=26
+2D\	2D\	4dd\	4dd\
+.	.	[2bb-\	4r
+4G\	4G\	.	4r
+=27	=27	=27	=27
+4E\	4E\	4bb-\]	2.cc\
+4C/	4C/	[2aa\	.
+4AA/	4AA/	.	.
+=28	=28	=28	=28
+4BB-/	4BB-/	4aa\]	2.dd\
+2BBn/	2BBn/	[2gg\	.
+=29	=29	=29	=29
+2C/	2C/	4gg\]	4ee\
+.	.	4r	[2ccc\
+4AA/	4AA/	4cc\	.
+=30	=30	=30	=30
+2BB-/	2BB-/	2dd\	4ccc\]
+.	.	.	[2bb-\
+4GG/	4GG/	4dd\	.
+=31	=31	=31	=31
+4C/	4C/	4ee\	4bb-\]
+4D-\	4D-\	[2ff\	2aa-\
+4AA-/	4AA-/	.	.
+=32	=32	=32	=32
+4BB-/	4BB-/	4ff\]	4gg\
+4C/	4C/	4.ff\	2gg\
+4CC/	4CC/	.	.
+.	.	8ee\	.
+=33	=33	=33	=33
+2FF/	2FF/	4ff\	4ff\
+.	.	4r	[2ccc\
+4AA/	4AA/	4cc\	.
+=34	=34	=34	=34
+2BB-/	2BB-/	2dd\	4ccc\]
+.	.	.	[2bb-\
+4GG/	4GG/	4dd\	.
+=35	=35	=35	=35
+4C/	4C/	4ee\	4bb-\]
+4D-\	4D-\	[2ff\	2aa-\
+4AA-/	4AA-/	.	.
+=36	=36	=36	=36
+4BB-/	4BB-/	4ff\]	4gg\
+4C/	4C/	4.ff\	2gg\
+4CC/	4CC/	.	.
+.	.	8ee\	.
+=37	=37	=37	=37
+2.FF/	2.FF/	2ff\	2ff\
+.	.	4r	4r
+==	==	==	==
+*-	*-	*-	*-
+!!!CDT: 1653/2/17/-1713/1/8
+!!!OCY: Italia
+!!!ODE: Queen Christina Alexandra of Sweden
+!!!ODT: 1681//
+!!!OPC: Roma; Rome
+!!!AGN: trio sonata
+!!!AST: baroque, chamber
+!!!AMT: simple triple
+!!!YOR1: J. Joachim & F. Chrysander (eds.) Les Oeuvre de Arcangelo Corelli
+!!!YOR2: London: Augener & Co. 1871
+!!!YOY: 1871
+!!!AIN: archl cello organ violn
+!!!EEV: 1.1
+!!!RDT: 1993 August 16
+!!!YER: 1994 December 14
+!!!EMD: 1996 July 9
+!!!YEN: United States of America
+!!!EFL: 3/4
+!!!ENC: Frances Bennion & Steven Rasmussen
+!!!EED: W.B. Hewlett
+!!!VTS: 1459378134

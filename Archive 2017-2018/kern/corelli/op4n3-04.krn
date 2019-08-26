@@ -1,0 +1,235 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 4, No. 3
+!!!OMV: 4
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*D:	*D:	*D:
+*M2/2	*M2/2	*M2/2	*M2/2
+=1	=1	=1	=1
+1r	1r	2r	4ee
+.	.	.	4b
+.	.	4ee	4cc#
+.	.	4b	4g#
+=2	=2	=2	=2
+4A	4A	4cc#	4a
+4E	4E	4g#	4r
+4F#	4F#	4a	4aa
+4C#	4C#	4r	4ee
+=3	=3	=3	=3
+4D	4D	4aa	4ff#
+4r	4r	4ee	4cc#
+4d	4d	4ff#	4dd
+4D	4D	[4dd	4f#
+=4	=4	=4	=4
+4E	4E	4dd]	4g#
+4AA	4AA	4cc#	2a
+4E	4E	2b	.
+4EE	4EE	.	4g#
+=5	=5	=5	=5
+4AA	4AA	4a	4a
+2A	2A	4ee	4cc#
+.	.	4dd	4b
+[4G#	[4G#	4b	4ee
+=6	=6	=6	=6
+4G#]	4G#]	4cc#	4a
+4F#	4F#	4dd#	2aa
+2E	2E	2ee	.
+.	.	.	4gg#
+=7	=7	=7	=7
+4AA	4AA	4r	4cc#
+2A	2A	4cc#	4ff#
+.	.	4dd#	4b
+8G#	8G#	8b	[4ee
+8A	8A	8cc#	.
+=8	=8	=8	=8
+4B	4B	4b	4ee]
+4BB	4BB	4a	4dd#
+4E	4E	2g#	4ee
+[4e	[4e	.	4cc#
+=9	=9	=9	=9
+4e]	4e]	2.r	4f#
+2d	2d	.	4b
+.	.	.	4e
+4c#	4c#	4cc#	[4ee
+=10	=10	=10	=10
+4d	4d	4f#	4ee]
+4B	4B	4b	2dd
+4G#	4G#	4e	.
+4A	4A	[4ee	4cc#
+=11	=11	=11	=11
+2D	2D	4ee]	4f#
+.	.	2dd	4b
+4E	4E	.	4g#
+4AA	4AA	4cc#	[4a
+=12	=12	=12	=12
+4E	4E	2b	4a]
+4EE	4EE	.	4g#
+4AA	4AA	2a	4a
+4C#	4C#	.	4ee
+=13	=13	=13	=13
+2D	2D	4r	4ff#
+.	.	2dd	4f#
+4E	4E	.	4g#
+4AA	4AA	4cc#	[4a
+=14	=14	=14	=14
+2E	2E	2b	4a]
+.	.	.	4g#
+2AA	2AA	2a	2a
+=15	=15	=15	=15
+2r	2r	2r	4cc#
+.	.	.	4g#
+4F#	4F#	2cc#	4a
+4C#	4C#	.	4e#
+=16	=16	=16	=16
+2r	2r	2r	4f#
+.	.	.	4g#
+4F#	4F#	2cc#	4a
+4C#	4C#	.	4g#
+=17	=17	=17	=17
+2r	2r	2r	4cc#
+.	.	.	4g#
+4F#	4F#	2cc#	4a
+4C#	4C#	.	4g#
+=18	=18	=18	=18
+2r	2r	2r	4ff#
+.	.	.	4cc#
+4B	4B	2ff#	4dd
+4F#	4F#	.	4a#
+=19	=19	=19	=19
+2r	2r	2r	4b
+.	.	.	4cc#
+4B	4B	2ff#	4dd
+4F#	4F#	.	4cc#
+=20	=20	=20	=20
+2r	2r	2r	4ff#
+.	.	.	4cc#
+4B	4B	4ff#	4dd
+4F#	4F#	4a#	4cc#
+=21	=21	=21	=21
+4D	4D	4b	4ff#
+4E	4E	2ee	4gg
+4F#	4F#	.	4a#
+4BB	4BB	4dd	[4b
+=22	=22	=22	=22
+2F#	2F#	2cc#	4b]
+.	.	.	4a#
+2B	2B	2b	4b
+.	.	.	4ff#
+=23	=23	=23	=23
+2A#	2A#	4r	2cc#
+.	.	4ff#	.
+2B	2B	2dd	4r
+.	.	.	4ff#
+=24	=24	=24	=24
+2A#	2A#	4r	2cc#
+.	.	4ff#	.
+2B	2B	2dd	4r
+.	.	.	4gg#
+=25	=25	=25	=25
+2B#	2B#	4r	2dd#
+.	.	4gg#	.
+2c#	2c#	2ee	4r
+.	.	.	4gg#
+=26	=26	=26	=26
+2B#	2B#	4r	2dd#
+.	.	4gg#	.
+2c#	2c#	2ee	4r
+.	.	.	4gg#
+=27	=27	=27	=27
+2F#	2F#	4r	4aa
+.	.	4aa	2ff#
+4G#	4G#	4b#	.
+4C#	4C#	[4cc#	4ee
+=28	=28	=28	=28
+4G	4G	4cc#]	2dd#
+4GG	4GG	4b#	.
+2C#	2C#	2cc#	2cc#
+=29	=29	=29	=29
+1r	1r	2r	4ee
+.	.	.	4b
+.	.	4ee	4cc#
+.	.	4b	4g#
+=30	=30	=30	=30
+4A	4A	4cc#	4a
+4E	4E	4g#	4r
+4F#	4F#	4a	4dd
+4C#	4C#	4r	4cc#
+=31	=31	=31	=31
+4D	4D	4dd	4b
+4AA	4AA	4cc#	4a
+4E	4E	4b	4g#
+4C#	4C#	4cc#	4ee
+=32	=32	=32	=32
+4F#	4F#	4a	4aa
+4FF#	4FF#	2aa	4cc#
+4BB	4BB	.	4dd#
+4E	4E	4gg#	[4ee
+=33	=33	=33	=33
+4B	4B	2ff#	4ee]
+4BB	4BB	.	4dd#
+4E	4E	2ee	2ee
+4D	4D	.	.
+=34	=34	=34	=34
+4C#	4C#	1r	4aa
+4AA	4AA	.	4cc#
+4D	4D	.	4ff#
+4C#	4C#	.	4a
+=35	=35	=35	=35
+4BB	4BB	4g#	2.dd
+4GG#	4GG#	4b	.
+4AA	4AA	4e	.
+4A	4A	[4ee	4cc#
+=36	=36	=36	=36
+4d	4d	4ee]	4f#
+4D	4D	2dd	4b
+4E	4E	.	4g#
+4AA	4AA	4cc#	[4a
+=37	=37	=37	=37
+4E	4E	2b	4a]
+4EE	4EE	.	4g#
+4AA	4AA	2a	2a
+4BB	4BB	.	.
+=38	=38	=38	=38
+4C#	4C#	1r	4aa
+4AA	4AA	.	4cc#
+4D	4D	.	4ff#
+4C#	4C#	.	4a
+=39	=39	=39	=39
+4BB	4BB	4g#	2.dd
+4GG#	4GG#	4b	.
+4AA	4AA	4e	.
+4A	4A	[4ee	4cc#
+=40	=40	=40	=40
+4d	4d	4ee]	4f#
+4D	4D	2dd	4b
+4E	4E	.	4g#
+4AA	4AA	4cc#	[4a
+=41	=41	=41	=41
+2E	2E	2b	4a]
+.	.	.	4g#
+2AA	2AA	2a	2a
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 861040772
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 440634380

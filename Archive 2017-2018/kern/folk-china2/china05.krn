@@ -1,0 +1,77 @@
+!!!OTL: Folk song Number 5
+!!!CNT: Chinese
+!! Irregular meter
+**kern
+*k[]
+*M2/4
+=1
+8ee
+8ee
+4dd;
+*M3/4
+=2
+8ee
+8gg
+(8ee
+8dd)
+4cc;
+*M2/4
+=3
+(8dd
+8ee
+8dd)
+8cc
+*M3/4
+=4
+(16dd
+16cc
+16a
+16g)
+(16g
+4..e)
+*M2/4
+=5
+(8.g
+16a)
+4cc
+*M3/4
+=6
+(8dd
+16ee
+16dd)
+(16dd
+16cc)
+(16a
+[16e
+8.e]
+16g)
+*M2/4
+=7
+(8a
+16g
+16a)
+(8.cc
+16g)
+*M3/4
+=8
+(8a
+16g
+16a)
+2g
+==
+*-
+!!!PPR: Yin yueh ch'u pan she
+!!!OPR: Chung-kuo min ko Chung-kuo yin yueh yen chiu so pien [Chinese folk songs]
+!!!OCL: Chung-kuo yin yueh yen chiu so
+!!!PPP: Beijing, China
+!!!PDT: 1959///
+!!!SML: Edward Johnson Library, University of Toronto M1804.C4694C5
+!!!PPG: p.4
+!!!ENC: David Huron
+!!!EMD: Paul von Hippel updated this file in the following ways (1998/9/29/):
+!!!EMD:  (1) changed the representation of slurs from curly braces to parentheses 
+!!!EMD:  (2) changed freeform comments into reference records and tandem interpretations
+!!!EMD:  (3) changed final barline from quadruple (====) to double (==)
+!!!EMD:  (4) corrected the author, title, author, and call number of the printed source 
+!!!EMD:  (5) added a reference record ("!!!ENC: Chinese") on the nationality of the "composers"
+!!!EEV: Version 2.0

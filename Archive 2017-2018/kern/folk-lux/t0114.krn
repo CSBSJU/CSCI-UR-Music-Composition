@@ -1,0 +1,156 @@
+!!!OTL: Falsche Liebe (8a) Melodie II, S. 48
+!!!id: T0114
+**kern
+*clefG2
+*k[]
+*G:
+{8dd
+=1
+8b
+8b
+8dd
+8b
+8b
+8dd
+=2
+4cc
+8b
+4a}
+=3
+{8dd
+=4
+8dd
+8b
+8dd
+8dd
+8cc
+8cc
+=5
+2b}
+8r
+=6
+{8dd
+=7
+8b
+8b
+8dd
+8b
+8b
+8dd
+=8
+4cc
+8b
+4a}
+=9
+{8dd
+=10
+8dd
+8b
+8dd
+8dd
+8cc
+8cc
+=11
+2b}
+8r
+=12
+{8dd
+=13
+8dd
+8b
+8dd
+8ee
+8dd
+8cc
+=14
+4cc
+8b
+4a}
+8r
+=15
+{4.cc
+8cc
+8dd
+8ee
+=16
+4dd
+8cc
+4b}
+=17
+{8dd
+=18
+8dd
+8ee
+8dd
+8cc
+8a
+8dd
+=19
+2b}
+8r
+=20
+{8dd
+=21
+8dd
+8b
+8dd
+8ee
+8dd
+8cc
+=22
+4cc
+8b
+4a}
+8r
+=23
+{4.cc
+8cc
+8dd
+8ee
+=24
+4dd
+8cc
+4b}
+=25
+{8dd
+=26
+8dd
+8ee
+8dd
+8cc
+8a
+8dd
+=27
+2b}
+8r
+==
+*-
+!!!minrhy: 8
+!!!meters: 6/8 ]  ZZ[10
+!!!cut: Falsche Liebe (8a) Melodie II, S. 48
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X  XXXXXX  X_XX_
+!!!rhy2: X  XXXXXX  X__0
+!!!key: T0114  08  G 6/8 ]  ZZ[10
+!!!mod: PENTATONIK ]  AMBITUS[5
+!!!kad: 2323233233
+!!!akz: 3342_5533_3342_5533_5642_4453_5433_5642_4453_5433_
+!!!fot: 'a__b__a__b__c__as'd__c__as'd__
+!!!for: 'a__aw_a__aw_av_b__aw_av_b__aw_
+!!!fok: '\__\__\__\__\__^d_\__\__^d_\__
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: "erz&auml;hlende Lieder"
+!!!bem1: 2. Melodie
+!!!bem2: RAMMELDINGEN; gesungen von hhh Nikolaus Felten
+!!!bem3: am 17.2.1934
+!! THILL, Mathias:
+!! PR[38] 2K[3] 2G[10] 3K[3] 3G[0] 4A[10] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[31] ABS[29] SR[14] SP[17]
+!! ST[8] 2k[3] 2g[17] 3k[7] 3g[0] 4d[0] 4ü[3] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[31] dm[0] sr[21] sp[10]
+!! 1F[6] 2F[58] 3F[15] 4F[0] LF[0] 2P[6] 3P[15] 4P[0] TRI[0] DF[5] AB[33]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[3]
+!! N1[13] N2K[0] N2[13] N3K[0] N3[23] N4[23] N4Ü[0] N5[17] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

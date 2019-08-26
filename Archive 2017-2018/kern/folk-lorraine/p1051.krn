@@ -1,0 +1,110 @@
+!!!OTL: Wenn ich des Nachts vor dem Feuerlein steh (3-78), S. 217
+!!!id: P1051
+**kern
+*clefG2
+*k[]
+*G:
+{4d
+=1
+2g
+4b
+=2
+4.dd
+8dd
+4dd
+=3
+4dd
+4cc
+4b
+=4
+2cc}
+=5
+{4cc
+=6
+2b
+4a
+=7
+2b
+8b
+8b
+=8
+2a
+4g
+=9
+2a}
+=10
+{4d
+=11
+2g
+4b
+=12
+16dd
+[4ee
+8.ee]
+4dd
+=13
+4dd
+4cc
+4b
+=14
+16cc
+[4ee
+8.ee]}
+=15
+{4dd
+=16
+2b
+4b
+=17
+4.b
+8b
+8b
+16b
+16b
+=18
+4b
+4a
+4g
+=19
+2.a}
+=20
+{2.dd
+=21
+2g
+4g
+=22
+4a
+4dd
+4g
+=23
+2.a
+=24
+2g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[5
+!!!cut: Wenn ich des Nachts vor dem Feuerlein steh (3-78), S. 217
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X__  X___X__  X__.X_X__  X__X__X__  X___   (x2)
+!!!rhy2: X__  X___X__  X___X_X_  X___X__  X___
+!!!key: P1051  16  G 3/4 ]  ZZ[5
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 42621
+!!!akz: 1554_3322_1554_3332_51221_
+!!!fot: 'a__b__av_c__d__
+!!!for: 'a__b__c__d__e__
+!!!fok: '/__\__~a_\__Sd_
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Liebe, Verf&uuml;hrung mithilfe von Wein
+!! LOTH VKL
+!! PR[9] 2K[3] 2G[12] 3K[12] 3G[6] 4A[9] 4Ü[3] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[45] ABS[33] SR[15] SP[30]
+!! ST[10] 2k[6] 2g[15] 3k[15] 3g[3] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[3]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[45] dm[0] sr[21] sp[24]
+!! 1F[19] 2F[59] 3F[14] 4F[0] LF[0] 2P[8] 3P[0] 4P[0] TRI[0] DF[4] AB[37]
+!! TF[0] U3K[0] U3[6] U4[0] U4Ü[0] U5[12] U6K[0] U6[0] U7K[0] U7[9]
+!! N1[24] N2K[0] N2[12] N3K[0] N3[15] N4[9] N4Ü[0] N5[12] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

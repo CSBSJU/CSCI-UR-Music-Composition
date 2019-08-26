@@ -1,0 +1,16 @@
+!!!OTL: Just major third (386.31 cents)
+!!!ratio: 5:4
+!!!URL: http://en.wikipedia.org/wiki/Major_third
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4ee	-13.69	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1ee	-13.69
+*-	*-	*-	*-

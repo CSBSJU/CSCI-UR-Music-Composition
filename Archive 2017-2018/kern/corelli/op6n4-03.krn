@@ -1,0 +1,195 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 6, No. 4
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*clefC	*clefG	*clefG	*clefG	*clefC	*clefG	*clefG
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*D:	*D:	*D:	*D:	*D:	*D:
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1	=1	=1	=1
+2.r	2.r	2.r	2.r	8d	4dd	4ff#
+.	.	.	.	8c#	.	.
+.	.	.	.	8d	4ff#	2aa
+.	.	.	.	8e	.	.
+.	.	.	.	8f#	4dd	.
+.	.	.	.	8d	.	.
+=2	=2	=2	=2	=2	=2	=2
+2.r	2.r	2.r	2.r	8c#	4aa	4ee
+.	.	.	.	8B	.	.
+.	.	.	.	8c#	4ee	4aa
+.	.	.	.	8d	.	.
+.	.	.	.	8e	4cc#	4a
+.	.	.	.	8c#	.	.
+=3	=3	=3	=3	=3	=3	=3
+2.r	2.r	2.r	2.r	8B	4ff#	4.dd
+.	.	.	.	8c#	.	.
+.	.	.	.	8B	4.gg#	.
+.	.	.	.	8A	.	8cc#
+.	.	.	.	8G#	.	8dd
+.	.	.	.	8E	16ff#	8ee
+.	.	.	.	.	16gg#	.
+=4	=4	=4	=4	=4	=4	=4
+2.r	2.r	2.r	2.r	8A	4aa	2.cc#
+.	.	.	.	8G#	.	.
+.	.	.	.	8A	2a	.
+.	.	.	.	8B	.	.
+.	.	.	.	8c#	.	.
+.	.	.	.	8A	.	.
+=5	=5	=5	=5	=5	=5	=5
+8D	2a	4dd	4ff#	8D	4dd	4ff#
+8C#	.	.	.	8C#	.	.
+8D	.	4ff#	2aa	8D	4ff#	2aa
+8E	.	.	.	8E	.	.
+8F#	4a	4dd	.	8F#	4dd	.
+8D	.	.	.	8D	.	.
+=6	=6	=6	=6	=6	=6	=6
+8C#	2a	4aa	4ee	8C#	4aa	4ee
+8BB	.	.	.	8BB	.	.
+8C#	.	4ee	4aa	8C#	4ee	4aa
+8D	.	.	.	8D	.	.
+8E	4e	4cc#	4a	8E	4cc#	4a
+8C#	.	.	.	8C#	.	.
+=7	=7	=7	=7	=7	=7	=7
+8D	8f#	8b	8dd	8D	8b	8dd
+8BB	8d	8a	8cc#	8BB	8a	8cc#
+4E	4.e	4.a	2b	4E	4.a	2b
+4EE	.	.	.	4EE	.	.
+.	8e	8g#	.	.	8g#	.
+=8	=8	=8	=8	=8	=8	=8
+2.AA	2.c#	2.a	2.a	2.AA	2.a	2.a
+=9	=9	=9	=9	=9	=9	=9
+2.r	2.r	2.r	2.r	8F#	4dd	4aa
+.	.	.	.	8E	.	.
+.	.	.	.	8F#	2a	4.cc
+.	.	.	.	8D	.	.
+.	.	.	.	8E	.	.
+.	.	.	.	8F#	.	8cc
+=10	=10	=10	=10	=10	=10	=10
+4G	4d	4d	4cc	8G	4d	4cc
+.	.	.	.	8F#	.	.
+2GG	2d	2g	2b	8G	2g	2b
+.	.	.	.	8A	.	.
+.	.	.	.	8B	.	.
+.	.	.	.	8A	.	.
+=11	=11	=11	=11	=11	=11	=11
+2.r	2.r	2.r	2.r	8G#	4ee	4bb
+.	.	.	.	8F#	.	.
+.	.	.	.	8G#	2b	4.dd
+.	.	.	.	8E	.	.
+.	.	.	.	8F#	.	.
+.	.	.	.	8G#	.	8dd
+=12	=12	=12	=12	=12	=12	=12
+4A	4e	4e	4dd	8A	4e	4dd
+.	.	.	.	8G#	.	.
+2AA	2e	2a	2cc#	8A	2a	2cc#
+.	.	.	.	8B	.	.
+.	.	.	.	8c#	.	.
+.	.	.	.	8B	.	.
+=13	=13	=13	=13	=13	=13	=13
+2.r	2.r	2.r	2.r	8A#	4ff#	4ccc#
+.	.	.	.	8G#	.	.
+.	.	.	.	8A#	2cc#	4.ee
+.	.	.	.	8F#	.	.
+.	.	.	.	8G#	.	.
+.	.	.	.	8A#	.	8ee
+=14	=14	=14	=14	=14	=14	=14
+4B	4f#	4f#	4ee	8B	4f#	4ee
+.	.	.	.	8A#	.	.
+2BB	2f#	2b	2dd	8B	2b	2dd
+.	.	.	.	8c#	.	.
+.	.	.	.	8d	.	.
+.	.	.	.	8F#	.	.
+=15	=15	=15	=15	=15	=15	=15
+2.r	2.r	2.r	2.r	4G	8bb	8ddd
+.	.	.	.	.	8aa	8ccc#
+.	.	.	.	2GG	8gg	8bb
+.	.	.	.	.	8ff#	8aa
+.	.	.	.	.	8ee	8gg
+.	.	.	.	.	8dd	8ff#
+=16	=16	=16	=16	=16	=16	=16
+4A	4a	4cc#	4ee	4AA	4cc#	4ee
+4AA	4a	4e	4c#	4A	4.cc#	4.ee
+4r	4r	4r	4r	4G	.	.
+.	.	.	.	.	16b	16dd
+.	.	.	.	.	16cc#	16ee
+=17	=17	=17	=17	=17	=17	=17
+4F#	4a	4dd	4ff#	4F#	4dd	4ff#
+4FF#	4a	4f#	4d	4d	4.dd	4.ff#
+4r	4r	4r	4r	4F#	.	.
+.	.	.	.	.	16cc#	16ee
+.	.	.	.	.	16dd	16ff#
+=18	=18	=18	=18	=18	=18	=18
+4E	2cc#	4ee	4gg	4E	4ee	4gg
+4EE	.	4g	4e	4c#	4.ee	4.gg
+4r	4r	4r	4r	4E	.	.
+.	.	.	.	.	16dd	16ff#
+.	.	.	.	.	16ee	16gg
+=19	=19	=19	=19	=19	=19	=19
+4D	2dd	4ff#	4aa	2.D	4.ff#	4.aa
+4DD	.	4d	4f#	.	.	.
+.	.	.	.	.	8gg	8bb
+4r	4r	4r	4r	.	8ff#	8aa
+.	.	.	.	.	8gg	8bb
+=20	=20	=20	=20	=20	=20	=20
+4d	4a	4ff#	4aa	4d	4.ff#	4.aa
+4D	4a	4d	4f#	4D	.	.
+.	.	.	.	.	8gg	8bb
+4r	4r	4r	4r	4r	8ff#	8aa
+.	.	.	.	.	8gg	8bb
+=21	=21	=21	=21	=21	=21	=21
+4d	4a	4ff#	4aa	4d	8ff#	8aa
+.	.	.	.	.	8gg	8bb
+4D	4a	4d	4f#	4D	8ff#	8aa
+.	.	.	.	.	8gg	8bb
+4r	4r	4r	4r	4r	8ff#	8aa
+.	.	.	.	.	8gg	8bb
+=22	=22	=22	=22	=22	=22	=22
+4.D	2d	4.ff#	4.aa	4.D	4.ff#	4.aa
+8E	.	8ee	8gg	8E	8ee	8gg
+4F#	4d	4dd	8ff#	4F#	4dd	8ff#
+.	.	.	8ee	.	.	8ee
+=23	=23	=23	=23	=23	=23	=23
+4G	4b	4dd	8ff#	4G	4dd	8ff#
+.	.	.	8gg	.	.	8gg
+4A	4.e	4.dd	2ee	4A	4.dd	2ee
+4AA	.	.	.	4AA	.	.
+.	8a	8cc#	.	.	8cc#	.
+=24	=24	=24	=24	=24	=24	=24
+2.D	2.f#	2.dd	2.dd	2.D	2.dd	2.dd
+=25	=25	=25	=25	=25	=25	=25
+4.D	2d	4.ff#	4.aa	4.D	4.ff#	4.aa
+8E	.	8ee	8gg	8E	8ee	8gg
+4F#	4d	4dd	8ff#	4F#	4dd	8ff#
+.	.	.	8ee	.	.	8ee
+=26	=26	=26	=26	=26	=26	=26
+4G	4b	4dd	8ff#	4GG	4dd	8ff#
+.	.	.	8gg	.	.	8gg
+4A	4.e	4.dd	2ee	2AA	4.dd	2ee
+4AA	.	.	.	.	.	.
+.	8a	8cc#	.	.	8cc#	.
+=27	=27	=27	=27	=27	=27	=27
+2.D	2.f#	2.dd	2.dd	2.DD	2.dd	2.dd
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: concerto grosso
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 3908123191
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1728351920

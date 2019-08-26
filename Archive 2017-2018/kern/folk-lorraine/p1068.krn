@@ -1,0 +1,111 @@
+!!!OTL: Der Tod von Basel (3-95), S. 261
+!!!id: P1068
+**kern
+*clefG2
+*k[f#]
+*G:
+{8g
+=1
+8g
+8g
+8g
+8g
+=2yy
+8g
+=3
+8g
+8b
+8g}
+=4
+{8b
+=5
+8b
+8g
+8f#
+8g
+=6
+4a}
+8r
+=7
+{8a
+=8
+8a
+8a
+8a
+8a
+=9
+4d
+8r
+8d
+=10
+8dd}
+4r
+=11
+{8d
+=12
+8cc
+8cc
+8cc
+8a
+=13
+4b
+8b}
+=14
+{8b
+=15
+8a
+8a
+8b
+8a
+=16
+8g
+8b
+8dd}
+=17
+{8b
+=18
+8cc
+8cc
+8cc
+8a
+=19
+4b
+8b}
+=20
+{8g
+=21
+8a
+8a
+8a
+8f#
+=22
+2g}
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[7
+!!!cut: Der Tod von Basel (3-95), S. 261
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1:   XXXX  XXX
+!!!rhy2: X  XXXX  X_0
+!!!key: P1068  08  G 2/4 ]  ZZ[7
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 1253531
+!! [NEUNTONSKALA ]  AMBITUS[8]
+!!!akz: 11_32_2-55_43_21_43_21_
+!!!fot: 'a__b__c__d__e__dv_ds'
+!!!for: 'a__aw_aw_a__av_a__aw_
+!!!fok: '^__Vd_Va_/__Va_-__-__
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Eheverdru&szlig;, Tod der Frau, Freude
+!! LOTH VKL
+!! PR[11] 2K[0] 2G[16] 3K[5] 3G[7] 4A[5] 4Ü[0] 5A[5] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[36] ABS[44] SR[16] SP[20]
+!! ST[12] 2k[9] 2g[25] 3k[5] 3g[14] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[52] dm[-16] sr[34] sp[18]
+!! 1F[9] 2F[78] 3F[9] 4F[0] LF[0] 2P[4] 3P[0] 4P[0] TRI[0] DF[4] AB[45]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[4] U6K[0] U6[0] U7K[0] U7[4]
+!! N1[27] N2K[0] N2[20] N3K[0] N3[31] N4[4] N4Ü[0] N5[9] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: ÃŸ)

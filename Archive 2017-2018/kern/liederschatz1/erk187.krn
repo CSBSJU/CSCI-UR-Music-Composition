@@ -1,0 +1,135 @@
+!!!OTL@@DE: Vanitas! vanitatum vanitas!
+!!!COM: Zelter, Carl Friedrich
+!!!ODT: 1806
+!!!OMD: Munter, doch nicht geschwind
+!!!LYR: Goethe, Wolfgang von
+!!!LDT: 1806
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]
+*>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*k[f#]	*k[f#]	*k[f#]
+*G:	*G:	*G:
+*M2/4	*M2/4	*M2/4
+*MM110	*MM110	*MM110
+8r	8d/	8d/
+=1	=1	=1
+4G\ 4B\	8g/L	8g/
+.	8g/J	8g/
+4G\ 4B\	8g/L	8g/
+.	(16f#/L	16f#/LL
+.	16g/JJ)	16g/JJ
+=2	=2	=2
+*^	*	*
+8A/L	4D\	8f#/ 8a/L	8a/
+8F#/J	.	8d/J	8d/
+4ryy	4D\ 4F#\	8d/L	8d/
+.	.	8dd/J	8dd\
+*v	*v	*	*
+=3	=3	=3
+*	*^	*
+4G\	8b/L	4g\	8b\
+.	8dd/J	.	8dd\
+4D\	8a/L	4f#\	8a/
+.	8dd/J	.	8dd\
+*	*v	*v	*
+=4	=4	=4
+*>A1	*>A1	*>A1
+4G\	4g/ 4b/	4b\
+8r	8r	8r
+=5:|!	=5:|!	=5:|!
+*>A2	*>A2	*>A2
+4GG/ 4G/	4g/	4g/
+4r	4r	8r
+.	.	16g/LL
+.	.	16a/JJ
+=6	=6	=6
+*>B	*>B	*>B
+8E\L	8g/ 8b/L	8b\
+8E\	8g/ 8b/	8b\
+8E\	8g/ 8b/	8b\
+8E\J	8g/ 8b/J	16a\LL
+.	.	16b\JJ
+=7	=7	=7
+8A\L	8a/ 8cc/L	8cc\
+8A\	8a/ 8cc/	8cc\
+8A\	8a/ 8cc/	8cc\
+8A\J	8a/ 8cc/J	8cc\
+=8	=8	=8
+8D\L	8f#/ 8a/L	8a/
+8D\	8f#/ 8a/	16a/
+.	.	16a/
+8D\	8f#/ 8a/	8a/
+8D\J	8f#/ 8a/J	8a/
+=9	=9	=9
+8G\L	8g/ 8b/L	16b/LL
+.	.	16a/JJ
+8G\	8g/ 8b/	16b\LL
+.	.	16cc\JJ
+8G\	8g/ 8b/	8b\
+8G\J	8g/ 8b/J	8b\
+=10	=10	=10
+8A\L	8e/ 8cc#/L	8cc#\
+8A\	8e/ 8cc#/	8cc#\
+8A\	8e/ 8cc#/	16dd\LL
+.	.	16cc#\JJ
+8A\J	8e/ 8cc#/J	16b\LL
+.	.	16cc#\JJ
+=11	=11	=11
+4D\	4f#/ 4dd/	4dd\
+4F#\	4a/ 4ccn/	4ccn\
+=12	=12	=12
+8G\L	8g/ 8b/L	8b\
+8G\J	8g/ 8b/J	8b\
+8D\L	8f#/ 8a/L	8a/
+8D\J	8f#/ 8a/J	8a/
+=13	=13	=13
+4BB/	4g\ 4dd\	4dd\
+4C/	4cc\ 4ee\	4ee\
+=14	=14	=14
+8D\L	8b\ 8dd\L	8dd\
+8D\	8g\ 8b\J	8dd\
+8D\	8d/ 8a/L	16dd\LL
+.	.	16cc\JJ
+8D\J	8c/ 8f#/J	16b/LL
+.	.	16a/JJ
+=15	=15	=15
+16GG/LL	8B\ 8g\L	4g/
+16BB/	.	.
+16D/	8gg\J	.
+16G/JJ	.	.
+16GG/LL	16dd\LL	4r
+16BB/	16cc\	.
+16D/	16b\	.
+16G/JJ	16a\JJ	.
+=16	=16	=16
+16GG/LL	8g\L	2r
+16BB/	.	.
+16D/	8gg\ 8bb\J	.
+16G/JJ	.	.
+16GG/LL	16dd\LL	.
+16BB/	16cc\	.
+16D/	16b\	.
+16G/JJ	16a\JJ	.
+=17	=17	=17
+16GG/LL	16g\LL	2r
+16BB/	16gg\	.
+16D/	16ff#\	.
+16G/JJ	16ee\JJ	.
+16GG/LL	16dd\LL	.
+16BB/	16cc\	.
+16D/	16b\	.
+16G/JJ	16a\JJ	.
+=18	=18	=18
+4GG/	4g/	4r
+8r	8r	8r
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/06/28/
+!!!EFL: 187/651

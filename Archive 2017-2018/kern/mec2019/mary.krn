@@ -1,0 +1,20 @@
+!!!OTL: Adding lyrics
+!!
+!! Step 1: Use extract filter to add blank data spine(s) with "0":
+!!            !!!filter: extract -s 1,0
+!! Step 2: Change **blank to **text
+!! Step 3: Add lyric text
+!!
+**kern
+*M4/4
+=1
+4e
+4d
+4c
+4d
+=2
+4e
+4e
+2e
+=
+*-

@@ -1,0 +1,51 @@
+!!!COM:	Gershwin
+!!!OTL:	688_Ger-3/19/[14]1-3
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern
+*part18	*part17	*part16	*part15	*part14	*part13	*part12	*part11	*part10	*part10	*part9	*part8	*part7	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff19	*staff18	*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Banjo	*I"Alto Saxophone	*I"Tenor Saxophone	*I"Alto Saxophone	*I"Piano	*	*I"Drum Set	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Bass Clarinet in Bb	*	*I"Clarinet in Bb	*I"Clarinet in Bb	*I"Oboe	*I"Flute
+*I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Ban.	*I'Alto Sax.	*I'Ten. Sax.	*I'Alto Sax.	*I'Pno.	*	*I'Dr.	*I'Hn.	*I'Hn.	*I'Bsn.	*I'B. Cl.	*	*I'Cl.	*I'Cl.	*I'Ob.	*I'Fl.
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefF4	*clefG2	*clefpercussion0	*clefG2	*clefG2	*clefF4	*clefG2	*	*clefG2	*clefG2	*clefG2	*clefG2
+*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*	*	*	*k[f#]	*k[f#]	*	*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8DDL	8DL	4G^ 4d	4B^ 4g	4g^ 4dd 4bb	8DL	8DL	8DL	8GGL	2r	4x	4d^	4B^ 4g	8DL	8DL	.	8bL	8ggL	8ddL	8bbL
+8EE	8E	.	.	.	8E	8E	8E	8D	.	.	.	.	8E	8E	.	8bJ	8ggJ	8ddJ	8bbJ
+8GG	8G	4G^ 4d	4B^ 4g	4g^ 4dd 4bb	8G	8G	8G	8G	.	4x	4d^	4B^ 4g	8G	8G	.	8r	8r	8r	8r
+[8GGJ	[8GJ	.	.	.	[8GJ	[8GJ	[8GJ	8BJ	.	.	.	.	[8GJ	[8GJ	.	8b	8gg	8dd	8bb
+8GGL]	8GL]	4G^ 4d	4B^ 4g	4g^ 4dd 4bb	8GL]	8GL]	8GL]	4d	4r	4x	4d^	4B^ 4g	8GL]	8GL]	.	8b	8gg	8dd	8bb
+8DD	8D	.	.	.	8D	8D	8D	.	.	.	.	.	8D	8D	.	8r	8r	8r	8r
+*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*
+8EE	8E	4G^ 4d	4B^ 4g	4g^ 4dd 4bb	8E	8E	8E	4d 4g 4b	4dd 4gg 4bb 4ddd	4x	4d^	4B^ 4g	8E	8E	.	8bL	8ggL	8ddL	8bbL
+8DDJ	8DJ	.	.	.	8DJ	8DJ	8DJ	.	.	.	.	.	8DJ	8DJ	.	8bJ	8ggJ	8ddJ	8bbJ
+*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+(16qqDD	(16qqD	.	.	.	(16qqD	(16qqD	(16qqD	.	.	.	.	.	(16qqD	(16qqD	pp	.	.	.	.
+16qqEE	16qqE	.	.	.	16qqE	16qqE	16qqE	.	.	.	.	.	16qqE	16qqE	.	.	.	.	.
+2FF^)	2F^)	4d^ 4f#	4B^ 4g#	4g#^ 4dd 4bb	2F^)	2F^)	2F^)	8GG#L	2r	4x	4d^	4B^ 4g#	2F^)	2F^)	.	8r	8r	8r	8r
+.	.	.	.	.	.	.	.	8D	.	.	.	.	.	.	.	8b	8gg#	8dd	8bb
+.	.	4d^ 4f#	4B^ 4g#	4g#^ 4dd 4bb	.	.	.	8F#X	.	4x	4d^	4B^ 4g#	.	.	.	8b	8gg#	8dd	8bb
+.	.	.	.	.	.	.	.	8BnJ	.	.	.	.	.	.	.	8r	8r	8r	8r
+(8EE^	(8E^	4d^ 4f#	4B^ 4g#	4g#^ 4dd 4bb	(8E^	(8E^	(8E^	4d	4r	4x	4d^	4B^ 4g#	(8E^	(8E^	.	8bL	8gg#L	8ddL	8bbL
+4.DD)	4.D)	.	.	.	4.D)	4.D)	4.D)	.	.	.	.	.	4.D)	4.D)	.	8bJ	8gg#J	8ddJ	8bbJ
+*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*
+.	.	4d^ 4f#	4B^ 4g#	4g#^ 4dd 4bb	.	.	.	4d 4f# 4g# 4b	4dd 4ff 4gg# 4ddd	4x	4f#^	4B^ 4g#	.	.	.	8r	8r	8r	8r
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8b	8gg#	8dd	8bb
+*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+6AAA^	6AA^	4d^ 4f#X	4c^ 4a	4d^ 4a 4ff#X 4ccc	6A^	6A^	6A^	8AAL	2r	4x	4d^	4A^ 4f#	6AA^	6AA^	.	8cc	8ff#	8dd	8ccc
+.	.	.	.	.	.	.	.	8D	.	.	.	.	.	.	.	8r	8r	8r	8r
+6BBB^	6BB^	.	.	.	6B^	6B^	6B^	.	.	.	.	.	6BB^	6BB^	.	.	.	.	.
+.	.	4d^ 4f#X	4c^ 4a	4d^ 4a 4ff#X 4ccc	.	.	.	8F#X	.	4x	4c^	4A^ 4f#	.	.	.	8ccL	8ff#L	8ddL	8cccL
+6AAA^	6AA^	.	.	.	6A^	6A^	6A^	.	.	.	.	.	6AA^	6AA^	.	.	.	.	.
+.	.	.	.	.	.	.	.	8cJ	.	.	.	.	.	.	.	8ccJ	8ff#J	8ddJ	8cccJ
+[2CC	[2C	4d^ 4f#X	4c^ 4a	4d^ 4a 4ff#X 4ccc	[2c	[2c	[2c	4d	4r	4x	4d^	4A^ 4f#	[2C	[2C	.	8r	8r	8r	8r
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8cc	8ff#	8dd	8ccc
+*	*	*	*	*	*	*	*	*clefG2	*	*	*	*	*	*	*	*	*	*	*
+.	.	4d^ 4f#X	4c^ 4a	4d^ 4a 4ff#X 4ccc	.	.	.	4c 4f#X 4a	4dd 4ff# 4aa 4ddd	4x	4d^	4A^ 4f#	.	.	.	8cc	8ff#	8dd	8ccc
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	8r	8r	8r
+*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*	*	*
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6)][(s7,s8)]s9{(s10,s11)}[(s12,s13,s14)]s15[(s16,s17,s18,s19)]
+!!!YEM:	Copyright © Natalie Dietterich

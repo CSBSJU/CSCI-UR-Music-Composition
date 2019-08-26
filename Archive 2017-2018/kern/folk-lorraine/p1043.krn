@@ -1,0 +1,120 @@
+!!!OTL: Ich seind so sehr betr&uuml;bet (3-70), S. 198
+!!!id: P1043
+**kern
+*clefG2
+*k[b-e-]
+*g:
+*M3/4
+{4d
+4d
+4d
+=2
+*M4/4
+4d
+8.d
+16a
+4.g
+16b-
+16a
+=3
+*M3/4
+4g}
+2r
+=4
+{8b-
+8cc
+=5
+4dd
+4ee-
+4dd
+=6
+4cc
+4dd
+8cc
+8b-
+=7
+2a}
+=8
+{2dd
+=9
+*M4/4
+4ee-
+8dd
+8cc
+4cc
+8a
+8cc
+=10
+*M3/4
+4b-
+4a
+4g}
+=11
+{4b-
+=12
+*M4/4
+4a
+4dd
+8g
+8g
+8f#
+8a
+=13
+2g}
+=14
+{2dd
+=15
+4ee-
+8dd
+8cc
+4cc
+8a
+8cc
+=16
+*M3/4
+4b-
+4a
+4g}
+=17
+{4b-
+=18
+*M4/4
+4a
+4dd
+8g
+8g
+8f#
+8a
+=19
+2g}
+2r
+=20
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 4/4 ]  ZZ[6
+!!!cut: Ich seind so sehr betr&uuml;bet (3-70), S. 198
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X__X__X__  X__X_.XX__.XX  X__0___
+!!!rhy2: X_X_  X__X__X__  X__X__X_X_  X___
+!!!key: P1043  16  G 3/4 4/4 ]  ZZ[6
+!!!mod: HEPTATONIK HARMONISCH MOLL]  AMBITUS[9b
+!!!kad: 121111
+!!!akz: -5-511_542_56b43b1_211_56b43b1_211_
+!!!fot: 'a__b__c__d__c__d__
+!!!for: 'a__b__c__d__c__dv_
+!!!fok: '^a_^d_\__^d_\__^d_
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Liebeskummer, Suizid?
+!! LOTH VKL
+!! PR[18] 2K[7] 2G[16] 3K[11] 3G[4] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[2]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[40] ABS[45] SR[22] SP[18]
+!! ST[9] 2k[9] 2g[22] 3k[4] 3g[2] 4d[4] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[42] dm[-2] sr[31] sp[11]
+!! 1F[2] 2F[60] 3F[28] 4F[9] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[5] AB[47]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[4] U6K[0] U6[2] U7K[0] U7[7]
+!! N1[17] N2K[0] N2[26] N3K[0] N3[20] N4[13] N4Ü[0] N5[11] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

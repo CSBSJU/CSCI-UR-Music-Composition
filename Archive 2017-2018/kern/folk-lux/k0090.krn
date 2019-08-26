@@ -1,0 +1,98 @@
+!!!OTL: Es wohnt sich ein M&uuml;ller an jenem Deich (1-14), S.37
+!!!id: K0090
+**kern
+*clefG2
+*k[]
+*G:
+{4d
+=1
+8g
+16g
+16g
+8a
+16a
+16a
+8g
+16e
+16e
+4d
+=2
+4g
+4a
+4b}
+8r
+=3
+{16g
+16a
+=4
+8b
+16b
+16b
+8b
+16b
+16dd
+8dd
+16cc
+16cc
+4cc
+=5
+8a
+16a
+16a
+8a
+16g
+16a
+8b
+16b
+16b
+8b}
+=6
+{16g
+16a
+=7
+8b
+16b
+16b
+8b
+16dd
+16dd
+8dd
+16cc
+16cc
+4cc
+=8
+8a
+16a
+16a
+8dd
+8cc
+4b}
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[3
+!!!cut: Es wohnt sich ein M&uuml;ller an jenem Deich (1-14), S.37
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 1, Luxemburg 1926
+!!!rhy1: X__  X_XXX_XXX_XXX__  X__X__X__0_
+!!!rhy2: XX  X_XXX_XXX_XXX__  X_XXX_XXX_XXX_
+!!!key: K0090  16  G 4/4 ]  ZZ[3
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 333
+!!!akz: 1113_3523_3523_
+!!!fot: 'a__b__bv_
+!!!for: 'a__b__c__
+!!!fok: '~a_~a_^a_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Verf&uuml;hrung, Standesunterschied
+!!!bem: in der Quelle mit einer 2. Stimme versehen
+!! KINTZELE
+!! PR[56] 2K[2] 2G[15] 3K[4] 3G[0] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[2]
+!! 7K[2] 7G[0] 8A[0] MEHR[0] SI[24] ABS[54] SR[17] SP[7]
+!! ST[12] 2k[2] 2g[7] 3k[6] 3g[4] 4d[0] 4ü[0] 5d[2] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[20] dm[+4] sr[9] sp[11]
+!! 1F[49] 2F[44] 3F[5] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[4] AB[59]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[9] U6K[0] U6[0] U7K[0] U7[2]
+!! N1[9] N2K[0] N2[18] N3K[0] N3[33] N4[15] N4Ü[0] N5[15] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

@@ -1,0 +1,16 @@
+!!!OTL: Pythagorean diminished seventh (882.405 cents)
+!!!ratio: 32768/19683
+!! C to B-double-flat in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4bb--	-17.595	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1bb--	-17.595
+*-	*-	*-	*-

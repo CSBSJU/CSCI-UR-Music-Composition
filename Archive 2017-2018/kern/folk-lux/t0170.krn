@@ -1,0 +1,98 @@
+!!!OTL: Die M&uuml;llerin (41b), S. 134
+!!!id: T0170
+**kern
+*clefG2
+*k[]
+*G:
+{8d
+=1
+8g
+8g
+8g
+16a
+16a
+=2
+8b
+8b
+8b}
+=3
+{8b
+=4
+8a
+8cc
+8b
+8a
+=5
+4g}
+8r
+=6
+{8b
+=7
+8dd
+8b
+8dd
+8b
+=8
+8cc
+8ee
+8ee}
+=9
+{16dd
+16b
+=10
+8cc
+8a
+8cc
+8a
+=11
+8cc
+8ee
+8dd}
+=12
+{8cc
+=13
+8.b
+16a
+8b
+8cc
+=14
+4dd}
+=15
+{4ee
+=16
+8.dd
+16ee
+8dd
+8cc
+=17
+4b}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[6
+!!!cut: Die M&uuml;llerin (41b), S. 134
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_X_X_XX  X_X_X_
+!!!rhy2: X_  X_X_X_X_  X__0_
+!!!key: T0170  16  G 2/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 316553
+!!!akz: 13_21_54_44_35_53_
+!!!fot: 'a__b__c__cs"as'd__
+!!!for: 'a__b__bw_bw_c__cv_
+!!!fok: '/__\__/__V__Va_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem: Heffingen, hhh Georg Olinger, 10.3.1933
+!! THILL, Mathias:
+!! PR[19] 2K[0] 2G[14] 3K[16] 3G[5] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[36] ABS[58] SR[14] SP[22]
+!! ST[16] 2k[10] 2g[24] 3k[5] 3g[3] 4d[2] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[45] dm[-9] sr[34] sp[10]
+!! 1F[16] 2F[71] 3F[10] 4F[0] LF[0] 2P[3] 3P[0] 4P[0] TRI[0] DF[4] AB[62]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[2] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[14] N2K[0] N2[14] N3K[0] N3[27] N4[12] N4Ü[0] N5[29] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

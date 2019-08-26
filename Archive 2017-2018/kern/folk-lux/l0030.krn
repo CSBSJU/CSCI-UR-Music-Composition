@@ -1,0 +1,92 @@
+!!!OTL: Schneiderlitchen, S. 37
+!!!id: L0030
+**kern
+*clefG2
+*k[]
+*G:
+{8d
+=1
+8g
+8g
+8g
+16g
+16g
+=2
+8g
+8d
+8d
+8r
+=3
+4b
+4dd
+=4
+4b}
+8r
+=5
+{8b
+=6
+8b
+8dd
+8dd
+8b
+=7
+8a
+16a
+16b
+8cc}
+=8
+{8a
+=9
+8g
+8b
+8b
+16a
+16g
+=10
+8a
+8d
+8d}
+8r
+=11
+{4g
+8b
+8dd
+=12
+4.gg
+8ee
+=13
+8dd
+8b
+8cc
+8a
+=14
+4a
+8g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[4
+!!!cut: Schneiderlitchen, S. 37
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1: X_  X_X_X_XX  X_X_X_0_  X__X__  X__0_
+!!!rhy2: X_  X_X_X_X_  X_XXX_
+!!!key: L0030  16  G 2/4 ]  ZZ[4
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[11
+!!!kad: 34-51
+!!!akz: 1133_32_12_1+152_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__aw_c__
+!!!fok: '^a_~a_\__^__
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Hochzeitslied, Trinklied
+!! FONTAINE, Ed.:
+!! PR[10] 2K[3] 2G[17] 3K[3] 3G[3] 4A[0] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[3] MEHR[0] SI[34] ABS[29] SR[21] SP[14]
+!! ST[8] 2k[17] 2g[14] 3k[0] 3g[21] 4d[0] 4ü[0] 5d[3] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[55] dm[-21] sr[31] sp[24]
+!! 1F[93] 2F[7] 3F[0] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[2] AB[30]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[10] N2K[0] N2[13] N3K[23] N3[0] N4[10] N4Ü[0] N5[37] N6K[3] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

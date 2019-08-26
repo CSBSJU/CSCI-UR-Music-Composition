@@ -1,0 +1,226 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonate a tre [in Bb]
+!!!XEN: Trio Sonata Opus 1, No. 5
+!!!OPS: Opus 1
+!!!ONM: No. 5
+!!!OMV: Movement 1.
+!!!OMD: Grave
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!! For the following instrumentation: Violino I & II, Violone/Archlute,
+!!    and Organo.
+!!!ONB1: Source gives first time signature as sign of imperfection 
+!!!ONB2: ("common time") preceding 3/2.  
+!! Grave.
+**kern	**kern	**kern	**kern
+*ICklav	*ICstr	*ICstr	*ICstr
+*Iorgan	*Icello	*Ivioln	*Ivioln
+*	*Iarchl	*	*
+*I"Organo	*I"Violone (Archlute)	*I"Violino II	*I"Violino I
+!Organo	!Violone	!Violin 2	!Violin 1
+!	! or	!	!
+!	!Archlute	!	!
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*B-:	*B-:	*B-:	*B-:
+*M3/2	*M3/2	*M3/2	*M3/2
+*MM114	*MM114	*MM114	*MM114
+=1-	=1-	=1-	=1-
+[1BB-/	[1BB-/	2r	2r
+.	.	2b-\	2dd\
+2BB-/]	2BB-/]	2cc\	2ee-\
+=2	=2	=2	=2
+1BB-/	1BB-/	1dd\	1ff\
+2D\	2D\	[2b-\	2ff\
+=3	=3	=3	=3
+2E-\	2E-\	2b-\]	2gg\
+1F\	1F\	1a/	2.ff\
+.	.	.	4ee-\
+=4	=4	=4	=4
+1BB-/	1BB-/	1b-\	1dd\
+2B-\	2B-\	2dd\	2gg\
+=5	=5	=5	=5
+2A\	2A\	2cc\	2ff\
+1G\	1G\	2.b-\	2.ee-\
+.	.	4b-\	4ee-\
+=6	=6	=6	=6
+1F\	1F\	1a/	(2ee-\
+.	.	.	2dd\)
+2D\	2D\	[2b-\	2ff\
+=7	=7	=7	=7
+2E-\	2E-\	2b-\]	4ee-\
+.	.	.	4dd\
+2F\	2F\	2.b-\	2.cc\
+2FF/	2FF/	.	.
+.	.	4a/	4cc\
+=8	=8	=8	=8
+2BB-/	2BB-/	2b-\	2b-\
+2B-\	2B-\	2dd\	2ff\
+2B-\	2B-\	2dd\	2ff\
+=9	=9	=9	=9
+1B-\	1B-\	1ee\	1gg\
+2A\	2A\	2ff\	2ccc\
+=10	=10	=10	=10
+1G\	1G\	1ff\	1bb-\
+2C/	2C/	2ee\	2bb-\
+=11	=11	=11	=11
+1F\	1F\	1ff\	1aa\
+[2F\	[2F\	2f/	2a/
+=12	=12	=12	=12
+1F\]	1F\]	1g/	1b-\
+[2E-\	[2E-\	2g/	2cc\
+=13	=13	=13	=13
+1E-\]	1E-\]	1f/	1a/
+[2D\	[2D\	[2f/	[2b-\
+=14	=14	=14	=14
+2D\]	2D\]	2f/]	2b-\]
+1C/	1C/	1e-/	2.b-\
+.	.	.	4a/
+=15	=15	=15	=15
+1BB-/	1BB-/	1d/	2b-\
+.	.	.	[1gg\
+2B-\	2B-\	2dd\	.
+=16	=16	=16	=16
+1A\	1A\	1cc\	2gg\]
+.	.	.	2.ff#\
+2D\	2D\	2cc\	.
+.	.	.	4ff#\
+=17	=17	=17	=17
+1G\	1G\	1b-\	2gg\
+.	.	.	2ee-\
+2G\	2G\	2b-\	2ee-\
+=18	=18	=18	=18
+2F\	2F\	2a/	2dd\
+1E-\	1E-\	1g/	1cc\
+=19	=19	=19	=19
+1D\	1D\	2f#/	2dd\
+.	.	[1dd\	2r
+2BB/	2BB/	.	2r
+=20	=20	=20	=20
+1C/	1C/	2dd\]	[1.ee-\
+.	.	(4cc\	.
+.	.	4b-\)	.
+2C/	2C/	(4a/	.
+.	.	4g/)	.
+=21	=21	=21	=21
+1D\	1D\	1.f#/	2ee-\]
+.	.	.	(4dd\
+.	.	.	4cc\)
+2D\	2D\	.	(4b-\
+.	.	.	4a/)
+=22	=22	=22	=22
+1GG/	1GG/	1g/	2b-\
+.	.	.	2cc\
+2GG/	2GG/	2f/	[2dd\
+=23	=23	=23	=23
+1C/	1C/	2e/	2dd\]
+.	.	2f#/	[1cc\
+2C/	2C/	2g/	.
+=24	=24	=24	=24
+1D\	1D\	2f#/	1cc\]
+.	.	2d/	.
+2E-\	2E-\	[2g/	2b-\
+=25	=25	=25	=25
+2C/	2C/	2g/]	1.a/
+1D\	1D\	2.g/	.
+.	.	4f#/	.
+=26	=26	=26	=26
+1GG/	1GG/	1g/	2g/
+.	.	.	[1gg\
+2E-\	2E-\	2r	.
+=27	=27	=27	=27
+1F\	1F\	[1.aa-\	2gg\]
+.	.	.	(4ff\
+.	.	.	4ee-\)
+2F\	2F\	.	(4dd\
+.	.	.	4cc\)
+=28	=28	=28	=28
+1G\	1G\	2aa-\]	1.b\
+.	.	(4gg\	.
+.	.	4ff\)	.
+2GG/	2GG/	(4ee-\	.
+.	.	4dd\)	.
+=29	=29	=29	=29
+1C/	1C/	2ee-\	1cc\
+.	.	2ff\	.
+2C/	2C/	[2gg\	2b-\
+=30	=30	=30	=30
+1F\	1F\	2gg\]	2a/
+.	.	[1ff\	2b\
+2F\	2F\	.	2cc\
+=31	=31	=31	=31
+1G\	1G\	1ff\]	2b\
+.	.	.	2g/
+2A-\	2A-\	2ee-\	[2cc\
+=32	=32	=32	=32
+2F\	2F\	1.dd\	2cc\]
+2G\	2G\	.	2.cc\
+2GG/	2GG/	.	.
+.	.	.	4b\
+=33	=33	=33	=33
+2C/	2C/	2cc\	2cc\
+1BB/	1BB/	2r	(4gg\
+.	.	.	4ff\)
+.	.	2r	(4ee-\
+.	.	.	4dd\)
+=34	=34	=34	=34
+1C/	1C/	2r	2ee-\
+.	.	(4ccc\	[1ee-\
+.	.	4bb-\)	.
+2C/	2C/	(4aa\	.
+.	.	4gg\)	.
+=35	=35	=35	=35
+1D\	1D\	1.ff#\	2ee-\]
+.	.	.	(4dd\
+.	.	.	4cc\)
+2D\	2D\	.	(4b-\
+.	.	.	4a/)
+=36	=36	=36	=36
+1GG/	1GG/	1gg\	2b-\
+.	.	.	2cc\
+2GG/	2GG/	2ff\	[2dd\
+=37	=37	=37	=37
+1C/	1C/	2ee\	2dd\]
+.	.	2ff#\	[1cc\
+2C/	2C/	2gg\	.
+=38	=38	=38	=38
+1D\	1D\	2ff#\	1cc\]
+.	.	2dd\	.
+2E-\	2E-\	[2gg\	2b-\
+=39	=39	=39	=39
+2C/	2C/	2gg\]	1.a/
+1D\	1D\	2.gg\	.
+.	.	4ff#\	.
+=40	=40	=40	=40
+1GG/	1GG/	1gg\	1g/
+[2G\	[2G\	[2b-\	[2ee-\
+=41	=41	=41	=41
+2G\]	2G\]	2b-\]	2ee-\]
+1E-\	1E-\	2.g/	2.cc\
+.	.	4f#/	4dd\
+=42	=42	=42	=42
+1.D\	1.D\	1.f#/	1.dd\
+==	==	==	==
+*-	*-	*-	*-
+!!!CDT: 1653/2/17/-1713/1/8
+!!!OCY: Italia
+!!!ODE: Queen Christina Alexandra of Sweden
+!!!ODT: 1681//
+!!!OPC: Roma; Rome
+!!!AGN: trio sonata
+!!!AST: baroque, chamber
+!!!AMT: simple triple
+!!!YOR1: J. Joachim & F. Chrysander (eds.) Les Oeuvre de Arcangelo Corelli
+!!!YOR2: London: Augener & Co. 1871
+!!!YOY: 1871
+!!!AIN: archl cello organ violn
+!!!EEV: 1.1
+!!!RDT: 1993 August 20
+!!!YER: 1994 December 14
+!!!EMD: 1996 July 9
+!!!YEN: United States of America
+!!!EFL: 1/4
+!!!ENC: Frances Bennion & Steven Rasmussen
+!!!EED: W.B. Hewlett
+!!!VTS: 1500334844

@@ -1,0 +1,46 @@
+!!!COM:	Debussy
+!!!OTL:	Deb-13/34/25-26
+**kern	**dynam	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I
+*I'Vc.	*	*I'Vla.	*I'Vln. II	*I'Vln. I
+*clefF4	*	*clefC3	*clefG2	*clefG2
+*k[b-e-a-d-g-]	*	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+*M12/8	*	*M12/8	*M12/8	*M12/8
+=1	=1	=1	=1	=1
+16%3g-^L	f	8b-^L	16%3gg-^L	8bb-^L
+.	.	8dd-^	.	8ddd-^
+16%3f^	.	.	16%3ff^	.
+.	.	8a^J	.	8aa^J
+16%3e^	.	(4cc	16%3ee^	(4ccc
+16%3e-^J	.	.	16%3ee-^J	.
+.	.	8a-)	.	8aa-)
+16%3d^L	.	8b^L	16%3dd^L	8bb^L
+.	.	8g^	.	8gg^
+16%3d-^	.	.	16%3dd-^	.
+.	.	8b-^J	.	8bb-^J
+16%3c^	.	8f#^L	16%3cc^	8ff#^L
+.	.	8a-^	.	8aa-^
+16%3B^J	.	.	16%3b^J	.
+.	.	8f^J	.	8ff^J
+=2	=2	=2	=2	=2
+16%3c^L	.	8e^L	16%3cc^L	8ee^L
+.	.	8g^	.	8gg^
+16%3B^	.	.	16%3b^	.
+.	.	8e-^J	.	8ee-^J
+16%3B-^	.	(4g-	16%3b-^	(4gg-
+16%3A^J	.	.	16%3a^J	.
+.	.	8d)	.	8dd)
+16%3A-^L	.	8f^L	16%3a-^L	8ff^L
+.	.	8c#^	.	8cc#^
+16%3G^	.	.	16%3g^	.
+.	.	8e^J	.	8ee^J
+16%3G-^	.	8c^L	16%3g-^	8cc^L
+.	.	8e-^	.	8ee-^
+16%3F^J	.	.	16%3f^J	.
+.	.	8B^J	.	8b^J
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!YEM:	Copyright © Natalie Dietterich

@@ -1,0 +1,93 @@
+!!!OTL: Zimmerleute (244), S. 523
+!!!id: T0432
+**kern
+*clefG2
+*k[b-]
+*F:
+{4cc
+=1
+8a
+8a
+8cc
+8a
+=2
+4f}
+=3
+{4g
+=4
+8a
+8cc
+8b-
+8dd
+=5
+4cc}
+8r
+=6
+{8cc
+=7
+8cc
+8cc
+8cc
+8ff
+=8
+4dd
+8dd}
+=9
+{8cc
+=10
+8.b-
+16a
+8b-
+8dd
+=11
+8.cc
+16dd
+8cc}
+=12
+{8b-
+=13
+8.a
+16g
+8a
+8b-
+=14
+4cc}
+=15
+{4dd
+=16
+8.cc
+16b-
+8b-
+8cc
+=17
+4a}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[6
+!!!cut: Zimmerleute (244), S. 523
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette, 1937 posth.
+!!!rhy1: X__  X_X_X_X_  X__   (x2)
+!!!rhy2: X__  X_X_X_X_  X__0
+!!!key: T0432  16  F 2/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 156553
+!!!akz: 31_35_56_45_35_53_
+!!!fot: 'a__b__c__cs'd__e__
+!!!for: 'a__av_aw_b__bw_bw_
+!!!fok: '\__/__/__V__Va_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Berufslied
+!!!bem1: Junglinster, Rammeldingen, u.a., mehrere S&auml;nger,
+!!!bem2: Zimmerleute und Maurer (hhh)
+!! THILL; Mathias
+!! PR[60] 2K[0] 2G[3] 3K[0] 3G[3] 4A[3] 4Ü[0] 5A[3] 6K[0] 6G[3]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[17] ABS[30] SR[3] SP[13]
+!! ST[12] 2k[0] 2g[10] 3k[0] 3g[3] 4d[7] 4ü[0] 5d[3] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[23] dm[-6] sr[10] sp[13]
+!! 1F[6] 2F[18] 3F[71] 4F[0] LF[0] 2P[6] 3P[0] 4P[0] TRI[0] DF[4] AB[34]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[13] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[29] N2K[0] N2[10] N3K[0] N3[23] N4[10] N4Ü[0] N5[13] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

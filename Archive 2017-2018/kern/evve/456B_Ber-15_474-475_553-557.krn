@@ -1,0 +1,87 @@
+!!!COM:	Berg
+!!!OTL:	456B_Ber-15/474-475/553-557
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern
+*part20	*part19	*part18	*part17	*part16	*part15	*part14	*part13	*part13	*part12	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part4	*part3	*part2	*part1
+*staff22	*staff21	*staff20	*staff19	*staff18	*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Baritone Solo	*I"Soprano Solo	*I"Piano	*	*I"Harp	*	*I"Tam-tam	*I"Triangle	*I"Timpani	*I"Contrabassoon	*I"Bassoon	*I"Alto Saxophone	*I"Bass Clarinet in Bb	*I"Clarinet in Bb	*	*I"English Horn	*I"Oboe	*I"Flute
+*I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Bar. Solo	*I'S. Solo	*I'Pno.	*	*I'Hp.	*	*I'T.-t.	*I'Tri.	*I'Timp.	*I'Cbsn.	*I'Bsn.	*I'Alto Sax.	*I'B. Cl.	*I'Cl.	*	*I'Eng. Hn.	*I'Ob.	*I'Fl.
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*clefG2	*clefF4	*clefG2	*clefF4	*clefG2	*clefpercussion0	*clefpercussion0	*clefF4	*clefF4	*clefF4	*clefG2	*clefG2	*clefG2	*	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+2.r	8en'^ 8an	8ccn'^	8bn'^	8bn'^	2.r	4r	2.r	4r	2.r	8r	[8x	8r	2.r	2.r	2.r	8e'^L	2.r	8r	.	8fn^	8ccn^	([2.ffn^
+.	.	.	.	.	.	.	.	.	.	.	.	32qqx	.	.	.	.	.	(32qqan	sffz	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32qqx	.	.	.	.	.	32qqb	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	32qqx	.	.	.	.	.	32qqcc	.	.	.	.
+.	8r	8r	8r	8r	.	.	.	.	.	4.b-	8r	8x	.	.	.	8b-X'^J	.	4.b-^)	.	8r	8r	.
+.	4r	4r	16r	16r	.	[2ffn	.	4r	.	.	4r	4r	.	.	.	4r	.	.	.	4r	4r	.
+.	.	.	(16aanLL	(16aanLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+!	!	!	!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	16bbn	16bbn	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	16cccnJJ	16cccnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	4r	4r	16ccc#'^LL)	16ccc#'^LL)	.	.	.	8ccc#'^	.	4b-	4r	8x	.	.	.	8b-^	.	[4b-^	.	4r	4r	.
+.	.	.	(16gg#	(16gg#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	16aan	16aan	.	.	.	8r	.	.	.	8r	.	.	.	8r	.	.	.	.	.	.
+.	.	.	16bbnJJ	16bbnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+2.r	2.r	2.r	16ccc#LL	16ccc#LL	2.r	2ff_	2.r	16r	4r	8r	2.r	8r	2.r	2.r	2.r	8r	4r	8b-L]	.	2.r	2.r	2.ff]
+.	.	.	16ddd'^)	16ddd'^)	.	.	.	8dddn'^	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	(16gg	(16gg	.	.	.	.	.	8b-	.	8x	.	.	.	8b-X^	.	8b-X^J	.	.	.	.
+.	.	.	16aaJJ	16aaJJ	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	16bbLL	16bbLL	.	.	.	8r	4r	4.b-	.	8x	.	.	.	8b-^	4r	4.b-^	.	.	.	.
+.	.	.	16ccc#	16ccc#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	16eee'^)	16eee'^)	.	.	.	8eee-'^	.	.	.	8r	.	.	.	8r	.	.	.	.	.	.
+.	.	.	(16ff#JJ	(16ff#JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	16aanLL	16aanLL	.	8ffL]	.	8r	8r	.	.	8r	.	.	.	8r	8r	.	.	.	.	.
+.	.	.	16bb	16bb	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	(32qqAn	(32qqAn	sffz	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqB	32qqB	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	32qqc	32qqc	.	.	.	.
+.	.	.	16ccc	16ccc	.	8B-J	.	16r	[8B-	8r	.	8x	.	.	.	8B-X^	[8B-^)	[8B-^)	.	.	.	.
+.	.	.	16eee'^JJ)	16eee'^JJ)	.	.	.	[16eee-'^	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+2.r	2.r	2.r	(16ffnLL	(16ffnLL	2.r	2.r	2.r	16eee-]	4r	2.r	2.r	4r	2.r	2.r	2.r	4r	4B-']	4B-']	.	2.r	2.r	8een)
+.	.	.	16aan	16aan	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	16bbn	16bbn	.	.	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	8r
+.	.	.	16cccnJJ	16cccnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	8fff'^L)	8fff'^L)	.	.	.	8fffn'^L	4.B-	.	.	8x	.	.	.	8B-X^	4.B-X^	4.B-X^	.	.	.	4r
+.	.	.	16fff'L	16fff'L	.	.	.	16fff'L	.	.	.	8r	.	.	.	8r	.	.	.	.	.	.
+.	.	.	16fff'JJ	16fff'JJ	.	.	.	16fff'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	16fff'LL	16fff'LL	.	.	.	16fff'LL	.	.	.	8r	.	.	.	8r	.	.	.	.	.	4r
+.	.	.	16fff'	16fff'	.	.	.	16fff'	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	16fff'	16fff'	.	.	.	16fff'	8B-	.	.	8x	.	.	.	8B-'^	8B-'^	8B-'^	.	.	.	.
+.	.	.	16fff'JJ	16fff'JJ	.	.	.	16fff'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+2.r	2r	4r	(16fffnLL	(16fffnLL	2.r	2.r	2.r	(16fffnLL	4.B-	2.r	2.r	8x	4r	4r	4r	8B-X'^	4.B-'^	4.B-'^	.	2.r	2.r	2.r
+.	.	.	16cccn)	16cccn)	.	.	.	16cccn	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	16bbn'	16bbn'	.	.	.	16bbn')	.	.	.	8r	.	.	.	8r	.	.	.	.	.	.
+.	.	.	16aan'JJ	16aan'JJ	.	.	.	16aan'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	16r	16een~LL	16een~LL	.	.	.	16een~LL	.	.	.	4r	8r	8r	8r	4r	.	.	.	.	.	.
+.	.	(16ffnLL	(16ffn	(16ffn	.	.	.	(16ffn	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBB	.	32qqAAn^	.	(32qqAAn	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBB	.	32qqBBn^	.	32qqBB	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	32qqBB	.	32qqCn^	.	32qqC	.	.	.	.	.
+.	.	16ccn)	16ccn)	16ccn)	.	.	.	16ccn	4.BB-	.	.	.	8BB	8BB-^	4.BB-^	.	4.BB-'^)	8r	.	.	.	.
+.	.	16bn'JJ	16bn'JJ	16bn'JJ	.	.	.	16bn'JJ)	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8r	16an'LL	16an'LL	16an'LL	.	.	.	16an'LL	.	.	.	4r	4r	4r	.	4r	.	4r	.	.	.	.
+.	.	16en~	16en~JJ	16en~	.	.	.	16en~	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	(16fnLL	(16fn	8r	(16fn	.	.	.	(16fn	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	16cnJJ)	16cnJJ)	.	16cnJJ)	.	.	.	16cnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8r	16Bn'LL	16Bn'LL	2.r	16Bn'LL	2.r	2.r	16r	16Bn')	4.BB-	2.r	2.r	2.r	8BB-	8BB-^	4.BB-'^	2.r	4.BB-X'^	2r	.	2.r	2.r	2.r
+.	16An'	16An'	.	16An'JJ	.	.	16AnLL	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16r	16En~	16En~	.	8r	.	.	16En~	8r	.	.	.	.	8r	8r	.	.	.	.	.	.	.	.
+(16Fn	(16FnJJ	(16FnJJ	.	.	.	.	(16FnJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16CnLL)	16CnLL)	16Cn')	.	4r	.	.	16CnLL	4r	.	.	.	.	8r	8r	.	.	.	.	.	.	.	.
+16BBn'	16BBn'	16r	.	.	.	.	16BBn')	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16AAn'	16AAn'	8r	.	.	.	.	16AAn'	.	8BB-	.	.	.	8BB-	8BB-^	8BB-'^	.	8BB-'^	.	.	.	.	.
+16EE~JJ	16EE~JJ	.	.	.	.	.	16EE~JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+(16FFLL	(16FFLL	4r	.	4r	.	.	(16FFLL	4r	[4BB-	.	.	.	8BB-	8BB-^	[4BB-^	.	[4BB-'^	4r	.	.	.	.
+16CC#)	16CC#'JJ)	.	.	.	.	.	16CC#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+16BBBn'	8r	.	.	.	.	.	16BBBn')	.	.	.	.	.	8r	8r	.	.	.	.	.	.	.	.
+16AAAn'JJ	.	.	.	.	.	.	16AAAn'JJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9)][(s10,s11)]{(s12,s13)}{(s14,s15)}[(s16,s17)][(s18,s19,s20,s21,s22)]
+!!!YEM:	Copyright © Natalie Dietterich

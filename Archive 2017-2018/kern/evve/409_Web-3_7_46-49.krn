@@ -1,0 +1,70 @@
+!!!COM:	Webern
+!!!OTL:	Web-3/7/46-49
+**kern	**dynam	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I
+*I'Vc.	*	*I'Vla.	*I'Vln. II	*I'Vln. I
+*clefF4	*	*clefC3	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1
+4C#X	.	2e	2g	(>12bbL
+.	.	.	.	12aa
+.	.	.	.	12ggJ)
+(>12c#XL	.	.	.	4b
+12cn	.	.	.	.
+12BJ)	.	.	.	.
+4D	.	2f	2a-X	(>12cccL
+.	.	.	.	12bb-X
+.	.	.	.	12aa-XJ)
+(>12dL	.	.	.	4cc
+12d-X	.	.	.	.
+12cJ)	.	.	.	.
+=2	=2	=2	=2	=2
+4E-X	.	2f#X	2an	(>12ccc#XL
+.	.	.	.	12bbn
+.	.	.	.	12aanJ)
+(>12e-XL	.	.	.	4cc#X
+12d	.	.	.	.
+12d-XJ)	.	.	.	.
+(<6C	.	(<12AL	(<12f#XL	(>12dd#XL
+.	.	12A#X	12e#X	12cc##X
+6BB	.	12BJ)	12f#J)	12dd#J)
+.	.	(<12cL	(<12g#XL	(>12eeL
+6BB-X)	.	12B	12f##X	12dd#
+.	.	12cJ)	12g#J)	12eeJ)
+=3	=3	=3	=3	=3
+!!linebreak:original
+(<6AA	.	(<12AnL	(<12aL	(>12ffL
+.	.	12G#X	12g#X	12ee
+6AA-X	.	12AJ)	12aJ)	12ffJ)
+.	.	(<12BL	(<12bL	(>12ggL
+6GG)	.	12A#X	12a#X	12ff#X
+.	.	12BJ)	12bJ)	12ggJ)
+(<6GG-X	.	(>18dL	(>18ddL	(>18bb-XL
+.	.	18c#X	18cc#X	18aa
+.	.	18d)	18dd)	18bb-)
+6FF	.	(>18fn	(>18ff	(>18ddd-X
+.	.	18e	18ee	18ccc
+.	.	18f)	18ff)	18ddd-)
+6EE)	.	(>18g#X	(>18gg#X	(>18eee
+.	.	18f##X	18ff##X	18ddd#X
+.	.	18g#J)	18gg#J)	18eeeJ)
+*clefG2	*	*clefG2	*	*
+=4	=4	=4	=4	=4
+12g#X^L	fff	12gg#X^L	12gg#X^L	12ggg#X^L
+12f#X^	.	12ff#X^	12ff#X^	12fff#X^
+12e^J	.	12ee^J	12ee^J	12eee^J
+(>4.cc	.	(>4.cccn	(>4.cccn	(>4.cccc
+16bLL	.	16bbLL	16bbLL	16bbbLL
+16ccJ)	.	16cccJ)	16cccJ)	16ccccJ)
+12g#^	.	12gg#^	12gg#^	12ggg#^
+12f#^	.	12ff#^	12ff#^	12fff#^
+12e^J	.	12ee^J	12ee^J	12eee^J
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!YEM:	Copyright © Natalie Dietterich
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

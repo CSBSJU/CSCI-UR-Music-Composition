@@ -1,0 +1,474 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 5, No. 4
+!!!OMV: 5
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern
+*clefC	*clefG
+*k[b-]	*k[b-]
+*F:	*F:
+*M2/2	*M2/2
+=1	=1
+2r	4cc
+.	4ff
+4c	4ee
+4f	4aa
+=2	=2
+4e	4gg
+4A	2ccc
+4d	.
+4G	[4bb-
+=3	=3
+4c	4bb-]
+4F	4aa 4cc
+4B-	4dd 4ff
+[4BB-	4gg 4b-
+=4	=4
+4BB-]	4ee 4cc
+8.AA	8.ff
+16BB-	16gg
+2C	2cc 2gg
+=5	=5
+2F	2ff 2a
+4f	12ff
+.	12aa
+.	12ff
+4r	12cc
+.	12aa
+.	12ff
+=6	=6
+4e	12gg
+.	12ccc
+.	12gg
+4r	12ee
+.	12gg
+.	12ee
+4A	12ff
+.	12aa
+.	12ff
+4B	12dd
+.	12gg
+.	12dd
+=7	=7
+4c	12ee
+.	12gg
+.	12ee
+4r	12cc
+.	12ee
+.	12cc
+4F	12ff
+.	12gg
+.	12aa
+4D	12ff
+.	12gg
+.	12aa
+=8	=8
+4G	12b
+.	12aa
+.	12gg
+4E	12cc
+.	12dd
+.	12ee
+4F	12a
+.	12b
+.	12cc
+4G	12g
+.	12cc
+.	12b
+=9	=9
+12c	2c
+12d	.
+12c	.
+12B-	.
+12c	.
+12B-	.
+2A	12ff
+.	12gg
+.	12aa
+.	12ff
+.	12gg
+.	12aa
+=10	=10
+12B-	2dd
+12c	.
+12d	.
+12B-	.
+12c	.
+12d	.
+2G	12gg
+.	12aa
+.	12bb-
+.	12gg
+.	12aa
+.	12bb-
+=11	=11
+12c	2ee
+12d	.
+12e	.
+12c	.
+12d	.
+12e	.
+2A	12aa
+.	12bb-
+.	12ccc
+.	12aa
+.	12bb-
+.	12ccc
+=12	=12
+12d	2ff
+12e	.
+12f	.
+12d	.
+12e	.
+12f	.
+2B-	12bb-
+.	12ccc
+.	12ddd
+.	12bb-
+.	12ccc
+.	12ddd
+=13	=13
+12c	2ee
+12d	.
+12c	.
+12B-	.
+12c	.
+12B-	.
+2A	12ff
+.	12cc
+.	12ff
+.	12ff
+.	12cc
+.	12ff
+=14	=14
+2E	12gg
+.	12cc
+.	12gg
+.	12gg
+.	12cc
+.	12gg
+4F	12aa
+.	12cc
+.	12aa
+4E	12gg
+.	12cc
+.	12gg
+=15	=15
+4F	12aa
+.	12cc
+.	12aa
+4D	12bb
+.	12dd
+.	12bb
+4C	8.ccc
+.	16ee
+4AA	8.ff
+.	16gg
+=16	=16
+4BB-	2gg
+4C	.
+12F	2ff
+12G	.
+12F	.
+12E	.
+12F	.
+12E	.
+=17	=17
+4D	12b-
+.	12cc
+.	12dd
+4G	12b-
+.	12cc
+.	12dd
+4C	12e
+.	12dd
+.	12cc
+4AA	12f
+.	12g
+.	12a
+=18	=18
+4BB-	12d
+.	12e
+.	12f
+4C	12c
+.	12f
+.	12e
+12F	2c 2f 2a
+12G	.
+12F	.
+12E	.
+12F	.
+12E	.
+=19	=19
+4D	12b-
+.	12cc
+.	12dd
+4G	12b-
+.	12cc
+.	12dd
+4C	12e
+.	12dd
+.	12cc
+4AA	12f
+.	12g
+.	12a
+=20	=20
+4BB-	12d
+.	12e
+.	12f
+4C	12c
+.	12f
+.	12e
+2FF	2f 2a 2c
+=21	=21
+4F	4cc 4a
+4E	4cc 4g
+2F	2a 2cc
+=22	=22
+4d	4aa 4ff
+4c#	4ee 4aa
+2d	2aa 2ff
+=23	=23
+4F	12aa
+.	12gg
+.	12ff
+4G	12ee
+.	12ff
+.	12dd
+4A	12cc#
+.	12a
+.	12g
+4D	12f
+.	12dd
+.	12a
+=24	=24
+4G	12b
+.	12cc#
+.	12dd
+4A	12e
+.	12dd
+.	12cc#
+2D	2d
+=25	=25
+4BB-	12ddd
+.	12ccc
+.	12bb-
+4C	12aa
+.	12bb-
+.	12gg
+4D	12ff#
+.	12dd
+.	12cc
+4GG	12b-
+.	12gg
+.	12dd
+=26	=26
+4C	12ee
+.	12ff#
+.	12gg
+4D	12a
+.	12gg
+.	12ff#
+12G	2g
+12D	.
+12G	.
+12G	.
+12D	.
+12G	.
+=27	=27
+2BB	12gg
+.	12dd
+.	12gg
+.	12gg
+.	12dd
+.	12gg
+12c	2ee
+12G	.
+12c	.
+12c	.
+12G	.
+12c	.
+=28	=28
+2E	12ccc
+.	12gg
+.	12ccc
+.	12ccc
+.	12gg
+.	12ccc
+12f	2aa
+12c	.
+12f	.
+12f	.
+12c	.
+12f	.
+=29	=29
+4A	12ff
+.	12gg
+.	12aa
+4r	12ff
+.	12gg
+.	12aa
+4B-	12dd
+.	12ee
+.	12ff
+4r	12dd
+.	12ee
+.	12ff
+=30	=30
+4G	12gg
+.	12aa
+.	12bb-
+4r	12gg
+.	12aa
+.	12bb-
+4c	12ee
+.	12ff
+.	12gg
+4r	12ee
+.	12ff
+.	12gg
+=31	=31
+4A	12aa
+.	12bb-
+.	12ccc
+4r	12aa
+.	12bb-
+.	12ccc
+4d	12ff
+.	12gg
+.	12aa
+4r	12ff
+.	12gg
+.	12aa
+=32	=32
+4F	12ddd
+.	12ccc
+.	12ddd
+4r	12aa
+.	12bb
+.	12ccc
+4G	12bb
+.	12gg
+.	12bb
+4E	12ccc
+.	12ee
+.	12ccc
+=33	=33
+4F	12aa
+.	12bb
+.	12ccc
+4G	12dd
+.	12ccc
+.	12bb
+2C	2ccc
+=34	=34
+12F	4cc 4aa
+12G	.
+12A	.
+12F	4r
+12G	.
+12A	.
+12B-	4ff 4dd
+12c	.
+12d	.
+12B-	4r
+12c	.
+12d	.
+=35	=35
+12G	4bb- 4dd
+12A	.
+12B-	.
+12G	4r
+12A	.
+12B-	.
+12c	4gg 4ee
+12d	.
+12e	.
+12c	4r
+12d	.
+12e	.
+=36	=36
+12A	4ccc 4ee
+12B-	.
+12c	.
+12A	4r
+12B-	.
+12c	.
+12d	4aa 4ff
+12e	.
+12f	.
+12d	4r
+12e	.
+12f	.
+=37	=37
+12B-	4ff 4ddd
+12c	.
+12d	.
+12B-	4r
+12c	.
+12d	.
+12c	4gg 4ee
+12B-	.
+12c	.
+12A	8.ff
+12G	.
+12A	.
+.	16gg
+=38	=38
+12B-	2gg
+12A	.
+12B-	.
+12c	.
+12B-	.
+12c	.
+12F	2ff 2a
+12G	.
+12F	.
+12E	.
+12F	.
+12E	.
+=39	=39
+4D	4f 4b-
+2BB-	4dd 4d
+.	4e 4cc
+8.AA	8.f
+16BB-	16g
+=40	=40
+2C	2g
+12F	2a 2c 2f
+12G	.
+12F	.
+12E	.
+12F	.
+12E	.
+=41	=41
+4D	4b- 4f
+2BB-	4dd 4d
+.	4e 4cc
+8.AA	8.f
+16BB-	16g
+=42	=42
+2C	2g
+2FF	2c 2a 2f
+==	==
+*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: 
+!!!AGN: violin
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 1353312599
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1490111350

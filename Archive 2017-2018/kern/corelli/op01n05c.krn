@@ -1,0 +1,262 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonate a tre [in Bb]
+!!!XEN: Trio Sonata Opus 1, No. 5
+!!!OPS: Opus 1
+!!!ONM: No. 5
+!!!OMV: Movement 3.
+!!!OMD: Adagio
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!! For the following instrumentation: Violino I & II, Violone/Archlute,
+!!    and Organo.
+!! Adagio.
+**kern	**kern	**kern	**kern
+*ICklav	*ICstr	*ICstr	*ICstr
+*Iorgan	*Icello	*Ivioln	*Ivioln
+*	*Iarchl	*	*
+*I"Organo	*I"Violone (Archlute)	*I"Violino II	*I"Violino I
+!Organo	!Violone	!Violin 2	!Violin 1
+!	! or	!	!
+!	!Archlute	!	!
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*B-:	*B-:	*B-:	*B-:
+*M3/2	*M3/2	*M3/2	*M3/2
+*MM66	*MM66	*MM66	*MM66
+=1-	=1-	=1-	=1-
+2r	2r	2r	2r
+2r	2r	2r	2r
+2G\	2G\	2b-\	2dd\
+=2	=2	=2	=2
+1F#\	1F#\	1a/	1dd\
+2Fn\	2Fn\	2a/	2dd\
+=3	=3	=3	=3
+1.E-\	1.E-\	2g/	2dd\
+.	.	2.g/	1cc\
+.	.	4a/	.
+=4	=4	=4	=4
+1.D\	1.D\	1.f#/	1.dd\
+=5||	=5||	=5||	=5||
+!! Allegro.
+*MM72	*MM72	*MM72	*MM72
+*M4/4	*M4/4	*M4/4	*M4/4
+2B-\	1r	1r	8r
+.	.	.	16b-\LL
+.	.	.	16cc\JJ
+.	.	.	8dd\L
+.	.	.	16cc\L
+.	.	.	16b-\JJ
+2A\	.	.	8ff\L
+.	.	.	16ff\L
+.	.	.	16gg\JJ
+.	.	.	8aa\L
+.	.	.	16gg\L
+.	.	.	16ff\JJ
+=6	=6	=6	=6
+2G\	1r	8r	2bb-\
+.	.	16b-\LL	.
+.	.	16cc\JJ	.
+.	.	8dd\L	.
+.	.	16cc\L	.
+.	.	16b-\JJ	.
+2F\	.	8ff\L	4aa\
+.	.	16ff\L	.
+.	.	16gg\JJ	.
+.	.	8aa\L	4ff\
+.	.	16gg\L	.
+.	.	16ff\JJ	.
+=7	=7	=7	=7
+8r	8r	2bb-\	2dd\
+16BB-/LL	16BB-/LL	.	.
+16C/JJ	16C/JJ	.	.
+8D/L	8D/L	.	.
+16C/L	16C/L	.	.
+16BB-/JJ	16BB-/JJ	.	.
+8F\L	8F\L	2aa\	2cc\
+16F\L	16F\L	.	.
+16G\JJ	16G\JJ	.	.
+8A\L	8A\L	.	.
+16G\L	16G\L	.	.
+16F\JJ	16F\JJ	.	.
+=8	=8	=8	=8
+!! Adagio.
+*MM60	*MM60	*MM60	*MM60
+4B-\	4B-\	4bb-\	4dd\
+4A\	4A\	2ff\	4cc\
+4G\	4G\	.	2b-\
+4C/	4C/	4ee\	.
+=9	=9	=9	=9
+2F\	2F\	2ff\	2a/
+2r;	2r;	2r;	2r;
+=10||	=10||	=10||	=10||
+!! Allegro.
+*M4/4	*M4/4	*M4/4	*M4/4
+*MM72	*MM72	*MM72	*MM72
+2F\	1r	1r	8r
+.	.	.	16f/LL
+.	.	.	16g/JJ
+.	.	.	8a/L
+.	.	.	16g/L
+.	.	.	16f/JJ
+2E\	.	.	8cc\L
+.	.	.	16cc\L
+.	.	.	16dd\JJ
+.	.	.	8ee\L
+.	.	.	16dd\L
+.	.	.	16cc\JJ
+=11	=11	=11	=11
+2D\	1r	8r	2ff\
+.	.	16f/LL	.
+.	.	16g/JJ	.
+.	.	8a/L	.
+.	.	16g/L	.
+.	.	16f/JJ	.
+2C/	.	8cc\L	4ee\
+.	.	16cc\L	.
+.	.	16dd\JJ	.
+.	.	8ee\L	4cc\
+.	.	16dd\L	.
+.	.	16cc\JJ	.
+=12	=12	=12	=12
+8r	8r	2ff\	2aa\
+16F\LL	16F\LL	.	.
+16G\JJ	16G\JJ	.	.
+8A\L	8A\L	.	.
+16G\L	16G\L	.	.
+16F\JJ	16F\JJ	.	.
+8c\L	8c\L	2ee\	2gg\
+16c\L	16c\L	.	.
+16d\JJ	16d\JJ	.	.
+8e\L	8e\L	.	.
+16d\L	16d\L	.	.
+16c\JJ	16c\JJ	.	.
+=13	=13	=13	=13
+!! Adagio.
+*MM60	*MM60	*MM60	*MM60
+4f\	4f\	4ff\	4aa\
+4e\	4e\	2ccc\	4gg\
+4d\	4d\	.	2ff\
+4G\	4G\	4bb\	.
+=14	=14	=14	=14
+2c\	2c\	2ccc\	2ee\
+2r;	2r;	2r;	2r;
+=15||	=15||	=15||	=15||
+!! Adagio.
+*M3/2	*M3/2	*M3/2	*M3/2
+2C/	2C/	2gg\	2ee-\
+1AA/	1AA/	2.ff\	2.ee-\
+.	.	4ff\	4dd\
+=16	=16	=16	=16
+1.BB-;/	1.BB-;/	1.ff;\	1.dd;\
+=17	=17	=17	=17
+2B-\	2B-\	2dd\	2ff\
+1A\	1A\	1cc\	1ff#\
+=18	=18	=18	=18
+1.G;\	1.G;\	1.b-;\	1.gg;\
+=19	=19	=19	=19
+2G\	2G\	2dd\	2b-\
+1E-\	1E-\	1g/	1cc\
+=20	=20	=20	=20
+1.D;\	1.D;\	1.f#;/	1.dd;\
+=21||	=21||	=21||	=21||
+!! Allegro.
+*M4/4	*M4/4	*M4/4	*M4/4
+*MM72	*MM72	*MM72	*MM72
+2BB-/	8r	1r	1r
+.	16BB-/LL	.	.
+.	16C/JJ	.	.
+.	8D/L	.	.
+.	16C/L	.	.
+.	16BB-/JJ	.	.
+2AA/	8F\L	.	.
+.	16F\L	.	.
+.	16G\JJ	.	.
+.	8A\L	.	.
+.	16G\L	.	.
+.	16F\JJ	.	.
+=22	=22	=22	=22
+2BB-/	2B-\	8r	1r
+.	.	16b-\LL	.
+.	.	16cc\JJ	.
+.	.	8dd\L	.
+.	.	16cc\L	.
+.	.	16b-\JJ	.
+2AA/	2A\	8ff\L	.
+.	.	16ff\L	.
+.	.	16gg\JJ	.
+.	.	8aa\L	.
+.	.	16gg\L	.
+.	.	16ff\JJ	.
+=23	=23	=23	=23
+2GG/	2G\	2bb-\	8r
+.	.	.	16b-\LL
+.	.	.	16cc\JJ
+.	.	.	8dd\L
+.	.	.	16cc\L
+.	.	.	16b-\JJ
+4FF/	2F\	2aa\	8ff\L
+.	.	.	16ff\L
+.	.	.	16gg\JJ
+4F\	.	.	8aa\L
+.	.	.	16gg\L
+.	.	.	16ff\JJ
+=24	=24	=24	=24
+4E-\	4E-\	2gg\	4bb-\
+4C/	4C/	.	2aa\
+4D\	4D\	2ff\	.
+4BB-/	4BB-/	.	[4gg\
+=25	=25	=25	=25
+4G\	4G\	2bb-\	4gg\]
+4E-\	4E-\	.	2ccc\
+4F\	4F\	2aa\	.
+4D\	4D\	.	[4bb-\
+=26	=26	=26	=26
+4E-\	4E-\	2gg\	4bb-\]
+2C/	2C/	.	4aa\
+!! Adagio.
+*MM60	*MM60	*MM60	*MM60
+.	.	[2ff\	2aa-\
+4BB/	4BB/	.	.
+=27	=27	=27	=27
+2C/	2C/	4ff\]	2gg\
+.	.	4ee\	.
+2FF;/	2FF;/	2ff;\	2ff;\
+=28||	=28||	=28||	=28||
+!! Adagio, e piano.
+*MM66	*MM66	*MM66	*MM66
+*M3/2	*M3/2	*M3/2	*M3/2
+2r	2r	2r	2r
+2r	2r	2r	2r
+[2D\	[2D\	[2f/	[2b-\
+=29	=29	=29	=29
+2D\]	2D\]	2f/]	2b-\]
+1C/	1C/	1e-/	1a/
+=30	=30	=30	=30
+1.BB-;/	1.BB-;/	1.d;/	1.b-;\
+==	==	==	==
+*-	*-	*-	*-
+!!!ONB1: In the Joachim & Chrysander edition, all 3/2 time signatures in this
+!!!ONB2: movement are printed as "C 3/2", where "C" is the "common-time"
+!!!ONB3: symbol. The significance of this is uncertain.  
+!!!CDT: 1653/2/17/-1713/1/8
+!!!OCY: Italia
+!!!ODE: Queen Christina Alexandra of Sweden
+!!!ODT: 1681//
+!!!OPC: Roma; Rome
+!!!AGN: trio sonata
+!!!AST: baroque, chamber
+!!!AMT: irregular
+!!!YOR1: J. Joachim & F. Chrysander (eds.) Les Oeuvre de Arcangelo Corelli
+!!!YOR2: London: Augener & Co. 1871
+!!!YOY: 1871
+!!!AIN: archl cello organ violn
+!!!EEV: 1.1
+!!!RDT: 1993 August 20
+!!!YER: 1994 December 14
+!!!EMD: 1996 July 9
+!!!YEN: United States of America
+!!!EFL: 3/4
+!!!ENC: Frances Bennion & Steven Rasmussen
+!!!EED: W.B. Hewlett
+!!!VTS: 1236345547

@@ -1,0 +1,85 @@
+!!!COM:	Bartok
+!!!OTL:	Bar-30/4/22-30
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M2/4	*M2/4	*
+=1	=1	=1
+*	*^	*
+8GG#L 8C# 8D	4G [4g	8r	.
+8DJ	.	8B 8c#	.
+8EE#L 8AA# 8D	16gLL]	8r	.
+.	(16a	.	.
+8DJ	16g	8B 8c#	.
+.	16f#JJ	.	.
+=2	=2	=2	=2
+8GG#L 8C# 8D	16gLL	8r	.
+.	16f#JJ)	.	.
+8DJ	16r	8B 8c#	.
+.	(16a	.	.
+8EE#L 8AA# 8D	16gLL	8r	.
+.	16f#	.	.
+8DJ	16g	8B 8c#	.
+.	16f#JJ)	.	.
+=3	=3	=3	=3
+8GG#L 8C# 8D	16r	8r	.
+.	(16gLL	.	.
+8DJ	16f#JJ)	8B 8c#	.
+.	16r	.	.
+8EE#L 8AA# 8D	(16gLL	8r	.
+.	16f#JJ)	.	.
+8DJ	16r	8B 8c#	.
+.	(16g	.	.
+=4	=4	=4	=4
+8GG#L 8C# 8D	16f#)	8r	.
+.	16r	.	.
+8DJ	(16gLL	8B 8c#	.
+.	16f#JJ)	.	.
+8EE#L 8AA# 8D	16r	8r	.
+.	(16f#LL	.	.
+8DJ	16g	8B 8c#	<
+.	16aJJ	.	.
+=5	=5	=5	=5
+!!linebreak:original
+8C#L 8F# 8G	16BLL 16b	8r	[
+.	16cJJ) 16cc	.	.
+8F#J 8G	4r	8e 8f#	.
+8AAA#L 8FF# 8GG	.	8r	.
+8F#J 8G	(16bLL 16bb	8ee 8ff#	.
+.	16ccJJ) 16ccc	.	.
+=6	=6	=6	=6
+8C#L 8F# 8G	4r	8r	.
+8F#J 8G	.	8e 8f#	.
+8AA#L 8F# 8G	(16BLL 16b	8r	.
+.	16cJJ) 16cc	.	.
+8F#J 8G	8r	8e 8f#	.
+=7	=7	=7	=7
+8C#L 8F# 8G	8r	8r	.
+8F#J 8G	(16bLL 16bb	8ee 8ff#	.
+.	16ccJJ) 16ccc	.	.
+8AAA#L 8FF# 8GG	8r	8r	sf
+8F#J 8G	(16BLL 16b	8e 8f#	.
+.	16cJJ) 16cc	.	.
+*	*v	*v	*
+=8	=8	=8
+8C#L 8F# 8G	8r	.
+8F#J 8G	(16BLL 16b	.
+.	16cJJ 16cc	.
+8AA#L 8F# 8G	16dLL 16dd	.
+.	16c 16cc	.
+8F#J 8G	16d 16dd	.
+.	16e-JJ 16ee-	.
+=9	=9	=9
+8C#L 8F# 8G	16dLL 16dd	.
+.	16cJJ) 16cc	.
+8F#J 8G	8r	.
+8AAA#L 8FF# 8GG	4r	.
+8GGJ 8E# 8F#	.	sf
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM:	Copyright © Natalie Dietterich

@@ -1,0 +1,46 @@
+!!!COM:	Copland
+!!!OTL:	714_Cop-32/117-118/110-112
+**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part18	*part17	*part17	*part16	*part15	*part14	*part13	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff19	*staff18	*	*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I	*I"Piano	*	*I"Snare Drum	*I"Tuba	*I"Trombone	*I"Trumpet in Bb	*I"Trumpet in Bb	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Bass Clarinet in Bb	*I"Clarinet in Bb	*I"Oboe	*I"Piccolo
+*I'Cb.	*I'Vc.	*	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Pno.	*	*I'S. D.	*I'Tba.	*I'Tbn.	*I'Tpt.	*I'Tpt.	*I'Hn.	*I'Hn.	*I'Bsn.	*I'B. Cl.	*I'Cl.	*I'Ob.	*I'Picc.
+*clefF4	*clefF4	*	*clefC3	*clefG2	*clefG2	*clefG2	*clefG2	*clefpercussion0	*clefF4	*clefC4	*clefG2	*clefG2	*clefG2	*clefG2	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2
+*k[b-]	*k[b-]	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1r	8cL	.	8dL 8f	4.fff	4.fff	8cL 8d 8f	8b-L 8dd	8xL	4.c	4.cc	4.ff	4een	8cL 8f	8b-L	8cL	8dL	1r	8b-L 8dd	4eeee
+.	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd	8x	.	.	.	.	8c 8f	8b-	8c	8d	.	8b- 8dd	.
+.	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd	8x	.	.	.	4cc	8c 8f	8b-	8c	8d	.	8b- 8dd	4cccc
+.	8cJ	.	8dJ 8f	8aaa	8aaa	8cJ 8d 8f	8b-J 8dd	8xJ	8c	8cc	8aa	.	8cJ 8f	8b-J	8cJ	8dJ	.	8b-J 8dd	.
+.	8cL	.	8dL 8f	4.ggg	4.ggg	8cL 8d 8f	8b-L 8dd	8xL	4B-	4.b-	4.gg	4b-	8cL 8f	8b-L	8cL	8dL	.	8b-L 8dd	4bbb-
+.	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd	8x	.	.	.	.	8c 8f	8b-	8c	8d	.	8b- 8dd	.
+.	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd	8x	4G	.	.	4dd	8c 8f	8b-	8c	8d	.	8b- 8dd	4dddd
+.	8cJ	ff	8dJ 8f	8cc 8ccc	8cc 8ccc	8cJ 8d 8f	8b-J 8dd	8xJ	.	8g	8c	.	8cJ 8f	8b-J	8cJ	8dJ	.	8b-J 8dd	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*8va	*8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+2r	8cL	.	8dL 8f	3ccc 3cccc	3ccc 3cccc	8cL 8d 8f	8b-L 8dd 8ff	8xL	4.F	4.f	3cc	3cc	8cL 8f	8ddL	8cL	8dL	8b-L 8ff	8b-L 8dd	3cccc
+.	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd 8ff	8x	.	.	.	.	8c 8f	8dd	8c	8d	8b- 8ff	8b- 8dd	.
+.	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd 8ff	8x	.	.	.	.	8c 8f	8dd	8c	8d	8b- 8ff	8b- 8dd	.
+.	.	.	.	6ccc 6cccc	6ccc 6cccc	.	.	.	.	.	6cc	6cc	.	.	.	.	.	.	6cccc
+*	*	*	*	*	*	*	*	*	*	*clefF4	*	*	*	*	*	*	*	*	*
+.	8cJ	.	8dJ 8f	.	.	8cJ 8d 8f	8b-J 8dd 8ff	8xJ	8D	8A	.	.	8cJ 8f	8ddJ	8cJ	8dJ	8b-J 8ff	8b-J 8dd	.
+4r	8cL	.	8dL 8f	3bb- 3bbb-	3bb- 3bbb-	8cL 8d 8f	8b-L 8dd 8ff	8xL	4.C	4.G	3b-	3bb-	8cL 8f	8ddL	8cL	8dL	8b-L 8ff	8b-L 8dd	3bbb-
+.	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd 8ff	8x	.	.	.	.	8c 8f	8dd	8c	8d	8b- 8ff	8b- 8dd	.
+8r	8c	.	8d 8f	.	.	8c 8d 8f	8b- 8dd 8ff	8x	.	.	.	.	8c 8f	8dd	8c	8d	8b- 8ff	8b- 8dd	.
+.	.	.	.	6gg 6ggg	6gg 6ggg	.	.	.	.	.	6g	6gg	.	.	.	.	.	.	6ggg
+8CC	8cJ	.	8dJ 8f	.	.	8cJ 8d 8f	8b-J 8dd 8ff	8xJ	8CC	8C	.	.	8cJ 8f	8ddJ	8cJ	8dJ	8b-J 8ff	8b-J 8dd	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+*	*	*	*	*X8va	*X8va	*	*	*	*	*	*	*	*	*	*	*	*	*	*
+3C	8c 8d	.	8d 8f 8b-	3f 3ff	3f 3ff	2c^ 2d 2f 2b-	2dd^ 2gg 2ccc	2x	3C^	3c^	3f	3ff	2e^ 2a	2dd^	2e^	2f^	2dd^ 2ccc	2gg^ 2ccc	3fff
+.	8r	.	8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	4r	.	4r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+6C	.	.	.	6f 6ff	6f 6ff	.	.	.	6C	6c	6dd	6aa	.	.	.	.	.	.	6ddd 6aaa
+3BB-	4r	.	4r	3cc 3gg	3cc 3gg	4r	4r	4r	3BB-	3B-	3cc	3gg	4r	4r	4r	4r	4r	4r	3ccc 3ggg
+.	8cL 8d	???	8dL 8f 8b-	.	.	4c^ 4d 4f 4b-	4dd^ 4gg 4ccc	4x^	.	.	.	.	4e^ 4a	4dd^	4e^	4f^	8dd^L 8ccc	4gg^ 4ccc	.
+6GG	.	.	.	6g 6cc	6g 6cc	.	.	.	6GG	6G	6r	6r	.	.	.	.	.	.	6ccc
+.	8cJ	.	8ccJ	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccJ 8gg	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7,s8,s9,s10,s11)]s12{(s13,s14)}[(s15,s16,s17,s18,s19)]
+!!!YEM:	Copyright © Natalie Dietterich

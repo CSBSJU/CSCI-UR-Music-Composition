@@ -1,0 +1,117 @@
+!!!OTL: Sch&auml;fersm&auml;dchen, komm mit mir (Band 1), S. 262
+!!!id: P0868
+**kern
+*clefG2
+*k[f#c#]
+*A:
+{8a
+=1
+8a
+4.e
+8f#
+4e
+4e
+=2
+4cc#
+4cc#
+2a}
+=3
+{4dd
+4dd
+4b
+4ff#
+=4
+4ee
+4ee
+2cc#}
+=5
+{4.e
+8f#
+4e
+4e
+=6
+4cc#
+4cc#
+4cc#}
+=7
+{8cc#
+8ee
+=8
+4dd
+4dd
+4b
+4b
+=9
+2cc#}
+2r
+=10
+{4.e
+8f#
+4e
+4e
+=11
+4cc#
+4cc#
+4a
+4e}
+=12
+{4dd
+4dd
+4b
+4ff#
+=13
+8ee
+8ee
+8ee
+8dd
+4cc#
+4cc#}
+=14
+{4.e
+8f#
+4e
+4e
+=15
+4cc#
+4cc#
+4cc#
+8cc#
+8ee}
+=16
+{4dd
+4dd
+4b
+4b
+=17
+2.cc#}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/2 ]  ZZ[8
+!!!cut: Sch&auml;fersm&auml;dchen, komm mit mir (Band 1), S. 262
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1:   X_.XX_X_  X_X_X__
+!!!rhy2: X_X_X_X_  X_X_X__
+!!!key: P0868  08  A 2/2 ]  ZZ[8
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 1333-5353
+!!!akz: -53_45_-53_43_-53_45_-53_43_
+!!!fot: 'a__b__aw_bw_av_bv_aw_bw_
+!!!for: 'a__b__av_bw_aw_bw_aw_bw_
+!!!fok: '^a_Sd_/__-__^__Sd_/__\__
+!! PHRAS[VORWIEGEND VOLLTAKTIG]
+!!!fkt: Verf&uuml;hrung, Werbung
+!!!bem: schottische Herkunft, so Vermerk des Autors
+!! LOTH VKL
+!! PR[29] 2K[3] 2G[8] 3K[3] 3G[3] 4A[8] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[24] ABS[38] SR[11] SP[13]
+!! ST[16] 2k[11] 2g[32] 3k[5] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[47] dm[-23] sr[42] sp[5]
+!! 1F[5] 2F[76] 3F[14] 4F[0] LF[0] 2P[5] 3P[0] 4P[0] TRI[0] DF[4] AB[42]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[8] U7K[0] U7[5]
+!! N1[15] N2K[0] N2[28] N3K[0] N3[8] N4[26] N4Ü[0] N5[8] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

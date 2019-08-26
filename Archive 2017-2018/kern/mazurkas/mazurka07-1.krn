@@ -1,0 +1,605 @@
+!!!COM: Chopin, Frederic
+!!!CDT: 1810///-1849///
+!!!OTL: Mazurka in B-flat Major, Op. 7, No. 1
+!!!OPS: Op. 7
+!!!ONM: No. 1
+!!!OMD: Vivace
+!!!ODT: 1830///-1832///
+!!!PDT: 1832///-1835///
+!!!PPP: Leipzig, 1832; Paris and London, 1833; no.1, Warsaw, 1835
+!!!ODE: Mr. Johns of nouvelle-Orleans
+**kern	**kern	**dynam
+*staff2	*staff1	*staff1/2
+*Ipiano	*Ipiano	*Ipiano
+*>[A,B,B,C,C1,C,C2]	*>[A,B,B,C,C1,C,C2]	*>[A,B,B,C,C1,C,C2]
+*>norep[A,B,C,C2]	*>norep[A,B,C,C2]	*>norep[A,B,C,C2]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]
+*B-:	*B-:	*B-:
+*M3/4	*M3/4	*M3/4
+*MM152	*MM152	*MM152
+=1-	=1-	=1-
+*ped	*	*
+4FF	8fL	f
+.	16r	.
+.	(>16fJk	.
+4F 4c 4e-	4g	.
+4F 4c 4e-	4a	.
+*Xped	*	*
+=2	=2	=2
+*ped	*	*
+!	!LO:TX:b:i:t=cresc.	!
+4BB-	8b-\L)	<
+.	16r	.
+.	(16ccJk	.
+4F 4B- 4d	4dd	.
+4BB-	8ee-L	.
+*Xped	*	*
+.	8ffJ	.
+=3	=3	=3
+*ped	*	*
+4EE- 4E-	8ggL)	ff
+.	16r	.
+.	(16aaJk	.
+4G: 4B-: 4e-: 4g:	4bb-T	fz
+4r	8aaL	>
+.	8ggJ	]
+=4	=4	=4
+.	(8ff/q	.
+*ped	*	*
+!	!LO:TX:b:i:t=scherz.	!
+4BB-'	8bb-''L))	p
+.	16r	.
+.	(16bb-Jk	.
+4F 4B- 4d	2dd)	.
+4F 4B- 4d	.	.
+*Xped	*	*
+=5	=5	=5
+.	(8ee-/q	.
+*ped	*	*
+4FF'	8ggL)	.
+.	16r	.
+.	(16ggJk	>
+4F 4c 4e-	2a)	]
+4F 4c 4e-	.	.
+*Xped	*	*
+=6	=6	=6
+.	(8b-/q	.
+*ped	*	*
+4BB-'	8dd''L)	.
+.	16r	.
+.	(16ddJk	>
+4F 4B- 4d	(>2en)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=7	=7	=7
+*ped	*	*
+4FF'	8f'L)	.
+.	16r	.
+.	(16ak	<
+4F 4e-X	8cc	.
+.	8ee-X	.
+4F 4A 4e-	8.gg)	.
+*Xped	*	*
+.	16ffJk	[
+=8	=8	=8
+.	(8ffq/	.
+*ped	*	*
+4BB-'	8ddd'L)	.
+.	16r	.
+.	(16ccck	>
+4F 4B- 4d	8bb-M	.
+*Xped	*	*
+.	8ggJ	.
+4F 4B- 4d	4ff)	]
+=9	=9	=9
+.	(8ggq/	.
+*ped	*	*
+4BB-'	8bb-''L)	.
+.	16r	.
+.	(16bb-Jk	>
+4F 4c 4e-	2a)	]
+4F 4c 4e-	.	.
+*Xped	*	*
+=10	=10	=10
+.	(16b-qLL>	.
+.	16ddqJJ	.
+*ped	*	*
+4BB-'	8ffL'')	.
+.	16r	.
+.	(>16ffJk	>
+4F 4B- 4d	(>2en)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=11	=11	=11
+*ped	*	*
+4FF'	8f'L)	.
+.	16r	.
+.	(16ak	.
+4F 4e-X	8cc	.
+.	8ee-X	.
+4F 4A 4e-	8ddm	.
+*Xped	*	*
+.	8ccJ	.
+=12	=12	=12
+*ped	*	*
+4BB-	8dd'L)	.
+*Xped	*	*
+.	16r	.
+.	(16fJk	.
+4F 4B- 4d	4b-/	.
+4r	8aL	.
+.	8gJ	.
+=13	=13	=13
+*ped	*	*
+4FF	8fL)	.
+.	16r	.
+!	!LO:TX:b:i:t=cresc.	!
+.	(>16fJk	<
+4F 4c 4e-	4g	.
+*Xped	*	*
+4F 4c 4e-	4a	.
+=14	=14	=14
+*ped	*	*
+4BB-	8b-\L)	.
+*Xped	*	*
+.	16r	.
+.	(>16ccJk	.
+4F 4B- 4d	4dd	.
+4BB-	8ee-L	.
+.	8ffJ	.
+=15	=15	=15
+*ped	*	*
+4EE- 4E-	8gg'L)	.
+.	16r	.
+.	(16aaJk	f
+4G: 4B-: 4e-: 4g:	4bb-T	.
+*Xped	*	*
+4r	8aaL	.
+.	8ggJ	.
+=16	=16	=16
+.	(8ff/q	.
+*ped	*	*
+4BB-	8bb-''L))	.
+.	16r	.
+.	(16bb-Jk	>
+4F 4B- 4d	2dd)	]
+4F 4B- 4d	.	.
+*Xped	*	*
+=17	=17	=17
+.	(8ee-q/	.
+*ped	*	*
+4FF	8gg''L)	.
+.	16r	.
+.	(16ggJk	>
+4F 4c 4e-	2a)	]
+*Xped	*	*
+4F 4c 4e-	.	.
+=18	=18	=18
+.	(8b-q/	.
+*ped	*	*
+4BB-	8dd''L)	.
+.	16r	.
+.	(16ddJk	>
+4F 4B- 4d	2en)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=19	=19	=19
+*ped	*	*
+4FF	8fL	.
+.	16r	.
+.	(16ak	<
+4F 4e-X	8cc	.
+*Xped	*	*
+.	8ee-X	.
+4F 4A 4e-	8.gg)	.
+.	16ffJk	[
+=20	=20	=20
+.	(8ff/q	.
+*ped	*	*
+4BB-	8dddL)	.
+.	16r	.
+.	(16ccck	.
+4F 4B- 4d	8bb-M	>
+*Xped	*	*
+.	8ggJ	]
+4F 4B- 4d	4ff)	.
+=21	=21	=21
+.	(8gg/q	.
+*ped	*	*
+4BB-	8bb-''L)	.
+.	16r	.
+.	(16bb-Jk	>
+4F 4c 4e-	2a)	]
+*Xped	*	*
+4F 4c 4e-	.	.
+=22	=22	=22
+.	(16b-/qLL	.
+.	16ee-/qJJ	.
+*ped	*	*
+4BB-	8ff''L)	.
+.	16r	.
+.	(16ffJk	>
+4F 4B- 4d	(>2en)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=23	=23	=23
+*ped	*	*
+4FF	8fL)	<
+.	16r	.
+.	(16ak	.
+4F 4e-X	8cc	[
+*Xped	*	*
+.	8ee-X	>
+4F 4A 4e-	8ddm	.
+.	8ccJ	]
+=24	=24	=24
+*ped	*	*
+4BB-	8ddL)	.
+.	16r	.
+.	(16fJk	.
+4F 4B- 4d	4b-/)	.
+*Xped	*	*
+=!|:	=!|:	=!|:
+*>B	*>B	*>B
+4r	(8aL	.
+.	8b-J)	.
+=25	=25	=25
+4FF	(8.ccL	p
+!	!LO:TX:i:b:t=legato	!
+.	16ddJk	.
+4C 4A	4cc)	.
+4C 4A	(8eenL	<
+.	8ffJ	.
+=26	=26	=26
+4FF	8.ggL	.
+.	16aaJk	.
+4D 4B-	4gg)	[
+4D 4B-	(8ffL	.
+.	8ddJ	.
+=27	=27	=27
+4FF	8ccL	.
+.	8ddJ	.
+4C 4A	4cc	.
+4C 4A	8eenL)	<
+.	16r	.
+.	16ffJk	[
+=28	=28	=28
+4FF	(12ggL	.
+.	12aa	.
+.	12ggJ	.
+4D 4B-	4.ff	>
+4FF	.	.
+.	8dd)	]
+=29	=29	=29
+!	!LO:TX:a:i:t=stretto	!
+4C 4A	(8ccL	.
+.	8ddJ	.
+4FF	4cc)	.
+4C' 4A'	(8eenL	.
+.	8ffJ	.
+=30	=30	=30
+4FF'	8ggL	.
+.	8aaJ	.
+4D' 4B-'	4ggT	.
+4FF'	8ffL	.
+.	8ddJ	.
+=31	=31	=31
+4C' 4A'	8ccL	.
+.	8ddJ	.
+4FF'	4cc)	<
+[4C 4A	(8eenL	.
+.	8ffJ	[
+=32	=32	=32
+!	!LO:TX:b:i:t=poco rall.	!
+(>4C] 4En (<4B-	12ggL	>
+.	12aa	.
+.	12ggJ	]
+4F) 4A)	8.ff^^L)	.
+!	!LO:TX:a:i:t=a tempo	!
+.	(16gJk	<
+4r	12ffL)	.
+.	(12g-	.
+.	12ffJ)	[
+=33	=33	=33
+.	(8ff/q	.
+*ped	*	*
+4FF	8fL)	f
+.	16r	.
+.	16fJk	.
+4F 4c 4e-X	(>4gn	.
+*Xped	*	*
+4F 4c 4e-	4a	.
+=34	=34	=34
+*ped	*	*
+4BB-	8b-\L)	.
+.	16r	.
+.	(16ccJk	.
+4F 4B- 4d	4dd	.
+*Xped	*	*
+4BB-	8ee-L	.
+.	8ffJ	.
+=35	=35	=35
+*ped	*	*
+4EE- 4E-	8ggL)	.
+*Xped	*	*
+.	16r	.
+.	(16aaJk	.
+4G: 4B-: 4e-: 4g:	4bb-T	.
+4r	8aaL	.
+.	8ggJ	.
+=36	=36	=36
+.	(8ee-/q	.
+*ped	*	*
+4BB-	8bb-''L))	.
+.	16r	.
+.	(16bb-Jk	>
+4F 4B- 4d	2dd)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=37	=37	=37
+.	((8ee-/q	.
+*ped	*	*
+4FF	8gg''L))	.
+.	16r	.
+.	(16ggJk	>
+4F 4c 4e-	2a)	]
+*Xped	*	*
+4F 4c 4e-	.	.
+=38	=38	=38
+.	(8b-/q	.
+*ped	*	*
+4BB-	8dd''L)	.
+.	16r	.
+.	(16ddJk	>
+4F 4B- 4d	(2en)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=39	=39	=39
+*ped	*	*
+4FF	8fL))	.
+.	16r	.
+.	(16ak	<
+4F 4e-X	8cc	.
+*Xped	*	*
+.	8ee-X	[
+4F 4A 4e-	8.gg)	>
+.	16ffJk	]
+=40	=40	=40
+.	(8ffq/	.
+*ped	*	*
+4BB-	8dddL)	.
+.	16r	.
+.	(16ccck	>
+4F 4B- 4d	8bb-M	.
+*Xped	*	*
+.	8ggJ	.
+4F 4B- 4d	4ff)	]
+=41	=41	=41
+.	(8ggq/	.
+*ped	*	*
+4BB-	8bb-''L)	.
+.	16r	.
+.	(16bb-Jk	>
+4F 4c 4e-	2a)	]
+*Xped	*	*
+4F 4c 4e-	.	.
+=42	=42	=42
+.	(16b-q/LL	.
+.	16ddqJJ	.
+*ped	*	*
+4BB-	8ff''L)	.
+.	16r	.
+.	(16ffJk	>
+4F 4B- 4d	(>2en)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=43	=43	=43
+*ped	*	*
+4FF	8fL)	.
+.	16r	.
+.	(16ak	<
+4F 4e-X	8cc	.
+*Xped	*	*
+.	8ee-X	.
+4F 4A 4e-	8ddm	.
+.	8ccJ	[
+=44	=44	=44
+*ped	*	*
+4BB-	8dd''L)	.
+*Xped	*	*
+.	16r	.
+.	(16fJk	>
+4F 4B- 4d	4b-/)	]
+=:|!|:	=:|!|:	=:|!|:
+*>C	*>C	*>C
+4BB-T	4r	.
+=45	=45	=45
+*ped	*	*
+!	!LO:TX:a:i:t=sotto voce	!
+(4GG-' 4D-'	8ff'L	pp
+.	16r	.
+.	(16ffJk	.
+4GG-' 4D-'	4een	.
+4GG-' 4D-'	8dd-L	.
+.	8ccJ	.
+=46	=46	=46
+4GG- 4D-)	8b-L)	.
+.	16r	.
+.	(16dd-Jk	.
+4GG- 4D-	4ccm	.
+4GG- 4D-	8b-L)	.
+.	16r	.
+.	(>16enJk	<
+=47	=47	=47
+4GG- 4D-	8ff'L)	[
+.	16r	.
+.	(16ffJk	.
+4GG- 4D-	4een	.
+4GG- 4D-	8dd-L	.
+.	8ccJ)	.
+=48	=48	=48
+4GG- 4D-	(12b-L	.
+.	12cc	.
+.	12b-J)	>
+4GG- 4D-	(>2en	]
+4GG- 4D-	.	.
+=49	=49	=49
+!	!LO:TX:b:i:t=rubato	!
+4GG- 4D-	8ff''L)	.
+.	16r	.
+.	(16ffJk	.
+4GG- 4D-	4een	.
+4GG- 4D-	8dd-L	.
+.	8ccJ	.
+=50	=50	=50
+4GG- 4D-	8b-L)	.
+.	16r	.
+.	(16dd-Jk	.
+4GG- 4D-	4cct	.
+4GG- 4D-	8b-L)	.
+.	16r	.
+.	(>16enJk	.
+=51	=51	=51
+4GG- 4D-	8ff'L)	.
+.	16r	.
+.	(16ffJk	.
+4GG-^ 4D-^	4een	.
+4GG- 4D-	8.dd-L	.
+*Xped	*	*
+.	16ccJk	.
+=52	=52	=52
+*^	*	*
+4D-	2.FF	12b-L	pp
+.	.	12cc	.
+.	.	12b-J	.
+2C^	.	4.a	.
+.	.	8gn	.
+*v	*v	*	*
+=53	=53	=53
+*ped	*	*
+!	!LO:TX:a:b:t=a tempo	!
+4FF	8fL)	f
+.	16r	.
+.	(>16fJk	.
+4F 4c 4e-	4g	.
+4F 4c 4e-	4a	.
+*Xped	*	*
+=54	=54	=54
+*ped	*	*
+4BB-	8b-\L)	.
+*Xped	*	*
+.	16r	.
+.	(16ccJk	<
+!	!LO:TX:b:i:t=cresc.	!
+4F 4B- 4d	4dd	.
+4BB-	8ee-L	.
+.	8ffJ	.
+=55	=55	=55
+*ped	*	*
+4EE- 4E-	8ggL)	.
+*Xped	*	*
+.	16r	.
+.	(16aaJk	f
+4G: 4B- 4e- 4g	4bb-T	.
+4r	8aaL	.
+.	8ggJ)	.
+=56	=56	=56
+.	(8ffq/	.
+*ped	*	*
+4BB-	8bb-''L)	.
+.	16r	.
+.	(16bb-Jk	>
+4F 4B- 4d	2dd)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=57	=57	=57
+.	(8ee-q/	.
+4FF	8gg''L)	.
+.	16r	.
+.	(16ggJk	>
+4F 4c 4e-	2a)	]
+*Xped	*	*
+4F 4c 4e-	.	.
+=58	=58	=58
+.	(8b-q/	.
+*ped	*	*
+4BB-	8dd''L)	.
+.	16r	.
+.	(16ddJk	>
+4F 4B- 4d	(2en)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=59	=59	=59
+*ped	*	*
+4FF	8fL))	.
+.	16r	.
+.	(16ak	<
+4F 4e-X	8cc	.
+*Xped	*	*
+.	8ee-X	[
+4F 4A 4e-	8.gg)	>
+.	16ffJk	]
+=60	=60	=60
+.	(8ff/q	.
+*ped	*	*
+4BB-	8dddL)	.
+.	16r	.
+.	(16ccck	>
+4F 4B- 4d	8bb-M	.
+*Xped	*	*
+.	8ggJ	.
+4F 4B- 4d	4ff)	]
+=61	=61	=61
+.	(8ggq/	.
+*ped	*	*
+4BB-	8bb-''L)	.
+.	16r	.
+.	(16bb-Jk	>
+4F 4c 4e-	2a)	]
+*Xped	*	*
+4F 4c 4e-	.	.
+=62	=62	=62
+.	(16b-q/LL	.
+.	16ddqJJ	.
+*ped	*	*
+4BB-	8ff''L)	.
+.	16r	.
+.	(16ffJk	>
+4F 4B- 4d	(>2en)	]
+*Xped	*	*
+4F 4B- 4d	.	.
+=63	=63	=63
+*ped	*	*
+4FF	8fL))	.
+.	16r	.
+.	(16ak	<
+4F 4e-X	8cc	.
+*Xped	*	*
+.	8ee-X	.
+4F 4A 4e-	8.ddm	.
+.	16ccJk)	[
+=64	=64	=64
+*>C1	*>C1	*>C1
+*ped	*	*
+4BB-	8dd'L	f
+*Xped	*	*
+.	16r	.
+.	(16fJk	.
+4F 4B- 4d	4b-/)	.
+=65:|!	=65:|!	=65:|!
+*>C2	*>C2	*>C2
+*ped	*	*
+4BB-	(8ddL	f
+.	8fJ)	.
+2BB-; 2F; 2d;	2b-; 2bb-;	fz
+*Xped	*	*
+==	==	==
+*-	*-	*-
+!!!SMS: Mikuli edition, G. Schirmer (1894-1898)
+!!!ENC: Craig Stuart Sapp
+!!!END: 2005/02/20/
+!!!EEV: 2017/06/11/
+!!!RDF**kern: > = above
+!!!RDF**kern: < = below

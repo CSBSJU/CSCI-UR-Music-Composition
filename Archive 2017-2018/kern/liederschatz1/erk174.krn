@@ -1,0 +1,104 @@
+!!!OTL@@DE: Br&uuml;der, lagert euch im Kreise
+!!!ONB: Mel. in J.G.W. Schneider's "Commers-Liedern"
+!!!ODT: 1801
+!!!OMD: Ruhig, dochnicht zu langsam
+!!!ONB: Studentenlied der 2. H&auml;lfte des 18. Jahrhunderts
+!!!LDT: 1794
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+*>[A,A,B,B1,B,B2]	*>[A,A,B,B1,B,B2]	*>[A,A,B,B1,B,B2]
+*>norep[A,B,B2]	*>norep[A,B,B2]	*>norep[A,B,B2]
+*>A	*>A	*>A
+=1-	=1-	=1-
+*clefF4	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]
+*B-:	*B-:	*B-:
+*M3/4	*M3/4	*M3/4
+*MM116	*MM116	*MM116
+*	*^	*^
+2BB-\ 2B-\	(4f/	2d\	(4f/	2f\
+.	4b-/)	.	4b-/	.
+4D\ 4B-\	4b-/	4f\	4b-/)	4b-\
+*	*v	*v	*	*
+*	*	*v	*v
+=2	=2	=2
+2E-\ 2B-\	4g/ (4b-/	(4b-\
+.	&(4e-/&) 4g/	4g/)
+4E-\ 4B-\	4e-/ 4g/)	4g/
+=3	=3	=3
+*^	*^	*
+2c/	(4C\	(4ee-/	2e-\ 2g\	(4ee-\
+.	4E-\)	4cc/)	.	4cc\)
+*	*	*v	*v	*
+4c/	4F\	4e-/ 4f/ 4a/	4a/
+*v	*v	*	*
+=4	=4	=4
+*	*^	*
+4BB-/	(8e-/ 8cc/L	4f\	8cc\L
+.	8d/) 8b-/J	.	8b-\J
+*	*v	*v	*
+2BBB-/ 2BB-/	2d/ 2f/ 2b-/	2b-\
+=5:|!|:	=5:|!|:	=5:|!|:
+*>B	*>B	*>B
+*	*^	*
+2B-\ 2d\	(4.dd/	2f\	(4.dd\
+.	8b-/)	.	8b-\)
+4B-\ 4d\	8ff/L	4f\ 4b-\	(8ff\L
+.	8dd/J	.	8dd\J)
+=6	=6	=6	=6
+*^	*	*	*
+8B-/ (8d/L	4F\	8b-/ (8dd/L	4f\	(8dd\L
+8A/ 8c/J	.	8a/ 8cc/J	.	8cc\J)
+*	*	*v	*v	*
+2ryy	2F\ 2A\ 2c\)	2f/ 2a/ 2cc/)	2cc\
+*v	*v	*	*
+=7	=7	=7
+*	*^	*
+2G\ 2B-\	(4.b-/	2d\ 2g\	(4.b-\
+.	8dd/)	.	8dd\)
+4GG/ 4G/	8cc/L	4d\ 4g\	(8cc\L
+.	8b-/J	.	8b-\J)
+=8	=8	=8	=8
+*^	*	*	*
+8G/ (8B-/L	4D\	8g/ (8b-/L	4d\	(8b-/L
+8F#/ 8A/J	.	8f#/ 8a/J	.	8a/J)
+2F#/ 2A/)	2D\	2f#/ 2a/)	2d\	2a/
+*v	*v	*	*	*
+=9	=9	=9	=9
+(4.E-\	(4.g/	2B-\	(4.g/
+8F\L	8a/L	.	8a/)
+*^	*	*	*
+4B-/	8G\	8b-/	4e-\	(8b-/L
+.	8E-\J)	8g/J)	.	8g/J)
+=10	=10	=10	=10	=10
+4A/	4F\	(4f/	4e-\	(4f/
+*	*	*v	*v	*
+2ryy	4AA\ 4A\	4f/ 4cc/ 4ee-/)	4ee-\)
+.	4BB-\ 4B-\	4f/ 4b-/ 4dd/	4dd\
+*v	*v	*	*
+=11	=11	=11
+4EE-/ 4E-/	4e-/ 4g/ 4cc/	(4cc\
+4FF/ 4F/	4d/ 4f/ 4b-/	4b-\)
+4FF/ 4F/	4c/ 4e-/ 4a/	4a/
+=12	=12	=12
+*>B1	*>B1	*>B1
+*	*^	*
+4BB-\ 4F\	8b-/L	4d\	2b-\
+.	(8f/	.	.
+4r	8g/	4r	.
+.	8a/	.	.
+4r	8b-/	4r	4r
+.	8cc/J)	.	.
+*	*v	*v	*
+=13:|!	=13:|!	=13:|!
+*>B2	*>B2	*>B2
+2BB-\ 2F\	2d/ 2b-/	2b-\
+4r	4r	4r
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/06/28/
+!!!EFL: 174/651

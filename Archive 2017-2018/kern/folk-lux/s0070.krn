@@ -1,0 +1,77 @@
+!!!OTL: Du brauchs jo net ze kreischen, S. 30
+!!!id: S0070
+**kern
+*clefG2
+*k[]
+*F:
+{8cc
+=1
+8cc
+8cc
+8cc
+8cc
+=2
+4ff
+8cc
+8cc
+=3
+2ff
+=4
+8cc
+8r
+4cc
+=5
+2cc
+=6
+4a}
+8r
+=7
+{8cc
+=8
+8cc
+8cc
+8cc
+8cc
+=9
+4ff
+8cc
+8cc
+=10
+2ff
+=11
+8cc
+8r
+4cc
+=12
+2g
+=13
+4f}
+8r
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[2
+!!!cut: Du brauchs jo net ze kreischen, S. 30
+!!!reg: Luxemburg
+!!!trd: Die Bauernhochzeit in fr&uuml;heren Zeiten
+!!!rhy1: X  XXXX  X_XX  X__  X0X_  X__  X_0
+!!!rhy2: X  XXXX  X_XX  X__  X0X_  X__  X_0 // 
+!!!key: S0070  08  F 2/4 ]  ZZ[2
+!!!mod: VIERTONSKALA ]  AMBITUS[8
+!!!kad: 31
+!!!akz: 5+1+1553_5+1+1521_
+!!!fot: 'a__aw_
+!!!for: 'a__a__
+!!!fok: '^d_^d_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Brautlied, Hochzeitslied
+!! SPEDENER, G:
+!! PR[18] 2K[6] 2G[20] 3K[6] 3G[3] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[39] ABS[93] SR[27] SP[12]
+!! ST[39] 2k[12] 2g[25] 3k[2] 3g[3] 4d[1] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[43] dm[-4] sr[37] sp[6]
+!! 1F[2] 2F[46] 3F[49] 4F[2] LF[0] 2P[0] 3P[1] 4P[0] TRI[0] DF[5] AB[100]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[1]
+!! N1[11] N2K[0] N2[11] N3K[0] N3[21] N4[19] N4Ü[3] N5[24] N6K[0] N6[7]
+!!!n7k: 0] N7[1] O1[1] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

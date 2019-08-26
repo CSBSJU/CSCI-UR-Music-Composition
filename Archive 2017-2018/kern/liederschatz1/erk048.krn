@@ -1,0 +1,94 @@
+!!!OTL@@DE: Warnung
+!!!ONB: &Auml;ltere Wolkswise ("Wer eine Gans gestohlen hat")
+!!!OMD: Moderato
+!!!LYR: Ansch&uuml;tz
+!!!LDT: 1824
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+=1-	=1-	=1-
+*clefF4	*clefG2	*clefG2
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]
+*E-:	*E-:	*E-:
+*M2/4	*M2/4	*M2/4
+*MM84	*MM84	*MM84
+8EE-/ 8E-/	8e-/L	8e-/
+8r	8d/ 8f/	8f/
+4r	8e-/ 8g/	8g/
+.	8f/ 8a-/J	8a-/
+=2	=2	=2
+8r	8g/ 8b-/L	8b-\
+8e-\L	8g/ 8b-/	8b-\
+8B-\	8g/ 8b-/	8b-\
+8G\J	8e-/ 8b-/J	8b-\
+=3	=3	=3
+8A-\L	8e-/ 8cc/L	8cc\
+8E-\	8e-/ 8a-/	8a-/
+8C\	8e-/ 8a-/ 8ee-/	8ee-\
+8AA-\J	8e-/ 8a-/ 8cc/J	8cc\
+=4	=4	=4
+8E-\L	4.e-/ 4.g/ 4.b-/	4b-\
+8B-\	.	.
+8G\	.	4r
+8E-\J	8r	.
+=5	=5	=5
+8A-\L	8e-/ 8cc/L	8cc\
+8E-\	8e-/ 8a-/	8a-/
+8C\	8e-/ 8a-/ 8ee-/	8ee-\
+8AA-\J	8e-/ 8a-/ 8cc/J	8cc\
+=6	=6	=6
+8E-/L	4.e-/ 4.g/ 4.b-/	4b-\
+8BB-/	.	.
+8GG/	.	4r
+8EE-/J	8r	.
+=7	=7	=7
+8DD/L	8g/ 8b-/L	8b-\
+8D/	8f/ 8a-/	8a-/
+8BB-/	8f/ 8a-/	8a-/
+8D/J	8f/ 8a-/J	8a-/
+=8	=8	=8
+8EE-/L	8f/ 8a-/L	8a-/
+8E-/	8e-/ 8g/	8g/
+8BB-/	8e-/ 8g/	8g/
+8E-/J	8e-/ 8g/J	8g/
+=9	=9	=9
+*^	*	*
+4BB-/	8BB-\L	8e-/ 8g/L	8g/
+.	8B-\J	8d/ 8f/	8f/
+8A-/L	4BB-\	8d/ 8f/	8f/
+8B-/J	.	8d/ 8f/J	8f/
+*v	*v	*	*
+=10	=10	=10
+*	*^	*
+8E-\ 8G\L	(8e-/L	2e-\	(8e-/L
+8B-\	8g/J	.	8g/J
+8G\	4b-/)	.	4b-/)
+*	*v	*v	*
+8E-\J	.	.
+=11	=11	=11
+8D\L	8b-\ 8gg\ 8bb-\L	8b-\
+8d\	8b-\ 8ff\ 8aa-\	8a-/
+8B-\	8b-\ 8ff\ 8aa-\	8a-/
+8d\J	8b-\ 8ff\ 8aa-\J	8a-/
+=12	=12	=12
+8E-\L	8b-\ 8ff\ 8aa-\L	8a-/
+8e-\	8b-\ 8ee-\ 8gg\	8g/
+8B-\	8b-\ 8ee-\ 8gg\	8g/
+8e-\J	8b-\ 8ee-\ 8gg\J	8g/
+=13	=13	=13
+8BB-\L	8b-\ 8ee-\ 8gg\L	8g/
+8B-\	8b-\ 8dd\ 8ff\	8f/
+8BB-\	8a-\ 8dd\ 8ff\	8f/
+8B-\J	8a-\ 8dd\ 8ff\J	8f/
+=14	=14	=14
+8E-\L	4.g\ 4.b-\ 4.ee-\	4e-/
+8e-\	.	.
+8E-\J	.	4r
+8r	8r	.
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/05/26/
+!!!EFL: 048/651

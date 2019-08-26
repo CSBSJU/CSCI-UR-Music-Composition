@@ -1,0 +1,70 @@
+!!!OTL: Englische Sch&auml;ferin (2-64) S. 196
+!!!id: P0937
+**kern
+*clefG2
+*k[b-]
+*F:
+{8.a
+16b-
+=1
+4cc
+4a
+4cc
+=2
+8b-
+8a
+4g
+4b-
+=3
+4a
+4f
+8f
+8a
+=4
+2g}
+=5
+{4cc
+=6
+4f
+4f
+4g
+=7
+4a
+4a
+8a
+8b-
+=8
+4cc
+4a
+8g
+8g
+=9
+2f}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[2
+!!!cut: Englische Sch&auml;ferin (2-64) S. 196
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X_.X  X__X__X__  X_X_X__X__  X__X__X_X_  X___
+!!!rhy2: X__  X__X__X__  X__X__X_X_  X__X__X_X_  X___ // 
+!!!key: P0937  16  F 3/4 ]  ZZ[2
+!!!mod: PENTATONIK DUR ?]  AMBITUS[5
+!!!kad: 21
+!!!akz: 5432_1351_
+!!!fot: 'a__b__
+!!!for: 'a__b__
+!!!fok: '^d_Sd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: vergebliche Werbung
+!! LOTH VKL
+!! PR[16] 2K[2] 2G[12] 3K[8] 3G[2] 4A[8] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[2] 7G[0] 8A[0] MEHR[0] SI[34] ABS[50] SR[14] SP[20]
+!! ST[11] 2k[14] 2g[22] 3k[2] 3g[6] 4d[6] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[50] dm[-16] sr[36] sp[14]
+!! 1F[4] 2F[4] 3F[65] 4F[13] LF[6] 2P[4] 3P[4] 4P[0] TRI[0] DF[7] AB[52]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[2] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[8] N2K[0] N2[8] N3K[0] N3[20] N4[22] N4Ü[0] N5[20] N6K[0] N6[22]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

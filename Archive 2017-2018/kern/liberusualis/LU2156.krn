@@ -1,0 +1,73 @@
+!!image-file:	2156_original_image.tiff
+!!image-id:	m-56e60cc7-6718-4bdd-83d7-b31af1ae1ffc
+!!system: 1, page 2156
+**kern	**neume	**facs
+*clefC4	*	*
+G	punctum	395,955,377,935
+A	punctum	455,938,437,918
+c	punctum	505,903,487,882
+c	punctum	573,904,554,881
+c	punctum	623,904,606,881
+c	punctum	716,903,698,881
+c	punctum	768,903,749,881
+c	punctum	853,902,834,881
+c	punctum	919,901,901,880
+c	punctum	970,902,952,879
+c	punctum	1030,901,1012,879
+d	punctum	1080,882,1062,862
+c	cavum	1141,892,1122,874
+c.	punctum	1204,901,1173,869
+=	=	=
+c	punctum	1354,901,1334,878
+c	punctum	1419,900,1402,878
+c	punctum	1472,900,1453,878
+c	punctum	1538,898,1521,877
+c	punctum	1608,898,1588,877
+c	punctum	1674,898,1656,875
+c	punctum	1732,897,1713,877
+c	punctum	1818,898,1798,875
+A	punctum	1944,930,1927,908
+!!system: 2, page 2156
+*clefC4	*	*
+c	punctum	338,1143,319,1121
+d	punctum	406,1126,387,1104
+c	cavum	457,1131,438,1113
+c.	punctum	522,1142,489,1110
+=||	=||	=||
+!!system: 3, page 2156
+*clefC4	*	*
+G	punctum	368,2139,349,2117
+A.	punctum	493,2121,469,2100
+c	punctum	603,2087,585,2067
+c	punctum	670,2087,653,2066
+c	punctum	722,2088,704,2067
+c	punctum	823,2088,805,2067
+d	punctum	900,2072,881,2050
+c	cavum	957,2081,938,2063
+c.	punctum	1032,2087,1000,2056
+=	=	=
+c	punctum	1212,2090,1196,2069
+c	punctum	1298,2090,1279,2069
+c	punctum	1383,2089,1365,2070
+c	punctum	1458,2090,1440,2070
+A	punctum	1536,2125,1514,2103
+c	punctum	1626,2091,1608,2070
+d	punctum	1687,2074,1668,2052
+c	cavum	1745,2081,1726,2063
+c.	punctum	1820,2091,1787,2058
+=||	=||	=||
+!!system: 4, page 2156
+*clefC4	*	*
+c	punctum	497,2329,477,2309
+c	punctum	582,2332,562,2309
+A	cavum	635,2355,616,2337
+A.	punctum	704,2364,672,2332
+c	punctum	776,2330,759,2309
+c	punctum	828,2331,809,2309
+c	punctum	878,2330,859,2309
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=2156
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

@@ -1,0 +1,100 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 4, No. 9
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:	*d:
+*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1
+4G	4G	2.dd	4b-
+4F	4F	.	4dd
+2E-	2E-	.	4g
+.	.	4cc	[4gg
+=2	=2	=2	=2
+4D	4D	4b-	4gg]
+2d	2d	4a	4ff
+.	.	4.g	4.ee-
+[4c	[4c	.	.
+.	.	8g	8ee-
+=3	=3	=3	=3
+4c]	4c]	4f#	4.dd
+4B-	4B-	2g	.
+.	.	.	8g
+4A	4A	.	4.cc
+4D	4D	4f#	.
+.	.	.	8dd
+=4	=4	=4	=4
+4G	4G	4b-	4ee-
+4F	4F	4a	2dd
+2E-	2E-	2g	.
+.	.	.	4cc
+=5	=5	=5	=5
+4.D	4.D	2f#	4dd
+.	.	.	2aa
+8C	8C	.	.
+2BB-	2BB-	4r	.
+.	.	[4dd	4gg
+=6	=6	=6	=6
+4AA	4AA	4dd]	4ff
+2A	2A	4cc	4ee
+.	.	2b-	2dd
+[4G	[4G	.	.
+=7	=7	=7	=7
+4G]	4G]	2a	4cc#
+2F	2F	.	4dd
+.	.	4g	4b
+4E-	4E-	4gg	[4cc
+=8	=8	=8	=8
+4D	4D	4ff	4cc]
+4G	4G	2dd	4b
+4C	4C	.	[2ee-
+4c	4c	8cc	.
+.	.	8b-	.
+=9	=9	=9	=9
+2F#	2F#	4a	4ee-]
+.	.	2aa	8dd
+.	.	.	8cc
+4G	4G	.	8b-
+.	.	.	8cc
+4BB	4BB	8gg	[4dd
+.	.	8ff	.
+=10	=10	=10	=10
+4C	4C	2ee-	4dd]
+2c	2c	.	4cc
+.	.	4.dd	4f#
+8B-	8B-	.	[4g
+8c	8c	8ee-	.
+=11	=11	=11	=11
+4d	4d	4b-	4g]
+4D	4D	4a	4f#
+4G	4G	4g	4g
+4F	4F	4a	[4dd
+=12	=12	=12	=12
+2E-	2E-	2g	4dd]
+.	.	.	4cc
+2D	2D	2f#	2dd
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 3705125362
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 3357338639

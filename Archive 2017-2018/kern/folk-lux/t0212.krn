@@ -1,0 +1,118 @@
+!!!OTL: Treubruch (64a), S. 195
+!!!id: T0212
+**kern
+*clefG2
+*k[]
+*G:
+{8g
+8g
+=1
+4cc
+4cc
+4g
+4g
+=2
+*M6/8
+4e
+4g
+4cc}
+=3
+{8cc
+8cc
+=4
+*M4/4
+4dd
+8b
+8dd
+4dd
+8cc
+8cc
+=5
+2b}
+4.r
+=6
+{8dd
+=7
+*M6/8
+8ee
+8cc
+8cc
+8cc
+8dd
+8ee
+=8
+4dd
+8b
+4b}
+=9
+{8g
+=10
+4a
+8dd
+4dd
+8cc
+=11
+2b}
+4r
+=12
+{4g
+8ee
+4ee
+8cc
+=13
+4dd
+8ee
+4dd}
+=14
+{8dd
+=15
+8ee
+8cc
+8cc
+8cc
+8dd
+8ee
+=16
+4dd
+8b
+4b}
+=17
+{8g
+=18
+4a
+8dd
+4dd
+8cc
+=19
+2b}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 4/4 6/8 ]  ZZ[7
+!!!cut: Treubruch (64a), S. 195
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: XX  X_X_X_X_  X_X_X_
+!!!rhy2: XX  X_XXX_XX  X__0_.
+!!!key: T0212  08  G 4/4 6/8 ]  ZZ[7
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 4333533
+!!!akz: 41-64_553_6453_2533_1655_6453_253_
+!!!fot: 'a__b__c__d__e__c__d__
+!!!for: 'a__b__c__d__dw_c__d__
+!!!fok: '~a_\__\__^a_/__\__^a_
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem1: Esch-Alzette, fff Anna M&uuml;ller, 1.6.1915
+!!!bem2: (64b)- Heffingen, fff Nikolaus Biltgen, 10.9.1933
+!! THILL, Mathias:
+!! PR[22] 2K[2] 2G[14] 3K[4] 3G[8] 4A[4] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[4] 7G[0] 8A[0] MEHR[0] SI[35] ABS[51] SR[16] SP[20]
+!! ST[8] 2k[4] 2g[24] 3k[6] 3g[4] 4d[4] 4ü[0] 5d[0] 6k[0] 6g[2]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[43] dm[-8] sr[27] sp[16]
+!! 1F[24] 2F[47] 3F[27] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[4] AB[55]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[17] U6K[0] U6[6] U7K[0] U7[2]
+!! N1[19] N2K[0] N2[21] N3K[0] N3[23] N4[10] N4Ü[0] N5[2] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

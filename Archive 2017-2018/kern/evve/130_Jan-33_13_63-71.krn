@@ -1,0 +1,64 @@
+!!!COM:	Janacek
+!!!OTL:	130_Jan-33/13/63-71
+**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part14	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff14	*	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Violin	*I"Timpani	*I"Trombone	*I"Horn in F	*I"Bassoon	*I"Bass Clarinet in Bb	*I"Clarinet in Bb	*I"Oboe	*I"Flute
+*I'Cb.	*	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Vln.	*I'Timp.	*I'Tbn.	*I'Hn.	*I'Bsn.	*I'B. Cl.	*I'Cl.	*I'Ob.	*I'Fl.
+*clefF4	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefG2	*clefF4	*clefF4	*clefG2	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2
+*Trd0c0	*	*	*	*	*	*	*	*	*Trd4c7	*	*Trd1c2	*Trd1c2	*	*
+*k[b-e-a-]	*	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*	*k[b-e-a-]	*	*k[b-e-a-]	*k[b-]	*k[b-]	*k[b-e-a-]	*k[b-e-a-]
+*M3/8	*	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4.A 4.B 4.d#	ff	4.e-	4.cc-t	4.ccc-t	4.ccc-t	4.ff	4.E-	4.E- 4.A- 4.c	8b-	[4.BB-- [4.C-	[4.F	[4.ccc#t	[4.bbt	[4.bbt
+.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	8r	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4.r	<	4.r	4.cc-	4.ccc-	4.ccc-	4.r	4.E-	4.r	4.r	4.BB--_ 4.C-_	4.F_	4.ccc#_	4.bb_	4.bb_
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4.r	<	4.r	4.cc-	4.ccc-	4.ccc-	4.r	4.E-	4.r	4.r	4.BB--_ 4.C-_	4.F_	4.ccc#_	4.bb_	4.bb_
+=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||	=4||
+*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*	*k[]	*k[f#c#]	*k[f#c#]	*k[]	*k[]
+4.r	<	4.r	4.b	4.b	4.bb	4.r	4.E-	4.r	4.r	4.BB--_ 4.C-_	4.F_	4.ccc#_	4.bb_	4.bb_
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4.r	f	4.r	64%3gLLL	64%3gLLL	64%3ggLLL	4.r	64%3BBnLLL	4.r	4.r	(4.BB--] 4.C-]	4.F_	(16%3ccc#L_	4.bb_	(16%3bbL_
+.	.	.	64%3a	64%3a	64%3aa	.	64%3BB	.	.	.	.	.	.	.
+.	.	.	64%3b	64%3b	64%3bb	.	64%3BB	.	.	.	.	.	.	.
+.	.	.	64%3cc#	64%3cc#	64%3ccc#	.	64%3BB	.	.	.	.	.	.	.
+.	.	.	64%3b	64%3b	64%3bb	.	64%3BB	.	.	.	.	64%3ccc#LL]	.	64%3bbLL]
+.	.	.	64%3cc#	64%3cc#	64%3ccc#	.	64%3BB	.	.	.	.	64%3ddd#	.	64%3ccc#
+.	.	.	64%3dd#	64%3dd#	64%3ddd#	.	64%3BB	.	.	.	.	64%3eee	.	64%3ddd#
+.	.	.	64%3eeJJJ	64%3eeJJJ	64%3eeeJJJ	.	64%3BBJJJ	.	.	.	.	64%3fff#XJJJ)	.	64%3eeeJJJ)
+=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:	=6!|:
+!!pagebreak:original
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+*	*	*	*	*	*	*	*	*	*	*^	*	*	*	*
+4G	f	16%3r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4BB^^)	[4.GG^^	8F^^]	8fff^^	8bb^^]	8ddd#L
+.	.	.	.	.	.	.	.	.	.	.	.	8r	8r	8r	8bb
+.	.	16%3BB 16%3D#	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	8r	.	8r	8r	8r	8ddd#J
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4G	.	16%3r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4.GG^^_	4.r	4.r	4.r	8ccc#L
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8aa
+.	.	16%3BB 16%3D#	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ccc#J
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4G	.	16%3r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4.r	4.GG^^_	4.r	4.r	4.r	8bbL
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8gg
+.	.	16%3BB 16%3D#	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[8bbJ
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4G	ff	16%3r	4.r	64%3gLLL	64%3ggLLL	4.r	4.r	4.r	4.r	4.r	4.GG^^]	4.r	4.r	4.r	4.bb]
+.	.	.	.	64%3a	64%3aa	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3b	64%3bb	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3cc#	64%3ccc#	.	.	.	.	.	.	.	.	.	.
+.	.	16%3BB 16%3D#	.	64%3b	64%3bb	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3cc#	64%3ccc#	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3dd#	64%3ddd#	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	64%3eeJJJ	64%3eeeJJJ	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*v	*v	*	*	*	*
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5)][(s6,s7)][(s8)][(s9,s10,s11,s12,s13,s14)]
+!!!YEM:	Copyright © Natalie Dietterich

@@ -1,0 +1,68 @@
+!!!COM:	Gershwin
+!!!OTL:	686_Ger-3/12/[9]1-5
+**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part12	*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff13	*	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Violin II	*I"Banjo	*I"Piano	*	*I"Drum Set	*I"Trumpet in Bb	*I"Trumpet in Bb	*I"Horn in F	*I"Bassoon	*I"Clarinet in Bb
+*I'Cb.	*	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Ban.	*I'Pno.	*	*I'Dr.	*I'Tpt.	*I'Tpt.	*I'Hn.	*I'Bsn.	*I'Cl.
+*clefF4	*	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*clefG2	*clefpercussion0	*clefG2	*clefG2	*clefG2	*clefF4	*clefG2
+*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+*	*	*	*	*	*	*	*	*^	*	*	*	*	*
+4CC'	mf	4CC' 4GG	(8B-^L	4.c^ 4.e	4c' 4g	1r	(8bb-L 8ccc 8eee	(8x^L	4x	1r	(8cL 8cc	4.c^ 4.e	(8B-^L	1r
+.	.	.	8A	.	.	.	8aa	8x'	.	.	8eJ) 8ee	.	8A	.
+4CC'	.	4CC' 4GG	8G)	.	4c' 4g	.	8gg)	8x')	4x	.	4g^ 4gg	.	8G)	.
+.	.	.	(8B-^J	[8c^ [8e	.	.	(8b-J 8cc 8ee	(8x^J	.	.	.	[8c^ [8e	(8B-^J	.
+4CC'	.	4CC' 4GG	8AL	4c] 4e]	4c' 4g	.	8aL	8x'L	4x	.	4g^ 4gg	4c] 4e]	8AL	.
+.	.	.	8GJ)	.	.	.	8gJ)	8x'J)	.	.	.	.	8GJ)	.
+4CC'	.	4CC' 4GG	(12B-^L	4c^ 4e	4c' 4g	.	(12B-L 12c 12e	(12x^L	4x	.	4g^ 4gg	4c^ 4e	(12B-^L	.
+.	.	.	12A	.	.	.	12A	12x	.	.	.	.	12A	.
+.	.	.	12GJ)	.	.	.	12GJ)	12xJ)	.	.	.	.	12GJ)	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4GG'	.	4GG' 4D	(8Bn^L	4.d^ 4.f	4d' 4g	1r	(8bbnL 8ddd 8fff	(8x^L	4x	1r	4g^ 4gg	4.d^ 4.f	(8Bn^L	1r
+.	.	.	8A	.	.	.	8aa	8x'	.	.	.	.	8A	.
+.	.	.	.	.	.	.	.	.	.	.	(8qg# 8qgg#	.	.	.
+4GG'	.	4GG' 4D	8G)	.	4d' 4g	.	8gg)	8x')	4x	.	8a'L) 8aa	.	8G)	.
+.	.	.	(8B^J	[8d^ [8f	.	.	(8bnJ 8dd 8ff	(8x^J	.	.	8gn'J 8ggn	[8d^ [8f	(8B^J	.
+4GG'	.	4GG' 4D	8AL	4d] 4f]	4d' 4g	.	8aL	8x'L	4x	.	8fL 8ff	4d] 4f]	8AL	.
+.	.	.	8GJ)	.	.	.	8gJ)	8x'J)	.	.	8e'J 8ee	.	8GJ)	.
+4GG'	.	4GG' 4D	(12B^L	4d^ 4f	4d' 4g	.	(12BnL 12d 12f	(12x^L	4x	.	4d~ 4dd	4d^ 4f	(12B^L	.
+.	.	.	12A	.	.	.	12A	12x	.	.	.	.	12A	.
+.	.	.	12GJ)	.	.	.	12GJ)	12xJ)	.	.	.	.	12GJ)	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4CC'	mf	4CC' 4GG	(8B-^L	4.c^ 4.e	4c' 4g	1r	(8bb-L 8ccc 8eee	(8x^L	4x	[1c	[1c [1cc	4.c^ 4.e	(8B-^L	2r
+.	.	.	8A	.	.	.	8aa	8x'	.	.	.	.	8A	.
+4CC'	.	4CC' 4GG	8G)	.	4c' 4g	.	8gg)	8x')	4x	.	.	.	8G)	.
+.	.	.	(8B-^J	[8c^ [8e	.	.	(8b-J 8cc 8ee	(8x^J	.	.	.	[8c^ [8e	(8B-^J	.
+4CC'	.	4CC' 4GG	8AL	4c] 4e]	4c' 4g	.	8aL	8x'L	4x	.	.	4c] 4e]	8AL	4r
+.	.	.	8GJ)	.	.	.	8gJ)	8x'J)	.	.	.	.	8GJ)	.
+4CC'	mf	4CC' 4GG	(12B-^L	4c^ 4e	4c' 4g	.	(12B-L 12c 12e	(12x^L	4x	.	.	4c^ 4e	(12B-^L	(12bbL
+.	.	.	12A	.	.	.	12A	12x	.	.	.	.	12A	12aa
+.	.	.	12GJ)	.	.	.	12GJ)	12xJ)	.	.	.	.	12GJ)	12ggJ)
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+4AAA-'	.	4AA-' 4E-	(8Bn^L	4.c^ 4.e-	4e-' 4a-	1r	(8bb-L 8ccc 8eee	(8x^L	4x	1c]	1c] 1cc]	4.c^ 4.e-	(8Bn^L	(8b
+.	.	.	8A	.	.	.	8aa	8x'	.	.	.	.	8A	4ccc)
+4AAA-'	.	4AA-' 4E-	8G)	.	4e-' 4a-	.	8gg)	8x')	4x	.	.	.	8G)	.
+.	.	.	(8B^J	[8c^ [8e-	.	.	(8b-J 8cc 8ee	(8x^J	.	.	.	[8c^ [8e-	(8B^J	(8cc
+4AAA-'	.	4AA-' 4E-	8AL	4c] 4e-]	4e-' 4a-	.	8aL	8x'L	4x	.	.	4c] 4e-]	8AL	4aa-)
+.	.	.	8GJ)	.	.	.	8gJ)	8x'J)	.	.	.	.	8GJ)	.
+4AAA-'	.	4AA-' 4E-	(12B^L	4c^ 4e-	4e-' 4a-	.	(12B-L 12c 12e	(12x^L	4x	.	.	4c^ 4e-	(12B^L	(8ccL
+.	.	.	12A	.	.	.	12A	12x	.	.	.	.	12A	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	8ee-J)
+.	.	.	12GJ)	.	.	.	12GJ)	12xJ)	.	.	.	.	12GJ)	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4CC'	.	4CC' 4GG	(8B-^L	4.c^ 4.e-	4c' 4g	1r	(8bb-L 8ccc 8eee	(8x^L	4x	1r	(8cL 8cc	4.c^ 4.e-	(8B-^L	4g
+.	.	.	8A	.	.	.	8aa	8x'	.	.	8eJ) 8ee	.	8A	.
+4CC'	.	4CC' 4GG	8G)	.	4c' 4g	.	8gg)	8x')	4x	.	4g^ 4gg	.	8G)	4r
+.	.	.	(8B-^J	[8c^ [8e-	.	.	(8b-J 8cc 8ee	(8x^J	.	.	.	[8c^ [8e-	(8B-^J	.
+4CC'	.	4CC' 4GG	8AL	4c] 4e-]	4c' 4g	.	8aL	8x'L	4x	.	4g^ 4gg	4c] 4e-]	8AL	2r
+.	.	.	8GJ)	.	.	.	8gJ)	8x'J)	.	.	.	.	8GJ)	.
+4CC'	.	4CC' 4GG	(12B-^L	4c^ 4e-	4c' 4g	.	(12B-L 12c 12e	(12x^L	4x	.	4g^ 4gg	4c^ 4e-	(12B-^L	.
+.	.	.	12A	.	.	.	12A	12x	.	.	.	.	12A	.
+.	.	.	12GJ)	.	.	.	12GJ)	12xJ)	.	.	.	.	12GJ)	.
+*	*	*	*	*	*	*	*	*v	*v	*	*	*	*	*
+==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4,s5)]s6{(s7,s8)}s9[(s10,s11,s12,s13)]
+!!!YEM:	Copyright © Natalie Dietterich

@@ -1,0 +1,76 @@
+!!image-file:	275_original_image.tiff
+!!image-id:	m-c6ab2a05-d2e6-4544-a39c-f555bcd1cdaf
+!!system: 1, page 275
+**kern	**neume	**facs
+*clefC4	*	*
+c.	punctum	100,288,73,267
+c	punctum	143,288,120,266
+B.	punctum	199,304,170,285
+=||	=||	=||
+c	punctum	425,291,409,272
+c	punctum	475,293,454,272
+(B	clivis	538,326,504,290
+A)	.	.
+=||	=||	=||
+c	punctum	824,295,808,275
+c	punctum	904,296,886,275
+c	punctum	953,297,935,276
+c	punctum	1039,297,1021,276
+A.	punctum	1099,331,1071,299
+c	punctum	1200,299,1181,278
+c	punctum	1247,285,1228,267
+c	punctum	1293,298,1277,277
+=||	=||	=||
+!!system: 2, page 275
+*clefC4	*	*
+G	punctum	174,1691,157,1672
+(A	podatus	223,1676,205,1624
+c)	.	.
+c	punctum	271,1645,251,1624
+c	punctum	358,1645,340,1625
+c	punctum	431,1645,412,1625
+d	punctum	542,1628,524,1608
+c	cavum	603,1634,584,1616
+c	punctum	646,1645,628,1626
+c	punctum	705,1646,681,1625
+(B	clivis	767,1682,730,1643
+A)	.	.
+c	punctum	845,1645,828,1627
+=	=	=
+c	punctum	1005,1645,987,1626
+c	punctum	1062,1645,1044,1625
+c	punctum	1126,1646,1107,1626
+c	punctum	1182,1645,1165,1625
+c	punctum	1303,1644,1285,1625
+c	punctum	1366,1645,1348,1624
+c	punctum	1415,1644,1397,1623
+c	punctum	1462,1645,1444,1625
+(c	clivis	1526,1675,1490,1624
+B)	.	.
+(A	podatus	1600,1676,1580,1632
+B)	.	.
+!!system: 3, page 275
+*clefC4	*	*
+A	punctum	96,1936,77,1914
+G	cavum	147,1944,128,1926
+(G	podatus	192,1960,175,1914
+A)	.	.
+=||	=||	=||
+A	punctum	431,1936,414,1916
+G	cavum	481,1944,462,1926
+G.	punctum	538,1952,509,1932
+=||	=||	=||
+c	punctum	829,1904,812,1884
+c	punctum	909,1903,892,1883
+c	punctum	958,1904,939,1883
+c	punctum	1055,1903,1035,1882
+A	punctum	1101,1936,1085,1916
+c	punctum	1197,1903,1179,1883
+c	punctum	1244,1903,1226,1883
+c	punctum	1293,1902,1274,1882
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=275
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

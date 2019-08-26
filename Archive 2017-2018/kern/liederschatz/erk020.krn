@@ -1,0 +1,88 @@
+!!!OTL@@DE: Hobellied
+!!!ONB: Kreutzer, Konradin
+!!!ODT: 1833
+!!!OMD: Gem&uuml;thlich
+!!!LYR: Raimund, Ferdinand: "Verschwender"
+!!!LDT: 1833
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern	**text	**text
+*staff3	*staff2	*staff1	*	*
+*Ipiano	*Ipiano	*Ivox	*	*
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*norep[A,B]	*norep[A,B]
+*>A	*>A	*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2	*	*
+*k[b-e-a-]	*k[b-e-a-]	*k[b-e-a-]	*	*
+*E-:	*E-:	*E-:	*	*
+*M2/4	*M2/4	*M2/4	*	*
+*MM100	*MM100	*MM100	*	*
+8r	8r	8b-\	Da	der
+=1	=1	=1	=1	=1
+4.E-\	8r	8cc\	strei-	Ei-
+.	8B-/ 8e-/ 8g/ 8b-/L	8b-\	-ten	-ne
+.	8B-/ 8e-/ 8a-/	8a-/	sich	heisst
+8E-\	8B-/ 8e-/ 8g/J	8g/	die	den
+=2	=2	=2	=2	=2
+4.AA-/	8r	8.g/	Leut'	An-
+.	8A-/ 8c/ 8f/L	.	.	.
+.	.	16f/	her-	-dern
+.	8A-/ 8c/ 8f/	8f/	-um	dumm,
+8FF/	8A-/ 8c/ 8g/J	8g/	oft	am
+=3	=3	=3	=3	=3
+4.BB-/	8r	8b-\	um	End'
+.	8B-/ 8d/ 8a-/L	8a-/	den	weiss
+.	8B-/ 8d/ 8g/	8g/	Werth	Kei-
+8BB-/	8A-/ 8d/ 8f/J	8f/	des	-ner
+=4	=4	=4	=4	=4
+4.E-\	8r	4e-/	Gl&uuml;cks,	nix.
+.	8G/ 8B-/ 8e-/L	.	.	.
+.	8G/ 8B-/ 8e-/J	8r	.	.
+=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B
+8r	8r	8g/	Da	.
+=5	=5	=5	=5	=5
+8F\L	8r	8f/	ist	.
+8r	8An/ 8c/ 8e-/L	8f/	der	.
+8E-\J	8r	8g/	al-	.
+8r	8A/ 8c/ 8f/J	8an/	-ler-	.
+=6	=6	=6	=6	=6
+8D/L	8r	8b-\	-&auml;rm-	.
+8r	8B-/ 8f/ 8b-/L	8f/	-ste	.
+8BB-/J	8r	8.dd\	Mann	.
+8r	8d/ 8f/ 8b-/J	.	.	.
+.	.	16b-\	dem	.
+=7	=7	=7	=7	=7
+8FF/L	8r	8an/	An-	.
+8r	8c/ 8e-/ 8f/ 8an/L	8f/	-dern	.
+8F/J	8r	8.ee-\	viel	.
+8r	8c/ 8e-/ 8f/ 8a/J	.	.	.
+.	.	16a/	zu	.
+=8	=8	=8	=8	=8
+4BB-/	8r	4b-\	reich;	.
+.	(8d/ 8f/ 8b-/L	.	.	.
+4r	8B-/J)	8r	.	.
+.	8r	8b-\	das	.
+=9	=9	=9	=9	=9
+2D\	8r	8cc\	Schick-	.
+.	8B-/L	8b-\	-sal	.
+.	8f/ 8a-X/	8a-/	setzt	.
+.	8B-/J	8f/	den	.
+=10	=10	=10	=10	=10
+2E-\	8r	8g/	Ho-	.
+.	8B-/L	8b-\	-bel	.
+.	8e-/ 8g/	8ee-\	an	.
+.	8B-/J	8b-\	und	.
+=11	=11	=11	=11	=11
+8AA-\L	8r	8.dd\	ho-	.
+8r	8c/ 8f/ 8a-/L	.	.	.
+.	.	16cc\	-belt	.
+8BB-\J	8r	8b-\	Bei-	.
+8r	8F/j 8A-/j 8B-/j 8d/J	8d/	-de	.
+=12	=12	=12	=12	=12
+8E-\L	8r	4e-/	gleich!	.
+8BB-\	8G/j 8B-/j 8e-/L	.	.	.
+8EE-\J	8G/j 8B-/j 8e-/J	8r	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!RDF**kern: j = LO:ST:down

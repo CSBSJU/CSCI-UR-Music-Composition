@@ -1,0 +1,123 @@
+!!!OTL: Die schöne M&uuml;llerin (41a),
+!!!id: T0168
+**kern
+*clefG2
+*k[b-]
+*F:
+{4c
+=1
+4.f
+8g
+4a
+8b-
+8b-
+=2
+4.cc
+8dd
+4cc}
+=3
+{4cc
+=4
+4.b-
+8a
+4b-
+4cc
+=5
+4a}
+2r
+=6
+{4c
+=7
+4.f
+8g
+4a
+8b-
+8b-
+=8
+4.cc
+8dd
+4cc}
+=9
+{4cc
+=10
+4.b-
+8a
+4b-
+4cc
+=11
+4a}
+2r
+=12
+{8f
+8a
+=13
+4cc
+4cc
+4cc
+4cc
+=14
+4cc
+4a
+4dd}
+=15
+{4cc
+=16
+4b-
+4g
+4b-
+4g
+=17
+4b-
+4dd
+4cc}
+=18
+{4b-
+=19
+4.a
+8g
+4a
+4b-
+=20
+4cc
+4ff
+4dd}
+=21
+{4dd
+=22
+4.cc
+8b-
+4cc
+4b-
+=23
+4a}
+2r
+==
+*-
+!!!minrhy: 8
+!!!meters: 4/4 ]  ZZ[8
+!!!cut1: Die schöne M&uuml;llerin (41a),
+!!!cut2: Melodie I
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_.XX_XX  X_.XX_
+!!!rhy2: X_  X_.XX_X_  X_0__
+!!!key: T0168  08  F 4/4 ]  ZZ[8
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[11
+!!!kad: 53536563
+!!!akz: 1355_443_1355_443_5556_4445_3356_553_
+!!!fot: 'a__b__a__b__c__bw_d__cw_
+!!!for: 'a__b__a__b__c__cv_bw_b__
+!!!fok: '/__Sd_/__Sd_/__V__Sa_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem: Esch-Alz., fff D. M&uuml;ller-M&uuml;ller, 1915
+!! THILL, Mathias:
+!! PR[30] 2K[5] 2G[16] 3K[10] 3G[2] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[35] ABS[82] SR[21] SP[15]
+!! ST[20] 2k[4] 2g[17] 3k[11] 3g[0] 4d[2] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[34] dm[+1] sr[21] sp[13]
+!! 1F[7] 2F[24] 3F[49] 4F[6] LF[0] 2P[7] 3P[8] 4P[0] TRI[0] DF[6] AB[88]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[2] N2K[0] N2[1] N3K[0] N3[16] N4[12] N4Ü[0] N5[34] N6K[0] N6[25]
+!!!n7k: 0] N7[0] O1[10] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

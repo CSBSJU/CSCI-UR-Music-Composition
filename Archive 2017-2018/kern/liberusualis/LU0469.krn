@@ -1,0 +1,86 @@
+!!image-file:	469_original_image.tiff
+!!image-id:	m-2f9edcf2-791f-4b68-83fa-5139f7956a00
+!!system: 1, page 469
+**kern	**neume	**facs
+*clefC4	*	*
+G	punctum	237,1841,220,1821
+G	punctum	302,1842,284,1822
+(G	cephalicus	327,1863,307,1814
+F)	.	.
+(G	podatus	375,1842,355,1803
+A)	.	.
+A	punctum	437,1827,420,1805
+G	punctum	485,1864,469,1795
+=`	=`	=`
+G	punctum	597,1842,581,1822
+G	punctum	645,1842,629,1822
+G	punctum	702,1864,684,1821
+G	punctum	839,1842,821,1822
+(A	podatus	911,1835,894,1787
+B)	.	.
+G	punctum	999,1843,982,1822
+A	punctum	1064,1826,1046,1806
+G	punctum	1112,1842,1095,1822
+F.	punctum	1172,1857,1142,1827
+='	='	='
+F	punctum	1247,1882,1232,1838
+G	punctum	1327,1842,1310,1822
+!!system: 2, page 469
+*clefC4	*	*
+A	punctum	90,2070,72,2030
+c	punctum	203,2019,185,1997
+G	punctum	259,2090,241,2047
+A	punctum	379,2051,360,2031
+G	punctum	459,2067,441,2048
+G	virga	550,2078,530,2043
+F	punctum	586,2087,571,2060
+D	punctum	608,2119,595,2094
+F	punctum	685,2085,665,2063
+(F	podatus	742,2086,723,2046
+G)	.	.
+G.	punctum	810,2068,780,2047
+G.	punctum	873,2067,843,2048
+=||	=||	=||
+c	punctum	998,2019,980,1997
+c	punctum	1046,2019,1029,1997
+B	punctum	1094,2036,1076,2016
+c	punctum	1142,2020,1124,1997
+A	punctum	1189,2052,1172,2031
+G.	punctum	1251,2067,1221,2048
+=||	=||	=||
+!!system: 3, page 469
+*clefC4	*	*
+F	punctum	232,2347,213,2326
+A	punctum	297,2315,281,2293
+(A	scandicus	411,2316,360,2245
+B	.	.
+c	.	.
+d)	.	.
+c	punctum	432,2284,418,2260
+B	punctum	450,2321,433,2271
+(c	torculus	522,2285,457,2243
+d	.	.
+c	.	.
+d)	.	.
+(d	clivis	586,2285,552,2219
+c)	.	.
+=`	=`	=`
+(c	clivis	731,2316,697,2262
+B)	.	.
+A	punctum	779,2315,761,2293
+(B	podatus	827,2299,811,2261
+c)	.	.
+(A	clivis	923,2349,889,2294
+G)	.	.
+G.	punctum	991,2331,962,2311
+='	='	='
+G	punctum	1100,2332,1082,2311
+G	punctum	1180,2354,1163,2311
+G	punctum	1236,2331,1219,2312
+(F	clivis	1324,2373,1290,2316
+E)	.	.
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=469
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

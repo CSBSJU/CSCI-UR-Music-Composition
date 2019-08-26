@@ -1,0 +1,24 @@
+!!!OTL: Change pitch
+!!
+!! Step 1: Click on a note.
+!! Step 2: Press shift-down-arrow to move step down.
+!! Step 3: Press right-arrow to move to next note.
+!! Step 4: Press "5" then shift-up-arrow to move a fifth up.
+!! Step 5: Press esc to stop editing pitches.
+!!
+**kern
+*M4/4
+=1
+1c
+=
+1d
+=
+2e
+2f
+=
+4f
+4g
+4a
+4b
+=
+*-

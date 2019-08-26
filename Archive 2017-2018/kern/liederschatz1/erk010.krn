@@ -1,0 +1,109 @@
+!!!OTL@@DE: Der Schlossergesell
+!!!ONB: Volksweise
+!!!CDT: 1830
+!!!OMD: Con moto
+!!!LYR: Gr&uuml;bel, Joh. Conrad
+!!!LDT: 1800
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern	**text	**text
+*staff3	*staff2	*staff1	*	*
+*>[P,A,A1,A,A2,B,B1,B,B2]	*>[P,A,A1,A,A2,B,B1,B,B2]	*>[P,A,A1,A,A2,B,B1,B,B2]	*	*
+*>norep[P,A,A2,B,B2]	*>norep[P,A,A2,B,B2]	*>norep[P,A,A2,B,B2]	*	*
+*Ipiano	*Ipiano	*Ivox	*	*
+*clefF4	*clefG2	*clefG2	*	*
+*k[]	*k[]	*k[]	*	*
+*C:	*C:	*C:	*	*
+*M2/4	*M2/4	*M2/4	*	*
+*MM92	*MM92	*MM92	*	*
+*>P	*>P	*>P	*	*
+8r	8r	8g/	A	.
+=1!|:	=1!|:	=1!|:	=1!|:	=1!|:
+*>A	*>A	*>A	*>A	*>A
+8C\L	8r	8.e/	Schlos-	wenn's
+8r	8c/ 8e/ 8g/L	.	.	.
+.	.	16g/	-ser	zum
+8E\J	8r	8cc\	hot	Fres-
+8r	8c/ 8g/J	8b\	en	-se
+=2	=2	=2	=2	=2
+8F\L	8r	8.a/	G'sel-	gan-
+8r	8c/ 8f/ 8a/L	.	.	.
+.	.	16f/	-len	-ge
+8F#\J	8r	8dd\	g'hot,	ischt,
+8r	8c/ 8d/ 8a/J	8cc\	der	do
+=3	=3	=3	=3	=3
+8G\L	8r	8b\	hot	hot
+8r	8B/ 8d/ 8g/L	8g/	gar	er
+8GG\ 8G\J	8r	8a/	lang-	grau-
+8r	8B/ 8d/ 8f/J	8b\	-sam	-sam
+=4	=4	=4	=4	=4
+*>A1	*>A1	*>A1	*>A1	*>A1
+4.C\ 4.G\	8r	(8.cc\L	g'feilt;	.
+.	8c/ 8e/L	.	.	.
+.	.	16dd\k	.	.
+.	8e/ 8g/	8ee\J)	.	.
+8r	8c/ 8e/J	8g/	doch	.
+=5:|!	=5:|!	=5:|!	=5:|!	=5:|!
+*>A2	*>A2	*>A2	*>A2	*>A2
+8C/L	4c/ 4e/	4cc\	g'eilt.	.
+8GG/	.	.	.	.
+8CC/J	4r	8r	.	.
+8r	.	8dd\	Der	.
+=6	=6	=6	=6	=6
+8FF#/L	8r	8.dd\	ersch-	.
+8r	8c/ 8d/L	.	.	.
+.	.	16cc\	-te	.
+8D/J	8r	8a/	in	.
+8r	8c/ 8d/ 8f#/J	8dd\	der	.
+=7	=7	=7	=7	=7
+8GG\L	8r	8.dd\	Sch&uuml-	.
+8r	8B/ 8d/ 8g/L	.	.	.
+.	.	16b\	-sel	.
+8G\J	8r	8g/	drin,	.
+8r	8B/ 8d/ 8g/J	8dd\	der	.
+=8	=8	=8	=8	=8
+8F#\L	8r	8.dd\	letz-	.
+8r	8c/ 8d/ 8a/L	.	.	.
+.	.	16cc\	-te	.
+8D\J	8r	8a/	wie-	.
+8r	8c/ 8d/ 8f#/J	8b\	-der	.
+=9	=9	=9	=9	=9
+8G\L	4.B/ 4.d/ 4.g/	4g/	draus,	.
+8D\	.	.	.	.
+8GG\J	.	8r	.	.
+8r	8r	8g/	do	.
+=10!|:	=10!|:	=10!|:	=10!|:	=10!|:
+*>B	*>B	*>B	*	*
+8E\L	8r	8.cc\	ischt	.
+8r	8c/ 8g/ 8cc/L	.	.	.
+.	.	16dd\	ka	.
+8C\J	8r	8ee\	Mensch	.
+8r	8e/ 8g/ 8cc/J	8cc\	so	.
+=11	=11	=11	=11	=11
+8F\L	8r	8.a/	flei-	.
+8r	8c/ 8f/ 8a/L	.	.	.
+.	.	16f/	-ssig	.
+8D\J	8r	8dd\	g'west,	.
+8r	8d/ 8f/ 8a/J	8cc\	als	.
+=12	=12	=12	=12	=12
+8G\L	8r	8b\	er	.
+8r	8B/ 8d/ 8g/L	8g/	im	.
+8GG\J	8r	8a/	gan-	.
+8r	8d/ 8f/ 8g/J	8b\	-ze	.
+=13	=13	=13	=13	=13
+*>B1	*>B1	*>B1	*	*
+4.C\ 4.G\	8r	(8.cc\L	Haus;	.
+.	8c/ 8e/L	.	.	.
+.	.	16dd\k	.	.
+.	8e/ 8g/	8ee\J)	.	.
+8r	8c/ 8e/J	8g/	do	.
+=14:|!	=14:|!	=14:|!	=14:|!	=14:|!
+*>B2	*>B2	*>B2	*	*
+8C/L	4.c/ 4.e/ 4.g/	4cc\	Haus.	.
+8GG/	.	.	.	.
+8CC/J	.	8r	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/05/18/
+!!!EFL: 010/651

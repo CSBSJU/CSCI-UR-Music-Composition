@@ -1,0 +1,95 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/3//-1750/7/28/
+!!!OTL@@DE: Herr Christ, der ein'ge Gott's Sohn
+!!!AGN: 4-Part Chorale
+!!!SCT: BH 101
+!!!SCT: BWV 164
+!!!YEC: Copyright 1994, David Huron
+!!!YEC: Changes/Additions 2001 by Craig Stuart Sapp
+!!!YEN: United States of America
+!!!SMA: 371 Bach Chorales, edited by Ludwig Erk, C.F. Peters
+!!!PDT: 1850, 1865
+!!!ONB: Harmony and Root analysis done manually
+**harm	**root	**kern	**kern	**kern	**kern
+*	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+!	!	!bass	!tenor	!alto	!soprno
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A	*>A	*>A	*>A
+I	4BB-	4B-	4d	4f	4b-
+=1	=1	=1	=1	=1	=1
+IV	4EE-	4E-	4e-	8g	8b-
+.	.	.	.	8a	8cc
+I	4BB-	4BB-	4f	4b-	4dd
+V	4FF	4F	8f	4a	4cc
+.	.	.	8e-	.	.
+vi	4GG	4G	4d	4g	4b-
+=2	=2	=2	=2	=2	=2
+viio7b	4AA	4C	4e-	4g	2a
+V/vi	4DD	4D	8d	4f#	.
+.	.	.	8c	.	.
+IV;	4EE-;	4E-;	4B-;	4g;	4g;
+vi	4GG	4G	4B-	4g	4dd
+=3	=3	=3	=3	=3	=3
+ii7	4CC	4C	4B-	4g	4ee-
+V	4FF	8F	4A	4fn	4cc
+.	.	8E-	.	.	.
+Ib	4BB-	8D	4B-	4f	4dd
+.	.	8E-	.	.	.
+V	4FF	4F	8B-	4f	4cc
+.	.	.	8A	.	.
+=4	=4	=4	=4	=4	=4
+I;	2.BB-;	2.BB-;	2.d;	2.f;	2.b-;
+*>B	*>B	*>B	*>B	*>B	*>B
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+I	4BB-	4BB-	8d	4f	8b-
+.	.	.	8e-	.	8cc
+!!linebreak: 2
+=5	=5	=5	=5	=5	=5
+I	4BB-	8B-	4f	4b-	4dd
+.	.	8A	.	.	.
+vi	4GG	8G	4g	8b-	4dd
+.	.	8F	.	8a	.
+IV	4EE-	8E-	8g	4g	4ee-
+.	.	8D	8f	.	.
+ii	4CC	8C	8e-	4g	4ee-
+.	.	8BB-	8d	.	.
+=6	=6	=6	=6	=6	=6
+Vb	4FF	4AA	4c	2f	4ff
+I	4BB-	4BB-	4B-	.	8ee-
+.	.	.	.	.	8dd
+V;	4FF;	4FF;	4A;	4f;	4cc;
+Vb	4FF	4AA	4c	4f	4ff
+=7	=7	=7	=7	=7	=7
+I	4BB-	8BB-	4B-	4f	4dd
+.	.	8C	.	.	.
+Ib	4BB-	8D	4B-	4f	4dd
+.	.	8E-	.	.	.
+V	8FF	8F	4A	8f	4cc
+viioD7/vi	8FF#	8F#	.	8e-	.
+vi	8GG	8G	8A	4d	4b-
+vib	8GG	8BB-	8G	.	.
+=8	=8	=8	=8	=8	=8
+viio7b	4AA	8C	4G	8e-	2a
+.	.	8AA	.	8c	.
+V/vi	4DD	4D	4F#	4d	.
+vi;	4GG;	4GG;	4B-;	4d;	4g;
+V/ii	4GG	4G	4Bn	4g	4dd
+=9	=9	=9	=9	=9	=9
+ii	4CC	8c	8c	4g	4ee-
+.	.	8B-	8d	.	.
+V7b	4FF	8A	8e-	4f	4cc
+.	.	8F	8A	.	.
+I	4BB-	8B-	4B-y	8f	4dd
+.	.	8E-	.	8g	.
+V	4FF	8F	8f	4a	4cc
+.	.	8FF	8e-	.	.
+=10	=10	=10	=10	=10	=10
+I;	2.BB-;	2.BB-;	2.d;	2.f;	2.b-;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

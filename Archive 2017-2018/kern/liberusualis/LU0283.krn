@@ -1,0 +1,73 @@
+!!image-file:	283_original_image.tiff
+!!image-id:	m-36008b2e-56f3-41e5-a7c5-0280fb6c8803
+!!system: 1, page 283
+**kern	**neume	**facs
+*clefC4	*	*
+A	punctum	151,1567,134,1546
+(G	podatus	210,1570,190,1541
+A)	.	.
+A	punctum	260,1568,244,1546
+A	punctum	352,1568,336,1548
+A	punctum	444,1568,427,1549
+A	punctum	536,1568,519,1549
+A	punctum	662,1569,644,1549
+A	punctum	752,1569,735,1549
+G	punctum	820,1587,804,1567
+A	punctum	886,1569,868,1549
+B	punctum	1019,1551,1002,1531
+A.	punctum	1073,1569,1047,1547
+A	punctum	1118,1570,1101,1549
+=	=	=
+A	punctum	1245,1569,1226,1549
+A	punctum	1344,1569,1326,1550
+A	punctum	1419,1569,1401,1547
+G	punctum	1553,1585,1534,1564
+(B	clivis	1688,1553,1650,1524
+A)	.	.
+A	punctum	1610,1569,1591,1546
+!!system: 2, page 283
+*clefC4	*	*
+G	cavum	85,1866,66,1848
+(G	clivis	161,1894,124,1851
+F)	.	.
+E.	punctum	231,1908,201,1885
+=||	=||	=||
+!!system: 3, page 283
+*clefC4	*	*
+B	punctum	153,2094,135,2075
+(A	podatus	212,2113,194,2074
+B)	.	.
+B	punctum	260,2095,244,2075
+B	punctum	367,2087,348,2069
+B	punctum	445,2095,428,2075
+B	punctum	537,2095,521,2076
+B	punctum	661,2094,645,2076
+B	punctum	752,2094,736,2076
+A	punctum	820,2110,803,2091
+B	punctum	886,2094,870,2076
+c	punctum	1020,2077,1002,2058
+B	punctum	1070,2095,1053,2075
+B	punctum	1119,2095,1104,2076
+=	=	=
+B	punctum	1244,2094,1228,2075
+B	punctum	1344,2094,1328,2074
+B	punctum	1419,2094,1403,2074
+A	punctum	1552,2108,1535,2088
+B	punctum	1611,2092,1594,2072
+c	punctum	1669,2076,1651,2055
+!!system: 4, page 283
+*clefC3	*	*
+c	punctum	84,2406,66,2384
+A	punctum	145,2440,122,2418
+A	punctum	207,2440,189,2420
+=||	=||	=||
+c	punctum	413,2407,393,2386
+A	punctum	470,2441,449,2420
+(A	podatus	534,2443,518,2395
+B)	.	.
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=283
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

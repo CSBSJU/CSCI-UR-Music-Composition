@@ -1,0 +1,105 @@
+!!!OTL@ENG: Song of Cutting the Sacred Pole
+!!!ONM: 11
+**kern
+*Imale
+*clefF4
+*k[b-e-a-]
+*M2/4
+*MM80
+*>[A,A]
+*>norep[A]
+*>A
+=1!|:
+4g
+8.g
+16f
+=2
+16f
+8.e-
+[4e-
+=3
+8e-]
+8f
+8.f
+16e-
+=4
+16f
+8.e-
+8.e-
+16c
+=5
+16e-
+8.c-
+4B-
+!!!RNB: Double barline at start of bar 6 is a single barline in the source.
+=6||
+*M3/4
+4B-
+8.B-
+16G
+4B-
+=7||
+*M2/4
+8G
+8G
+8G
+8G
+=8
+2G
+=9
+16e-
+8.e-
+16e-
+8.e-
+=10
+16g
+8.e-
+8e-
+(16e-
+16c)
+=11
+16e-
+8.c-
+8B-
+8B-
+=12||
+*M3/4
+4B-
+8.B-
+16G
+4B-
+=13||
+*M2/4
+8G
+8G
+8G
+8G
+=14
+2G
+==:|!
+*-
+!!!CNT: Native American -- Sioux
+!!!MRD: 1911/07//-1914///
+!!!OCL: Frances Densmore
+!!!YOR1: Teton Sioux Music, Bulletin 61,
+!!!YOR2: Bureau of American Ethnology, Smithsonian Institution
+!!!PPR: Government Printing Office
+!!!PPP: Washington, D.C.
+!!!PDT: 1918///
+!!!ENC: Craig Stuart Sapp
+!!!END: 2002/03/25/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2002/03/31/
+!!!YEC: 2002 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux011.krn
+!!!title: @{ONM}. <i>@{OTL}</i>
+!!!AGN: Ceremonial Song/Song of the Sun Dance
+!!!MPN@@SIO: Shiya'ka
+!!!MPN@ENG: Teal Duck
+!!!TXO: Teton Sioux
+!!!MLC: Standing Rock Reservation, South Dakota, United States of America
+!!!ARL: 45.9/-100.7#
+!!!catalog: Catalogue No. 451
+!!!PPG: 113
+!!!EFL: 11/245

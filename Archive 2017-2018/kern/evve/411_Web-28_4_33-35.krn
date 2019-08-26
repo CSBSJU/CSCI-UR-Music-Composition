@@ -1,0 +1,38 @@
+!!!COM:	Webern
+!!!OTL:	411_Web-28/4/33-35
+**kern	**kern	**kern	**kern	**kern	**kern	**dynam
+*part5	*part5	*part4	*part3	*part2	*part1	*part1
+*staff6	*staff5	*staff4	*staff3	*staff2	*staff1	*
+*I"Piano	*	*I"Viola	*I"Violin I	*I"Trombone	*I"Clarinet in Bb	*
+*I'Pno.	*	*I'Vla.	*I'Vln. I	*I'Tbn.	*I'Cl.	*
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*
+*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*M2/4	*
+=1	=1	=1	=1	=1	=1	=1
+2r	8r	2r	8.gg#L	2r	4r	.
+.	8E-~ 8dn	.	.	.	.	.
+.	.	.	[16gn~Jk	.	.	.
+.	4r	.	16g]	.	8r	.
+.	.	.	16r	.	.	.
+.	.	.	8r	.	8An~	.
+*	*clefG2	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2
+2r	(8BB-L	2r	2r	2r	16r	.
+.	.	.	.	.	(8qfn	.
+.	.	.	.	.	8.ff#)	.
+.	8BnJ) 8gn	.	.	.	.	.
+.	.	.	.	.	(8qcc#	>
+.	(8AnL	.	.	.	8.dnL)	.
+.	8cnJ) 8a-	.	.	.	.	.
+.	.	.	.	.	[16b-Jk	p
+=3	=3	=3	=3	=3	=3	=3
+8r	4r	4r	2r	4r	8b-]	.
+(8CC#	.	.	.	.	8r	.
+4r	8Fn 8en	8r	.	(16BKL	4r	.
+.	.	.	.	8b-)	.	.
+.	8r	16r	.	.	.	.
+.	.	[16ee-~	.	16dnJk	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[(s3,s4)]{(s5,s6)}
+!!!YEM:	Copyright © Natalie Dietterich

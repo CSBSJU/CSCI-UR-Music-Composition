@@ -1,0 +1,318 @@
+!!!COM: Joplin, Scott
+!!!CDT: 1868/11/24/-1917/04/01/
+!!!OTL: School of Ragtime
+!!!ONB: Six Exercises for Piano
+!!!ODT: 1906///
+!!!PDT: 1908///
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Icemba
+*>[A,A,B,B,C,C,D,D,E,E,F,F]	*>[A,A,B,B,C,C,D,D,E,E,F,F]	*>[A,A,B,B,C,C,D,D,E,E,F,F]
+*>norep[A,B,C,D,E,F]	*>norep[A,B,C,D,E,F]	*>norep[A,B,C,D,E,F]
+*>A	*>A	*>A
+*MM100	*MM100	*MM100
+!!
+!!
+!! Exercise No. 1
+!!
+!!
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M2/4	*M2/4	*M2/4
+16r	[16aa [a	16aa a
+=1	=1	=1
+8fL c A F	16aa]LL a]	16aaLL a
+.	16ffJ cc	16ffJ cc
+8fJ c A F	8aaJ a	8aaJ a
+8d#L c A F#	8aaL a	8aaL a
+8d#J c A F#	16aaL a	16aaL a
+.	[16ggJJ [g	16ggJJ g
+=2	=2	=2
+8eL c G	16gg]LL g]	16ggLL g
+.	16eeJ cc	16eeJ cc
+8eJ c G	8ggJ g	8ggJ g
+8eL c G	8ggL g	8ggL g
+8eJ c G	16ggL g	16ggL g
+.	[16ggJJ [g	16ggJJ g
+=3	=3	=3
+8fL B G	16gg]LL g]	16ggLL g
+.	16dd b	16dd b
+8fJ B G	16gg g	16gg g
+.	16bJJ	16bJJ
+8fL B G	16ddLK	16ddLL
+.	8gg g	16gg g
+8dJ B G	.	16gg g
+.	[16ccJk [e	16ccJJ e
+=4	=4	=4
+8cL	4cc_ e_	4cc e
+8GJ	.	.
+[8CL	8cc'_L e_	8ccL e
+16CJk]	16cc]Jk e]	16ccJk e
+=5:|!	=5:|!	=5:|!
+!!
+!!
+!! Exercise No. 2
+!!
+!!
+*>B	*>B	*>B
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M2/4	*M2/4	*M2/4
+8.fL c A F	8.cccL cc	16cccLL cc
+.	.	16ccc cc
+.	.	16ccc cc
+[16d#Jk c [A [F#	[16bbJk [b	16bbJJ b
+8d#]L B A] F#]	16bb]LL b]	16bbLL b
+.	16aaJ a	16aaJ a
+8d#J c A F#	8aaJ a	8aaJ a
+=6	=6	=6
+8.d#L c A F#	8.aaL a	16aaLL a
+.	.	16aa a
+.	.	16aa a
+[16eJk [c [G	[16ggJk [g	16ggJJ g
+8e]L c] G]	16gg]LL g]	16ggLL g
+.	16eeJ	16eeJ
+8AJ AA	8eeJ cc# g	8eeJ cc# g
+=7	=7	=7
+*	*^	*^
+8.AL AA	4r	8.eeL ccn f#	4r	16eeLL ccn f#
+.	.	.	.	16ee cc f#
+.	.	.	.	16ee cc f#
+[16GJk [GG	.	[16eeJk b fn	.	16eeJJ b fn
+8G]L GG]	16eeLL]	8bL f	16eeLL	8bL f
+.	16bJ	.	16bJ	.
+8GJ GG	8ddJ	8bJ f	8ddJ	8bJ f
+*	*v	*v	*	*
+*	*	*v	*v
+=8	=8	=8
+8cL C	[4cc [e	4cc e
+8GJ	.	.
+8C	8cc] e]	8cc e
+8r	8r	8r
+=9:|!	=9:|!	=9:|!
+!!
+!!
+!! Exercise No. 3
+!!
+!!
+*>C	*>C	*>C
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M2/4	*M2/4	*M2/4
+8fL c A F	16aaLK ff a	16aaLL a
+.	8aa ff a	16aa a
+8fJ c A F	.	16aa a
+.	[16bbJk [dd# [b	16bbJJ b
+8d#L c A F#	16bb]LK dd#] b]	16bbLL b
+.	8bb dd# b	16bb b
+8d#J c A F#	.	16bb b
+.	16aaJk dd# a	16aaJJ a
+=10	=10	=10
+*	*^	*
+16eLK c G	4r	16aaLK ee a	16aaLL a
+8e c G	.	8gg ee cc g	16gg g
+.	.	.	16gg g
+[16AJk [AA	.	[16ggJk [ee [cc# [g	16ggJJ g
+4A] AA]	16ggLK	16gg]LK ee] cc#] g]	16ggLL g
+.	8ff	8.cc#J g	16ff f
+.	.	.	16ff f
+.	16eeJk	.	16eeJJ e
+=11	=11	=11	=11
+8.AL AA	16ee'LK	8.ccnL f#	16eeLL ccn f#
+.	8cc	.	16cc f#
+.	.	.	16cc f#
+[16GJk [GG	[16ddJk	[16bJk [fn	16ddJJ b fn
+8G]L GG]	16dd'LL]	8b]L f]	16ddLL b f
+.	16eeJ	.	16eeJ b f
+8GJ GG	8ddJ	8bJ f	8ddJ b f
+*	*v	*v	*
+=12	=12	=12
+8cL C	[4cc [e	4cc e
+8GJ	.	.
+8C	8cc] e]	8cc e
+8r	8r	8r
+=13:|!	=13:|!	=13:|!
+!!
+!!
+!! Exercise No. 4
+!!
+!!
+*>D	*>D	*>D
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M2/4	*M2/4	*M2/4
+8fL c A F	16aaLL a	16aaLL a
+.	16cc	16cc
+8fJ c A F	16ff	16ff
+.	[16aaJJ [a	16aaJJ a
+8d#L c A F#	16aa]LL a]	16aaLL a
+.	16cc	16cc
+8d#J c A	16dd#	16dd#
+.	16ff#JJ	16ff#JJ
+=14	=14	=14
+8eL c G	16ggLL	16ggLL
+.	16cc	16cc
+8eJ c G	16ee	16ee
+.	[16ggJJ [g	16ggJJ g
+8eL c G	16gg]LL g]	16ggLL g
+.	16g	16g
+8eJ c G	16cc	16cc
+.	16eeJJ	16eeJJ
+=15	=15	=15
+8fL B G	16ggLL g	16ggLL g
+.	16b	16b
+8fJ B G	16dd	16dd
+.	[16ggJJ [g	16ggJJ g
+8fL B G	16gg]LL g]	16ggLL g
+.	16b	16b
+8fJ B G	16dd	16dd
+.	16ggJJ	16ggJJ
+=16	=16	=16
+*^	*	*
+4e	8cL	4cc	4cc
+.	8GJ	.	.
+8C	4r	8ccc ee cc	8ccc ee cc
+8r	.	8r	8r
+*v	*v	*	*
+=17:|!	=17:|!	=17:|!
+!!
+!!
+!! Exercise No. 5
+!!
+!!
+*>E	*>E	*>E
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M2/4	*M2/4	*M2/4
+8FL FF	16aaLK	16aaLL
+.	8ff cc a	16ff cc a
+8fJ c A	.	16ff cc a
+.	16aaJk	16aaJJ
+8CL	8ffL cc a	8ffL cc a
+8fJ c A	16aaL	16aaL
+.	[16ffJJ [cc [a	16ffJJ cc a
+=18	=18	=18
+8FL FF	16ff]LL cc] a]	16ffLL cc a
+.	16aaJ	16aaJ
+8fJ c A	8ffJ cc a	8ffJ cc a
+8FL FF	8aaL ff cc a	8aaL ff cc a
+8F#J FF#	8aaJ dd# cc a	8aaJ dd# cc a
+=19	=19	=19
+8GL GG	16ggLK	16ggLL
+.	8ee cc g	16ee cc g
+8eJ c G	.	16ee cc g
+.	16ggJk	16eeJJ
+8CL	8eeL cc g	8eeL cc g
+8eJ c G	16ggL	16ggL
+.	[16eeJJ [cc [g	16eeJJ cc g
+=20	=20	=20
+8CL	16ee]LL cc] g]	16eeLL cc g
+.	16ggJ	16ggJ
+8eJ c G	8eeJ cc g	8eeJ cc g
+8cL C	8ggL ee cc g	8ggL ee cc g
+8c#J C#	8ggJ ee a# g	8ggJ ee a# g
+=21	=21	=21
+*M2/4	*M2/4	*M2/4
+8dL D	16ggLK	16ggLL
+.	8ff b g	16ff b g
+8dJ B G	.	16ff b g
+.	16ggJk	16ggJJ
+8GL GG	8ddL b g	8ddL b g
+8dJ B G	16ggL	16ggL
+.	[16ffJJ [b [g	16ffJJ b g
+=22	=22	=22
+8dL D	16ff]LL b] g]	16ffLL b g
+.	16ggJ	16ggJ
+8fJ B G	8ddJ b g	8ddJ b g
+8GL GG	8ggL dd b g	8ggL dd b g
+8fJ B G	8ggJ ff dd b	8ggJ ff dd b
+=23	=23	=23
+8CL	[2ccc [ee [cc	2ccc ee cc
+16EL	.	.
+16GJJ	.	.
+16ALK	.	.
+8G	.	.
+16EJk	.	.
+=24	=24	=24
+8C	8ccc] ee] cc]	8ccc ee cc
+8r	8r	8r
+8C CC	8ccc ee cc	8ccc ee cc
+8r	8r	8r
+=25:|!	=25:|!	=25:|!
+!!
+!!
+!! Exercise No. 6
+!!
+!!
+*>F	*>F	*>F
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*M2/4	*M2/4	*M2/4
+8.AL	8.aL	16aLL
+.	.	16a
+.	.	16a
+16BJk	16bJk	16bJJ
+16cLK	16ccLK	16ccLL
+8A	8a	16a
+.	.	16a
+16BJk	16bJk	16bJJ
+=26	=26	=26
+8.AL	8.aL	16aLL
+.	.	16a
+.	.	16a
+[16BJk	[16bJk	16bJJ
+16BLL]	16bLL]	16bLL
+16G#J	16g#J	16g#J
+8AJ	8aJ	8aJ
+=27	=27	=27
+8.GnL	8.gnL	16gnLL
+.	.	16g
+.	.	16g
+16AJk	16aJk	16aJJ
+16cLK	16ccLK	16ccLL
+8G	8g	16g
+.	.	16g
+16AJk	16aJk	16aJJ
+=28	=28	=28
+8.GL	8.gL	16gLL
+.	.	16g
+.	.	16g
+[16AJk	[16aJk	16aJJ
+16ALL]	16aLL]	16aLL
+16F#J	16f#J	16f#J
+8GJ	8gJ	8gJ
+=29	=29	=29
+*M2/4	*M2/4	*M2/4
+16FnLL	16fnLL	16fnLL
+16A	16a	16a
+16B	16b	16b
+[16cJJ	[16ccJJ	16ccJJ
+16cLK]	16ccLK]	16ccLL
+8B	8b	16b
+.	.	16b
+[16AJk	[16aJk	16aJJ
+=30	=30	=30
+16ALL]	16aLL]	16aLL
+16G	16g	16g
+16F#	16f#	16f#
+16GJJ	16gJJ	16gJJ
+16ALK	16aLK	16aLL
+8G	8g	16g
+.	.	16g
+16CJk	16cJk	16cJJ
+=31	=31	=31
+16ELK	16eLK	16eLL
+8E	8e	16e
+.	.	16e
+[16DJk	[16dJk	16dJJ
+16DLL]	16dLL]	16dLL
+16EJ	16eJ	16eJ
+8DJ	8dJ	8dJ
+=32	=32	=32
+4C	4c	4c
+8C CC	8cc g e c	8cc g e c
+8r	8r	8r
+==:|!	==:|!	==:|!
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2005/02/02/

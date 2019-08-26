@@ -1,0 +1,148 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 3, No. 3
+!!!OMV: 1
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*F:	*F:	*F:	*F:
+*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1
+4.BB-	4.BB-	4.dd	4.ff
+8BB-	8BB-	8dd	8ff
+[2BB-	[2BB-	4ee-	4gg
+.	.	4dd	4ff
+=2	=2	=2	=2
+4BB-]	4BB-]	4.cc	8ee-
+.	.	.	16ff
+.	.	.	16gg
+4AA	4AA	.	8.ff
+.	.	8cc	.
+.	.	.	16ee-
+2BB-	2BB-	2f	2dd
+=3	=3	=3	=3
+4.B-	4.B-	4.dd	4.ff
+8B-	8B-	8dd	8bb-
+4B-	4B-	4.cc	8ee
+.	.	.	8cc
+4A	4A	.	[4ff
+.	.	8f	.
+=4	=4	=4	=4
+4G	4G	16b-	4ff]
+.	.	16cc	.
+.	.	8dd	.
+4C	4C	8.cc	4ee
+.	.	16b-	.
+4.F	4.F	4a	4ff
+.	.	4ff	4r
+8F	8F	.	.
+=5	=5	=5	=5
+4G	4G	4b-	4r
+4A	4A	2ee-	4ccc
+4.B-	4.B-	.	4ff
+.	.	4dd	[4bb-
+8BB-	8BB-	.	.
+=6	=6	=6	=6
+4F	4F	2cc	4bb-]
+4F#	4F#	.	2aa
+8G	8G	2b-	.
+8GG	8GG	.	.
+8BB-	8BB-	.	[4gg
+8C	8C	.	.
+=7	=7	=7	=7
+4D	4D	2a	4gg]
+8d	8d	.	2ff
+8c	8c	.	.
+8B	8B	4.g	.
+8G	8G	.	.
+8c	8c	.	[4ee-
+8C	8C	8gg	.
+=8	=8	=8	=8
+4F	4F	4.aa-	4ee-]
+2f	2f	.	8dd
+.	.	8aa-	8cc
+.	.	4.gg	8b
+.	.	.	8g
+4e-	4e-	.	[4cc
+.	.	8cc	.
+=9	=9	=9	=9
+4d	4d	8ff	4cc]
+.	.	16gg	.
+.	.	16aa-	.
+4G	4G	8gg	4b
+.	.	8ff	.
+4C	4C	8ee-	4cc
+.	.	8cc	.
+8c	8c	4r	[4ee-
+8B-	8B-	.	.
+=10	=10	=10	=10
+4A	4A	4r	4ee-]
+4F	4F	2ccc	8dd
+.	.	.	8cc
+4B-	4B-	.	4dd
+4BB-	4BB-	8bb-	[4ddd
+.	.	8aa	.
+=11	=11	=11	=11
+4E-	4E-	4.gg	4ddd]
+4E	4E	.	8ccc
+.	.	8gg	8bb-
+4F	4F	4cc	4aa
+4D	4D	[4ff	4r
+=12	=12	=12	=12
+8E-	8E-	4ff]	2gg
+8F	8F	.	.
+8G	8G	2ee-	.
+8A	8A	.	.
+8B-	8B-	.	2ff
+8c	8c	.	.
+8d	8d	[4dd	.
+8B-	8B-	.	.
+=13	=13	=13	=13
+8c	8c	4dd]	2ee-
+8B-	8B-	.	.
+8A	8A	2cc	.
+8F	8F	.	.
+8B-	8B-	.	[2dd
+8c	8c	.	.
+8d	8d	8b-	.
+8D	8D	8a	.
+=14	=14	=14	=14
+4.E-	4.E-	4g	4dd]
+.	.	2ee-	8cc
+8E-	8E-	.	8b-
+4F	4F	.	8a
+.	.	.	8f
+8r	8r	[4dd	8r
+8D	8D	.	8ff
+=15	=15	=15	=15
+4E-	4E-	4dd]	8gg
+.	.	.	8aa
+4E	4E	4dd-	8bb-
+.	.	.	8b-
+2F	2F	2cc	4.b-
+.	.	.	8a
+=16	=16	=16	=16
+1BB-	1BB-	1b-	1b-
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 75115379
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 4288569004

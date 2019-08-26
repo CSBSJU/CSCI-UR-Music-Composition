@@ -1,0 +1,107 @@
+!!!OTL: Napoleonslied (3-30), S. 99
+!!!id: P1002
+**kern
+*clefG2
+*k[]
+*G:
+{4d
+=1
+4g
+4a
+=2
+*M3/4
+4.b
+8cc
+4b
+=3
+*M2/4
+4a
+8b
+8a
+=4
+2g}
+=5
+{8g
+8a
+=6
+4b
+4cc
+=7
+*M3/4
+4.dd
+8ee
+4dd
+=8
+*M2/4
+4cc
+8dd
+8cc
+=9
+2b}
+=10
+{8b
+8dd
+=11
+4dd
+4b
+=12
+*M3/4
+16dd
+[4ee
+16ee]
+8dd
+4dd
+=13
+*M2/4
+4cc
+8b
+8a
+=14
+16a
+[4.dd
+16dd]}
+=15
+{8b
+8dd
+=16
+4b
+4a
+=17
+*M3/4
+4.g
+8a
+4b
+=18
+*M2/4
+4b
+8.a
+16g
+=19
+2g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 3/4 ]  ZZ[4
+!!!cut: Napoleonslied (3-30), S. 99
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X__  X__X__  X__.X_X__  X__X_X_  X___   (x2)
+!!!rhy2: X_X_  X__X__  X__.X_X__  X__X_X_  X___
+!!!key: P1002  16  G 2/4 3/4 ]  ZZ[4
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 1351
+!!!akz: 1321_3543_5542_3131_
+!!!fot: 'a__as"b__c__
+!!!for: 'a__av_b__c__
+!!!fok: '^a_^a_~a_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: historisches, Soldatenlied
+!! LOTH VKL
+!! PR[41] 2K[5] 2G[6] 3K[5] 3G[3] 4A[6] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[25] ABS[79] SR[11] SP[14]
+!! ST[35] 2k[9] 2g[19] 3k[5] 3g[0] 4d[1] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[34] dm[-9] sr[28] sp[6]
+!! 1F[9] 2F[35] 3F[36] 4F[9] LF[0] 2P[9] 3P[0] 4P[0] TRI[0] DF[5] AB[85]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[5] N3K[0] N3[8] N4[9] N4Ü[0] N5[19] N6K[0] N6[5]
+!!!n7k: 0] N7[14] O1[26] O2K[0] O2[13] O3K[0] O3[3] HÖ[0

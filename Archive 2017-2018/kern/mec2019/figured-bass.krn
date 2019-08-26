@@ -1,0 +1,57 @@
+!!!OTL: Adding figured bass
+!!
+!! Step 1: Add a blank spine:
+!!         !!!filter: extract -s 1,0
+!! Step 2: Change **blank spine type to **fb
+!! Step 3: Add figured bass.  Original symbols:
+!!     m. 4: -    (flat)
+!!     m. 5: 6-   (6-flat)
+!!     m. 6: 5-   6-
+!!     m. 11, second half: 6-
+!!     m. 14, second half: #   n
+!!
+**kern
+*clefF4
+*M4/4
+*met(c)
+=1
+[1F#
+=2
+1F#]
+=3
+1C
+=4
+1GG
+=5
+[1D
+=6
+2D]
+[2G
+=7
+2G]
+[2BBn
+=8
+1BB]
+=9
+1C
+=10
+2AA
+[2E-
+=11
+2E-]
+[2D
+=12
+2D]
+2C
+=13
+2GG
+[2E-
+=14
+2E-]
+4D
+4GG
+==
+*-
+
+
+

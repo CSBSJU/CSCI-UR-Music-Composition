@@ -1,0 +1,121 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/3//-1750/7/28/
+!!!OTL@@DE: Ich dank' dir, lieber Herre
+!!!OTL@EN:  I thank Thee, dear Lord
+!!!AGN: 4-Part Chorale
+!!!SCT: BH 002
+!!!SCT: BWV 347
+!!!YEC: Copyright 2001 by Craig Stuart Sapp
+!!!license: GNU General Public License (http://www.gnu.org/copyleft/gpl.html)
+!!!SMA: 371 Bach Chorales, edited by Ludwig Erk, C.F. Peters
+!!!PDT: 1850, 1865
+!!!ONB: Harmony and Root analysis done manually by Craig Sapp (not proofed yet)
+**harm	**root	**kern	**kern	**kern	**kern
+*	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+!	!	!bass	!tenor	!alto	!sprno
+*	*	*clefF4	*clefF4	*clefG2	*clefG2
+*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*A:	*A:	*A:	*A:	*A:	*A:
+*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A	*>A	*>A	*>A
+I	4AA	8A	4c#	4e	4a
+.	.	8G#	.	.	.
+=1	=1	=1	=1	=1	=1
+vi	4FF#	4F#	4c#	4f#	4a
+Ib	4AA	4C#	8c#	4e	4a
+.	.	.	8B	.	.
+IV	4DD	4D	8A	4f#	4a
+.	.	.	8G#	.	.
+Vb/V	4BB	4D#	4F#	4f#	4b
+=2	=2	=2	=2	=2	=2
+v	4EE	4E	4.B	4e	4gn
+V7/V	4BB	4BB	.	4d#	4f#
+.	.	.	8A	.	.
+V;	4EE;	4EE;	4G#y;	4B;	4e;
+V	4EE	4E	4e	4g#y	4b
+=3	=3	=3	=3	=3	=3
+I	4AA	4A	4e	4a	4cc#
+V/V	4BB	4B	4d#	8g#	4b
+.	.	.	.	8f#	.
+Ib	4AA	4c#	2c#	[2e	4a
+V7c/VI	8CC#	8B	.	.	8g#
+vi7b	8FF#	8A	.	.	8f#
+=4	=4	=4	=4	=4	=4
+V	4EE	4B	4.B	4e]	4g#
+V7/V	4BB	4BB	.	4d#	4f#
+.	.	.	8A	.	.
+V;	4EE;	4E;	4G#;	4B;	4e;
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B	*>B
+iii	4CC#	4C#	4G#	8cc#	4ee
+.	.	.	.	8b	.
+=5	=5	=5	=5	=5	=5
+IVb	4DD	8F#	8A	4a	4dd
+.	.	8G#	8B	.	.
+I	4AA	4A	8c#	4a	4cc#
+.	.	.	8d	.	.
+V	4EE	4E	4e	4g#	4b
+Ib	8AA	8C#	4e	8a	4a
+V7/IV	8AA	8AA	.	8gn	.
+=6	=6	=6	=6	=6	=6
+IV	4DD	4D	4d	8f#	8a
+.	.	.	.	8g#y	8b
+Ib	4AA	8C#	4e	4a	4cc#
+.	.	8D	.	.	.
+V;	4EE;	4E;	4e;	4g#;	4b;
+viio/II	4AA#	4C#	4e	4a#	4cc#
+!!linebreak: 2
+=7	=7	=7	=7	=7	=7
+ii	8BB	4BB	8f#	8b	4dd
+ii7	8BB	.	4B	8an	.
+viiD7b/II	4AA#	4C#	.	4gn	4cc#
+.	.	.	8A#	.	.
+iib	8BB	8D	4B	8f#	4b
+v	8EE	8Gn	.	8e	.
+V/II	4FF#	4F#	4c#	4f#	4a#
+=8	=8	=8	=8	=8	=8
+ii;	2.BB;	2.BB;	2.d;	2.f#;	2.b;
+iii	4CC#	4C#	4G#	8e	4e
+.	.	.	.	8d	.
+=9	=9	=9	=9	=9	=9
+vi	4FF#	4F#	4A	4c#	4a
+V7	8EE	8E	8G#	4d	4b
+iib	8BB	8D	8F#	.	.
+iii	4CC#	4C#	8E	4e	4cc#
+.	.	.	8e	.	.
+ii	8BB	4BB	4d	8f#	4dd
+viiob	8GG#	.	.	8g#	.
+=10	=10	=10	=10	=10	=10
+I	4AA	8AA	8c#	2a	4ee
+.	.	8BB	8d	.	.
+I9b	8AA	8C#	8e	.	8dd
+IV7	8DD	8D	8f#	.	8cc#
+V;	4EE;	4E;	4g#;	4e;	4b;
+ii	4BB	4BB	4f#	4b	4dd
+=11	=11	=11	=11	=11	=11
+vi	8FF#	8F#	8f#	8a	4cc#
+iiic	8CC#	8G#	8e	8g#	.
+ii7d	4BB	4A	8d	4f#	4b
+.	.	.	8c#	.	.
+Vb	4EE	8G#	4B	4e	4.ee
+.	.	8E	.	.	.
+vi7b	8FF#	[4A	8c#	8f#	.
+viioc	8GG#	.	8d	8g#	8dd
+=12	=12	=12	=12	=12	=12
+I	4AA	8A]	4.e	2a	8cc#
+.	.	8G#	.	.	8b
+ii7c	4BB	4F#	.	.	8a
+.	.	.	8d	.	8b
+Ic	8AA	8E	8c#	4a	4cc#
+IV7	8DD	8D	8f#	.	.
+V	4EE	4E	8B	4g#	4b
+.	.	.	16e	.	.
+.	.	.	16d	.	.
+=13	=13	=13	=13	=13	=13
+I;	2.AA;	2.AA;	2.c#;	2.e;	2.a;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

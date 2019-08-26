@@ -1,0 +1,83 @@
+!!!OTL: Verf&uuml;hrung (9), S. 49f
+!!!id: T0116
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+=1
+8.g
+16g
+4.g
+8a
+=2
+8.b
+16b
+4.b}
+=3
+{8b
+=4
+8a
+8b
+4.cc
+8f#
+=5
+4a
+4g}
+8r
+=6
+{8dd
+=7
+8dd
+8b
+4.ee
+8dd
+=8
+8dd
+8cc
+4cc}
+8r
+=9
+{8cc
+=10
+8cc
+8a
+4.dd
+8cc
+=11
+4cc
+4b}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[4
+!!!cut: Verf&uuml;hrung (9), S. 49f
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_.XX__.X_  X_.XX__.
+!!!rhy2: X_  X_X_X__.X_  X__X__0_
+!!!key: T0116  16  G 3/4 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: 3143
+!!!akz: 13_22_55_44_
+!!!fot: 'a__b__c__cs_
+!!!for: 'a__b__c__b__
+!!!fok: '/__\__\__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: "erz&auml;hlende Lieder"
+!!!bem1: STRASSEN; geschriebenes Lied aus den 50er Jahren des vorigen Jahr
+!!!bem2: derts von hhh Nikolaus Lersch. Die Geschichte des Liedes ist untersucht
+!!!bem3: in J.Meiers Volksliedstudien.(Stra&szlig;burg 1917) S.107-167.
+!! THILL, Mathias:
+!! PR[30] 2K[7] 2G[8] 3K[7] 3G[3] 4A[4] 4Ü[0] 5A[1] 6K[1] 6G[3]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[33] ABS[76] SR[14] SP[18]
+!! ST[16] 2k[7] 2g[16] 3k[7] 3g[1] 4d[0] 4ü[1] 5d[4] 6k[1] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[37] dm[-4] sr[22] sp[14]
+!! 1F[60] 2F[32] 3F[2] 4F[0] LF[0] 2P[6] 3P[0] 4P[0] TRI[0] DF[4] AB[85]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[5] U6K[0] U6[5] U7K[0] U7[5]
+!! N1[10] N2K[0] N2[6] N3K[0] N3[19] N4[14] N4Ü[0] N5[21] N6K[0] N6[10]
+!!!n7k: 0] N7[1] O1[1] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: ÃŸ)
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

@@ -1,0 +1,51 @@
+!!image-file:	2164_original_image.tiff
+!!image-id:	m-44456e17-8a53-4556-85d5-16cb8d5003b7
+!!system: 1, page 2164
+**kern	**neume	**facs
+*clefC4	*	*
+G	punctum	422,1594,403,1573
+A	punctum	495,1578,479,1556
+c	punctum	555,1543,536,1522
+c	punctum	622,1543,604,1521
+c	punctum	681,1543,662,1523
+c	punctum	757,1543,736,1521
+c	punctum	815,1543,798,1521
+c	punctum	884,1543,865,1520
+c	punctum	958,1543,939,1521
+c	punctum	1042,1543,1025,1521
+c	punctum	1105,1534,1086,1516
+c	punctum	1186,1543,1167,1521
+c	punctum	1277,1543,1260,1521
+c	punctum	1355,1542,1336,1520
+d	punctum	1433,1524,1412,1504
+c	cavum	1479,1534,1460,1516
+c.	punctum	1544,1541,1512,1510
+=	=	=
+c	punctum	1708,1541,1690,1519
+c	punctum	1793,1540,1774,1519
+c	punctum	1894,1540,1875,1519
+c	punctum	1962,1539,1942,1519
+!!system: 2, page 2164
+*clefC4	*	*
+c	punctum	373,1782,353,1760
+c	punctum	422,1781,404,1760
+c	punctum	488,1782,472,1760
+c	punctum	565,1782,547,1761
+c	punctum	632,1782,614,1761
+B	punctum	682,1799,665,1778
+c	punctum	742,1782,724,1761
+A	punctum	809,1815,791,1794
+G	cavum	857,1822,838,1804
+G.	punctum	922,1832,893,1811
+=||	=||	=||
+c	punctum	1230,1780,1212,1760
+A.	punctum	1293,1815,1262,1782
+c	punctum	1364,1780,1346,1760
+c	punctum	1414,1780,1396,1760
+c	punctum	1465,1779,1446,1760
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=2164
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

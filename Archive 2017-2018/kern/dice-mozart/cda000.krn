@@ -1,0 +1,12 @@
+!!!COM: Mozart, Wolfgang Amadeus
+!!!OTL: Musikalische Würfelspiele, Kontre-Tänze
+!!!SCA: K<sup>6</sup> Anh. C30.01 (K<sup>3</sup> Anh. 294d)
+**kern	**kern
+*staff2	*staff2
+*clefF4	*clefG2
+*M2/4	*M2/4
+*MM110	*MM110
+*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]
+*>norep[A,A2,B]	*>norep[A,A2,B]
+*>A	*>A
+*-	*-

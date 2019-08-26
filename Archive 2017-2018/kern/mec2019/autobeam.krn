@@ -1,0 +1,50 @@
+!!!OTL: Automatic beaming
+!!
+!! Step 1: add the line:
+!!     !!!filter: autobeam
+!! Step 2: To add beaming marks to data in text editor, type:
+!!            alt-c (or option-c)
+!!         to "compile" the filter.
+!! Step 3: Optionally delete the !!!Xfilter: line.
+!!
+**kern
+*M4/4
+=1
+8c
+8d
+12c
+12d
+12e
+8e
+8f
+8g
+8f
+=2
+*M2/2
+8c
+8d
+12c
+12d
+12e
+8e
+8f
+8g
+8f
+=
+*M6/8
+8e
+8d
+8e
+8f
+8g
+8a
+=4
+*M3/4
+8e
+8d
+8e
+8f
+8g
+8a
+=
+*-

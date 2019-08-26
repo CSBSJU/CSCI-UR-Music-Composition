@@ -1,0 +1,100 @@
+!!!OTL: Feierabend (3-63), S. 181
+!!!id: P1036
+**kern
+*clefG2
+*k[]
+*G:
+{8.a
+16g
+=1
+4g
+4d
+8.b
+16b
+=2
+4b
+4g}
+=3
+{8b
+8cc
+=4
+4dd
+4dd
+8cc
+8a
+=5
+2b}
+=6
+{8dd
+8cc
+=7
+4b
+4dd
+8ee
+8cc
+=8
+8b
+8cc
+4dd}
+=9
+{8b
+8a
+=10
+8g
+8a
+4b
+8.a
+16a
+=11
+2g}
+=12
+{8dd
+8cc
+=13
+4b
+4dd
+8ee
+8cc
+=14
+8b
+8cc
+4dd}
+=15
+{8b
+8a
+=16
+8g
+8a
+4b
+8.a
+16a
+=17
+2g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[6
+!!!cut: Feierabend (3-63), S. 181
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X_.X  X__X__X_.X  X__X__
+!!!rhy2: X_X_  X__X__X_X_  X___
+!!!key: P1036  16  G 3/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 135151
+!!!akz: 13_53_33_11_33_11_
+!!!fot: 'a__b__c__cs"c__cs"
+!!!for: 'a__b__bw_c__bw_c__
+!!!fok: '\__^__W__Sd_W__Sd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebe, Fenstergang, Verf&uuml;hrung
+!! LOTH VKL
+!! PR[20] 2K[2] 2G[17] 3K[12] 3G[5] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[39] ABS[41] SR[20] SP[20]
+!! ST[14] 2k[5] 2g[22] 3k[12] 3g[2] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[41] dm[-2] sr[27] sp[15]
+!! 1F[33] 2F[48] 3F[7] 4F[0] LF[0] 2P[10] 3P[2] 4P[0] TRI[0] DF[5] AB[42]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[7] N2K[0] N2[10] N3K[0] N3[24] N4[17] N4Ü[0] N5[26] N6K[0] N6[14]
+!!!n7k: 0] N7[0] O1[2] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

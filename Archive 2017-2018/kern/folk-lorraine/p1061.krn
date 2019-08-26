@@ -1,0 +1,100 @@
+!!!OTL: Frohe Stunde (3-88), S. 243
+!!!id: P1061
+**kern
+*clefG2
+*k[]
+*G:
+{4d
+=1
+4g
+4b
+8.b
+8a
+16cc
+8a
+=2
+4a
+4g}
+4r
+=3
+{4d
+=4
+4cc
+4cc
+8b
+8dd
+4b
+=5
+2a}
+4r
+=6
+{4d
+=7
+4g
+4b
+4a
+4b
+=8
+4.cc
+8ee
+8dd
+8cc}
+=9
+{4b
+=10
+4dd
+4dd
+4b
+4a
+=11
+2g}
+4r
+=12
+{4d
+=13
+4g
+4b
+4a
+4b
+=14
+4.cc
+8ee
+8dd
+8cc}
+=15
+{4b
+=16
+4dd
+4dd
+4b
+4a
+=17
+2g}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[6
+!!!cut: Frohe Stunde (3-88), S. 243
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X__  X__X__X_.X_XX_  X__X__0__
+!!!rhy2: X__  X__X__X_X_X__  X___0__
+!!!key: P1061  16  G 4/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 124141
+!!!akz: 132_432_1245_531_1245_531_
+!!!fot: 'a__b__c__d__c__d__
+!!!for: 'a__b__c__cw_c__cw_
+!!!fok: '^a_^a_^a_^d_^a_^d_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Ehe, Treue
+!! LOTH VKL
+!! PR[23] 2K[6] 2G[13] 3K[8] 3G[10] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[37] ABS[52] SR[19] SP[17]
+!! ST[16] 2k[10] 2g[25] 3k[0] 3g[2] 4d[0] 4ü[0] 5d[4] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[40] dm[-3] sr[35] sp[6]
+!! 1F[7] 2F[69] 3F[16] 4F[0] LF[0] 2P[7] 3P[0] 4P[0] TRI[0] DF[4] AB[55]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[2] U6[0] U7K[11] U7[0]
+!! N1[17] N2K[0] N2[15] N3K[13] N3[0] N4[17] N4Ü[0] N5[21] N6K[4] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

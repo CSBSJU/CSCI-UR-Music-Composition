@@ -1,0 +1,90 @@
+!!!COM:	Varese
+!!!OTL:	420_Var-8/23/[7]10-14
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
+*part20	*part19	*part18	*part17	*part16	*part15	*part14	*part13	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff21	*staff20	*staff19	*staff18	*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Bass Drum	*I"Cymbals	*I"Bass Drum	*I"Bass Drum	*I"Tenor Drum	*I"Snare Drum	*I"Timpani	*I"Piano	*	*I"Bass	*I"Trombone	*I"Trombone	*I"Trombone	*I"Trombone	*I"Trumpet in Bb	*	*I"Trumpet in Bb	*I"Trumpet in Bb	*I"Trumpet in Bb	*I"Organ	*I"Ondes Martenot	*I"Ondes Martenot
+*I'B. D.	*I'Cym.	*I'B. D.	*I'B. D.	*I'T. D.	*I'S. D.	*I'Timp.	*I'Pno.	*	*I'B.	*I'Tbn.	*I'Tbn.	*I'Tbn.	*I'Tbn.	*I'Tpt.	*	*I'Tpt.	*I'Tpt.	*I'Tpt.	*I'Org.	*I'Th.	*I'Th.
+*clefpercussion0	*clefpercussion0	*clefpercussion0	*clefpercussion0	*clefpercussion0	*clefpercussion0	*clefF4	*clefF4	*clefG2	*clefF4	*clefF4	*clefF4	*clefF4	*clefF4	*clefG2	*	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
+*	*	*	*	*	*	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4	*M5/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4%5r	4%5r	4%5r	4%5r	4%5r	4%5r	4F^	2FF^ 2F 2e	4%5r	4%5r	(2F^	(2e^	(2F^	(2e#^	4r	.	4r	4r	4r	[4f# [4cc# [4gg	4%5r	4%5r
+.	.	.	.	.	.	4r	.	.	.	.	.	.	.	8r	.	8r	8r	8r	8f#L] 8cc#] 8gg]	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	16a#LL	]	16cc#LL	16dLL	16cc#LL	16d~Jk 16a# 16cc#X	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16aJJ	.	[16gg#JJ	[16aJJ	[16gg#JJ	16r	.	.
+.	.	.	.	.	.	4GG^ 4C#	4GGn^ 4C# 4A#	.	.	[2GGn)	[2GGn)	[2C#)	[2A#)	2a_	.	2gg#_	2a_	2gg#_	4r	.	.
+.	.	.	.	.	.	2GG	2r	.	.	.	.	.	.	.	.	.	.	.	2r	.	.
+.	.	.	.	.	.	.	.	.	.	8.GGL_	8.GGL_	8.C#L_	8.A#L_	8.aL_	.	8.gg#L_	8.aL_	8.gg#L_	.	.	.
+.	.	.	.	.	.	.	.	.	.	16GGJk]	16GGJk]	16C#Jk]	16A#Jk]	16aJk]	.	16gg#Jk]	16aJk]	16gg#Jk]	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+4x	8r	12r	4r	8r	4r	2.r	2.r	2.r	2.r	2.r	2.r	2.r	2.r	2.r	.	2.r	2.r	2.r	2.r	4r	8.dddL
+.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8x	.	.	8x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*^
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	16E-Jk	16ryy
+4r	8r	4r	8x	24xLL	8x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8.enL	4r	4ryy
+.	.	.	.	24x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	24xJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8x	.	8r	8xJ	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	16x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	[16fffnJk	.	.
+8r	4r	12x	12r	8xL	16xLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	4fff]	[4fff#	4ryy
+.	.	.	.	.	16xJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12r	12x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8x	.	.	.	8xJ	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12x	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	16x^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8r	8x	12r	4r	8r	4r	2.r	2.r	2.r	2.r	2.r	2.r	2.r	2.r	2.r	.	2.r	2.r	2.r	2.r	[2.ccc#~	2.fff#~_
+.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4x	8r	.	.	8x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	4r	4r	12x	24xLL	8x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	24x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12r	24xJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	8xJ	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	16x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	8r	4r	4r	8xL	16xLL	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	16xJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8x	.	.	8xJ	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	16x^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8x	8r	12r	4r	8r	4r	2.r	2.r	2.r	2.r	4r	4r	2.r	2.r	2.r	.	2.r	2.r	2.r	2.r	4ccc#]	4fff#]
+.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	8x	.	.	8x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4x	8r	4r	8x	24xLL	8x	.	.	.	.	4r	4r	.	.	.	.	.	.	.	.	4r	4r
+.	.	.	.	24x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	24xJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8x	.	8r	8xJ	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	16x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	4r	12x	12r	8xL	16xLL	.	.	.	.	([4F#	([4f#	.	.	.	.	.	.	.	.	4r	4r
+.	.	.	.	.	16xJJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12r	12x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+8r	.	.	.	8xJ	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12x	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	16x^	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+2r	8x	12r	4r	8r	4r	2.r	2.r	2.r	4r	2F#]	2f#]	2.r	2.r	2.r	.	2.r	2.r	2.r	2.r	4r	2.r
+.	.	12r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	8r	.	.	8x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	12x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*	*clefF4	*
+.	4r	4r	12x	24xLL	8x	.	.	.	4f#	.	.	.	.	.	.	.	.	.	.	4f#	.
+.	.	.	.	24x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12r	24xJ	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	8xJ	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	12x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	16x	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4r	8r	4r	4r	8xL	16xLL	.	.	.	16cnLL	8CL	8cL	.	.	.	.	.	.	.	.	16cLL	.
+.	.	.	.	.	16xJJ	.	.	.	16c	.	.	.	.	.	.	.	.	.	.	16c	.
+.	8x	.	.	8xJ	16r	.	.	.	16F	16FFL	16FL	.	.	.	.	.	.	.	.	16F	.
+.	.	.	.	.	16x^	.	.	.	16cJJ	16CJJ)	16cJJ)	.	.	.	.	.	.	.	.	16cJJ	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[(s3)][(s4,s5,s6,s7,s8,s9,s10,s11)]s12{(s13,s14)}[(s15)][(s16,s17,s18,s19,s20,s21)]
+!!!YEM:	Copyright © Natalie Dietterich

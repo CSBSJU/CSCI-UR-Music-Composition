@@ -1,0 +1,62 @@
+!!!OTL: K&uuml;ferlied (Band 1), S. 162
+!!!id: P0829
+**kern
+*clefG2
+*k[]
+*d:
+{8a
+8g
+8a
+8a
+8b
+8cc
+8dd
+4a}
+=1
+{8dd
+8cc
+8b
+8a
+8g
+8a
+8f
+8e
+8d}
+=2
+{8d
+8f
+8f
+8g
+8g
+4a
+4g
+8f
+4e
+4d}
+==
+*-
+!!!minrhy: 8
+!!!meters: FREI]  ZZ[3 interpreted as [0/4, 0/4]
+!!!cut: K&uuml;ferlied (Band 1), S. 162
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: XXXXXXXX_
+!!!rhy2: XXXXXXXXX
+!!!key: P0829  08  D FREI]  ZZ[3
+!!!mod: HEPTATONIK DORISCH]  AMBITUS[8
+!!!kad: 511
+!!!akz: 5_+1_1_
+!!!fot: 'a__b__c__
+!!!for: 'a__b__c__
+!!!fok: '^__\__^__
+!!!fkt: Geistliches, religiöses Lied?
+!! LOTH VKL
+!! PR[13] 2K[0] 2G[8] 3K[15] 3G[10] 4A[8] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[3] 7G[0] 8A[0] MEHR[0] SI[44] ABS[39] SR[8] SP[36]
+!! ST[15] 2k[5] 2g[18] 3k[8] 3g[3] 4d[0] 4ü[0] 5d[5] 6k[3] 6g[3]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[44] dm[0] sr[23] sp[21]
+!! 1F[8] 2F[73] 3F[13] 4F[0] LF[0] 2P[8] 3P[0] 4P[0] TRI[0] DF[4] AB[40]
+!! TF[0] U3K[0] U3[5] U4[0] U4Ü[0] U5[18] U6K[0] U6[3] U7K[0] U7[8]
+!! N1[15] N2K[0] N2[25] N3K[0] N3[15] N4[10] N4Ü[0] N5[3] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

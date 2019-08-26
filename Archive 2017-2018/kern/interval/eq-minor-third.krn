@@ -1,0 +1,15 @@
+!!!OTL: Equal-tempered minor third (300.000 cents)
+!!!ratio: 2^(3/12):1
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4ee-	0	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1ee-	0
+*-	*-	*-	*-

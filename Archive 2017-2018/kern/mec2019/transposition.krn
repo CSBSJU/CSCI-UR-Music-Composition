@@ -1,0 +1,41 @@
+!!!OTL: Transposing music
+!!
+!! Music can be transposed with the transpose filter.
+!!
+!! To transpose the folling music up a perfect fifth, add the line:
+!!     !!!filter: transpose -t P5
+!! anywhere in the file.  Type alt-c (or option-c) to "compile" the
+!! filter and place the result into the text editor.
+!!
+!! Try transposing down a minor third:
+!!     !!!filter: transpose -t -m3
+!! Equivalent using Base-40 interval class:
+!!     !!!filter: transpose -b -11
+!! If there is a key designation (*C: for C major in this case), then
+!! you can use the -k option.  Here is how to transpose to F-sharp major:
+!!     !!!filter: transpose -k f#
+!! or to E-flat major:
+!!     !!!filter: transpose -k e-
+!!
+!! Reference: http://doc.verovio.humdrum.org/filters/transpose
+!!
+**kern
+*k[]
+*C:
+*M4/4
+4c
+4d
+4e
+4f
+=
+4g
+4a
+4b
+4cc
+=
+4dd
+4ee
+4ff
+4gg
+==
+*-

@@ -1,0 +1,82 @@
+!!image-file:	1626_original_image.tiff
+!!image-id:	m-2618d90b-dec9-43d1-b50a-ed6c0cba3de4
+!!system: 1, page 1626
+**kern	**neume	**facs
+*clefC4	*	*
+F	punctum	497,1053,480,1033
+(G	podatus	555,1038,536,998
+A)	.	.
+F	punctum	651,1054,633,1033
+(F	clivis	732,1088,698,1033
+E)	.	.
+(D	clivis	805,1102,771,1065
+C)	.	.
+(F	scandicus	921,1052,851,1001
+G	.	.
+A	.	.
+G)	.	.
+(A	podatus	943,1022,925,983
+B)	.	.
+A	punctum	998,1020,982,1000
+A.	punctum	1078,1020,1046,990
+=`	=`	=`
+(A	podatus	1219,1020,1201,967
+c)	.	.
+A	punctum	1275,1019,1258,999
+A	punctum	1347,1020,1329,999
+G.	punctum	1499,1037,1469,1016
+!!system: 2, page 1626
+*clefC4	*	*
+A	punctum	240,1228,221,1208
+(F	podatus	288,1261,271,1222
+G)	.	.
+F	punctum	402,1260,384,1239
+E	punctum	465,1277,448,1256
+(D	podatus	516,1292,497,1224
+G)	.	.
+='	='	='
+G	punctum	644,1244,627,1224
+(G	cephalicus	692,1238,672,1219
+F)	.	.
+G	punctum	799,1245,781,1224
+(G	torculus	888,1245,838,1208
+A	.	.
+G)	.	.
+F	punctum	953,1261,935,1239
+F	punctum	1009,1261,991,1239
+F.	punctum	1072,1261,1041,1229
+=||	=||	=||
+A	punctum	1164,1228,1146,1208
+A	punctum	1212,1227,1194,1207
+F	punctum	1261,1261,1243,1239
+(G	podatus	1310,1245,1291,1207
+A)	.	.
+G	punctum	1357,1245,1341,1224
+F.	punctum	1419,1261,1389,1228
+=||	=||	=||
+!!system: 3, page 1626
+*clefC4	*	*
+(D	podatus	432,2354,412,2295
+A)	.	.
+A	punctum	470,2320,452,2299
+A	punctum	600,2321,582,2300
+c	punctum	713,2290,696,2269
+d	punctum	785,2275,768,2254
+(c	clivis	932,2327,898,2271
+B)	.	.
+A	punctum	993,2313,974,2295
+='	='	='
+A	punctum	1143,2323,1125,2302
+(G	epiphonus	1209,2348,1190,2304
+A)	.	.
+(A	cephalicus	1290,2314,1270,2295
+G)	.	.
+(E	torculus	1393,2372,1343,2336
+F	.	.
+E)	.	.
+D.	punctum	1503,2390,1473,2357
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=1626
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

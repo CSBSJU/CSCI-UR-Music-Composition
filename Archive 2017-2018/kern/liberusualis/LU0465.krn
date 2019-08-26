@@ -1,0 +1,97 @@
+!!image-file:	465_original_image.tiff
+!!image-id:	m-3449431c-6fe5-467c-8303-3f6d25f244ad
+!!system: 1, page 465
+**kern	**neume	**facs
+*clefC4	*	*
+G	punctum	96,197,78,176
+(A	torculus	195,181,143,128
+c	.	.
+B)	.	.
+B	punctum	267,164,249,142
+(c	torculus	324,147,273,110
+d	.	.
+c)	.	.
+(A	torculus	417,192,352,144
+B	.	.
+A.)	.	.
+='	='	='
+(G	epiphonus	509,204,488,159
+A)	.	.
+A	punctum	605,181,586,160
+(A	porrectus	734,206,653,158
+G	.	.
+A	.	.
+G)	.	.
+(G	torculus	815,196,765,151
+A	.	.
+G)	.	.
+G.	punctum	876,196,845,177
+=||	=||	=||
+G	punctum	1066,196,1047,177
+(A	clivis	1130,206,1097,161
+G)	.	.
+(G	podatus	1197,195,1178,130
+c)	.	.
+c	punctum	1245,151,1226,130
+c	punctum	1358,151,1340,130
+!!system: 2, page 465
+*clefC4	*	*
+c	punctum	96,374,78,353
+c	punctum	143,374,126,354
+(c	clivis	240,400,206,355
+B)	.	.
+(c	podatus	297,374,280,337
+d)	.	.
+d	punctum	402,358,385,338
+(c	podatus	483,375,466,338
+d)	.	.
+c.	punctum	545,374,514,344
+=	=	=
+(c	cephalicus	653,407,637,356
+A)	.	.
+(A	podatus	735,408,717,355
+c)	.	.
+c	punctum	799,374,781,354
+c	punctum	848,375,830,355
+c	punctum	937,375,918,354
+c	punctum	984,375,968,354
+(c	clivis	1026,403,991,354
+B)	.	.
+(G	podatus	1090,427,1073,385
+A)	.	.
+(c	clivis	1155,413,1120,354
+B)	.	.
+A	punctum	1203,409,1185,386
+G.	punctum	1304,426,1274,405
+=||	=||	=||
+!!system: 3, page 465
+*clefC4	*	*
+G	punctum	112,649,95,627
+(A	clivis	177,666,143,611
+G)	.	.
+(G	podatus	226,649,208,580
+c)	.	.
+c	punctum	307,599,288,579
+c	punctum	363,599,345,579
+=||	=||	=||
+c	punctum	475,599,458,579
+c	punctum	541,598,524,578
+(c	clivis	581,627,548,579
+B)	.	.
+(G	podatus	630,650,612,609
+A)	.	.
+(c	clivis	694,628,661,579
+B)	.	.
+A	punctum	782,631,766,610
+(G	torculus	897,696,848,601
+A	.	.
+D)	.	.
+F	punctum	921,664,905,645
+(F	podatus	959,665,929,625
+G.)	.	.
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=465
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

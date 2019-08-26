@@ -1,0 +1,52 @@
+!!!COM:	Janacek
+!!!OTL:	Jan-47/5/[4]1-4
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M3/8	*M3/8	*
+=1	=1	=1
+8.A-L	(24cLL 24cc	p
+.	24f 24b-	.
+.	24e-J	.
+.	24e-L	.
+.	24f 24b-	.
+16E-k	.	.
+.	24a-J) 24cc	.
+[8A-J	8b-^^J 8ee-	.
+=2	=2	=2
+16A-LL]	(24cLL 24cc	.
+.	24f 24b-	.
+16E-J	.	.
+.	24e-J	.
+8.A-	24e-L	.
+.	24f 24b-	.
+.	24a-J) 24cc	.
+.	8b-^^J 8ee-	.
+16E-Jk	.	.
+=3	=3	=3
+8.A-L	(24cLL 24cc	.
+.	24f 24b-	.
+.	24e-J	.
+.	24e-L	.
+.	24f 24b-	.
+16E-k	.	.
+.	24a-J) 24cc	.
+[8A-J	8b-^^J 8ee-	.
+=4	=4	=4
+16A-LL]	(24cLL 24cc	.
+.	24f 24b-	.
+16E-J	.	.
+.	24e-J	.
+8.A-	24e-L	.
+.	24f 24b-	.
+.	24gJ) 24b-	.
+.	8a-^^J	.
+16E-Jk	.	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM:	Copyright © Natalie Dietterich

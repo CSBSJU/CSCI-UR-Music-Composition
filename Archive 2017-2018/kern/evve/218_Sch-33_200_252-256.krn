@@ -1,0 +1,58 @@
+!!!COM:	Schoenberg
+!!!OTL:	218_Sch-33/200/252-256
+**kern	**kern	**dynam	**kern	**kern	**kern	**kern
+*part5	*part5	*part5	*part4	*part3	*part2	*part1
+*staff6	*staff5	*	*staff4	*staff3	*staff2	*staff1
+*I"Piano	*	*	*I"Piano	*I"Tenor	*I"Alto	*I"Soprano
+*I'Pno.	*	*	*I'Pno.	*I'T.	*I'A.	*I'S.
+*clefF4	*clefG2	*	*clefG2	*clefGv2	*clefG2	*clefG2
+*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]
+*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1	=1	=1	=1
+*^	*	*	*	*	*	*
+4ryy	(4G#	8e-L	p	4r	4G#	(8e-L	4r
+.	.	8dJ	.	.	.	8dnJ)	.
+4ryy	4Bn	8b-L	p	(8ffn^L	4Bn	4d	8b-L
+.	.	8anJ	.	8ddn'J) 8gg-	.	.	8anJ
+8r	4G	8fnL	.	4r	4G	(8fnL	8an
+(8B-	.	8eJ	.	.	.	8eJ)	8r
+*v	*v	*	*	*	*	*	*
+=2	=2	=2	=2	=2	=2	=2
+*M2/4	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4
+*^	*	*	*	*	*	*
+4An)	4F#	8dd-L	.	(8ddn^L	4F#	4en	8dd-L
+.	.	8ccnJ	.	8cc#'J) 8ggn	.	.	8ccnJ
+8r	4Gn)	8ccL	<	4r	4Gn	8r	8ccL
+(8E-	.	8dd-J	.	.	.	8fn	8dd-J
+*v	*v	*	*	*	*	*	*
+=3	=3	=3	=3	=3	=3	=3
+*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4
+*^	*	*	*	*	*	*
+4Dn)	(4en	8g-L	[	(8g#^L 8b-	4en	(8g-L	8dd-
+.	.	8fnJ	.	8an'J) 8b	.	8fnJ)	8r
+4ryy	4G#	8b-L	.	4r	4G#	(8b-L	4r
+.	.	8cc-J	.	.	.	8cc-J)	.
+4ryy	4An)	8ddnL	.	(8c#^L 8g	4An	4cc-	(8ddL
+.	.	8ee-J	.	8c'J) 8f#	.	.	8ee-J)
+=4	=4	=4	=4	=4	=4	=4	=4
+4ryy	(4en	8ccL	.	4r	4en	(8ccnL	8ee-
+.	.	8dd-J	.	.	.	8dd-J)	8r
+*	*	*	*	*clefF4	*	*	*
+4ryy	4fn	8ff#L	mf	(8Dn^L 8an	4fn	4dd-	(8ff#L
+.	.	8ggnJ	.	8E-'J) 8a-	.	.	8ggnJ)
+8r	4An)	8dnL	.	4r	4An	(8dnL	8gg
+(8D-	.	8e-J	.	.	.	8e-J)	8r
+*	*	*	*	*clefG2	*	*	*
+*v	*v	*	*	*	*	*	*
+=5	=5	=5	=5	=5	=5	=5
+*M2/4	*M2/4	*	*M2/4	*M2/4	*M2/4	*M2/4
+*^	*	*	*	*	*	*
+4Cn)	(4B-	8ccnL	.	(8g-L 8ee	4B-	4e-	(8ccnL
+.	.	8dd-J	.	8fnJ) 8gn	.	.	8dd-J)
+8r	4c-)	8anL	.	4r	4c-	8anL	8dd-
+8C	.	8a-J	.	.	.	8a-J	8r
+*v	*v	*	*	*	*	*	*
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3)][(s4)]{(s5,s6)}
+!!!YEM:	Copyright © Natalie Dietterich

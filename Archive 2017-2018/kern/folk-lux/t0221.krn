@@ -1,0 +1,89 @@
+!!!OTL: Vor Liebchens T&uuml;r (72a), S. 206,
+!!!id: T0221
+**kern
+*clefG2
+*k[]
+*G:
+{4d
+=1
+4.g
+8a
+4b
+4cc
+=2
+4.dd
+8ee
+4dd}
+=3
+{4dd
+=4
+4.cc
+8b
+4cc
+4dd
+=5
+2b}
+4r
+=6
+{8dd
+8ee
+=7
+4dd
+4cc
+4a
+4cc
+=8
+4b
+4dd
+4b}
+=9
+{4dd
+=10
+4dd
+4cc
+4a
+4cc
+=11
+4b
+4dd
+4b}
+=12
+{4dd
+=13
+4.ee
+8dd
+4cc
+4dd
+=14
+2b}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 4/4 ]  ZZ[5
+!!!cut1: Vor Liebchens T&uuml;r (72a), S. 206,
+!!!cut2: 1. Melodie
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_.XX_X_  X_.XX_
+!!!rhy2: X_  X_.XX_X_  X__0_
+!!!key: T0221  08  G 4/4 ]  ZZ[5
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 53333
+!!!akz: 1355_443_5233_5233_643_
+!!!fot: 'a__b__c__cv_d__
+!!!for: 'a__aw_b__bv_aw_
+!!!fok: '/__Sd_\__\__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem: Monnerich, hhh Dominik M&uuml;ller, 1.6.1915
+!! THILL, Mathias:
+!! PR[23] 2K[6] 2G[14] 3K[6] 3G[6] 4A[3] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[37] ABS[35] SR[20] SP[17]
+!! ST[15] 2k[0] 2g[26] 3k[11] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[3] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[40] dm[-3] sr[26] sp[14]
+!! 1F[42] 2F[50] 3F[0] 4F[0] LF[0] 2P[8] 3P[0] 4P[0] TRI[0] DF[3] AB[36]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[8] N3K[0] N3[28] N4[11] N4Ü[0] N5[25] N6K[0] N6[25]
+!!!n7k: 0] N7[0] O1[3] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

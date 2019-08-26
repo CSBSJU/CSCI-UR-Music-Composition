@@ -1,0 +1,219 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: Sonate a tre [in d]
+!!!XEN: Trio Sonata Opus 1, No. 11
+!!!OPS: Opus 1
+!!!ONM: No. 11
+!!!OMV: Movement 4.
+!!!OMD: Allegro
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!! For the following instrumentation: Violino I & II, Violone/Archlute,
+!!    and Organo.
+!! Allegro.
+**kern	**kern	**kern	**kern
+*ICklav	*ICstr	*ICstr	*ICstr
+*Iorgan	*Icello	*Ivioln	*Ivioln
+*	*Iarchl	*	*
+*I"Organo	*I"Violone (Archlute)	*I"Violino II	*I"Violino I
+!Organo	!Violone	!Violin 2	!Violin 1
+!	! or	!	!
+!	!Archlute	!	!
+*>[A,A]	*>[A,A]	*>[A,A]	*>[A,A]
+*>A	*>A	*>A	*>A
+*clefF4	*clefF4	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:	*d:
+*M4/4	*M4/4	*M4/4	*M4/4
+*MM66	*MM66	*MM66	*MM66
+=1-	=1-	=1-	=1-
+8D\L	8D\L	4dd\	4ff\
+8E\	8E\	.	.
+8F\	8F\	8r	8r
+8D\J	8D\J	8dd\	8ff\
+8A\L	8A\L	4cc#\	4ee\
+8B\	8B\	.	.
+8c#\	8c#\	8r	8r
+8A\J	8A\J	8cc#\	8ee\
+=2	=2	=2	=2
+8D\L	8D\L	4dd\	4ff\
+8E\	8E\	.	.
+8F\	8F\	8r	8r
+8D\J	8D\J	8dd\	8ff\
+8C/L	8C/L	4ee\	4gg\
+8BB-/	8BB-/	.	.
+8AA/	8AA/	8r	8r
+8GG/J	8GG/J	8ee\	8gg\
+=3	=3	=3	=3
+8FF/L	8FF/L	4ff\	4aa\
+8GG/	8GG/	.	.
+8AA/	8AA/	8r	8r
+8FF/J	8FF/J	8ff\	8aa\
+8GG/L	8GG/L	4ee\	4gg\
+8FF/	8FF/	.	.
+8GG/	8GG/	8r	8r
+8AA/J	8AA/J	8ee\	8gg\
+=4	=4	=4	=4
+8BB-/L	8BB-/L	4dd\	4.ff\
+8AA/	8AA/	.	.
+8GG/	8GG/	8r	.
+8FF/J	8FF/J	8a/	8aa\
+8GG/L	8GG/L	(16b\LL	8gg\L
+.	.	16cc#\J)	.
+8D/	8D/	8dd\J	8ff\J
+8A/	8A/	8.dd\L	8.ee\L
+8AA/J	8AA/J	.	.
+.	.	16cc#\Jk	16ee\Jk
+=5	=5	=5	=5
+8D\L	8D\L	4dd\	4.ff\
+8E\	8E\	.	.
+8F\	8F\	8r	.
+8D\J	8D\J	8ff\	8bb-\
+8C\L	8C\L	4ee\	(8bb-\L
+8c\	8c\	.	8aa\J)
+8B-\	8B-\	8r	8r
+8A\J	8A\J	8cc\	8aa\
+=6	=6	=6	=6
+8B-/L	8B-/L	4dd\	(8aa\L
+8BB-/	8BB-/	.	8gg\J)
+8AA/	8AA/	8r	8r
+8GG/J	8GG/J	8b-\	8gg\
+8AA\L	8AA\L	4cc\	(8gg\L
+8A\	8A\	.	8ff\J)
+8G\	8G\	8r	8r
+8F\J	8F\J	8a/	8ff\
+=7	=7	=7	=7
+8B-\L	8B-\L	4g/	4.ff\
+8G\	8G\	.	.
+8c\	8c\	8r	.
+8C\J	8C\J	8g/	8ee\
+8F\L	8F\L	4.a/	4.ff\
+8G\	8G\	.	.
+8A\	8A\	.	.
+8F\J	8F\J	8ff\	8aa\
+=8	=8	=8	=8
+8C\L	8C\L	4.ee\	4.gg\
+8D\	8D\	.	.
+8E\	8E\	.	.
+8C#\J	8C#\J	8ee\	8aa\
+8D\L	8D\L	4a/	4.ff\
+8E\	8E\	.	.
+8F\	8F\	8r	.
+8C#\J	8C#\J	8a/	8ee\
+=9	=9	=9	=9
+8D/L	8D/L	4.a/	8dd\L
+8AA/	8AA/	.	8cc\J
+8E/	8E/	.	8.b\L
+8EE/J	8EE/J	8g#/	.
+.	.	.	16b\Jk
+4AA/	4AA/	4.a/	8a\L
+.	.	.	8ee\J
+8r	8r	.	[4ff\
+8AA/	8AA/	8cc#\	.
+=10	=10	=10	=10
+4.BB-/	4.BB-/	4.dd\	8ff\L]
+.	.	.	8ff\J
+.	.	.	[4gg\
+8BBn/	8BBn/	8dd\	.
+4.C/	4.C/	4.ee\	8gg\L]
+.	.	.	8gg\J
+.	.	.	[4aa\
+8C#/	8C#/	8ee\	.
+=11	=11	=11	=11
+4.D\	4.D\	4.ff\	8aa\L]
+.	.	.	8aa\
+.	.	.	8bb-\
+8BB-/	8BB-/	8gg\	8bb-\J
+8C/L	8C/L	4.ee\	4.gg\
+8BB-/	8BB-/	.	.
+8C/	8C/	.	.
+8AA/J	8AA/J	8cc\	8ccc\
+=12	=12	=12	=12
+8BB-\L	8BB-\L	4dd\	(8ccc\L
+8B-\	8B-\	.	8bb-\J)
+8A\	8A\	8r	8r
+8G\J	8G\J	8dd\	8bb-\
+8c\L	8c\L	4ee\	(8bb-\L
+8C\	8C\	.	8aa\J)
+8BB-\	8BB-\	8r	8r
+8AA\J	8AA\J	8cc\	8ccc\
+=13	=13	=13	=13
+8BB-/L	8BB-/L	(16dd\LL	8bb-\L
+.	.	16ee\J)	.
+8FF/	8FF/	8ff\J	8aa\J
+8C/	8C/	8.ff\L	8.gg\L
+8CC/J	8CC/J	.	.
+.	.	16ee\Jk	16gg\Jk
+8FF/L	8FF/L	4ff\	4aa\
+8GG/	8GG/	.	.
+8AA/	8AA/	8r	8r
+8FF/J	8FF/J	8ff\	8aa\
+=14	=14	=14	=14
+8BB-\L	8BB-\L	(8ff\L	(8aa\L
+8B-\	8B-\	8ee\J)	8gg\J)
+8A\	8A\	8r	8r
+8G\J	8G\J	8ee\	8gg\
+8A\L	8A\L	(8ee\L	(8gg\L
+8A\	8A\	8dd\J)	8ff\J)
+8G\	8G\	8r	8r
+8F\J	8F\J	8a/	8ff\
+=15	=15	=15	=15
+8G\L	8G\L	4b-\	(8ff\L
+8G\	8G\	.	8ee-\J)
+8A\	8A\	8r	8r
+8A\J	8A\J	8cc\	8ee-\
+8B-\L	8B-\L	4f/	(8ee-\L
+8B-\	8B-\	.	8dd\J)
+8A\	8A\	8r	8r
+8F\J	8F\J	8a/	8aa\
+=16	=16	=16	=16
+8G\L	8G\L	(16b\LL	8gg\L
+.	.	16cc#\J)	.
+8D\	8D\	8dd\J	8ff\J
+8A\	8A\	8.dd\L	8.ee\L
+8AA\J	8AA\J	.	.
+.	.	16cc#\Jk	16ee\Jk
+8D\L	8D\L	4.dd\	4dd\
+8E\	8E\	.	.
+8F\	8F\	.	8r
+8D\J	8D\J	8a/	8ff\
+=17	=17	=17	=17
+8GG/L	8GG/L	4b-\	(8ff\L
+8GG/	8GG/	.	8ee-\J)
+8AA/	8AA/	8r	8r
+8AA/J	8AA/J	8cc\	8ee-\
+8BB-\L	8BB-\L	4f/	(8ee-\L
+8B-\	8B-\	.	8dd\J)
+8A\	8A\	8r	8r
+8F\J	8F\J	8a/	8aa\
+=18	=18	=18	=18
+8G\L	8G\L	(16b\LL	8gg\L
+.	.	16cc#\J)	.
+8D\	8D\	8dd\J	8ff\J
+8A\	8A\	8.dd\L	8.ee\L
+8AA\J	8AA\J	.	.
+.	.	16cc#\Jk	16ee\Jk
+2D\	2D\	2dd\	2dd\
+==	==	==	==
+*-	*-	*-	*-
+!!!CDT: 1653/2/17/-1713/1/8
+!!!OCY: Italia
+!!!ODE: Queen Christina Alexandra of Sweden
+!!!ODT: 1681//
+!!!OPC: Roma; Rome
+!!!AGN: trio sonata
+!!!AST: baroque, chamber
+!!!AMT: simple quadruple
+!!!YOR1: J. Joachim & F. Chrysander (eds.) Les Oeuvre de Arcangelo Corelli
+!!!YOR2: London: Augener & Co. 1871
+!!!YOY: 1871
+!!!AIN: archl cello organ violn
+!!!EEV: 1.1
+!!!RDT: 1993 September 16
+!!!YER: 1994 December 14
+!!!EMD: 1996 July 9
+!!!YEN: United States of America
+!!!EFL: 4/4
+!!!ENC: Frances Bennion & Steven Rasmussen
+!!!EED: W.B. Hewlett
+!!!VTS: 1655650197

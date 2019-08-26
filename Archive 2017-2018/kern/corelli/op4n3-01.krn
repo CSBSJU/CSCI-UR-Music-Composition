@@ -1,0 +1,185 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 4, No. 3
+!!!OMV: 1
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*D:	*D:	*D:
+*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1
+4A	4A	2r	8a
+.	.	.	8cc#
+4G#	4G#	.	8ee
+.	.	.	8e
+4F#	4F#	8a	4a
+.	.	8cc#	.
+4E	4E	8ee	4r
+.	.	8e	.
+=2	=2	=2	=2
+4D	4D	4a	8ff#
+.	.	.	8aa
+4C#	4C#	4r	8ee
+.	.	.	8a
+4BB	4BB	8ff#	8dd
+.	.	8dd	8ff#
+4E	4E	8b	8g#
+.	.	8g#	8ee
+=3	=3	=3	=3
+4A	4A	4a	8cc#
+.	.	.	8ff#
+4G#	4G#	8r	8ff#
+.	.	8b	8ee
+4F#	4F#	8b	8r
+.	.	8a	8dd
+4E	4E	8r	8dd
+.	.	8g#	8cc#
+=4	=4	=4	=4
+4D	4D	8g#	8r
+.	.	8f#	8b
+4C#	4C#	8r	8b
+.	.	8e	8a
+4D	4D	16f#	16ff#
+.	.	16g#	16ee
+.	.	8a	16dd
+.	.	.	16cc#
+4E	4E	8.a	4b
+.	.	16g#	.
+=5	=5	=5	=5
+4A	4A	4a	8a
+.	.	.	8cc#
+4G#	4G#	8r	8b
+.	.	8ee	8e
+4A	4A	8cc#	8r
+.	.	8a	8ff#
+4B	4B	8r	8dd#
+.	.	8bb	8b
+=6	=6	=6	=6
+4E	4E	8gg#	8r
+.	.	8ee	8cc#
+4D#	4D#	8r	8cc#
+.	.	8ff#	8b
+4C#	4C#	8ff#	8r
+.	.	8ee	8a
+4BB	4BB	8r	8a
+.	.	8dd#	8g#
+=7	=7	=7	=7
+4AA	4AA	8dd#	8r
+.	.	8cc#	8f#
+4GG#	4GG#	8r	8f#
+.	.	8b	8e
+4AA	4AA	8ee	16cc#
+.	.	.	16b
+.	.	8e	16a
+.	.	.	16g#
+4BB	4BB	8.e	8.f#
+.	.	16d#	16b
+=8	=8	=8	=8
+1EE	1EE	1e	1g#
+=9	=9	=9	=9
+4e	4e	2r	8ee
+.	.	.	8gg#
+4d#	4d#	.	8bb
+.	.	.	8b
+4c#	4c#	8ee	4ee
+.	.	8gg#	.
+4B	4B	8bb	4r
+.	.	8b	.
+=10	=10	=10	=10
+4A	4A	4ee	8a
+.	.	.	8cc#
+4G#	4G#	4r	8ee
+.	.	.	8e
+4F#	4F#	8a	4a
+.	.	8cc#	.
+4E	4E	8ee	4r
+.	.	8e	.
+=11	=11	=11	=11
+4D	4D	4a	8f#
+.	.	.	8a
+4BB	4BB	8r	8dd
+.	.	8dd	4b
+8C#	8C#	8e#	.
+8F#	8F#	4f#	8a
+8c#	8c#	.	4g#
+8C#	8C#	8e#	.
+=12	=12	=12	=12
+8F#	8F#	4f#	4.f#
+8G#	8G#	.	.
+8A	8A	8r	.
+8F#	8F#	8ff#	8aa
+4C#	4C#	8ff#	8aa
+.	.	8ee	8gg#
+4D	4D	8r	8r
+.	.	8dd	8ff#
+=13	=13	=13	=13
+8AA	8AA	8dd	8ff#
+8BB	8BB	8cc#	8ee
+8C#	8C#	8r	8r
+8AA	8AA	8cc#	8ee
+8BB	8BB	8cc#	8ee
+8C#	8C#	8b	8dd
+8D	8D	8r	8r
+8E	8E	8b	8dd
+=14	=14	=14	=14
+8F#	8F#	8b	8dd
+8G#	8G#	8a	8cc#
+8A	8A	8r	8r
+8AA	8AA	8cc#	8ee
+4D	4D	8dd	8ff#
+.	.	8cc#	8ee
+8r	8r	8.b	8.dd
+8D	8D	.	.
+.	.	16a	16cc#
+=15	=15	=15	=15
+4E	4E	4g#	8b
+.	.	.	8ee
+4C#	4C#	8r	4a
+.	.	8ee	.
+4D	4D	4a	8r
+.	.	.	8ff#
+4D#	4D#	8r	4b
+.	.	8ff#	.
+=16	=16	=16	=16
+4E	4E	4b	8r
+.	.	.	8ee
+4C#	4C#	8r	8aa
+.	.	8ee	8a
+8D	8D	8g#	8b
+8AA	8AA	4a	8cc#
+8E	8E	.	4b
+8EE	8EE	8g#	.
+=17	=17	=17	=17
+4AA	4AA	4a	8a
+.	.	.	8ee
+4C#	4C#	8r	8aa
+.	.	8ee	8a
+8D	8D	8g#	8b
+8AA	8AA	4a	8cc#
+8E	8E	.	4b
+8EE	8EE	8g#	.
+=18	=18	=18	=18
+1AA	1AA	1a	1a
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 2308387165
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1822695585

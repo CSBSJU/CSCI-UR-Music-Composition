@@ -1,0 +1,89 @@
+!!!OTL@ENG: Dancing Song (c)
+!!!ONM: 31
+**kern
+*Imale
+*clefF4
+*M2/4
+*MM84
+*>[A,B,B]
+*>norep[A,B]
+*>A
+=1
+16e
+16e
+8e
+4e
+=2
+16e
+8.e
+12e
+12d
+12c
+=3
+2c
+*>B
+=4!|:
+8c
+8B
+4c
+=5
+16B
+8.c
+12e
+12c
+12B
+=6
+2A
+=7
+16A
+8.A
+4A
+=8
+16A
+8.B
+12B
+12A
+12A
+=9
+16A
+16A
+8B
+16A
+8.A
+=10
+8A
+8E
+4A
+=11
+4E
+8E
+8E
+=12
+2E
+==:|!
+*-
+!!!CNT: Native American -- Sioux
+!!!MRD: 1911/07//-1914///
+!!!OCL: Frances Densmore
+!!!YOR1: Teton Sioux Music, Bulletin 61,
+!!!YOR2: Bureau of American Ethnology, Smithsonian Institution
+!!!PPR: Government Printing Office
+!!!PPP: Washington, D.C.
+!!!PDT: 1918///
+!!!ENC: Craig Stuart Sapp
+!!!END: 2002/03/25/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2002/03/31/
+!!!YEC: 2002 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux031.krn
+!!!title: @{ONM}. <i>@{OTL}</i>
+!!!AGN: Ceremonial Song/Song of the Sun Dance
+!!!MPN@@SIO: Ishn'la-wicha'
+!!!MPN@ENG: Lone Man
+!!!TXO: Teton Sioux
+!!!MLC: Standing Rock Reservation, South Dakota, United States of America
+!!!ARL: 45.9/-100.7#
+!!!catalog: Catalogue No. 482
+!!!PPG: 145
+!!!EFL: 31/245

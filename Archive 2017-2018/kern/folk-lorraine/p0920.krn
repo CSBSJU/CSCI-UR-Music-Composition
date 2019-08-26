@@ -1,0 +1,94 @@
+!!!OTL: Versp&auml;tung (2-47) S. 151
+!!!id: P0920
+**kern
+*clefG2
+*k[f#]
+*G:
+{8g
+=1
+8g
+8b
+8b
+4b
+8dd
+8dd
+4dd
+=2
+4cc
+4a
+2a}
+=3
+{4cc
+4cc
+4b
+4a
+=4
+4g
+4e
+2d}
+=5
+{4d
+4g
+4g
+4e
+=6
+4f#
+4g
+2a}
+=7
+{4cc
+4cc
+8b
+8b
+4g
+=8
+8a
+8a
+4f#
+2g}
+=9
+{4d
+4g
+4g
+4g
+=10
+4f#
+4a
+2a}
+=11
+{4b
+4b
+4dd
+4dd
+=12
+4cc
+4f#
+2g}
+==
+*-
+!!!minrhy: 8
+!!!meters: 4/4 ]  ZZ[6
+!!!cut: Versp&auml;tung (2-47) S. 151
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1:   XXX_XXX_  X_X_X__
+!!!rhy2: X_X_X_X_  X_X_X__
+!!!key: P0920  08  G 4/4 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 2-52121
+!!!akz: 3542_431-5_-51-72_4321_-51-72_3541_
+!!!fot: 'a__b__c__d__cv_aw_
+!!!for: 'a__b__b__c__b__b__
+!!!fok: '^d_\__~a_\__/__^d_
+!! PHRAS[VOLLTAKTIG]
+!!!fkt: ???, Tod, Arbeit
+!! LOTH VKL
+!! PR[18] 2K[11] 2G[17] 3K[3] 3G[0] 4A[6] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[37] ABS[65] SR[28] SP[9]
+!! ST[12] 2k[14] 2g[23] 3k[6] 3g[2] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[45] dm[-8] sr[37] sp[8]
+!! 1F[3] 2F[17] 3F[47] 4F[23] LF[0] 2P[3] 3P[3] 4P[0] TRI[0] DF[7] AB[66]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[3] N2K[0] N2[9] N3K[0] N3[24] N4[20] N4Ü[0] N5[20] N6K[0] N6[17]
+!!!n7k: 0] N7[3] O1[5] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

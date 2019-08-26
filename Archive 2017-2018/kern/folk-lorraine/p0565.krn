@@ -1,0 +1,121 @@
+!!!OTL: Singen wir alle Kyrie (4-4), S. 6
+!!!id: P0565
+**kern
+*clefG2
+*k[f#]
+*G:
+{8g
+=1
+*M3/4
+8g
+4g
+8g
+4g
+=2
+*M2/4
+8b
+8a
+8b
+8cc
+=3
+4.dd
+8cc
+=4
+4b}
+4r
+=5
+{4.b
+8a
+=6
+8g
+8a
+4b
+=7
+4.a
+8g
+=8
+4g}
+4r
+=9
+*M3/4
+{4d
+4g
+4g
+=10
+4g
+4g
+4a
+=11
+4g
+4f#
+4e
+=12
+4d
+8d
+8e
+4e}
+=13
+*M2/4
+{8e
+8a-
+4a
+=14
+4.f#
+8e
+=15
+4d}
+4r
+=16
+{4g
+8g
+8g
+=17
+8b
+8a
+8b
+8cc
+=18
+4.dd
+8cc
+=19
+4b}
+4r
+=20
+{4.b
+8a
+=21
+8g
+8a
+4b
+=22
+4.a
+8g
+=23
+2g}
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 3/4]  ZZ[6
+!!!cut: Singen wir alle Kyrie (4-4), S. 6
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen Bd 4, Kassel 1939
+!!!rhy1:   X_XX_  XXXX  X_.X  X_0_
+!!!rhy2: X_.X  XXX_  X_.X  X_0_
+!!!key: P0565  08  G 2/4 3/4]  ZZ[6
+!!!mod: ACHTTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 31-6-531
+!!!akz: 353_3121_-511-5_-6-7-5_1353_3121_
+!!!fot: 'a__b__c__d__a__b__
+!!!for: 'a__b__c__d__e__bv_
+!!!fok: '^a_Sd_^a_^d_^a_Sd_
+!! PHRAS[VORWIEGEND VOLLTAKTIG]
+!!!fkt: geistliches Lied
+!! LOTH VKL
+!! PR[11] 2K[11] 2G[25] 3K[0] 3G[0] 4A[6] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[44] ABS[36] SR[36] SP[8]
+!! ST[13] 2k[11] 2g[25] 3k[3] 3g[3] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[44] dm[0] sr[36] sp[8]
+!! 1F[3] 2F[14] 3F[65] 4F[14] LF[0] 2P[3] 3P[3] 4P[0] TRI[0] DF[6] AB[37]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[14] N2K[0] N2[16] N3K[0] N3[19] N4[11] N4Ü[5] N5[27] N6K[0] N6[5]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

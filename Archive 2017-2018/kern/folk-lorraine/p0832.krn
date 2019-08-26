@@ -1,0 +1,152 @@
+!!!OTL: M&uuml;llerlied (Band 1), S. 169
+!!!id: P0832
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+=1
+8g
+8g
+8g
+=2
+8a
+8a
+8b
+=3
+8g
+8f#
+8g
+=4
+8d}
+8r
+=5
+{8d
+=6
+8e
+8f#
+16d
+16d
+=7
+8e
+8f#
+8g
+=8
+8a
+8g
+8f#
+=9
+8g}
+8r
+=10
+{8d
+=11
+4g
+8g
+=12
+8.a
+16b
+8cc
+=13
+4.dd
+=14
+8a}
+4r
+=15
+{4dd
+16dd
+16dd
+=16
+8cc
+8b
+16a
+16a
+=17
+8g
+8f#
+8g
+=18
+8a
+8b
+8a
+=19
+8d}
+8r
+=20
+{8d
+=21
+8e
+8f#
+8e
+=22
+8e
+8f#
+8g
+=23
+4.a
+=24
+8g}
+4r
+=25
+{4dd
+16dd
+16dd
+=26
+8cc
+8b
+16a
+16a
+=27
+8g
+8f#
+8g
+=28
+8a
+8b
+8a
+=29
+8d}
+8r
+=30
+{8d
+=31
+8e
+8f#
+8e
+=32
+8e
+8f#
+8g
+=33
+4.a
+=34
+8g}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/8 ]  ZZ[7
+!!!cut: M&uuml;llerlied (Band 1), S. 169
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: X_  X_X_X_  X_X_X_  X_X_X_  X_0_
+!!!rhy2: X_  X_X_XX  X_X_X_  X_X_X_  X_0_
+!!!key: P0832  16  G 3/8 ]  ZZ[7
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: -512-51-51
+!!!akz: 121-5_-6-621_1252_5412-5_-6-621_5412-5_-6-621_
+!!!fot: 'a__b__c__d__bw_d__bw_
+!!!for: 'a__b__c__d__e__d__ev_
+!!!fok: '^__/__^a_Sd_/__Sd_/__
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Arbeits-, Berufslied
+!! LOTH VKL
+!! PR[30] 2K[4] 2G[14] 3K[7] 3G[5] 4A[1] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[31] ABS[96] SR[18] SP[14]
+!! ST[32] 2k[9] 2g[27] 3k[0] 3g[0] 4d[2] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[39] dm[-8] sr[36] sp[2]
+!! 1F[21] 2F[41] 3F[29] 4F[0] LF[0] 2P[8] 3P[1] 4P[0] TRI[0] DF[5] AB[103]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[2] U6K[0] U6[0] U7K[0] U7[2]
+!! N1[24] N2K[0] N2[24] N3K[0] N3[23] N4[8] N4Ü[0] N5[14] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

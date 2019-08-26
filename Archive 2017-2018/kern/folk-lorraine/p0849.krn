@@ -1,0 +1,84 @@
+!!!OTL: Ach Schatz, wenn du &uuml;ber die Gasse gehst (Band 1), S. 212
+!!!id: P0849
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+=1
+8d
+8g
+8g
+=2
+8g
+8a
+8a
+=3
+4g
+8f#
+=4
+4f#}
+=5
+{8d
+=6
+4g
+8g
+=7
+8g
+8a
+8b
+=8
+4a}
+=9
+{8g
+=10
+8a
+8b
+8cc
+=11
+4dd
+8dd
+=12
+8dd
+8cc
+8b
+=13
+4a}
+=14
+{8cc
+=15
+4b
+8b
+=16
+4a
+8a
+=17
+4g}
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/8 ]  ZZ[4
+!!!cut: Ach Schatz, wenn du &uuml;ber die Gasse gehst (Band 1), S. 212
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: X  XXX  XXX  X_X  X_
+!!!rhy2: X  X_X  XXX  X_
+!!!key: P0849  08  G 3/8 ]  ZZ[4
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: -7221
+!!!akz: -511-7_112_2552_321_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__c__d__
+!!!fok: '^a_/__^a_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: verbotene Liebe
+!! LOTH VKL
+!! PR[21] 2K[5] 2G[11] 3K[0] 3G[11] 4A[8] 4Ü[0] 5A[0] 6K[0] 6G[3]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[37] ABS[38] SR[16] SP[21]
+!! ST[10] 2k[5] 2g[16] 3k[5] 3g[11] 4d[0] 4ü[0] 5d[5] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[42] dm[-5] sr[21] sp[21]
+!! 1F[18] 2F[69] 3F[10] 4F[0] LF[0] 2P[3] 3P[0] 4P[0] TRI[0] DF[4] AB[39]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[10] U6K[0] U6[0] U7K[0] U7[8]
+!! N1[23] N2K[0] N2[26] N3K[0] N3[23] N4[5] N4Ü[0] N5[3] N6K[0] N6[3]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

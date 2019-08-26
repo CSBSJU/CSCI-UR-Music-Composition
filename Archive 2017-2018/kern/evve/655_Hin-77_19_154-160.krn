@@ -1,0 +1,81 @@
+!!!COM:	Hindemith
+!!!OTL:	Hin-77/19/154-160
+**kern	**kern	**kern	**kern	**dynam
+*part2	*part2	*part1	*part1	*part1
+*staff4	*staff3	*staff2	*staff1	*
+*I"Piano	*	*I"Piano	*	*
+*I'Pno.	*	*I'Pno.	*	*
+*clefF4	*clefG2	*clefF4	*clefG2	*
+*k[]	*k[]	*k[]	*k[]	*
+*M4/4	*M4/4	*M4/4	*M4/4	*
+*	*8va	*	*	*
+=1	=1	=1	=1	=1
+2r	(4ddd	1r	8BL 8f#	.
+.	.	.	8BJ 8b	.
+.	8ggg)	.	4r	.
+.	8r	.	.	.
+*clefG2	*	*	*	*
+(4b	[2gg [2ggg	.	8f#XL 8b	.
+.	.	.	8Bn	.
+8ee)	.	.	8dn 8b	.
+8r	.	.	8BJ	.
+=2	=2	=2	=2	=2
+2ee	4gg] 4ggg]	8AAAL	8eL 8b	.
+.	.	8AA	8BJ	.
+.	(8aaaL	8CC#	4r	.
+.	8gggJ	8FF#J	.	.
+2r	4ddd)	8BBBL	4r	.
+.	.	8BBJ	.	.
+.	4ccc	4r	8aL 8b	.
+.	.	.	8BJ	.
+=3	=3	=3	=3	=3
+2r	(8dddL	4r	8eL 8b	.
+.	8fffJ	.	8B	.
+.	8ggg)	8AAAL	8fn 8b	.
+.	8r	8AAJ	8BJ	.
+(8bL	[2gg [2ggg	8CC#L	2r	.
+8ddJ	.	8FF#	.	.
+8ee)	.	8BBB	.	.
+8r	.	8BBJ	.	.
+=4	=4	=4	=4	=4
+!!linebreak:original
+2ee	8ggL] 8ggg]	4r	8g#L 8b	.
+.	(8bbb-	.	8B	.
+.	8aaa-	4r	8c# 8b	.
+.	8gggJ	.	8BJ	.
+2r	4ccc)	8AAAL	8dL 8b	.
+.	.	8AA	8BJ	.
+.	4ddd	8CC#	4r	.
+.	.	8FF#J	.	.
+=5	=5	=5	=5	=5
+2r	(8fffL	8BBBL	4r	.
+.	8bbb-J	8BBJ	.	.
+.	8eeee-)	4r	8gnL 8b	.
+.	8r	.	8BJ	.
+(8ccL	[2ccc [2cccc	4r	8dL 8b	.
+8ffJ	.	.	8B	.
+8bb-)	.	8AAAL	8d# 8b	.
+8r	.	8AAJ	8BJ	.
+=6	=6	=6	=6	=6
+(4.aa	8cccL] 8cccc]	8CC#L	2r	.
+.	(8aaa	8FF#	.	.
+.	8fff	8BBB	.	.
+8bb-	8dddJ	8BBJ	.	.
+4.aa	4eeen)	4r	8c#L 8b	.
+.	.	.	8B	.
+.	(8eeeL	4r	8d 8b	.
+8aa-	8gggJ	.	8BJ	.
+=7	=7	=7	=7	=7
+*	*X8va	*	*	*
+4gg)	4ee)	8AAAL	8gL 8b	.
+.	.	8AA	8BJ	]
+8aaL	4ee	8CC#	4r	.
+8eeJ	.	8FF#J	.	.
+2ff#	2b	8BBBL	4r	.
+.	.	8BBJ	.	.
+.	.	8r	8eL 8b	.
+.	.	8BBB	8BJ	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: {(s1,s2)}{(s3,s4)}
+!!!YEM:	Copyright © Natalie Dietterich

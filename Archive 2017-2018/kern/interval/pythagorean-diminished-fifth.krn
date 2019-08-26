@@ -1,0 +1,16 @@
+!!!OTL: Pythagorean diminished fifth (588.270 cents)
+!!!ratio: 1024/729
+!! C to G-flat in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4gg-	-11.730	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1gg-	-11.730
+*-	*-	*-	*-

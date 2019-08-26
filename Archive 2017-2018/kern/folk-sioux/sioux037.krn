@@ -1,0 +1,125 @@
+!!!OTL@ENG: The Horsemen in the Cloud
+!!!ONM: 37
+**kern
+*Imale
+*clefF4
+*M2/4
+*MM63
+*>[A,B,B]
+*>norep[A,B]
+*>A
+16e
+16e
+=1
+4e
+(8e
+16B)
+16B
+=2
+4B
+8B
+*>B
+=!|:
+16d
+16c
+=3
+4c
+(8c
+16B)
+16B
+=4||
+*M3/4
+4B
+8.B
+16B
+4B
+=5||
+*M2/4
+4B
+(16e
+8.B)
+=6
+8A
+8A
+[4A
+=7
+4.A]
+16c
+16B
+=8
+4B
+(8B
+16A)
+16A
+=9||
+*M3/4
+4A
+8.A
+16A
+4A
+=10||
+*M2/4
+4A
+(8A
+16E)
+16E
+=11
+4E
+4E
+=12||
+*M3/4
+[2E
+8E]
+16F
+16F
+=13||
+*M2/4
+4F
+8.F
+16E
+=14||
+*M3/4
+4E
+8.E
+16E
+4E
+=15||
+*M2/4
+4E
+(8E
+16BB)
+16C
+=16
+4AA
+4AA
+=17
+2AA
+=18
+4.AA
+==:|!
+*-
+!!!CNT: Native American -- Sioux
+!!!MRD: 1911/07//-1914///
+!!!OCL: Frances Densmore
+!!!YOR1: Teton Sioux Music, Bulletin 61,
+!!!YOR2: Bureau of American Ethnology, Smithsonian Institution
+!!!PPR: Government Printing Office
+!!!PPP: Washington, D.C.
+!!!PDT: 1918///
+!!!ENC: Craig Stuart Sapp
+!!!END: 2002/03/25/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2002/03/31/
+!!!YEC: 2002 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux037.krn
+!!!title: @{ONM}. <i>@{OTL}</i>
+!!!AGN: Ceremonial Song/Song of the Heyoka
+!!!MPN@@SIO: Ishn'la-wicha'
+!!!MPN@ENG: Lone Man
+!!!TXO: Teton Sioux
+!!!MLC: Standing Rock Reservation, South Dakota, United States of America
+!!!ARL: 45.9/-100.7#
+!!!catalog: Catalogue No. 492
+!!!PPG: 160
+!!!EFL: 37/245

@@ -1,0 +1,17 @@
+!!!OTL: Holdrian comma (22.6415 cents)
+!!!OTL: Holder's comma
+!!!ratio: sqrt(53, 2):1
+!!!URL: http://en.wikipedia.org/wiki/Holdrian_comma
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4cc	22.6415	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1cc	22.6415
+*-	*-	*-	*-

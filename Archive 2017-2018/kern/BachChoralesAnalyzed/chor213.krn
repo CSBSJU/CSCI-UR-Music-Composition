@@ -1,0 +1,99 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/3//-1750/7/28/
+!!!OTL@@DE: O wie selig seid ihr doch, ihr Frommen
+!!!AGN: 4-Part Chorale
+!!!SCT: BH 213
+!!!SCT: BWV 405
+!!!YEC: Copyright 2003 by Craig Stuart Sapp
+!!!license: GNU General Public License (http://www.gnu.org/copyleft/gpl.html)
+!!!SMA: 371 Bach Chorales, edited by Ludwig Erk, C.F. Peters
+!!!PDT: 1850, 1865
+!!!ONB: Harmony and Root analysis done manually by Craig Sapp
+**harm	**root	**kern	**kern	**kern	**kern
+!	!	!bass	!tenor	!alto	!soprno
+*	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+*	*	*clefF4	*clefF4	*clefG2	*clefG2
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:	*d:	*d:	*d:
+=1-	=1-	=1-	=1-	=1-	=1-
+i	4DD	4D	4d	4f	4a
+ivb	4GG	8C	4d	4g	4dd
+.	.	8BB-	.	.	.
+v7	4AA	4AA	4e	4g	4cc
+i	4DD	4D	4d	[4f	8b-
+.	.	.	.	.	8a
+=2	=2	=2	=2	=2	=2
+iv7	8GG	4GG	8d	8f]	4b-
+iiob	8EE	.	8B-	8e	.
+IIIb	4FF	8AA	4c	[4f	4a
+.	.	8BB-	.	.	.
+-VII	4CC	4C	4c	8f]	4g
+.	.	.	.	8e	.
+III	4FF	4F	4c	4f	8a
+.	.	.	.	.	8b-
+=3	=3	=3	=3	=3	=3
+V7b/-VII	4GG	4BB-	8d	4f	2g
+.	.	.	8B-	.	.
+-VII	4CC	4C	8G	4e	.
+.	.	.	8c	.	.
+III;	2FF;	2FF;	2A;	2c;	2f;
+=4	=4	=4	=4	=4	=4
+III	4FF	4F	8c	4f	8a
+.	.	.	8d	.	8b-
+-VII	4CC	8E	8e	8g	4cc
+.	.	8F#	8d	8a	.
+IV	4GG	8G	4d	4g	4.bn
+.	.	8Fn	.	.	.
+viiob	4CC#	4E	4e	4g	.
+.	.	.	.	.	8cc#
+=5	=5	=5	=5	=5	=5
+Ib	8DD	8F#	8d	8a	4dd
+viio/V	8GG#	8G#	8Bn	8bn	.
+v	4AA	4A	4e	4a	8ccn
+.	.	.	.	.	8dd
+vb	4AA	4C	4e	4a	4ee
+i	4DD	4D	4f	4a	8dd
+.	.	.	.	.	8cc
+!!linebreak: 2
+=6	=6	=6	=6	=6	=6
+V7/V	2EE	4E	8Bn	4a	2bn
+.	.	.	4e	.	.
+.	.	4EE	.	4g#	.
+.	.	.	8d	.	.
+V;	2AA;	2AA;	2c#;	2e;	2a;
+=7	=7	=7	=7	=7	=7
+r	4r	4r	4r	4r	4r
+V	4AA	4AA	4E	4c#	4a
+IVb	4GG	4BBn	4D	4d	4g
+Vb	4AA	4C#	4A	4e	4e
+=8	=8	=8	=8	=8	=8
+i	2DD	4D	2A	4e	2f
+.	.	4DD	.	4d	.
+V;	2AA;	2AA;	2A;	2c#;	2e;
+=9	=9	=9	=9	=9	=9
+ib	4DD	4F	4A	4d	4d
+Vb	4AA	4C#	4A	4A	4e
+i	4DD	4D	8A	4d	4f
+.	.	.	8B-	.	.
+-VIIb	4CC	4E	8A	4c	4g
+.	.	.	8G	.	.
+=10	=10	=10	=10	=10	=10
+III	4FF	4F	8F	4c	4a
+.	.	.	8A	.	.
+viiob/-VII	4BB	8E	8G	4f	4bn
+.	.	8D	8F	.	.
+viiob	4CC#	4E	4G	4e	4cc#
+ib	4DD	8F	8A	8d	4dd
+.	.	8G	8B-	8e	.
+=11	=11	=11	=11	=11	=11
+ic	4DD	4A	4A	8f	4dd
+.	.	.	.	16e	.
+.	.	.	.	16d	.
+V	4AA	4AA	4A	4e	4cc#
+I;	2DD;	2D;	2A;	2f#;	2dd;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

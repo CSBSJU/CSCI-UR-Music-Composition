@@ -1,0 +1,130 @@
+!!!OTL: Vierter Tanz (Band 1), S. 267
+!!!id: P0871
+**kern
+*clefG2
+*k[f#c#]
+*D:
+{16d
+=1
+16d
+8dd
+8r
+8cc#
+8r
+=2
+8b
+16b
+16b
+4a}
+=3
+{8g
+8b
+8e
+8g
+=4
+8f#
+8a
+8d}
+=5
+{8d
+=6
+8e
+8e
+8a
+8c#
+=7
+4d}
+4r
+=8
+{8dd
+8r
+8cc#
+8r
+=9
+16b
+16b
+16b
+16b
+4a}
+=10
+{8g
+8b
+8e
+8g
+=11
+8f#
+8a
+8d}
+=12
+{8d
+=13
+8e
+8a
+8a
+8c#
+=14
+4d}
+4r
+=15
+{8f#
+8a
+4d
+=16
+8f#
+8a
+4d
+=17
+8.a
+16dd
+8dd
+8cc#
+=18
+4b
+4a}
+=19
+{8g
+8b
+8e
+8g
+=20
+8f#
+8a
+8d}
+=21
+{8d
+=22
+8e
+8e
+8a
+8c#
+=23
+4e
+8d}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[9
+!!!cut: Vierter Tanz (Band 1), S. 267
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1:   X_0_X_0_  X_XXX__
+!!!rhy2: X_X_X_X_  X_X_X_
+!!!key: P0871  16  D 2/4 ]  ZZ[9
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9b
+!!!kad: 511511511
+!!!akz: +16_43_21_+16_43_21_3356_43_22_
+!!!fot: 'a__b__c__av_b__cv_d__b__cw_
+!!!for: 'a__b__bw_c__b__bw_d__b__bw_
+!!!fok: '\__^d_^__\__^d_^__Ma_^d_^__
+!! PHRAS[VORWIEGEND VOLLTAKTIG]
+!!!fkt: Tanzlied
+!! LOTH VKL
+!! PR[42] 2K[0] 2G[0] 3K[15] 3G[8] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[2]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[25] ABS[65] SR[0] SP[25]
+!! ST[24] 2k[5] 2g[14] 3k[6] 3g[6] 4d[0] 4ü[3] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[34] dm[-9] sr[18] sp[15]
+!! 1F[18] 2F[59] 3F[14] 4F[0] LF[0] 2P[9] 3P[0] 4P[0] TRI[0] DF[4] AB[66]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[3]
+!! N1[18] N2K[0] N2[15] N3K[0] N3[29] N4[20] N4Ü[0] N5[11] N6K[0] N6[5]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

@@ -1,0 +1,108 @@
+!!!OTL: Weihnachtslied, S. 19f
+!!!id: L0015
+**kern
+*clefG2
+*k[b-]
+*f:
+{4f
+=1
+4f
+2.a-
+=2
+2g
+4a-
+=3
+4f
+4e
+4c
+=4
+2f
+4g
+=5
+2.a-}
+=6
+{2.a-
+=7
+2g
+4a-
+=8
+4f
+4e
+4c
+=9
+2f
+4g
+=10
+2a-}
+4r
+=11
+{2.a-
+=12
+2g
+4a-
+=13
+2.f
+=14
+4g
+4f
+4e
+=15
+2f}
+4r
+=16
+{2.a-
+=17
+2cc
+4b-
+=18
+2.cc}
+=19
+{2.a-
+=20
+2cc
+4b-
+=21
+2.cc}
+=22
+{4cc
+4b-
+4cc
+=23
+4a-
+4g
+4f
+=24
+4g
+4f
+4e
+=25
+2f}
+4r
+==
+*-
+!!!minrhy: 4
+!!!meters: 3/4 ]  ZZ[6
+!!!cut: Weihnachtslied, S. 19f
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1:   X_.  X_X  XXX  X_X  X_.
+!!!rhy2: X_.  X_X  XXX  X_X  X_0
+!!!key: L0015  04  F 3/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA MOLL ?]  AMBITUS[8
+!!!kad: 3b3b1551
+!!!akz: 3b2113b_3b2113b_3b2121_3b55_3b55_53b21_
+!!!fot: 'a__a__b__c__c__d__
+!!!for: 'a__av_b__aw_aw_c__
+!!!fok: 'V__V__\__/__/__\__
+!! PHRAS[VOLLTAKTIG]
+!!!fkt: geistliches, religiöses Lied
+!! FONTAINE, Ed.:
+!! PR[8] 2K[12] 2G[14] 3K[0] 3G[6] 4A[8] 4Ü[0] 5A[2] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[41] ABS[103] SR[25] SP[16]
+!! ST[40] 2k[14] 2g[31] 3k[4] 3g[0] 4d[1] 4ü[0] 5d[0] 6k[0] 6g[2]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[51] dm[-10] sr[45] sp[7]
+!! 1F[33] 2F[33] 3F[20] 4F[0] LF[0] 2P[7] 3P[2] 4P[0] TRI[0] DF[6] AB[120]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[6] U6K[0] U6[4] U7K[0] U7[12]
+!! N1[25] N2K[0] N2[19] N3K[0] N3[23] N4[10] N4Ü[0] N5[2] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

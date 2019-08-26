@@ -1,0 +1,104 @@
+!!!OTL@ENG: A Wind
+!!!ONM: 41
+**kern
+*Imale
+*clefG2
+*k[b-e-a-d-]
+*M3/4
+*MM104
+*>[A,B,B,C]
+*>norep[A,B,C]
+*>A
+=1
+16f
+8.f
+8a-
+8a-
+4f
+=2||
+*M2/4
+8d-
+8c
+8c
+8B-
+=3||
+*M5/8
+4.B-
+4B-
+*>B
+=4!|:
+*M3/4
+16f
+8.d-
+8e-
+8e-
+4d-
+*clefF4
+=5||
+*M2/4
+8B-
+8A-
+8A-
+8A-
+=6||
+*M7/8
+4.F
+4F
+8F
+8F
+=7||
+*M5/8
+4B-
+8B-
+8c
+8d-
+=8||
+*M3/4
+4B-
+8B-
+8c
+8B-
+8B-
+=9||
+*M2/4
+4A-
+8F
+8F
+=10||
+*M5/8
+8A-
+8A-
+4.F
+=11||
+*M3/4
+2F
+*>C
+=12:|!
+4F
+==
+*-
+!!!CNT: Native American -- Sioux
+!!!MRD: 1911/07//-1914///
+!!!OCL: Frances Densmore
+!!!YOR1: Teton Sioux Music, Bulletin 61,
+!!!YOR2: Bureau of American Ethnology, Smithsonian Institution
+!!!PPR: Government Printing Office
+!!!PPP: Washington, D.C.
+!!!PDT: 1918///
+!!!ENC: Craig Stuart Sapp
+!!!END: 2002/03/25/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2002/03/31/
+!!!YEC: 2002 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux041.krn
+!!!title: @{ONM}. <i>@{OTL}</i>
+!!!AGN: Ceremonial Song/Song of the Heyoka
+!!!MPN@@SIO: Ishn'la-wicha'
+!!!MPN@ENG: Lone Man
+!!!TXO: Teton Sioux
+!!!MLC: Standing Rock Reservation, South Dakota, United States of America
+!!!ARL: 45.9/-100.7#
+!!!catalog: Catalogue No. 494
+!!!PPG: 168
+!!!EFL: 41/245

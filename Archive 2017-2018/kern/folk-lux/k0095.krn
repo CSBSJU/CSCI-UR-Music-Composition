@@ -1,0 +1,107 @@
+!!!OTL: Das Grab ist tief und stille (1-20), S. 54
+!!!id: K0095
+**kern
+*clefG2
+*k[f#c#]
+*D:
+{4a
+=1
+4.a
+8f#
+4.f#
+8d
+=2
+8d
+8c#
+4c#}
+4r
+=3
+{4a
+=4
+4g
+4g
+8a
+8g
+8f#
+8e
+=5
+2f#}
+4r
+=6
+{8d
+8b
+=7
+4.b
+8b
+4dd
+8cc#
+8b
+=8
+8b
+8a
+4a}
+4r
+=9
+{8f#
+8a
+=10
+4.a
+8g
+4e
+4c#
+=11
+2d}
+4r
+=12
+{8d
+8b
+=13
+4.b
+8b
+4dd
+8cc#
+8b
+=14
+8b
+8a
+4a}
+4r
+=15
+{8f#
+8a
+=16
+4.a
+8g
+4e
+4c#
+=17
+2d}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[6
+!!!cut: Das Grab ist tief und stille (1-20), S. 54
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 1, Luxemburg 1926
+!!!rhy1: X__  X__.X_X__.X_  X_X_X__0_   (x2)
+!!!rhy2: X__  X__X__X_X_X_X_  X___0_
+!!!key: K0095  16  D 4/4 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9b
+!!!kad: -735151
+!!!akz: 531_453_6+16_521_6+16_521_
+!!!fot: 'a__b__c__d__c__d__
+!!!for: 'a__b__c__d__c__d__
+!!!fok: '\__\__^a_^d_^a_^d_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: ???
+!!!bem: in der Quelle mit einer 2. Stimme versehen
+!! KINTZELE
+!! PR[54] 2K[2] 2G[2] 3K[7] 3G[8] 4A[4] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[24] ABS[97] SR[4] SP[20]
+!! ST[32] 2k[4] 2g[8] 3k[4] 3g[2] 4d[0] 4ü[0] 5d[3] 6k[0] 6g[1]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[23] dm[+1] sr[12] sp[10]
+!! 1F[15] 2F[57] 3F[2] 4F[0] LF[0] 2P[15] 3P[12] 4P[0] TRI[0] DF[5] AB[102]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[4] U6K[0] U6[2] U7K[0] U7[2]
+!! N1[16] N2K[0] N2[10] N3K[0] N3[22] N4[14] N4Ü[0] N5[24] N6K[0] N6[4]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

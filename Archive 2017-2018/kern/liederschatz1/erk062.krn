@@ -1,0 +1,103 @@
+!!!OTL@@DE: Drei R&ouml;selein
+!!!COM: Volkslied
+!!!ODT: 1824
+!!!OMD: Gem&uuml;thlich
+!!!ONB: Schw&auml;bisch
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+*clefF4	*clefG2	*clefG2
+*k[f#]	*k[f#]	*k[f#]
+*G:	*G:	*G:
+*M3/8	*M3/8	*M3/8
+*MM80	*MM80	*MM80
+8r	8d/	8d/
+=1	=1	=1
+*^	*	*
+8GG/L	4.GG\	8.B/ 8.g/L	8.g/
+8D/	.	.	.
+.	.	16A/ 16f#/Jk	16f#/
+8G/J	.	16B/ 16g/LL	16g/LL
+.	.	16c/ 16a/JJ	16a/JJ
+=2	=2	=2	=2
+8GG/L	4.GG\	8.d/ 8.b/L	8.b\
+8D/	.	.	.
+.	.	16e/ 16cc/k	16cc\
+8G/J	.	8d/ 8b/J	8b\
+*v	*v	*	*
+=3	=3	=3
+8D/L	8c/ 8a/L	8a/
+8DD/	8B/ 8g/	8g/
+8D/J	8c/ 8a/J	8a/
+=4	=4	=4
+8GG/L	8B/ 8g/	8g/
+8G/J	8r	8r
+8r	8d/ 8a/	8a/
+=5	=5	=5
+*^	*	*
+8GG/L	4.GG\	8.g/ 8.b/L	8.b\
+8D/	.	.	.
+.	.	16f#/ 16a/Jk	16a/
+8G/J	.	16g/ 16b/LL	16b/LL
+.	.	16a/ 16cc/JJ	16cc/JJ
+=6	=6	=6	=6
+8GG/L	4.GG\	8.b\ 8.dd\L	8.dd\
+8D/	.	.	.
+.	.	16cc\ 16ee\k	16ee\
+8G/J	.	8b\ 8dd\J	8dd\
+*v	*v	*	*
+=7	=7	=7
+8D/L	8a\ 8cc\L	8cc\
+8DD/	8g\ 8b\	8b\
+8D/J	8a\ 8cc\J	8cc\
+=8	=8	=8
+8GG/L	4g/ 4b/	4b\
+8G/J	.	.
+=	=	=
+8r	8b\ 8dd\	8dd\
+=9	=9	=9
+*	*^	*
+8D\L	16b/ 16dd/LL	[4.d\	16dd/LL
+.	16a/ 16cc/J	.	16cc/JJ
+8F#\	8a/ 8cc/	.	8cc\
+8D\J	8a/ 8cc/J	.	8cc\
+=10	=10	=10	=10
+8G/L	8g/ 8b/L	4.d\]	8b\
+8GG/	16b/ 16dd/L	.	16dd/LL
+.	16g/ 16b/J	.	16b/JJ
+8BB/J	8g/ 8b/J	.	8b\
+=11	=11	=11	=11
+8D/L	16g/ 16b/LL	[4.d\	16b\
+.	16f#/ 16a/J	.	16a/
+8DD/	8f#/ 8a/	.	8a/
+8D/J	8f#/ 8a/J	.	8a/
+=12	=12	=12	=12
+8GG/L	4g/ 4b/	4d\]	4b\
+8G/J	.	.	.
+8r	8b/ 8dd/	8r	8dd\
+=13	=13	=13	=13
+8D\L	16b/ 16dd/LL	[4.d\	16dd\
+.	16a/ 16cc/J	.	16cc\
+8F#\	8a/ 8cc/	.	8cc\
+8D\J	8a/ 8cc/J	.	8cc\
+=14	=14	=14	=14
+8G/L	8g/ 8b/L	4.d\]	8b\
+8GG/	16b/ 16dd/L	.	16dd\
+.	16g/ 16b/J	.	16b\
+8BB/J	8g/ 8b/J	.	8b\
+*	*v	*v	*
+=15	=15	=15
+8D/L	16d/ 16b/LL	16b\
+.	16c/ 16a/J	16a/
+8DD/	8c/ 8a/	8a/
+8D/J	8f#/ 8a/J	8a/
+=16	=16	=16
+8G/L	4B/ 4d/ 4g/	4g/
+8GG/J	.	.
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/05/26/
+!!!EFL: 062/651

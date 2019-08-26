@@ -1,0 +1,71 @@
+!!!COM:	Falla
+!!!OTL:	315_Fal-8/62/[67]1-5
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part16	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part9	*part8	*part8	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff18	*staff17	*staff16	*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin I	*I"Treble Solo	*I"Harp	*	*I"Harpsichord	*	*	*I"Timpani	*I"Trumpet in Bb	*I"Horn in F	*I"Clarinet in Bb	*I"Cor Anglais	*I"Oboe	*I"Flute
+*I'Cb.	*I'Vc.	*I'Vla.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Tr. Solo	*I'Hp.	*	*I'Hpsd.	*	*	*I'Timp.	*I'Tpt.	*I'Hn.	*I'Cl.	*I'C. A.	*I'Ob.	*I'Fl.
+*clefF4	*clefF4	*clefC3	*clefC3	*clefG2	*clefG2	*clefG2	*clefF4	*clefG2	*clefF4	*clefG2	*	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*k[]	*	*k[]	*k[]	*k[]	*k[]
+*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+8AA-'L	8AA-'L	16c'LL	16E-'LL 16c	16B-' 16g-	16B-'LL 16g-	4.r	8AA-' 8E-	8c'	24AA-LL 24E-	4.r	.	8AA-'	4.r	[4.c^	8c'	4.r	4.r	4.r
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	16E-'J 16c	16E-'J 16c	16r	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	mf	.	.	.	.	.	.	.
+8AA-'	8AA-'	8E-' 8c	8E-' 8c	8r	8B-' 8g-	.	8r	8r	24E-'L	.	.	8r	.	.	8r	.	.	.
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.
+8AA-'J	8AA-'J	16E-'L 16c	16E-'L 16c	8r	16B-'L 16g-	.	8r	8r	24E-'L	.	.	8AA-	.	.	8r	.	.	.
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	16E-'JJ 16c	16E-'JJ 16c	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+8AA-'L	8AA-'L	8E-'L 8c	8E-'L 8c	16B-' 16g-	8B-'L 8g-	4cc	4.r	4.r	24E-'LL	4.r	.	8r	4.r	4.c_	4.r	4.r	4.r	4.r
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	.	.	16r	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.
+8AA-'	8AA-'	16E-'L 16c	16E-'L 16c	8r	16B-'L 16g-	.	.	.	24E-'L	.	.	8AA-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	16E-'J 16c	16E-'J 16c	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.
+8AA-'J	8AA-'J	8E-'J 8c	8E-'J 8c	8r	8B-'J 8g-	8cc	.	.	24E-'L	.	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8AA-'L	8AA-'L	16E-'LL 16c	16E-'LL 16c	16B-' 16g-	16B-'LL 16g-	4.cc	4.r	4.r	24AA-LL 24E-	4.r	.	8AA-	4.r	4.c_	4.r	4.r	4.r	4.r
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	16E-'J 16c	16E-'J 16c	16r	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.
+8AA-'	8AA-'	8E-' 8c	8E-' 8c	8r	8B-' 8g-	.	.	.	24E-'L	.	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.
+8AA-'J	8AA-'J	16E-'L 16c	16E-'L 16c	8r	16B-'L 16g-	.	.	.	24E-'L	.	.	8AA-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	16E-'JJ 16c	16E-'JJ 16c	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+8AA-'L	8AA-'L	8E-'L 8c	8E-'L 8c	8r	8B-'L 8g-	8ccL	4.r	4.r	24E-'LL	4.r	.	8r	8r	4c]	4.r	8r	8r	8r
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.
+8AA-'	8AA-'	16E-'L 16c	16E-'L 16c	8r	16B-'L 16g-	8cc	.	.	24E-'L	.	.	8AA-	8r	.	.	8r	8r	8r
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	16E-'J 16c	16E-'J 16c	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.
+8Dn'J 8An	8Dn'J 8An	8cJ	8cJ	8en 8cc 8een	8g-J	8ccJ	.	.	8D'^J 8An 8c	.	.	8r	8dd'^	8D'^ 8g-	.	8A'^	8e'^ 8cc	8ccc'^
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+8AA-'L	8AA-'L	16E-'LL 16c	16E-'LL 16c	4.r	16B-'LL 16g-	4.cc	4.r	4.r	24AA-~LL 24E-	4.r	.	8AA-	4.r	[4.c~	4.r	4.r	4.r	4.r
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	16E-'J 16c	16E-'J 16c	.	16B-'J 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.
+8AA-'	8AA-'	8E-' 8c	8E-' 8c	.	8B-' 8g-	.	.	.	24E-'L	.	.	8r	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJ	.	.	.	.	.	.	.	.	.
+8AA-'J	8AA-'J	16E-'L 16c	16E-'L 16c	.	16B-'L 16g-	.	.	.	24E-'L	.	.	8AA-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24B- 24g-	.	.	.	.	.	.	.	.	.
+.	.	16E-'JJ 16c	16E-'JJ 16c	.	16B-'JJ 16g-	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	24FJJ	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6)][(s7)]{(s8,s9)}{(s10,s11)}s12[(s13,s14,s15,s16,s17,s18)]
+!!!YEM:	Copyright © Natalie Dietterich

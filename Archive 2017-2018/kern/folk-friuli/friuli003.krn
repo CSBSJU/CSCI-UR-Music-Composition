@@ -1,0 +1,68 @@
+!!!OTL@@FUR: Al cjante 'l gj&acirc;l
+!!!OTL@IT: Canta il gallo
+!!!OTL@EN: The rooster is crowing
+**kern
+*clefG2
+*k[]
+*C:
+*M3/4
+*MM90
+*>[A,A]
+*>A
+4g
+4e
+4a
+=2
+2.g
+=3
+4g
+4e
+4a
+=4
+2.g
+=5
+4a
+4.a
+8g
+=6
+4g
+2f
+=7
+4g
+4.g
+8f
+=8
+4f
+2e
+=9
+4g
+4e
+4a
+=10
+2.g
+=11
+4g
+4e
+4a
+=12
+2.g
+=13
+4a
+4.a
+8g
+=14
+4b
+4.b
+8a
+=15
+4g
+4a
+4f
+=16
+2.e
+==:|!
+*-
+!!!ARE: Friuli
+!!!ENC: Craig Stuart Sapp
+!!!END: 2002/02/05
+!!!ref: @{OTL@@FUR}/@{OTL@EN}

@@ -1,0 +1,57 @@
+!!!OTL@@FUR: I siet pas
+!!!OTL@IT: Uno, due, tre, quattro...
+!!!OTL@EN: Counting song
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+*MM120
+*>[A]
+*>A
+8e
+8e
+=1||
+8e
+16e
+16e
+8d
+8f
+=2
+8e
+8r
+8e
+8e
+=3
+8e
+16e
+16e
+8d
+8f
+=4
+8e
+8r
+8g
+8g
+=5
+4a
+8f
+8f
+=6
+4g
+8e
+8e
+=7
+8f
+8f
+8e
+8d
+=8
+4e
+4r
+==
+*-
+!!!ARE: Friuli
+!!!ENC: Kelly Leistikow
+!!!END: 2002/03/07
+!!!ref: @{OTL@@FUR}/@{OTL@EN}

@@ -1,0 +1,54 @@
+!!image-file:	2173_original_image.tiff
+!!image-id:	m-5816bdc5-cca1-4273-b7cc-9d297ac866d1
+!!system: 1, page 2173
+**kern	**neume	**facs
+*clefC4	*	*
+F	punctum	173,948,156,927
+(G	podatus	242,916,222,887
+A)	.	.
+A	punctum	284,915,266,893
+A	punctum	368,915,350,893
+A	punctum	444,915,428,894
+A	punctum	513,915,495,894
+A	punctum	572,915,554,895
+A	punctum	632,915,614,895
+A	punctum	683,915,666,895
+A	punctum	802,915,784,895
+A	punctum	861,915,843,895
+B	punctum	979,900,961,878
+A	cavum	1031,905,1012,887
+A	punctum	1081,916,1064,896
+G	punctum	1199,933,1183,914
+A	cavum	1263,905,1244,887
+A.	punctum	1316,915,1284,886
+=	=	=
+A	punctum	1429,916,1413,895
+A	punctum	1497,915,1480,896
+A	punctum	1565,916,1547,896
+A	punctum	1650,916,1633,896
+A	punctum	1717,915,1700,896
+A	punctum	1767,915,1749,895
+!!system: 2, page 2173
+*clefC4	*	*
+A	punctum	158,1182,141,1160
+A	punctum	251,1181,232,1160
+G	punctum	343,1199,325,1178
+F	punctum	414,1216,394,1196
+(G	podatus	461,1201,445,1160
+A)	.	.
+G	cavum	523,1192,504,1174
+(G.	clivis	619,1228,570,1178
+F)	.	.
+=||	=||	=||
+A	punctum	877,1181,861,1160
+G	cavum	937,1192,918,1174
+G.	punctum	992,1199,962,1179
+A	punctum	1064,1180,1047,1160
+A	punctum	1115,1180,1098,1160
+A	punctum	1166,1182,1149,1161
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=2173
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

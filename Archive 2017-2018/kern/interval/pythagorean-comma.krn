@@ -1,0 +1,17 @@
+!!!OTL: Pythagorean comma (23.46 cents)
+!!!OTL: ditonic comma
+!!!ratio: 531441:52428, 3^12:2^19
+!!!URL: http://en.wikipedia.org/wiki/Pythagorean_comma
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4cc	23.46	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1cc	23.46
+*-	*-	*-	*-

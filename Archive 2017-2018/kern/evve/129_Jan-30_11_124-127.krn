@@ -1,0 +1,62 @@
+!!!COM:	Janacek
+!!!OTL:	Jan-30/11/124-127
+**kern	**kern	**dynam	**kern
+*part2	*part2	*part2	*part1
+*staff3	*staff2	*	*staff1
+*I"Piano	*	*	*I"Violoncello
+*I'Pno.	*	*	*I'Vc.
+*clefF4	*clefG2	*	*clefF4
+*k[f#c#g#]	*k[f#c#g#]	*	*k[f#c#g#]
+*M2/8	*M2/8	*	*M2/8
+=1	=1	=1	=1
+*^	*	*	*
+(8.GL	(24EELL	4r	.	24r
+.	24E	.	.	(24BB'LL
+.	24EJJ) 24G#	.	.	24BB'J 24E
+.	8r	.	.	24BB'L 24E
+.	.	.	.	24BB') 24E
+16BJk)	.	.	.	.
+.	.	.	.	24gJJ
+*v	*v	*	*	*
+=2	=2	=2	=2
+(24EELL	64ff#XLLLL	f	(16aLL
+.	64ee	.	.
+.	64b	.	.
+24E'	.	.	.
+.	64g	.	.
+.	64cc#X	.	16g
+.	64b	.	.
+24E'J) 24G	.	.	.
+.	64g	.	.
+.	64eJJJJ	.	.
+(24EEL	8r	.	16f#X
+24E'	.	.	.
+.	.	.	16BJJ)
+24E'JJ) 24G	.	.	.
+=3	=3	=3	=3
+(24EELL	8r	.	(8.eL
+24E'	.	.	.
+24E'J) 24G	.	.	.
+(24EEL	8r	.	.
+24E'	.	.	.
+.	.	.	16gJk)
+24E'JJ) 24G	.	.	.
+=4	=4	=4	=4
+(24EELL	64ff#XLLLL	f	(16aLL
+.	64ee	.	.
+.	64b	.	.
+24E'	.	.	.
+.	64g	.	.
+.	64cc#X	.	16g
+.	64b	.	.
+24E'J) 24G	.	.	.
+.	64g	.	.
+.	64eJJJJ	.	.
+(24EEL	8r	.	16f#X
+24E'	.	.	.
+.	.	.	16BJJ)
+24E'JJ) 24G	.	.	.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: s1{(s2,s3)}
+!!!YEM:	Copyright © Natalie Dietterich

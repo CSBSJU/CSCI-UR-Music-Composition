@@ -1,0 +1,52 @@
+!!!OTL: Removing stems with the autostem filter.
+!!
+!! Sometimes it is useful to remove stems from musical data
+!! and instead rely on default stemming algorithms to have a clean, 
+!! minimal encoding of the data.
+!!
+!! Step 1:  Add the following line anywhere in the data:
+!!             !!!filter: autostem -r
+!!          The -r option removes explicit stem directions, leaving
+!!          stem directions to the discretion of a notation renderer.
+!!
+!! Step 2: If you want to see the Humdrum data without stems, then type
+!!          alt-c (or option-c).  This will "compile" the autostem filter
+!!          command and replace the text editor contents with the output
+!!          of the filter.  After compiling the filter, the filter line
+!!          will start with "!!!Xfilter:", indicating that the filter
+!!          was applied.  Delete this line as desired, or type
+!!          control-z (or command-z) to undo the compiling process.
+!!
+**kern
+*M4/4
+4c\
+4d\
+4e\
+4f\
+=
+4g\
+4a\
+4b\
+4cc\
+=
+4dd\
+4ee\
+4ff\
+4gg\
+=||
+4c/
+4d/
+4e/
+4f/
+=
+4g/
+4a/
+4b/
+4cc/
+=
+4dd/
+4ee/
+4ff/
+4gg/
+==
+*-

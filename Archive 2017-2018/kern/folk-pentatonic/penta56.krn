@@ -1,0 +1,50 @@
+!!!OTL: Indian Game Song
+!!!ARE: United States of America
+!!!AGN: Shoshone Hand Game Song
+!!!AMD: Pentatonic
+**kern
+*>[A,A,B,C,C]
+*>norep[A,B,C]
+*>A
+=1-
+*clefG2
+*k[]
+*M6/8
+*MM112
+{4e/
+8g/
+4g/
+8g/
+=2
+8e/L
+8g/
+8g/J
+4g/}
+=3:|!
+*>B
+{8a\L
+8a\
+8dd\J
+(8dd\L
+8cc\)
+8cc\J
+=4
+8a/L
+8a/
+8cc/J
+(8cc/L
+8a/)
+8a/J}
+=5!|:
+*>C
+{4e/
+8g/
+4g/
+8g/
+=6
+8e/L
+8g/
+8g/J
+4g/}
+==:|!
+*-

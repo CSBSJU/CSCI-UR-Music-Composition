@@ -1,0 +1,87 @@
+!!!OTL@@DE: V&ouml;gelin im Tannenwald
+!!!ONB: Volksweise
+!!!ODT: 1835
+!!!OMD: M&auml;ssig bewegt
+!!!ONB: Schw&auml;bisches Volkslied
+!!!LDT: ~1824
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]	*>[A,A1,A,A2,B]
+*>norep[A,A2,B]	*>norep[A,A2,B]	*>norep[A,A2,B]
+*>A	*>A	*>A
+*Ipiano	*Ipiano	*Ivox
+=1-	=1-	=1-
+*clefF4	*clefG2	*clefG2
+*k[f#]	*k[f#]	*k[f#]
+*G:	*G:	*G:
+*M3/8	*M3/8	*M3/8
+*MM72	*MM72	*MM72
+4GG/ 4D/	16.B/ 16.g/LL	16.g/
+.	32d/ 32a/JJk	32a/
+.	8g/ 8b/L	8b\
+8r	8a/ 8cc/J	8cc\
+=2	=2	=2
+4G\	8b\ 8dd\L	8dd\
+.	8cc\ 8ee\	8ee\
+8r	8b\ 8dd\J	8dd\
+=3	=3	=3
+*^	*	*
+(4D/	4.D\	8cc^\ 8ee^\L	8ee\
+.	.	8b\ 8dd\	8dd\
+8F#/)	.	8a\ 8cc\J	8cc\
+*v	*v	*	*
+=4	=4	=4
+*>A1	*>A1	*>A1
+8G\	8d/ 8g/ 8b/	4b\
+8g\ 8b\L	16.gg/LL	.
+.	32gg/JJk	.
+8g\ 8b\J	8gg/	8r
+=5:|!	=5:|!	=5:|!
+*>A2	*>A2	*>A2
+4.G\	4.d/ 4.g/ 4.b/	4.b\
+=6	=6	=6
+*>B	*>B	*>B
+8GG\L	8g\ 8b\L	8b\
+8G\	8b\ 8dd\	16dd\
+.	.	16dd\
+8G\J	8b\ 8dd\J	8dd\
+=7	=7	=7
+8D\L	8b\ 8dd\L	8dd\
+8F#\	8a\ 8cc\	8cc\
+8D\J	8a\ 8cc\J	8cc\
+=8	=8	=8
+8G\L	8a/ 8cc/L	8cc\
+8B\	8g/ 8b/	8b\
+8G\J	8g/ 8b/J	8b\
+=9	=9	=9
+8D\L	8g/ 8b/L	8b\
+8d\	8f#/ 8a/	16a/
+.	.	16a/
+8d\J	8f#/ 8a/J	8a/
+=10	=10	=10
+8G\ 8B\L	16.d/ 16.g/LL	16.g/
+.	32f#/ 32a/JJk	32a/
+8d\	8g/ 8b/L	8b\
+8d\J	8a/ 8cc/J	8cc\
+=11	=11	=11
+8G\L	8b\ 8dd\L	8dd\
+8g\	8cc\ 8ee\	8ee\
+8g\J	8b\ 8dd\J	8dd\
+=12	=12	=12
+*^	*	*
+8D/L	4.D\	8cc^\ 8ee^\L	8ee^\
+16F#/L	.	8b\ 8dd\	8dd\
+16A/J	.	.	.
+[8d/J	.	8a\ 8cc\J	8cc\
+*v	*v	*	*
+=13	=13	=13
+8G\ 8d\L]	4.g/ 4.b/	4.b\
+8GG\J	.	.
+8r	.	.
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/05/27/
+!!!EFL: 106/651

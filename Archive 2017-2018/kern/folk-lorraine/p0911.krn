@@ -1,0 +1,144 @@
+!!!OTL: Schöne J&uuml;din (2-38) S. 121
+!!!id: P0911
+**kern
+*clefG2
+*k[f#c#]
+*D:
+{4d
+=1
+*M4/4
+4a
+4a
+4e
+8g
+8g
+=2
+*M3/4
+4f#
+4e
+4d}
+=3
+{4dd
+=4
+*M2/4
+4cc#
+4b
+=5
+*M3/4
+4a
+4cc#
+4b
+=6
+2.a}
+=7
+{4a
+=8
+*M4/4
+8f#
+8f#
+4a
+4f#
+4a
+=9
+*M3/4
+2b
+4b}
+=10
+{4b
+=11
+*M4/4
+4b
+4b
+4dd
+4b
+=12
+4.a
+8g
+2f#}
+=13
+*M2/4
+{2g
+=14
+*M3/4
+4.f#
+8f#
+4e
+=15
+*M4/4
+4g
+4b
+4a
+4g
+=16
+*M3/4
+2.f#}
+=17
+{4a
+=18
+*M4/4
+8f#
+8f#
+4a
+4f#
+4a
+=19
+*M3/4
+2b
+4b}
+=20
+{4b
+=21
+*M4/4
+4b
+4b
+4cc
+4b
+=22
+4.a
+8f#
+2f#}
+=23
+*M2/4
+{2g
+=24
+*M3/4
+4.f#
+8f#
+4e
+=25
+*M4/4
+4g
+4b
+4a
+4g
+=26
+*M3/4
+2.f#}
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 3/4 4/4 ]  ZZ[8
+!!!cut: Schöne J&uuml;din (2-38) S. 121
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X_  X_X_X_XX  X_X_X_
+!!!rhy2: X_  X_X_  X_X_X_  X__.
+!!!key: P0911  08  D 2/4 3/4 4/4 ]  ZZ[8
+!!!mod: ACHTTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 15633633
+!!!akz: 5231_7555_3366_6+153_434533_3366_67b53_434533_
+!!!fot: 'a__b__c__d__e__c__f__e__
+!!!for: 'a__b__c__d__e__c__d__e__
+!!!fok: '^__\__Va_^d_Sd_Va_\__Sd_
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Liebe, J&uuml;din zu Christin bekehrt
+!! LOTH VKL
+!! PR[26] 2K[4] 2G[16] 3K[5] 3G[1] 4A[8] 4Ü[0] 5A[1] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[35] ABS[100] SR[20] SP[15]
+!! ST[30] 2k[6] 2g[20] 3k[8] 3g[2] 4d[2] 4ü[0] 5d[0] 6k[0] 6g[1]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[39] dm[-4] sr[26] sp[13]
+!! 1F[1] 2F[18] 3F[62] 4F[12] LF[0] 2P[1] 3P[4] 4P[3] TRI[3] DF[7] AB[110]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[7] U6K[0] U6[3] U7K[0] U7[5]
+!! N1[17] N2K[0] N2[21] N3K[0] N3[13] N4[7] N4Ü[1] N5[23] N6K[0] N6[4]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

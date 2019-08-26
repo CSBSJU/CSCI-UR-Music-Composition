@@ -1,0 +1,80 @@
+!!!COM:	Debussy
+!!!OTL:	180_Deb-40/21/[15]5-7
+**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part15	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff15	*	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*	*I"Violoncello	*I"Viola	*I"Viola	*I"Violin II	*I"Violin II	*I"Violin I	*I"Violin I	*I"Trumpet in C	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Clarinet in A	*I"English Horn	*I"Flute
+*I'Cb.	*	*I'Vc.	*I'Vla.	*I'Vla.	*I'Vln. II	*I'Vln. II	*I'Vln. I	*I'Vln. I	*I'C Tpt.	*I'Hn.	*I'Hn.	*I'Bsn.	*I'Cl.	*I'Eng. Hn.	*I'Fl.
+*clefF4	*	*clefF4	*clefC3	*clefC3	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2	*clefC4	*clefG2	*clefG2	*clefG2
+*k[f#c#g#]	*	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*	*	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]	*k[f#c#g#]
+*M3/8	*	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8	*M3/8
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+8.FF#L 8.AA	p	8.F#L 8.A	8.dL 8.f#	32aLLL	32bLLL	32ddLLL	32ee#LLL	32ee#LLL	4.r	4.r	4.r	([4d [4f#	24bLL	4.r	4.r
+.	.	.	.	32a	32b	32dd	32ee#	32ee#	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.
+.	.	.	.	32aJJ	32bJJ	32ddJJ	32ee#JJ	32ee#JJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.
+.	.	.	.	32bLL	32f#LL	32aLL	32ff#LL	32ff#LL	.	.	.	.	.	.	.
+.	.	.	.	32b	32f#	32a	32ff#	32ff#	.	.	.	.	24ddL	.	.
+.	.	.	.	32bJJ	32f#JJ	32aJJ	32ff#JJ	32ff#JJ	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24cc#	.	.
+8.FFF#J 8.CC#	.	8.FF#J 8.C#	8.DJ 8.A	32f#LL	32aLL	32ddLL	32gg#LL	32gg#LL	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.
+.	.	.	.	32f#	32a	32dd	32gg#	32gg#	.	.	.	.	.	.	.
+.	.	.	.	32f#JJ	32aJJ	32ddJJ	32gg#JJ	32gg#JJ	.	.	.	16.dLL] 16.f#]	24aL	.	.
+.	.	.	.	32aLL	32ddLL	32ff#LL	32aaLL	32bbLL	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24f#	.	.
+.	.	.	.	32a	32dd	32ff#	32aa	32bb	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ	.	.
+.	.	.	.	32aJJJ	32ddJJJ	32ff#JJJ	32aaJJJ	32bbJJJ	.	.	.	32AJJk 32e#	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+*	*	*	*	*	*	*	*	*	*	*	*	*	*^	*	*
+8.FF#L 8.AA	p	8.F#L 8.A	8.dL 8.f#	32aLLL	32bLLL	32ddLLL	32ee#LLL	32ee#LLL	(20.bLL	([4d	([4f#	4.F#) 4.A	16b	24bLL	20.e#LL	(20.bbLL
+.	.	.	.	32a	32b	32dd	32ee#	32ee#	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.
+.	.	.	.	32aJJ	32bJJ	32ddJJ	32ee#JJ	32ee#JJ	.	.	.	.	16r	.	.	.
+.	.	.	.	.	.	.	.	.	20.a	.	.	.	.	.	20.f#	20.aa
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.
+.	.	.	.	32bLL	32f#LL	32aLL	32ff#LL	32ff#LL	.	.	.	.	.	.	.	.
+.	.	.	.	32b	32f#	32a	32ff#	32ff#	.	.	.	.	8r	24ddL	.	.
+.	.	.	.	.	.	.	.	.	20.g#	.	.	.	.	.	20.g#	20.gg#
+.	.	.	.	32bJJ	32f#JJ	32aJJ	32ff#JJ	32ff#JJ	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24cc#	.	.
+8.FFF#J 8.CC#	.	8.FF#J 8.C#	8.DJ 8.A	32f#LL	32aLL	32ddLL	32gg#LL	32gg#LL	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.
+.	.	.	.	32f#	32a	32dd	32gg#	32gg#	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	20.f#	.	.	.	.	.	20.a	20.ff#
+.	.	.	.	32f#JJ	32aJJ	32ddJJ	32gg#JJ	32gg#JJ	.	16.dLL]	16.f#LL]	.	8r	24aL	.	.
+.	.	.	.	32aLL	32ddLL	32ff#LL	32aaLL	32bbLL	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24f#	.	.
+.	.	.	.	.	.	.	.	.	20.e#JJ)	.	.	.	.	.	20.bJJ	20.ee#JJ)
+.	.	.	.	32a	32dd	32ff#	32aa	32bb	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ	.	.
+.	.	.	.	32aJJJ	32ddJJJ	32ff#JJJ	32aaJJJ	32bbJJJ	.	32AJJk	32e#JJk	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+8.FF#L 8.AA	[	8.F#L 8.A	8.dL 8.f#	32aLLL	32bLLL	32ddLLL	32ee#LLL	32ee#LLL	4.r	4.F#)	4.A)	([4d) [4f#	24bLL	16b	4.r	4.r
+.	.	.	.	32a	32b	32dd	32ee#	32ee#	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24a	.	.	.
+.	.	.	.	32aJJ	32bJJ	32ddJJ	32ee#JJ	32ee#JJ	.	.	.	.	.	16r	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.
+.	.	.	.	32bLL	32f#LL	32aLL	32ff#LL	32ff#LL	.	.	.	.	.	.	.	.
+.	.	.	.	32b	32f#	32a	32ff#	32ff#	.	.	.	.	24ddL	8r	.	.
+.	.	.	.	32bJJ	32f#JJ	32aJJ	32ff#JJ	32ff#JJ	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24cc#	.	.	.
+8.FFF#J 8.CC#	.	8.FF#J 8.C#	8.DJ 8.A	32f#LL	32aLL	32ddLL	32gg#LL	32gg#LL	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24bJ	.	.	.
+.	.	.	.	32f#	32a	32dd	32gg#	32gg#	.	.	.	.	.	.	.	.
+.	.	.	.	32f#JJ	32aJJ	32ddJJ	32gg#JJ	32gg#JJ	.	.	.	16.dLL] 16.f#]	24aL	8r	.	.
+.	.	.	.	32aLL	32ddLL	32ff#LL	32aaLL	32bbLL	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24f#	.	.	.
+.	.	.	.	32a	32dd	32ff#	32aa	32bb	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	.	.	.	.	.	24aJJ	.	.	.
+.	.	.	.	32aJJJ	32ddJJJ	32ff#JJJ	32aaJJJ	32bbJJJ	.	.	.	32AJJk 32e#	.	.	.	.
+*	*	*	*	*	*	*	*	*	*	*	*	*	*v	*v	*	*
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7)][(s8,s9,s10,s11,s12,s13,s14,s15)]
+!!!YEM:	Copyright © Natalie Dietterich

@@ -1,0 +1,93 @@
+!!image-file:	696_original_image.tiff
+!!image-id:	m-3747d88a-6d8f-4316-8535-f38cdbaf5df7
+!!system: 1, page 696
+**kern	**neume	**facs
+*clefC3	*	*
+A	punctum	89,251,70,204
+A	punctum	139,226,120,204
+A	punctum	198,226,179,204
+(A	clivis	280,254,245,193
+G)	.	.
+(A	clivis	347,264,312,193
+G)	.	.
+=`	=`	=`
+F	punctum	462,281,446,238
+G	punctum	538,243,520,222
+A	punctum	589,249,571,202
+c	punctum	638,191,619,169
+A.	punctum	719,226,687,192
+A.	punctum	785,226,755,192
+=||	=||	=||
+d	punctum	895,174,878,154
+c	punctum	948,191,928,169
+d	punctum	997,174,978,153
+e	punctum	1045,159,1028,137
+c	punctum	1097,191,1078,171
+A.	punctum	1159,226,1129,191
+=||	=||	=||
+!!system: 2, page 696
+*clefC4	*	*
+D	punctum	342,1802,325,1780
+(E	podatus	393,1812,375,1745
+F)	.	.
+G	punctum	444,1776,425,1732
+E	punctum	493,1785,476,1764
+(G	podatus	677,1753,658,1712
+A)	.	.
+(F	clivis	810,1807,774,1749
+E)	.	.
+D	punctum	861,1804,841,1782
+(D	torculus	944,1814,892,1749
+F	.	.
+D)	.	.
+(D	clivis	1000,1829,950,1781
+C.)	.	.
+=`	=`	=`
+F	punctum	1094,1795,1076,1748
+A	punctum	1161,1737,1142,1716
+G	punctum	1219,1776,1200,1732
+A	punctum	1285,1737,1267,1716
+(G	clivis	1353,1775,1317,1731
+F)	.	.
+G	punctum	1403,1753,1385,1731
+!!system: 3, page 696
+*clefC4	*	*
+F.	punctum	126,2022,94,1989
+='	='	='
+(F	clivis	254,2055,220,2002
+D)	.	.
+F	punctum	313,2046,294,2001
+G	punctum	387,2004,369,1983
+A	punctum	487,2013,469,1964
+G	punctum	553,2005,536,1984
+F	punctum	611,2046,595,2001
+E	punctum	712,2038,695,2017
+(F	podatus	762,2022,744,1981
+G)	.	.
+G.	punctum	841,2004,811,1983
+=`	=`	=`
+(E	podatus	957,2065,936,1998
+F)	.	.
+G	punctum	1013,2006,993,1984
+(F	clivis	1088,2052,1053,2002
+E)	.	.
+D	punctum	1187,2055,1170,2034
+D	punctum	1255,2055,1236,2034
+D.	punctum	1327,2055,1295,2022
+=||	=||	=||
+!!system: 4, page 696
+*clefC4	*	*
+A	punctum	98,2241,79,2218
+A	punctum	148,2240,129,2218
+G	punctum	197,2257,180,2236
+F	punctum	247,2273,229,2251
+(G	podatus	298,2257,279,2216
+A)	.	.
+(G.	clivis	378,2285,328,2235
+F)	.	.
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=696
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

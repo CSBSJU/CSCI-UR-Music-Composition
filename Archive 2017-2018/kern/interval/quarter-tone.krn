@@ -1,0 +1,16 @@
+!!!OTL: Quarter tone (50 cents)
+!!!ratio: 2^(1/24):1
+!!!URL: http://en.wikipedia.org/wiki/Quarter_tone
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4cc	50	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1cc	50
+*-	*-	*-	*-

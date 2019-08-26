@@ -1,0 +1,70 @@
+!!image-file:	1990_original_image.tiff
+!!image-id:	m-420440a9-9f12-4466-b2e9-ca059606a10c
+!!system: 1, page 1990
+**kern	**neume	**facs
+*clefC4	*	*
+F	punctum	371,1272,353,1252
+(G	podatus	506,1257,488,1217
+A)	.	.
+A	punctum	557,1241,539,1219
+A	punctum	607,1240,590,1219
+A	punctum	701,1239,684,1219
+A	punctum	778,1240,759,1219
+A	punctum	897,1240,879,1219
+A	punctum	948,1241,930,1219
+G	punctum	1100,1259,1082,1237
+F	punctum	1167,1275,1149,1254
+F.	punctum	1233,1275,1200,1242
+=	=	=
+A	punctum	1346,1240,1326,1220
+A	punctum	1398,1241,1379,1220
+A	punctum	1490,1240,1470,1220
+A	punctum	1617,1241,1598,1220
+!!system: 2, page 1990
+*clefC4	*	*
+A	punctum	308,1500,289,1479
+A	punctum	428,1500,410,1480
+A	punctum	479,1501,461,1480
+F	punctum	580,1536,562,1516
+G	punctum	682,1520,665,1499
+G	punctum	734,1520,716,1499
+G.	punctum	798,1520,767,1498
+=	=	=
+F	punctum	971,1538,952,1516
+G	punctum	1023,1523,1005,1503
+A	punctum	1022,1500,1006,1480
+A	punctum	1098,1504,1082,1484
+A	punctum	1150,1505,1130,1483
+A	punctum	1201,1503,1184,1483
+A	punctum	1304,1504,1285,1483
+A	punctum	1354,1504,1335,1483
+A	punctum	1404,1504,1387,1483
+G	punctum	1497,1522,1480,1500
+F	punctum	1550,1539,1529,1517
+F	punctum	1598,1539,1582,1518
+=	=	=
+!!system: 3, page 1990
+*clefC4	*	*
+A	punctum	307,1764,289,1744
+A	punctum	367,1765,350,1745
+A	punctum	426,1765,406,1746
+F	punctum	486,1800,467,1780
+G	punctum	554,1784,537,1764
+G	punctum	605,1785,587,1763
+G.	punctum	671,1784,639,1762
+=||	=||	=||
+A	punctum	877,1767,860,1746
+A	punctum	987,1768,969,1747
+G	punctum	1039,1785,1021,1764
+F.	punctum	1119,1802,1089,1769
+=	=	=
+A	punctum	1216,1769,1199,1749
+A	punctum	1293,1769,1275,1749
+A	punctum	1360,1769,1343,1749
+A	punctum	1419,1769,1401,1747
+A	punctum	1471,1770,1453,1749
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=1990
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

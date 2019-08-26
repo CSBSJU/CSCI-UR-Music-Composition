@@ -1,0 +1,92 @@
+!!image-file:	862_original_image.tiff
+!!image-id:	m-62027c77-7476-409b-9ab8-bdb410cf4a47
+!!system: 1, page 862
+**kern	**neume	**facs
+*clefC4	*	*
+D	punctum	260,1131,241,1109
+D	punctum	385,1131,366,1109
+(D	cephalicus	459,1156,442,1108
+C)	.	.
+F	punctum	534,1097,517,1075
+G	punctum	584,1103,567,1060
+F	punctum	652,1098,632,1076
+(G	podatus	703,1082,684,1041
+A)	.	.
+A.	punctum	764,1065,733,1033
+=`	=`	=`
+B	punctum	884,1072,866,1023
+A	punctum	936,1065,916,1044
+G	punctum	1001,1106,983,1061
+G	punctum	1084,1083,1066,1061
+G	punctum	1134,1105,1116,1061
+A	punctum	1216,1065,1199,1044
+(F	clivis	1301,1137,1264,1078
+E)	.	.
+D.	punctum	1367,1133,1335,1099
+='	='	='
+!!system: 2, page 862
+*clefC4	*	*
+G	punctum	94,1339,78,1310
+G	punctum	120,1332,102,1310
+E	punctum	174,1386,152,1333
+G	punctum	219,1339,202,1311
+A	punctum	269,1340,251,1293
+G	punctum	335,1332,318,1312
+F.	punctum	408,1349,375,1317
+=`	=`	=`
+(E	clivis	536,1398,500,1317
+C)	.	.
+(E	podatus	593,1391,576,1328
+F)	.	.
+D.	punctum	674,1381,642,1349
+D.	punctum	742,1382,709,1350
+=||	=||	=||
+!!system: 3, page 862
+*clefC4	*	*
+F	punctum	141,1682,124,1661
+(G	podatus	208,1667,191,1626
+A)	.	.
+A	punctum	260,1649,241,1629
+A	punctum	326,1649,309,1629
+A	punctum	402,1650,382,1629
+A	punctum	453,1650,435,1629
+A	punctum	519,1650,502,1629
+A	punctum	595,1650,578,1629
+A	punctum	647,1650,628,1629
+B	punctum	713,1634,696,1613
+A	cavum	767,1641,748,1623
+A	punctum	816,1651,797,1629
+G	punctum	915,1667,898,1647
+A	cavum	963,1641,944,1623
+A.	punctum	1029,1650,999,1619
+=	=	=
+F	punctum	1151,1685,1133,1663
+(G	podatus	1237,1668,1216,1628
+A)	.	.
+G	cavum	1297,1658,1278,1640
+(G.	clivis	1383,1696,1333,1647
+F)	.	.
+=||	=||	=||
+!!system: 4, page 862
+*clefC4	*	*
+A	punctum	228,1903,210,1882
+G.	punctum	317,1921,286,1899
+A	punctum	388,1904,370,1883
+A	punctum	438,1903,421,1883
+A	punctum	489,1903,470,1882
+=||	=||	=||
+A	punctum	909,1905,889,1883
+A	punctum	967,1905,948,1883
+G	punctum	1027,1921,1008,1900
+F	punctum	1086,1940,1068,1917
+(G	podatus	1153,1923,1134,1881
+A)	.	.
+G	cavum	1209,1912,1190,1894
+(G.	clivis	1285,1951,1235,1902
+F)	.	.
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=862
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

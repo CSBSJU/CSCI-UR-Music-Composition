@@ -1,0 +1,121 @@
+!!!OTL: Ich ging einmal durch eine gr&uuml;ne Wies' (4-20), S. 30
+!!!id: P0581
+**kern
+*clefG2
+*k[]
+*e:
+{4d
+=1
+2e
+4d
+2e
+8d
+8d
+=2
+4g
+4a
+8b
+8a
+2g}
+=3
+{4d
+=4
+4g
+4g
+8a
+8a
+4cc
+4b
+4a
+=5
+4g
+4a
+4b
+2a}
+=6
+{8a
+8g
+=7
+2a
+4dd
+4cc
+4b
+4a
+=8
+2g
+4e
+4f
+4e}
+=9
+{4e
+=10
+*M9/4
+4f
+4e
+4d
+4g
+4f#
+4g#
+2a
+4f#
+=11
+2.e
+2e}
+=12
+{8a
+8g
+=13
+*M6/4
+2a
+4dd
+4cc
+4b
+4a
+=14
+2g
+4e
+4f
+4e}
+=15
+{4e
+=16
+*M9/4
+4f
+4e
+4d
+4g
+4f#
+4g
+2a
+4f#
+=17
+2.e
+2e}
+==
+*-
+!!!minrhy: 8
+!!!meters: 6/4 9/4 ]  ZZ[6
+!!!cut: Ich ging einmal durch eine gr&uuml;ne Wies' (4-20), S. 30
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen Bd 4, Kassel 1939
+!!!rhy1: X_  X__X_X__XX  X_X_XXX__
+!!!rhy2: X_  X_X_XXX_X_X_  X_X_X_X__
+!!!key: P0581  08  E 6/4 9/4 ]  ZZ[6
+!!!mod: NEUNTONSKALA ]  AMBITUS[8
+!!!kad: 3b41111
+!!!akz: 113b3b_3b6b3b4_46b3b2b_2b3b411_46b3b2b_2b3b411_
+!!!fot: 'a__b__c__d__c__dv_
+!!!for: 'a__b__c__d__c__d__
+!!!fok: '^a_^a_^d_M__^d_^__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: ???, Brautwerbung?, Soldatenlied?
+!! LOTH VKL
+!! PR[48] 2K[3] 2G[8] 3K[7] 3G[5] 4A[3] 4Ü[0] 5A[0] 6K[0] 6G[2]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[28] ABS[60] SR[12] SP[17]
+!! ST[15] 2k[0] 2g[8] 3k[10] 3g[2] 4d[2] 4ü[0] 5d[0] 6k[0] 6g[2]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[23] dm[+5] sr[8] sp[15]
+!! 1F[79] 2F[6] 3F[3] 4F[0] LF[0] 2P[10] 3P[2] 4P[0] TRI[0] DF[5] AB[63]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[13] N2K[0] N2[2] N3K[0] N3[26] N4[10] N4Ü[0] N5[33] N6K[0] N6[13]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

@@ -1,0 +1,80 @@
+!!image-file:	282_original_image.tiff
+!!image-id:	m-161a7c8a-2978-479c-a4b8-9f0f94f29a68
+!!system: 1, page 282
+**kern	**neume	**facs
+*clefC4	*	*
+G	punctum	156,750,139,729
+(A	podatus	214,734,196,681
+c)	.	.
+c	punctum	264,702,246,681
+c	punctum	355,702,336,681
+c	punctum	445,702,428,681
+c	punctum	536,702,518,681
+c	punctum	668,702,652,681
+d	punctum	760,684,743,663
+c	cavum	829,692,810,674
+c	punctum	902,701,882,679
+c	cavum	973,692,954,674
+(B	clivis	1052,738,1012,697
+A)	.	.
+c.	punctum	1113,702,1082,668
+=	=	=
+c	punctum	1223,702,1205,679
+c	punctum	1330,700,1314,679
+c	punctum	1403,700,1386,678
+c	punctum	1537,701,1518,679
+c	punctum	1604,701,1585,678
+A	punctum	1662,734,1642,712
+!!system: 2, page 282
+*clefC4	*	*
+c	punctum	91,995,73,971
+c	cavum	151,986,132,968
+B.	punctum	227,1011,197,991
+=||	=||	=||
+c	punctum	413,993,394,973
+c	cavum	473,986,454,968
+(B	clivis	554,1031,518,991
+A)	.	.
+=||	=||	=||
+!!system: 3, page 282
+*clefC4	*	*
+G	punctum	157,2559,138,2541
+(A	podatus	223,2549,206,2494
+c)	.	.
+c	punctum	272,2516,253,2495
+c.	punctum	364,2517,343,2492
+c	punctum	453,2516,435,2495
+c	punctum	544,2517,527,2495
+c	punctum	677,2516,659,2495
+d	punctum	768,2498,749,2478
+c	cavum	833,2509,814,2491
+c	punctum	908,2517,891,2495
+c	cavum	977,2509,958,2491
+(B	clivis	1055,2550,1021,2512
+A)	.	.
+c.	punctum	1119,2516,1088,2484
+=	=	=
+c	punctum	1230,2517,1210,2496
+c	punctum	1337,2517,1319,2496
+c	punctum	1411,2517,1392,2496
+c	punctum	1545,2518,1525,2496
+(c	clivis	1622,2520,1584,2491
+B)	.	.
+(A	podatus	1676,2552,1656,2505
+B)	.	.
+!!system: 4, page 282
+*clefC4	*	*
+A	punctum	102,2843,81,2820
+G	cavum	155,2851,136,2833
+(G	podatus	226,2845,206,2816
+A)	.	.
+=||	=||	=||
+A	punctum	423,2843,404,2820
+G	punctum	549,2851,530,2833
+=||	=||	=||
+G	cavum	481,2851,462,2833
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=282
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

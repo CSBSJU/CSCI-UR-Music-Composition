@@ -1,0 +1,51 @@
+!!!COM:	Debussy
+!!!OTL:	183_Deb-16/69/[21]7-9
+**kern	**dynam	**kern	**kern
+*part3	*part3	*part2	*part1
+*staff3	*	*staff2	*staff1
+*I"Contrabass	*	*I"Violoncello	*I"Tambour militaire
+*I'Cb.	*	*I'Vc.	*I'Perc.
+*clefF4	*	*clefF4	*clefpercussion0
+*k[f#c#g#]	*	*k[f#c#g#]	*
+*M3/4	*	*M3/4	*M3/4
+=1	=1	=1	=1
+12AAAL	ppp	12AAL	8x^
+12AAA	.	12AA	.
+.	.	.	8r
+12AAAJ	.	12AAJ	.
+12AAA-L	.	12AA-L	12xL
+12AAA-	.	12AA-	12x
+12AAA-J	.	12AA-J	12xJ
+12GGGL	.	12GGL	8.xL
+12GGG	.	12GG	.
+12GGGJ	.	12GGJ	.
+.	.	.	16xJk
+=2	=2	=2	=2
+12AAA-L	.	12AA-L	8.xL
+12AAA-	.	12AA-	.
+12AAA-J	.	12AA-J	.
+.	.	.	16xJk
+12GGGL	.	12GGL	8x^
+12GGG	.	12GG	.
+.	.	.	8r
+12GGGJ	.	12GGJ	.
+12FFF#L	.	12FF#L	12xL
+12FFF#	.	12FF#	12x
+12FFF#J	.	12FF#J	12xJ
+=3	=3	=3	=3
+12AAAL	.	12AAL	8.xL
+12AAA	.	12AA	.
+12AAAJ	.	12AAJ	.
+.	.	.	16xJk
+12AAA-L	.	12AA-L	8.xL
+12AAA-	.	12AA-	.
+12AAA-J	.	12AA-J	.
+.	.	.	16xJk
+12GGGL	.	12GGL	8x
+12GGG	.	12GG	.
+.	.	.	8r
+12GGGJ	.	12GGJ	.
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3)]
+!!!YEM:	Copyright © Natalie Dietterich

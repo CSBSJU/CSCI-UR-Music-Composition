@@ -1,0 +1,126 @@
+!!!OTL: Es fliegen zwei Tauben (3-91), S. 251
+!!!id: P1064
+**kern
+*clefG2
+*k[b-]
+*g:
+{4g
+=1
+4dd
+4dd
+4cc
+=2
+4dd
+4dd
+4cc
+=3
+4dd
+4dd
+4cc
+=4
+[2.dd
+=5
+4dd]}
+4r
+=6
+{4dd
+=7
+4.g
+8a
+4b-
+=8
+4cc
+4b-
+4a
+=9
+4g
+4g
+4f#
+=10
+[2.g
+=11
+4g]}
+4r
+=12
+{4d
+=13
+4g
+4g
+4a
+=14
+4g
+4g
+4d
+=15
+4f
+4g
+4f
+=16
+[2.d
+=17
+4d]}
+4r
+=18
+{4g
+=19
+4dd
+4dd
+4cc
+=20
+4dd
+4dd
+4cc
+=21
+4dd
+4dd
+4cc
+=22
+[2.dd
+=23
+4dd]}
+4r
+=24
+{4dd
+=25
+2g
+4b-
+=26
+4cc
+4b-
+4a
+=27
+4g
+4g
+4f#
+=28
+[2.g
+=29
+4g]}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 ]  ZZ[5
+!!!cut: Es fliegen zwei Tauben (3-91), S. 251
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X_  X_X_X_  X_X_X_  X_X_X_  X__.  ^_0_
+!!!rhy2: X_  X_.XX_  X_X_X_  X_X_X_  X__.  ^_0_
+!!!key: P1064  08  G 3/4 ]  ZZ[5
+!!!mod: HEPTATONIK MOLL ?]  AMBITUS[8
+!!!kad: 51-551
+!!!akz: 55555_14111_11-7b-5-5_55555_14111_
+!!!fot: 'a__b__c__a__bv_
+!!!for: 'a__b__a__a__c__
+!!!fok: '/__Sd_M__/__Sd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Trinklied, Liebeslied
+!! LOTH VKL
+!! PR[14] 2K[10] 2G[19] 3K[0] 3G[5] 4A[5] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[38] ABS[21] SR[29] SP[10]
+!! ST[8] 2k[10] 2g[33] 3k[5] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[48] dm[-10] sr[43] sp[5]
+!! 1F[18] 2F[55] 3F[9] 4F[0] LF[0] 2P[18] 3P[0] 4P[0] TRI[0] DF[4] AB[22]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[18]
+!! N1[32] N2K[0] N2[27] N3K[0] N3[18] N4[5] N4Ü[0] N5[0] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

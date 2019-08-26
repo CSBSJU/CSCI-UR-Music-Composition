@@ -1,0 +1,33 @@
+!!!COM:	Janacek
+!!!OTL:	Jan-43/6/1-4
+**kern	**kern	**dynam	**kern	**kern
+*part4	*part3	*part3	*part2	*part1
+*staff4	*staff3	*	*staff2	*staff1
+*I"BASS 2	*I"BASS 1	*	*I"TENOR 2	*I"TENOR 1
+*I'B.	*I'B.	*	*I'T.	*I'T.
+*clefF4	*clefF4	*	*clefGv2	*clefGv2
+*k[]	*k[]	*	*k[]	*k[]
+*M3/4	*M3/4	*	*M3/4	*M3/4
+=1	=1	=1	=1	=1
+2.r	4B-	.	2.r	4r
+.	4B-	pp	.	6E- 6A-
+.	.	.	.	6G
+.	4B-	.	.	.
+.	.	.	.	6G
+=2	=2	=2	=2	=2
+2.r	4.B-	.	2.r	2.r
+.	8B-	.	.	.
+.	4B-	.	.	.
+=3	=3	=3	=3	=3
+2.r	8%3B-	.	2.r	4r
+.	.	.	.	6c 6f
+.	8%3B-	.	.	.
+.	.	.	.	6e-
+.	.	.	.	6e-
+=4	=4	=4	=4	=4
+2.r	8%3B-	.	2.r	2.r
+.	8%3B-	.	.	.
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!YEM:	Copyright © Natalie Dietterich

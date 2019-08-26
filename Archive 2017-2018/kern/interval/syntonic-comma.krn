@@ -1,0 +1,19 @@
+!!!OTL: Syntonic comma (21.51 cents)
+!!!OTL: Comma of Didymus
+!!!OTL: Ptolemaic comma
+!!!ratio: 81/80
+!!!ONB: Interval between a just major third (5/4) and a pythagorean major third (81/64)
+!!!URL: http://en.wikipedia.org/wiki/Syntonic_comma
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4cc	21.51	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1cc	21.51
+*-	*-	*-	*-

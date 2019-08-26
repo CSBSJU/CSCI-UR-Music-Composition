@@ -1,0 +1,144 @@
+!!!OTL: Ave Maria, S. 17f
+!!!id: L0014
+**kern
+*clefG2
+*k[b-]
+*F:
+{16f
+4cc
+=1
+*M4/4
+4.f
+8f
+8a
+8g
+8f
+8g
+=2
+4a
+16f
+8g
+8a
+8b-
+16f
+4a}
+=3yy
+4r
+=4
+{2cc
+4.b-
+8a
+=5
+*M3/8
+8g
+8f
+8g
+=6yy
+8a
+4f}
+=7
+{4c
+=8
+*M4/4
+4.f
+8f
+8a
+8g
+8f
+8g
+=9
+4a
+16f
+8g
+8a
+8b-
+16f
+4a}
+=10yy
+4r
+=11
+{2cc
+4.b-
+8a
+=12
+8g
+8f
+8g
+8a
+4f}
+8r
+=13
+{16g
+16a
+=14
+*M3/8
+4.b-
+=15
+4cc
+8b-
+=16
+8.a
+16g
+16a
+16b-
+=17
+4g
+8g
+=18
+4a}
+=19
+{8a
+=20
+8b-
+8a
+8g
+=21
+4cc
+8dd
+=22
+4.cc}
+=23
+{4.b-
+=24
+8.a
+16g
+16a
+16b-
+=25
+4.a
+=26
+4g
+8e
+=27
+4f}
+2r
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/8 4/4 ]  ZZ[7
+!!!cut: Ave Maria, S. 17f
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1:  X__  X__.X_X_X_X_X_  X__(X_X_X_)X__0_   (x2)
+!!!rhy2: X___X__.X_  X_X_X_X_X__
+!!!key: L0014  16  F 3/8 4/4 ]  ZZ[7
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: 3131351
+!!!akz: 1333_5421_1333_5421_45323_455_43321_
+!!!fot: 'a__b__av_b__c__d__e__
+!!!for: 'a__b__a__bv_c__d__e__
+!!!fok: 'Wd_Sd_~a_Sd_^a_/__\__
+!! PHRAS[GEMISCHTTAKTIG]
+!!!fkt: geistliches, religiöses Lied
+!!!bem1: besteht aus zwei Teilen, 1. T. im 4/4, 2. T. im 3/8;
+!!!bem2: Taktart FREI notiert, da sonst Fehlermeldung in Mammut
+!! FONTAINE, Ed.:
+!! PR[7] 2K[16] 2G[16] 3K[2] 3G[5] 4A[5] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[44] ABS[43] SR[33] SP[12]
+!! ST[25] 2k[19] 2g[14] 3k[7] 3g[9] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[49] dm[-5] sr[33] sp[16]
+!! 1F[60] 2F[21] 3F[0] 4F[0] LF[0] 2P[19] 3P[0] 4P[0] TRI[0] DF[3] AB[47]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[5] U6K[0] U6[0] U7K[0] U7[9]
+!! N1[23] N2K[0] N2[18] N3K[25] N3[0] N4[7] N4Ü[0] N5[14] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

@@ -1,0 +1,98 @@
+!!!OTL: Waldvögelein (63b), S. 194
+!!!id: T0211
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+=1
+4g
+8g
+8g
+8f#
+8g
+=2
+8b
+8a}
+4.r
+=3
+{8d
+=4
+8cc
+8b
+8a
+8dd
+8cc
+8b
+=5
+4a}
+4.r
+=6
+{8dd
+=7
+8dd
+8b
+8b
+8b
+8a
+8g
+=8
+4cc
+8ee
+4ee}
+=9
+{8ee
+=10
+8dd
+8ee
+8dd
+8dd
+8cc
+8a
+=11
+8g}
+8r
+=12
+{8b
+8b
+8r
+8g
+=13
+8a
+8r
+8dd
+8dd
+8cc
+8a
+=14
+4g}
+4.r
+==
+*-
+!!!minrhy: 8
+!!!meters: 6/8 ]  ZZ[5
+!!!cut: Waldvögelein (63b), S. 194
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X  X_XXXX  XX0_.
+!!!rhy2: X  XXXXXX  X_0_.
+!!!key: T0211  08  G 6/8 ]  ZZ[5
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: 22611
+!!!akz: 113_452_5346_551_3251_
+!!!fot: 'a__b__c__d__e__
+!!!for: 'a__b__bw_bv_aw_
+!!!fok: '/__^a_Va_\__^d_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem: Godbringen, fff Wattges K&auml;tt, 1903
+!! THILL, Mathias:
+!! PR[30] 2K[0] 2G[20] 3K[5] 3G[0] 4A[7] 4Ü[0] 5A[0] 6K[0] 6G[2]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[34] ABS[56] SR[20] SP[14]
+!! ST[14] 2k[5] 2g[11] 3k[7] 3g[11] 4d[2] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[36] dm[-2] sr[16] sp[20]
+!! 1F[55] 2F[38] 3F[5] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[4] AB[60]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[2] U7K[0] U7[0]
+!! N1[14] N2K[0] N2[4] N3K[0] N3[14] N4[28] N4Ü[0] N5[26] N6K[0] N6[12]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

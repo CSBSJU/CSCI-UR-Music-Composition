@@ -1,0 +1,84 @@
+!!!OTL@@FUR: Dait un tic a di ch&ecirc; puarte
+!!!OTL@IT: Date un colpetto a quella porta
+!!!OTL@EN: Knock on the door
+**kern
+*clefG2
+*k[]
+*C:
+*M2/4
+*MM110
+*>[A,A]
+*>A
+8g
+8a
+8b
+8cc
+=2
+8b
+8dd
+8cc
+8b
+8a
+8g
+8cc
+16r
+16cc
+=3
+4e
+8e
+16r
+16f
+=4
+4g
+4a
+=5
+4.d
+8e
+=6
+4f
+4g
+=7
+4e
+8e
+8f
+=8
+8g
+8a
+8b
+8cc
+=9
+8b
+8dd
+8cc
+8b
+=10
+8a
+8g
+8cc
+16r
+16cc
+=11
+4e
+8e
+16r
+16f
+=12
+4g
+4a
+=13
+4.d
+8e
+=14
+4f
+4g
+=16
+[2e
+=17
+4e]
+4r
+==:|!
+*-
+!!!ARE: Friuli
+!!!ENC: Kelly Leistikow
+!!!END: 2002/03/07
+!!!ref: @{OTL@@FUR}/@{OTL@EN}

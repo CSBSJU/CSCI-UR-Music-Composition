@@ -1,0 +1,57 @@
+!!!OTL: Duck Dance
+!!!ARE: United States of America
+!!!AGN: Muskhogean Indian Song
+!!!AMD: Pentatonic
+**kern
+*>[A,A,B]
+*>norep[A,B]
+*>A
+=1-
+*clefG2
+*k[b-]
+*M4/4
+*MM108
+{4a^/
+4a/
+4a^/
+4a/
+=2
+8cc^\
+4a/
+8g/
+4f^/
+4f/}
+=3
+{8a^/L
+8g/J
+8a/L
+8g/J
+4f^/
+4d/
+=4
+8f^/
+4f/
+8f/
+4d^/
+4d/}
+=5:|!
+*>B
+{8a^/L
+8g/
+8a/
+8g/J
+4f^/
+4d/
+=6
+8f^/
+4f/
+8f/
+4d^/
+4d/}
+=7
+{12a/L
+12a/
+12a/J
+2.a/}
+==
+*-

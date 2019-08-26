@@ -1,0 +1,60 @@
+!!!COM:	Ives
+!!!OTL:	Ive-19/22/66-68
+**kern	**kern	**kern	**kern
+*part4	*part3	*part2	*part1
+*staff4	*staff3	*staff2	*staff1
+*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I
+*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I
+*clefF4	*clefC3	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]
+*M3/8	*M3/8	*M3/8	*M3/8
+=1	=1	=1	=1
+*^	*	*	*
+8r	8DL	16BLL	8G# 8d	16aLL 16ee
+.	.	16F#	.	16aJ 16ee
+[16E-LL	8CC 8GG	16En	8r	8a 8aa-
+16DJJ	.	16B-	.	.
+8r	8DJ	16An	8B- 8d	8aJ 8gg
+.	.	16EJJ	.	.
+=2	=2	=2	=2	=2
+[16E-LL	8CCL 8GG	16E-LL	8G# 8d	16aLL 16ee
+16DJJ	.	16A-	.	16aJ 16ee
+8r	8D	16G	8r	8a 8bb-
+.	.	16D	.	.
+[16E-LL	8CCJ 8GG	16C#	8B- 8d	8aJ 8aa
+16DJJ	.	16F#JJ	.	.
+=3	=3	=3	=3	=3
+*	*	*	*	*^
+8r	8DL	16FnLL	8G# 8d	16bb-LL	4.a
+.	.	16Cn	.	16aa	.
+[16E-LL	8CC 8GG	16B	8r	16ccc	.
+16DJJ	.	16F#	.	16ccc#	.
+8r	8DJ	16G	8B- 8d	16eee	.
+.	.	16cJJ	.	16dddJJ	.
+*	*	*	*	*v	*v
+=4	=4	=4	=4	=4
+[16E-LL	8CCL 8GG	16c#LL	8G# 8d	8a^L 8ggg#
+16DJJ	.	16D	.	.
+8r	8D	16e-	8r	8a^ 8ggg#
+.	.	16B-	.	.
+[16E-LL	8CCJ 8GG	16A	8B- 8d	8a^J 8ggg#
+16DJJ	.	16g#JJ	.	.
+=5	=5	=5	=5	=5
+8r	8DL	16d#LL	8G# 8d	8r
+.	.	16en	.	.
+[16E-LL	8CC 8GG	16Bn	8r	16ggLL
+16DJJ	.	16cn	.	16ccc#J
+8r	8DJ	16f	8B- 8d	8ggg#J
+.	.	16F#JJ	.	.
+=6	=6	=6	=6	=6
+[16E-LL	8CCL 8GG	16BLL	8G# 8d	8a 8ggg#
+16DJJ	.	16B-	.	.
+8r	8D	16F	8r	8r
+.	.	16En	.	.
+[16E-LL	8CCJ 8GG	16A	8B- 8d	8ddd
+16DJJ	.	[16CJJ 16A- 16B-	.	.
+*v	*v	*	*	*
+==	==	==	==
+*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]
+!!!YEM:	Copyright © Natalie Dietterich

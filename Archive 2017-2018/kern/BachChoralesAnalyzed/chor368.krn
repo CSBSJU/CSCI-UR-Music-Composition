@@ -1,0 +1,117 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/3//-1750/7/28/
+!!!OTL@@DE: Hilf, Herr Jesu, lass gelingen
+!!!AGN: 4-Part Chorale
+!!!SCT: BH 368
+!!!SCT: BWV 248
+!!!YEC: Copyright 1994 by David Huron
+!!!YEC: Changes/Additions 2001 by Craig Stuart Sapp
+!!!YEN: United States of America
+!!!SMA: 371 Bach Chorales, edited by Ludwig Erk, C.F. Peters
+!!!PDT: 1850, 1865
+!!!ONB: Harmony and Root analysis done manually
+**harm	**root	**kern	**kern	**kern	**kern
+*	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+!	!	!bass	!tenor	!alto	!soprno
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*F:	*F:	*F:	*F:	*F:	*F:
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>A	*>A	*>A	*>A	*>A	*>A
+=1-	=1-	=1-	=1-	=1-	=1-
+I	4FF	8F	4f	4a	4cc
+.	.	8G	.	.	.
+Ib	2FF	4A	2c	2f	2a
+.	.	4F	.	.	.
+=2	=2	=2	=2	=2	=2
+V	2CC	2C	4.c	4f	2g
+.	.	.	.	4e	.
+.	.	.	8B-	.	.
+vi	4DD	4D	4A	4f	4f
+=3	=3	=3	=3	=3	=3
+ii	4GG	8G	2B-	4d	4b-
+.	.	8F	.	.	.
+v7b	4CC	4E-	.	4g	4.cc
+I	4FF	4F	8A	4f	.
+.	.	.	16B-	.	16dd
+.	.	.	16c	.	16ee-
+=4	=4	=4	=4	=4	=4
+IV	2.BB-	8BB-	4c	2.f	2.dd
+.	.	8C	.	.	.
+.	.	4D	8B-	.	.
+.	.	.	8A	.	.
+.	.	4BB-	4B-	.	.
+=5	=5	=5	=5	=5	=5
+I;	2.FF;	2.F;	2.A;	2.f;	2.cc;
+=6	=6	=6	=6	=6	=6
+vi	4DD	4D	4f	4a	4dd
+ii	2GG	4G	2d	2g	2b-
+.	.	4F	.	.	.
+=7	=7	=7	=7	=7	=7
+Vb	4CC	4E	8c	4g	2cc
+.	.	.	8B-	.	.
+I	4FF	8F	4A	4f	.
+.	.	8E	.	.	.
+vi	4DD	8D	4A	4f	4f
+.	.	8C	.	.	.
+=8	=8	=8	=8	=8	=8
+IVb	8BB-	8D	8d	8f	4b-
+V7b	8CC	8E	8c	8g	.
+I	2FF	4F	2c	4g	2a
+.	.	4F	.	4f	.
+=9	=9	=9	=9	=9	=9
+V;	2.CC;	2.C;	2.c;	2.e;	2.g;
+*>B	*>B	*>B	*>B	*>B	*>B
+!!linebreak: 2
+=10:|!	=10:|!	=10:|!	=10:|!	=10:|!	=10:|!
+V	4CC	8C	2c	8g	4ee
+.	.	8D	.	8f	.
+Vb	4CC	4E	.	4g	2cc
+V	4CC	4C	4e	4g	.
+=11	=11	=11	=11	=11	=11
+I	2FF	8F	2c	4g	2a
+.	.	8E	.	.	.
+.	.	4F	.	4f	.
+IV	4BB-	4B-	[4B-	4f	4dd
+=12	=12	=12	=12	=12	=12
+viioD7	4EE	4E	4B-]	4g	4cc#
+vib	4DD	4F	4A	4a	4.dd
+IVb	8BB-	4D	8d	8b-	.
+vi7	8DD	.	8c	8a	16ee
+.	.	.	.	.	16ff
+=13	=13	=13	=13	=13	=13
+vii7d	4EE	4D	4B-	8g	2.ee
+.	.	.	.	8f	.
+V7d/vi	4.AA	8C#	8A	4.g	.
+.	.	8BBn	8G	.	.
+.	.	4C#	4A	.	.
+Vb/vi	8AA	.	.	8e	.
+=14	=14	=14	=14	=14	=14
+vi;	2.DD;	2.D;	2.A;	2.f;	2.a;
+=15	=15	=15	=15	=15	=15
+IV	4BB-	8B-	4.B-	4f	4dd
+.	.	8A	.	.	.
+viib	4EE	4G	.	4g	4ee
+.	.	.	8G	.	.
+I	4FF	4F	4c	4a	4ff
+=16	=16	=16	=16	=16	=16
+Vb	4CC	8E	2c	8g	4gg
+.	.	8D	.	8f	.
+Vb	4CC	4E	.	4g	4cc
+V7	4CC	4C	4G	4e	4b-
+=17	=17	=17	=17	=17	=17
+I	4FF	4F	2F	4c	4a
+IV	4BB-	2BB-	.	4B-	4dd
+IV	4BB-	.	4d	4f	4b-
+=18	=18	=18	=18	=18	=18
+V	4CC	8C	4G	4f	2.g
+.	.	8BB-	.	.	.
+V	2CC	2C	4c	8e	.
+.	.	.	.	8d	.
+.	.	.	4B-	4e	.
+=19	=19	=19	=19	=19	=19
+I;	2.FF;	2.FF;	2.A;	2.c;	2.f;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!chor2scor: -l 2 -o %b.pmx

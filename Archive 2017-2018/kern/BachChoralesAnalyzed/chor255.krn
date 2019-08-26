@@ -1,0 +1,125 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/3//-1750/7/28/
+!!!OTL@@DE: Was frag' ich nach der Welt
+!!!AGN: 4-Part Chorale
+!!!SCT: BH 255
+!!!SCT: BWV 64
+!!!YEC: Copyright 1994, David Huron
+!!!YEC: Changes/Additions 2001 by Craig Stuart Sapp
+!!!YEN: United States of America
+!!!SMA: 371 Bach Chorales, edited by Ludwig Erk, C.F. Peters
+!!!PDT: 1850, 1865
+!!!ONB: Harmony and Root analysis done manually
+**harm	**root	**kern	**kern	**kern	**kern
+!	!	!bass	!tenor	!alto	!soprno
+*	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*D:	*D:	*D:	*D:	*D:
+Vb	4AA	4C#	4A	4e	4a
+=1	=1	=1	=1	=1	=1
+I	4DD	8D	4A	4d	4f#
+.	.	8C#	.	.	.
+I	4DD	8D	4A	8f#	4d
+.	.	8E	.	8e	.
+Ib	4DD	8F#	4A	4d	4a
+.	.	8E	.	.	.
+Ib	4DD	8F#	4d	8a	4a
+.	.	8D	.	8f#	.
+=2	=2	=2	=2	=2	=2
+IV;	2.GG;	2.G;	2.d;	2.g;	2.b;
+IV	4GG	4GG	4G	4d	4b
+=3	=3	=3	=3	=3	=3
+V7	4AA	8AA	4.G	8c#	4e
+.	.	8GG	.	8d	.
+V7	4AA	8AA	.	8c#	4e
+.	.	8BB	8F#	8B	.
+Vb	4AA	8C#	4E	4A	4a
+.	.	8BB	.	.	.
+V7b	4AA	8C#	4A	4e	4g
+.	.	8AA	.	.	.
+=4	=4	=4	=4	=4	=4
+I	4DD	4D	4A	4d	4f#
+I;	4DD;	4D;	4F#;	4A;	4d;
+r	4r	4r	4r	4r	4r
+Ib	4DD	4F#	4A	4d	4a
+=5	=5	=5	=5	=5	=5
+IV	4GG	4G	8G	4d	4b
+.	.	.	8A	.	.
+ii	4EE	4E	4B	4g	4b
+Ic	4DD	4A	8c#	4f#	4a
+.	.	.	8d	.	.
+V7	4AA	4AA	8d	4e	4g
+.	.	.	8c#	.	.
+=6	=6	=6	=6	=6	=6
+I;	2.DD;	2.D;	2.d;	2.A;	2.f#;
+V	4AA	4AA	4c#	4c#	4e
+=7	=7	=7	=7	=7	=7
+I	4DD	8D	4A	4d	4f#
+.	.	8C#	.	.	.
+V7d/V	4EE	8D	4B	4e	4g#
+.	.	8BB	.	.	.
+Vb	4.AA	8C#	4.A	4.e	4.a
+.	.	8BB	.	.	.
+.	.	8C#	.	.	.
+vib	8BB	8D	8d	8f#	8b
+=8	=8	=8	=8	=8	=8
+V/V	2EE	4E	2B	2e	2g#
+.	.	4EE	.	.	.
+V;	4AA;	4AA;	4c#;	4e;	4a;
+V	4AA	4AA	4c#	4e	4a
+!!linebreak: 2
+=9	=9	=9	=9	=9	=9
+I	4DD	8D	4d	8f#	4a
+.	.	8C#	.	8e	.
+I	4DD	8D	4d	8f#	4a
+.	.	8E	.	8g	.
+Ib	4DD	8F#	4d	8a	4dd
+.	.	8E	.	8g	.
+I7b	4DD	8F#	4d	8a	4ccn
+.	.	8D	.	8f#	.
+=10	=10	=10	=10	=10	=10
+IV;	2.GG;	2.G;	2.d;	2.g;	2.b;
+Vb/II	4BB	4D#	8B	4f#	4b
+.	.	.	8A	.	.
+=11	=11	=11	=11	=11	=11
+II	4EE	8E	8G#	4e	4b
+.	.	8D#	8F#	.	.
+II	4EE	8E	8G#	4e	4b
+.	.	8F#	8A	.	.
+IIb	4EE	8G#	8B	4e	4ee
+.	.	8F#	8A	.	.
+II7b	4EE	8G#	8B	4e	4dd
+.	.	8E	8G#	.	.
+=12	=12	=12	=12	=12	=12
+V;	2.AA;	2.A;	2.A;	2.e;	2.cc#
+Ib	4DD	4F#	4d	4d	4a
+=13	=13	=13	=13	=13	=13
+IV	4GG	8Gn	4d	4g	4b
+.	.	8A	.	.	.
+Ib	4DD	8G	4d	4a	4a
+.	.	8F#	.	.	.
+IV	4GG	8G	4d	4g	4b
+.	.	8F#	.	.	.
+viioD7c/vi	4AA#	8G	4e	8b	4cc#
+.	.	8E	.	8a#	.
+=14	=14	=14	=14	=14	=14
+vi;	2.BB;	2.B;	2.f#;	2.b;	2.dd;
+Vb	4AA	4C#	4e	8a	4a
+.	.	.	.	8g	.
+=15	=15	=15	=15	=15	=15
+I	4DD	8D	4d	4f#	4a
+.	.	8E	.	.	.
+iii7	4FF#	8F#	4A	8e	8g
+.	.	8G	.	8d	8f#
+V	4AA	4A	8A	4d	4e
+.	.	.	8B	.	.
+V	4AA	4AA	8A	4c#	4e
+.	.	.	8G	.	.
+=16	=16	=16	=16	=16	=16
+I;	2.DD;	2.D;	2.F#;	2.A;	2.d;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

@@ -1,0 +1,76 @@
+!!!OTL: Mumm Aneleis, S.13
+!!!id: L0009
+**kern
+*clefG2
+*k[f#]
+*G:
+{8dd
+=1
+8.dd
+16cc
+8b
+8dd
+=2
+8.ff#
+16cc
+8b}
+=3
+{8dd
+=4
+8ee
+8cc
+8a
+8f#
+=5
+4g}
+8r
+=6
+{8dd
+=7
+8.dd
+16cc
+8b
+8dd
+=8
+8.dd
+16cc
+8b}
+=9
+{8dd
+=10
+8ee
+8cc
+8a
+8f#
+=11
+8g
+8g
+8g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[4
+!!!cut: Mumm Aneleis, S.13
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1: X_  X_.XX_X_  X_.XX_
+!!!rhy2: X_  X_X_X_X_  X__0_
+!!!key: L0009  16  G 2/4 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 3131
+!!!akz: 57_61_55_61_
+!!!fot: 'a__b__aw_bv_
+!!!for: 'a__b__a__bw_
+!!!fok: 'Sd_\__\__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Kinderlied
+!! FONTAINE, Ed.:
+!! PR[19] 2K[3] 2G[22] 3K[0] 3G[3] 4A[5] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[35] ABS[37] SR[24] SP[11]
+!! ST[12] 2k[5] 2g[32] 3k[3] 3g[3] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[46] dm[-11] sr[38] sp[8]
+!! 1F[10] 2F[65] 3F[25] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[3] AB[40]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[24] N2K[0] N2[29] N3K[0] N3[24] N4[8] N4Ü[0] N5[13] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

@@ -1,0 +1,111 @@
+!!!COM:	Martin
+!!!OTL:	Mai-29/10-14
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefG2	*
+*k[]	*k[]	*
+*M9/8	*M9/8	*
+=1	=1	=1
+16FF#'LL	8r	mf
+16A'	.	.
+16D#'	16aa^KL	f
+16Cn'	[8.dd^J	.
+16Bn'	.	.
+16G#'JJ	.	.
+16FF#'LL	8.ddL_	.
+16A'	.	.
+16D#'	.	.
+16Cn'	8dd]	.
+16Bn'	.	.
+16G#'JJ	[16cc#^Jk	.
+16FF#'LL	8.cc#L_	.
+16A'	.	.
+16D#'	.	.
+16Cn'	8cc#]	.
+16Bn'	.	.
+16G#'JJ	[16e#^Jk	.
+=2	=2	=2
+16FF#'LL	8e#]	.
+16A'	.	.
+16D#'	[4g#^	.
+16Cn'	.	.
+16Bn'	.	.
+16G#'JJ	.	.
+16FF#'LL	4g#]	.
+16A'	.	.
+16D#'	.	.
+16Cn'	.	.
+16Bn'	[8g#^	.
+16G#'JJ	.	.
+16FF#'LL	8g#L]	.
+16A'	.	.
+16D#'	[16g#^K	.
+16Cn'	8.g#J_	.
+16Bn'	.	.
+16G#'JJ	.	.
+=3	=3	=3
+!!linebreak:original
+16FF#'LL	16g#LL]	.
+16A'	16f#'^^	.
+16D#'	[16b^J	.
+16Cn'	8b]	.
+16Bn'	.	.
+16G#'JJ	[16cc^Jk	.
+16FF#'LL	16ccLL]	.
+16A'	16b'^^	.
+16D#'	[16g#^	.
+16Cn'	16g#J]	.
+16Bn'	[8b^J	.
+16G#'JJ	.	.
+16FF#'LL	16bLL]	.
+16A'	16b'^^	.
+16D#'	16cc'^^	.
+16Cn'	16ff'^^	.
+16Bn'	16ff#'^^	.
+16G#'JJ	16bb'^^JJ	.
+=4	=4	=4
+16CC#'LL	8r	.
+16E'	.	.
+16AA#'	16ee'^^KL 16eee	.
+16GGn'	[8.a^J [8.aa	.
+16An'	.	.
+16D#'JJ	.	.
+16CC#'LL	8aL] 8aa]	.
+16E'	.	.
+16AA#'	16g#'^^K 16gg#	.
+16GGn'	[8.c#^J [8.cc#	.
+16An'	.	.
+16D#'JJ	.	.
+16CC#'LL	8.c#L_ 8.cc#_	.
+16E'	.	.
+16AA#'	.	.
+16GGn'	8c#] 8cc#]	.
+16An'	.	.
+16D#'JJ	[16B#Jk	.
+=5	=5	=5
+!!linebreak:original
+16CC#'LL	8B#L]	.
+16E'	.	.
+16AA#'	8f##~	.
+16GGn'	.	.
+16An'	8e~J	.
+16D#'JJ	.	.
+16CC#'LL	8d#~L	.
+16E'	.	.
+16AA#'	8B#~	.
+16GGn'	.	.
+16An'	8f##~J	.
+16D#'JJ	.	.
+16CC#'LL	16e^KL	.
+16E'	[8d#^	.
+16AA#'	.	.
+16GGn'	8.d#J_	.
+16An'	.	.
+16D#'JJ	.	.
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM:	Copyright © Natalie Dietterich

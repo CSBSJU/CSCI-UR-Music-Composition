@@ -1,0 +1,28 @@
+!!!OTL: Adding/editing slurs
+!!
+!! Step 1: Click on a note.
+!! Step 2: Type "s" to add a note to next note.
+!! Step 3: Click on another note and type "2s" to end
+!!         new slur two notes later.
+!!
+**kern
+*M4/4
+=1
+4g
+4f
+4d
+4e
+=2
+4c
+4e
+4g
+4cc
+=3
+4ff
+4dd
+4b
+4g
+=
+1e
+==
+*-

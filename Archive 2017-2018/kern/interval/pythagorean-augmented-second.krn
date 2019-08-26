@@ -1,0 +1,16 @@
+!!!OTL: Pythagorean augmented second (317.595 cents)
+!!!ratio: 19683/16384
+!! C to D# in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4dd#	17.595	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1dd#	17.595
+*-	*-	*-	*-

@@ -1,0 +1,151 @@
+!!!OTL@ENG: Song of the Elk Society
+!!!ONM: 104
+**kern
+*Imale
+*clefF4
+*k[b-]
+*M3/4
+*MM80
+=1
+8g
+8g
+16g
+8.f
+16f
+8.c
+=2
+8f
+8f
+16f
+8.d-
+4c
+=3||
+!!!RNB: Time signature of bar 3 is 3/4 in source.
+*M2/4
+16d-
+8.c
+4c
+=4||
+*M3/4
+16d-
+8.c
+4c
+4c
+=5
+8f
+8f
+16f
+8.d-
+4f
+=6
+8d-
+8d-
+16d-
+8.c
+16c
+8.A
+=7
+8c
+8c
+16c
+8.A
+12A
+12F
+12F
+=8||
+*M2/4
+4F
+4E
+=9||
+*M3/4
+8F
+8F
+16F
+8.E
+16E
+8.C
+=10||
+*M2/4
+8F
+8D-
+4C
+=11
+4.C
+8C
+=12
+4.C
+16c
+16c
+=13||
+*M3/4
+8f
+8f
+16f
+8.c
+(16d
+16c)
+(16d
+16c)
+=14||
+*M2/4
+(16d
+16c)
+8d
+8c
+16c
+16A
+=15||
+*M3/4
+8c
+8c
+16c
+8.A
+(16A
+16F)
+8F
+=16||
+*M2/4
+4F
+4E
+=17||
+*M3/4
+8F
+8F
+16F
+8.E
+16E
+8.C
+=18||
+*M2/4
+8F
+8D-
+4C
+=19
+2C
+==
+*-
+!!!CNT: Native American -- Sioux
+!!!MRD: 1911/07//-1914///
+!!!OCL: Frances Densmore
+!!!YOR1: Teton Sioux Music, Bulletin 61,
+!!!YOR2: Bureau of American Ethnology, Smithsonian Institution
+!!!PPR: Government Printing Office
+!!!PPP: Washington, D.C.
+!!!PDT: 1918///
+!!!ENC: Craig Stuart Sapp
+!!!END: 2002/03/25/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2002/03/31/
+!!!YEC: 2002 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux104.krn
+!!!title: @{ONM}. <i>@{OTL}</i>
+!!!AGN: Society Song/Song of the Elk Society
+!!!MPN@@SIO: Waha'chungka-nong'pa
+!!!MPN@ENG: Two Shields
+!!!TXO: Teton Sioux
+!!!MLC: Standing Rock Reservation, South Dakota, United States of America
+!!!ARL: 45.9/-100.7#
+!!!catalog: Catalogue No. 538
+!!!PPG: 294
+!!!EFL: 104/245

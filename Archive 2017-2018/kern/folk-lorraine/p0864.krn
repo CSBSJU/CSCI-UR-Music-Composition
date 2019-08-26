@@ -1,0 +1,98 @@
+!!!OTL: Da kam die Maus von allen M&auml;usen daher (Band 1), S. 246
+!!!id: P0864
+**kern
+*clefG2
+*k[f#]
+*G:
+{16g
+=1
+16g
+4d
+8.d
+=2yy
+16g
+=3
+4.g
+8g
+=4
+8g
+8b
+8dd
+8b
+=5
+4b
+8a}
+=6
+{8a
+=7
+8cc
+8cc
+8cc
+8a
+=8
+4b
+8dd
+8g
+=9
+8a
+8a
+8e
+8f#
+=10
+4g}
+8r
+=11
+{8g
+=12
+8.f#
+16g
+8a
+8g
+=13
+16f#
+16f#
+8e
+4d}
+=14
+{4g
+4b
+=15
+4.dd
+8cc
+=16
+16b
+16b
+8g
+8a
+8a
+=17
+4g}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[4
+!!!cut: Da kam die Maus von allen M&auml;usen daher (Band 1), S. 246
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1:   X__X_.X  X__.X_  X_X_X_X_  X__X_
+!!!rhy2: X_  X_X_X_X_  X__X_X_  X_X_X_X_  X__0_
+!!!key: P0864  16  G 2/4 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 21-51
+!!!akz: -5113_4321_-7-7_1531_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__c__d__
+!!!fok: '^a_\__\__^__
+!! PHRAS[GEMISCHTTAKTIG]
+!!!fkt: Trink-, Zechlied
+!! LOTH VKL
+!! PR[30] 2K[3] 2G[14] 3K[4] 3G[0] 4A[7] 4Ü[0] 5A[2] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[31] ABS[90] SR[18] SP[13]
+!! ST[24] 2k[9] 2g[24] 3k[1] 3g[0] 4d[2] 4ü[1] 5d[0] 6k[0] 6g[1]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[39] dm[-8] sr[33] sp[6]
+!! 1F[1] 2F[23] 3F[64] 4F[2] LF[0] 2P[1] 3P[7] 4P[2] TRI[2] DF[7] AB[99]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[2] U6K[0] U6[0] U7K[0] U7[1]
+!! N1[3] N2K[0] N2[8] N3K[0] N3[20] N4[14] N4Ü[0] N5[41] N6K[0] N6[9]
+!!!n7k: 0] N7[0] O1[2] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

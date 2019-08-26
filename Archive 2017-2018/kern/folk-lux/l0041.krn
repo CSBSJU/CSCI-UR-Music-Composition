@@ -1,0 +1,83 @@
+!!!OTL: Die untreue Braut, S. 49
+!!!id: L0041
+**kern
+*clefG2
+*k[b-]
+*F:
+{8f
+=1
+8f
+8a
+8cc
+8a
+=2
+8a
+8g
+8g}
+=3
+{8g
+=4
+8b-
+8b-
+8dd
+8b-
+=5
+4b-
+8a}
+=6
+{8a
+=7
+8cc
+8a
+8cc
+8a
+=8
+4cc
+8ff}
+8r
+=9
+{8dd
+8dd
+8dd
+8dd
+=10
+4cc
+8a}
+=11
+{8cc
+=12
+8cc
+8b-
+8g
+8cc
+=13
+4a}
+8r
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[5
+!!!cut: Die untreue Braut, S. 49
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1: X  XXXX  XXX
+!!!rhy2: X  XXXX  X_X
+!!!key: L0041  08  F 2/4 ]  ZZ[5
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 23+133
+!!!akz: 13_44_55_65_53_
+!!!fot: 'a__as"b__c__d__
+!!!for: 'a__b__bv_bv_aw_
+!!!fok: '^a_^a_/__\__\__
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Hochzeitslied
+!! FONTAINE, Ed.:
+!! PR[9] 2K[9] 2G[17] 3K[4] 3G[13] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[45] ABS[47] SR[26] SP[19]
+!! ST[12] 2k[4] 2g[30] 3k[6] 3g[2] 4d[2] 4ü[0] 5d[2] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[47] dm[-2] sr[34] sp[13]
+!! 1F[33] 2F[51] 3F[6] 4F[0] LF[0] 2P[10] 3P[0] 4P[0] TRI[0] DF[4] AB[51]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[2]
+!! N1[13] N2K[0] N2[15] N3K[0] N3[23] N4[13] N4Ü[0] N5[19] N6K[0] N6[13]
+!!!n7k: 0] N7[2] O1[2] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

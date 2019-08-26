@@ -1,0 +1,132 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 5, No. 10
+!!!OMV: 4
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern
+*clefC	*clefG
+*k[b-]	*k[b-]
+*F:	*F:
+*M4/4	*M4/4
+2..r	2..r
+8r	8cc
+=1	=1
+4.r	8ff
+.	8cc
+.	8ff
+8F	8cc
+8E	4.gg
+8c	.
+8E	.
+8C	8cc
+=2	=2
+8F	8aa
+8FF	16ff
+.	16gg
+8r	16aa
+.	16gg
+8F	16ff
+.	16aa
+8E	4.gg
+8c	.
+8E	.
+8C	8cc
+=3	=3
+8F	8aa
+8FF	8cc
+8r	8aa
+8F	16gg
+.	16ff
+8E	8gg
+8c	16aa
+.	16gg
+8E	16aa
+.	16gg
+8c	16ff
+.	16ee
+=4	=4
+8F	16aa
+.	16gg
+8c	16ff
+.	16ee
+8G	8.dd
+8B	.
+.	16cc
+4.C	4.cc
+8r	8cc
+=5	=5
+4.r	16ff
+.	16ee
+.	16ff
+.	16gg
+.	16aa
+.	16gg
+8F	16ff
+.	16ee
+16B-	8dd
+16A	.
+16B-	8f
+16c	.
+16d	8B-
+16c	.
+16B-	8dd
+16A	.
+=6	=6
+8G	16gg
+.	16ff
+8D	16gg
+.	16aa
+8GG	16bb-
+.	16aa
+8G	16gg
+.	16ff
+16c	8ee
+16B	.
+16c	8g
+16d	.
+16e	8c
+16d	.
+16c	8gg
+16B-	.
+=7	=7
+4A	8ccc
+.	8ff
+4E	8bb-
+.	16aa
+.	16gg
+4.F	8aa
+.	8cc
+.	[4ff
+8AA	.
+=8	=8
+4BB-	16ff]
+.	16aa
+.	16gg
+.	16ff
+4C	8cc
+.	16ff
+.	16ee
+4.FF	4.ff
+8r	8r
+==	==
+*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: 
+!!!AGN: violin
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 989768862
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1806897825

@@ -1,0 +1,62 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 5, No. 9
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern
+*clefC	*clefG
+*k[f#c#]	*k[f#c#]
+*b:	*b:
+*M3/2	*M3/2
+=1	=1
+1r	1r
+2f#	2f#
+=2	=2
+1e#	1cc#
+2e	2cc#
+=3	=3
+1d#	1ff#
+2d	4ff#
+.	4gg#
+=4	=4
+2c#	2aa
+1C#	4gg#
+.	4aa
+.	4bb
+.	4gg#
+=5	=5
+1F#	2aa
+.	2ff#
+2F#	2dd
+=6	=6
+1E#	2dd
+.	2cc#
+2E	2cc#
+=7	=7
+1.D	2ff#
+.	2.b
+.	4cc#
+=8	=8
+1.C#	1.cc#
+==	==
+*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: 
+!!!AGN: violin
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 2504561936
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 348330527

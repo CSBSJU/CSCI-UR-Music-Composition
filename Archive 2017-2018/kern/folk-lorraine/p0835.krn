@@ -1,0 +1,176 @@
+!!!OTL: H&auml;nseleins Klage (Band 1), S. 178
+!!!id: P0835
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+=1
+4g
+4e
+=2
+8e
+8d
+8d
+8d
+=3
+4a
+8b
+8a
+=4
+4g}
+8r
+=5
+{8d
+=6
+4g
+4e
+=7
+8e
+8d
+4d
+=8
+4a
+8b
+8b
+=9
+4g}
+8r
+=10
+{8d
+=11
+8g
+8a
+8g
+8f#
+=12
+4e
+8d}
+=13
+{8d
+=14
+8g
+8a
+8g
+8f#
+=15
+4e
+8d}
+=16
+{8d
+=17
+8g
+8f#
+8g
+8b
+=18
+4.a
+8b
+=19
+8.dd}
+=20
+{16cc
+8b
+8a
+=21
+4b
+8r
+8cc
+=22
+4b
+8d
+8f#
+=23
+4g
+8a
+8b
+=24
+4a
+8g
+8f#
+=25
+4g}
+8r
+=26
+{8d
+=27
+8g
+8a
+8g
+8f#
+=28
+4e
+8d}
+=29
+{8d
+=30
+8g
+8a
+8g
+8f#
+=31
+4e
+8d}
+=32
+{8d
+=33
+8g
+8f#
+8g
+8b
+=34
+4.a
+8b
+=35
+8.dd}
+=36
+{16cc
+8b
+8a
+=37
+4b
+8r
+8cc
+=38
+4b
+8d
+8f#
+=39
+4g
+8a
+8b
+=40
+4a
+8g
+8f#
+=41
+4g}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[10
+!!!cut: H&auml;nseleins Klage (Band 1), S. 178
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: X_  X__X__  X_X_X_X_  X__X_X_  X__0   (x2)
+!!!rhy2: X_  X__X__  X_X_X__  X__X_X_  X__0
+!!!key: P0835  16  G 2/4 ]  ZZ[10
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 11-5-551-5-551
+!!!akz: 1-621_1-621_1-6_1-6_125_33121_1-6_1-6_125_33121_
+!!!fot: 'a__av_b__b__c__d__b__b__c__d__
+!!!for: 'a__b__c__c__d__e__c__c__d__e__
+!!!fok: 'Ma_Ma_^__^__/__Sd_^__^__/__Sd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Klage (Hase)
+!! LOTH VKL
+!! PR[10] 2K[6] 2G[21] 3K[8] 3G[6] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[42] ABS[52] SR[27] SP[15]
+!! ST[15] 2k[12] 2g[31] 3k[2] 3g[4] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[48] dm[-6] sr[42] sp[6]
+!! 1F[45] 2F[47] 3F[2] 4F[0] LF[0] 2P[5] 3P[0] 4P[0] TRI[0] DF[4] AB[55]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[2] U6K[0] U6[0] U7K[0] U7[2]
+!! N1[19] N2K[0] N2[19] N3K[0] N3[26] N4[17] N4Ü[0] N5[13] N6K[0] N6[2]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

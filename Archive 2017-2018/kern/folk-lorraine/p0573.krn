@@ -1,0 +1,72 @@
+!!!OTL: Das j&uuml;ngste
+!!!id: P0573
+**kern
+*clefG2
+*k[]
+*a:
+{8cc
+4ee
+8r
+8ee
+4b
+8r
+8b
+8dd
+8dd}
+8r
+=1
+{8dd
+8dd
+4ee
+4cc
+4b
+8a
+8a
+4g}
+=2
+{8cc
+16cc
+16cc
+8cc
+8cc
+8cc
+8cc
+8b}
+8r
+=3
+{8cc
+8a
+8a
+8a
+8g#
+8b
+8a}
+==
+*-
+!!!minrhy: 16
+!!!meters: FREI]  ZZ[4 interpreted as [0/4, 0/4]
+!!!cut1: Das j&uuml;ngste
+!!!cut2: cht (12-4), S. 16
+!! Gericht (12-4), S. 16]
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen Bd 4, Kassel 1939
+!!!rhy1: X_X__0X_X__0X_X_X_0   (x2)
+!!!rhy2: X_X_X__X__X__X_X_X__
+!!!key: P0573  16  A FREI]  ZZ[4
+!!!mod: HEPTATONIK MOLL ?]  AMBITUS[6
+!!!kad: 4-7b21
+!!!akz: 3b_4_3b_3b_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__bw_c__
+!!!fok: '/__\__\__\__
+!!!fkt: geistliches Lied
+!! LOTH VKL
+!! PR[30] 2K[0] 2G[4] 3K[7] 3G[11] 4A[4] 4Ü[0] 5A[4] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[30] ABS[27] SR[4] SP[26]
+!! ST[9] 2k[0] 2g[26] 3k[11] 3g[4] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[41] dm[-11] sr[26] sp[15]
+!! 1F[31] 2F[59] 3F[7] 4F[0] LF[0] 2P[3] 3P[0] 4P[0] TRI[0] DF[4] AB[29]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[4] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[21] N2K[0] N2[14] N3K[0] N3[46] N4[0] N4Ü[0] N5[14] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

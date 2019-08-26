@@ -1,0 +1,131 @@
+!!!OTL: Aus deinen blauen Augen (3-25), S. 64f
+!!!id: K1160
+**kern
+*clefG2
+*k[]
+*C:
+{8e
+8e
+8f
+=1
+4.g
+8g
+8ee
+8dd
+8cc
+8e
+=2
+8g
+8f
+4f}
+8r
+=3
+{8f
+8f
+8f
+=4
+4.dd
+8cc
+8b
+8a
+8g
+8f
+=5
+8f
+8e
+4e}
+8r
+=6
+{8cc
+8cc
+8cc
+=7
+8cc
+8a
+4.a
+8cc
+8b
+8a
+=8
+8a
+8g
+4g}
+8r
+=9
+{8g
+8cc
+8e
+=10
+8d
+8f
+4.a
+8g
+8b
+8a
+=11
+8g
+8f
+4e}
+8r
+=12
+{8cc
+8cc
+8cc
+=13
+8cc
+8a
+4.a
+8cc
+8b
+8a
+=14
+8a
+8g
+4g}
+8r
+=15
+{8g
+8cc
+8e
+=16
+8d
+8f
+4.a
+8g
+8b
+8a
+=17
+2g
+2dd
+=18
+2cc}
+8r
+==
+*-
+!!!minrhy: 8
+!!!meters: 4/4 ]  ZZ[6
+!!!cut: Aus deinen blauen Augen (3-25), S. 64f
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 3 Luxemburg 1928
+!!!rhy1: XXX  X_.XXXXX  XXX_0
+!!!rhy2: XXX  X_.XXXXX  XXX_0
+!!!key: K1160  08  C 4/4 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: 43535+1
+!!!akz: 5+35_+274_+166_265_+166_265+2+1_
+!!!fot: 'a__b__c__d__c__dv_
+!!!for: 'a__a__b__b__b__c__
+!!!fok: '^a_^d_\__Sd_\__Wa_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Klagelied &uuml;ber die Liebe
+!!!bem: in der Quelle mit einer 2. Stimme versehen
+!! KINTZELE
+!! PR[13] 2K[12] 2G[5] 3K[5] 3G[5] 4A[7] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[37] ABS[60] SR[17] SP[20]
+!! ST[16] 2k[18] 2g[25] 3k[3] 3g[2] 4d[2] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[50] dm[-13] sr[43] sp[7]
+!! 1F[15] 2F[12] 3F[38] 4F[17] LF[0] 2P[15] 3P[3] 4P[0] TRI[0] DF[6] AB[66]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[7] N2K[0] N2[5] N3K[0] N3[16] N4[11] N4Ü[5] N5[26] N6K[0] N6[10]
+!!!n7k: 0] N7[2] O1[11] O2K[0] O2[5] O3K[0] O3[2] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

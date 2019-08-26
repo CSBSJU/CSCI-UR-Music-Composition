@@ -1,0 +1,16 @@
+!!!OTL: Pythagorean augmented third (521.505 cents)
+!!!ratio: 177147/131072
+!! C to E# in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4ee#	21.505	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1ee#	21.505
+*-	*-	*-	*-

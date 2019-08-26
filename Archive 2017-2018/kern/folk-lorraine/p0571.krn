@@ -1,0 +1,124 @@
+!!!OTL: Neujahrslied (4-10), S. 12
+!!!id: P0571
+**kern
+*clefG2
+*k[]
+*A:
+{4e
+=1
+4.a
+8e
+4a
+4b
+=2
+4cc#
+8cc#
+8b
+4a}
+=3
+{4dd
+=4
+8cc#
+8cc#
+8cc#
+8cc#
+4b
+8cc#
+8b
+=5
+2a}
+4r
+=6
+{4dd
+=7
+8cc#
+8cc#
+8cc#
+8cc#
+4b
+8cc#
+8b
+=8
+2a}
+4r
+=9
+{4e
+=10
+4a
+4e
+4a
+8b
+8b
+=11
+4cc#
+8cc#
+8b
+8a
+8a}
+=12
+{4e
+=13
+4a
+4e
+4a
+8b
+8dd
+=14
+8cc#
+8cc#
+4b
+8a
+8a}
+=15
+{4dd
+=16
+8cc#
+8cc#
+8cc#
+8cc#
+4b
+8cc#
+8b
+=17
+2a}
+4r
+=18
+{4dd
+=19
+8cc#
+8cc#
+8cc#
+8cc#
+4b
+8cc#
+8b
+=20
+2a}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 4/4 ]  ZZ[7
+!!!cut: Neujahrslied (4-10), S. 12
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen Bd 4, Kassel 1939
+!!!rhy1: X_  X_.XX_X_  X_XXX_
+!!!rhy2: X_  XXXXX_XX  X__0_
+!!!key: P0571  08  A 4/4 ]  ZZ[7
+!!!mod: PENTATONIK DUR ?]  AMBITUS[7b
+!!!kad: 1111111
+!!!akz: 1131_321_321_1131_1131_321_321_
+!!!fot: 'a__b__b__av_av_b__b__
+!!!for: 'a__b__b__c__d__b__b__
+!!!fok: '^a_\__\__^a_^a_\__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Neujahrslied
+!! LOTH VKL
+!! PR[46] 2K[5] 2G[15] 3K[0] 3G[3] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[23] ABS[39] SR[21] SP[3]
+!! ST[0] 2k[5] 2g[26] 3k[0] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[31] dm[-8] sr[31] sp[0]
+!! 1F[90] 2F[10] 3F[0] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[2] AB[40]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[13] N2K[0] N2[43] N3K[0] N3[40] N4[5] N4Ü[0] N5[0] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

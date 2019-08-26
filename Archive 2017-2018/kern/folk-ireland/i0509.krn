@@ -1,0 +1,129 @@
+!!!OTL: Bonny Portmore, S. 50
+!!!id: I0509
+**kern
+*clefG2
+*k[]
+*D:
+{8g
+8e
+=1
+4d
+4d
+16d
+8d
+8e
+8g
+16d
+=2
+4a
+4a
+16d
+8g
+8a
+8b
+16d
+=3
+4cc
+4b
+8a
+8g
+=4
+2e}
+{8g
+8e
+=5
+4d
+4d
+16d
+8d
+8e
+8g
+16d
+=6
+4a
+4b
+8a
+8g
+=7
+4e
+4d
+4d
+=8
+2d}
+=9
+{16d
+8g
+8a
+8b
+16d
+=10
+4cc
+4cc
+8b
+8a
+=11
+4b
+4b
+8a
+8g
+=12
+4cc
+4b
+8a
+8g
+=13
+2e}
+=14
+{16d
+8g
+8a
+8b
+16d
+=15
+4cc
+4cc
+8b
+8a
+=16
+8g
+8b
+4dd
+8b
+8a
+=17
+8.g
+16e
+8c
+8d
+8.e
+16c
+=18
+2d}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[4
+!!!cut: Bonny Portmore, S. 50
+!!!reg: Irland
+!!!trd: O BOYLE, Sean: 25 Irish Folksongs, Dublin 1976
+!!!rhy1: X_X_  X__X__(X_X_X_)  X__X__(X_X_X_)  X__X__X_X_  X___   (x2)
+!!!rhy2: X_X_  X__X__(X_X_X_)  X__X__X_X_  X__X__X__  X___
+!!!key: I0509  16  D 3/4 ]  ZZ[4
+!!!mod: SECHSTONSKALA ]  AMBITUS[9
+!!!kad: 2121
+!!!akz: 157b2_1521_7b67b2_7b441_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__c__d__
+!!!fok: 'Sd_Sd_^d_Md_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: erz&auml;hlendes, nostalgisches Lied
+!! IRISCHE VKL.
+!! PR[28] 2K[0] 2G[20] 3K[12] 3G[2] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[2] MEHR[0] SI[35] ABS[60] SR[20] SP[15]
+!! ST[16] 2k[0] 2g[20] 3k[10] 3g[2] 4d[5] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[37] dm[-2] sr[20] sp[17]
+!! 1F[41] 2F[26] 3F[8] 4F[0] LF[0] 2P[21] 3P[3] 4P[0] TRI[0] DF[5] AB[61]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[5] U7[0]
+!! N1[23] N2K[0] N2[0] N3K[15] N3[0] N4[16] N4Ü[0] N5[20] N6K[0] N6[0]
+!!!n7k: 13] N7[0] O1[8] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

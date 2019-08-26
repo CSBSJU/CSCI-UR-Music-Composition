@@ -1,0 +1,17 @@
+!!!OTL: Schisma (1.9537 cents)
+!!!URL: http://en.wikipedia.org/wiki/Schisma
+!!!ratio: 32805:32768
+!!!ONB: ratio between the Pythagorean command and syntonic comma
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4cc	1.9537	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+8r	.	8r	.
+!!Harmonic interval:
+1cc	0	1cc	1.9537
+*-	*-	*-	*-

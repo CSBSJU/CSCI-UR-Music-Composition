@@ -1,0 +1,79 @@
+!!!COM:	Falla
+!!!OTL:	Fal-3/15/1-8
+**kern	**kern	**dynam
+*part1	*part1	*part1
+*staff2	*staff1	*
+*I"Piano	*	*
+*I'Pno.	*	*
+*clefF4	*clefF4	*
+*k[f#c#g#d#a#e#]	*k[f#c#g#d#a#e#]	*
+*M3/8	*M3/8	*
+=1	=1	=1
+4.r	8r	.
+.	8r	.
+.	24c#LL	pp
+.	24F#	.
+.	24C#JJ	.
+=2	=2	=2
+*	*^	*
+8r	8C#'L	8r	.
+8r	8f#'	16f#LL	.
+.	.	16A#	.
+8c#' 8d#	8e#'J	16e#	.
+.	.	16A#JJ	.
+=3	=3	=3	=3
+4.r	8f#'L	16f#LL	.
+.	.	16A#	.
+.	8d#'	16d#	.
+.	.	16A#J	.
+.	8c#'J	24c#L	.
+.	.	24c#	.
+.	.	24F#JJ	.
+=4	=4	=4	=4
+8r	8C#'L	8r	.
+8r	8f#'	16f#LL	.
+.	.	16A#	.
+8c#' 8d#	8e#'J	16e#	.
+.	.	16A#JJ	.
+=5	=5	=5	=5
+4.r	8f#'L	16f#LL	.
+.	.	16A#	.
+.	8d#'	16d#	.
+.	.	16A#J	.
+.	8c#'J	24c#L	.
+.	.	24c#	.
+.	.	24F#JJ	.
+=6	=6	=6	=6
+!!linebreak:original
+8r	8C#'L	8r	.
+8r	8f#'	16f#LL	<
+.	.	16A#	.
+8c#' 8d#	8e#'J	16e#	.
+.	.	16A#JJ	.
+=7	=7	=7	=7
+8r	8f#'L	16f#LL	.
+.	.	16A#	.
+8c#' 8d#	8d#'	16d#	.
+.	.	16A#	.
+8r	8c#'J	16c#	.
+.	.	16BJJ	.
+=8	=8	=8	=8
+8c#' 8d#	8f#'L	16f#LL	>
+.	.	16A#	.
+8r	8d#'	16d#	.
+.	.	16A#	.
+8r	8c#'J	16c#	.
+.	.	16BJJ	.
+=9	=9	=9	=9
+4.r	8f#'L	16f#LL	]
+.	.	16A#	.
+.	8d#'	16d#	.
+.	.	16A#J	.
+.	8c#'J	24c#L	.
+.	.	24c#	.
+.	.	24F#JJ	.
+*	*v	*v	*
+==	==	==
+*-	*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM:	Copyright © Natalie Dietterich

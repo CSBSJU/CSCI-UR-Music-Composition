@@ -1,0 +1,195 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 3, No. 2
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*b:	*b:	*b:	*b:
+*M3/2	*M3/2	*M3/2	*M3/2
+=1	=1	=1	=1
+2BB	2BB	1.r	2r
+2B	2B	.	2dd
+2A	2A	.	2ff#
+=2	=2	=2	=2
+1G	1G	2r	[1.b
+.	.	2ee	.
+2E	2E	2gg	.
+=3	=3	=3	=3
+1F#	1F#	[1.cc#	2b]
+.	.	.	2a#
+2E	2E	.	2cc#
+=4	=4	=4	=4
+1D	1D	2cc#]	2f#
+.	.	2b	[1ff#
+2D	2D	2dd	.
+=5	=5	=5	=5
+2E	2E	2g#	2ff#]
+2F#	2F#	2a#	2ee
+2G	2G	[2b	4dd
+.	.	.	4cc#
+=6	=6	=6	=6
+2E	2E	2b]	2dd
+2F#	2F#	2.b	1cc#
+2FF#	2FF#	.	.
+.	.	4a#	.
+=7	=7	=7	=7
+1BB	1BB	1b	2b
+.	.	.	[1dd
+2BB	2BB	2r	.
+=8	=8	=8	=8
+1AA	1AA	[1.ee	2dd]
+.	.	.	2cc#
+2AA	2AA	.	2cc#
+=9	=9	=9	=9
+1D	1D	2ee]	2ff#
+.	.	2dd	[1aa
+2D	2D	2ff#	.
+=10	=10	=10	=10
+1G	1G	2b	2aa]
+.	.	2cc#	[1gg
+2G	2G	2dd	.
+=11	=11	=11	=11
+2A	2A	2cc#	2gg]
+2B	2B	[1dd	2ff#
+2G	2G	.	2ee
+=12	=12	=12	=12
+2A	2A	2dd]	2ff#
+1AA	1AA	2.dd	1ee
+.	.	4cc#	.
+=13	=13	=13	=13
+1D	1D	2dd	2dd
+.	.	1ff#	1aa
+2D	2D	.	.
+=14	=14	=14	=14
+1A	1A	2r	2r
+.	.	1ee	1gg
+2A#	2A#	.	.
+=15	=15	=15	=15
+1B	1B	2r	2r
+.	.	[1dd	[1ff#
+2BB	2BB	.	.
+=16	=16	=16	=16
+1E	1E	2dd]	2ff#]
+.	.	4ee	4gg
+.	.	4dd	4ff#
+2E	2E	4cc#	4ee
+.	.	4b	4dd
+=17	=17	=17	=17
+1F#	1F#	2a#	1.cc#
+.	.	[1cc#	.
+2FF#	2FF#	.	.
+=18	=18	=18	=18
+1BB	1BB	2cc#]	[1.dd
+.	.	4b	.
+.	.	4a	.
+2B	2B	4g#	.
+.	.	4f#	.
+=19	=19	=19	=19
+1c#	1c#	2e#	2dd]
+.	.	2f#	2cc#
+2E#	2E#	2g#	[2b
+=20	=20	=20	=20
+1F#	1F#	2c#	2b]
+.	.	[1f#	2a
+[2BB	[2BB	.	2g#
+=21	=21	=21	=21
+2BB]	2BB]	2f#]	2a
+1C#	1C#	2.f#	1g#
+.	.	4e#	.
+=22	=22	=22	=22
+1FF#	1FF#	1f#	2f#
+.	.	.	2aa
+2F#	2F#	2r	2dd
+=23	=23	=23	=23
+2G	2G	2r	2ee
+1F#	1F#	2aa	2dd
+.	.	2dd	2r
+=24	=24	=24	=24
+2G	2G	2ee	2r
+1F#	1F#	2dd	2aa
+.	.	2a	2dd
+=25	=25	=25	=25
+1E	1E	2b	1gg
+.	.	2cc#	.
+2D	2D	2dd	2ff#
+=26	=26	=26	=26
+1A	1A	1cc#	2ee
+.	.	.	[1aa
+2F#	2F#	2a	.
+=27	=27	=27	=27
+1G	1G	1b	2aa]
+.	.	.	2dd
+2A	2A	2cc#	[2gg
+=28	=28	=28	=28
+2B	2B	[1.dd	2gg]
+2A	2A	.	2ff#
+2G	2G	.	2ee
+=29	=29	=29	=29
+2A	2A	2dd]	2ff#
+1AA	1AA	2.dd	1ee
+.	.	4cc#	.
+=30	=30	=30	=30
+1D	1D	2dd	2dd
+.	.	[1b	1r
+2D	2D	.	.
+=31	=31	=31	=31
+2E	2E	2b]	[1.cc#
+2F#	2F#	2a#	.
+2FF#	2FF#	2a#	.
+=32	=32	=32	=32
+1BB	1BB	[1.dd	2cc#]
+.	.	.	2b
+2B	2B	.	2b
+=33	=33	=33	=33
+2A	2A	2dd]	[1.ee
+1AA	1AA	2cc#	.
+.	.	2cc#	.
+=34	=34	=34	=34
+1D	1D	[1.ff#	2ee]
+.	.	.	2dd
+2D	2D	.	2dd
+=35	=35	=35	=35
+1E	1E	2ff#]	1gg
+.	.	2ee	.
+2E	2E	2ee	2gg
+=36	=36	=36	=36
+1E	1E	1a#	1ff#
+2D	2D	[2b	2ff#
+=37	=37	=37	=37
+2E	2E	2b]	4ee
+.	.	.	4dd
+2F#	2F#	2.b	1cc#
+2FF#	2FF#	.	.
+.	.	4a#	.
+=38	=38	=38	=38
+1BB	1BB	1b	1b
+[2AA	[2AA	[2cc#	[2ff#
+=39	=39	=39	=39
+2AA]	2AA]	2cc#]	2ff#]
+1GG	1GG	1b	1ee
+=40	=40	=40	=40
+1.FF#	1.FF#	1.a#	1.ff#
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 1355754453
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1394381518

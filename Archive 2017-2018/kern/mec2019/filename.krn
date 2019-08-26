@@ -1,0 +1,14 @@
+!! global comment
+!!!filter: transpose -b 11
+!!!OTL: whole note
+**kern
+*clefG2
+=1
+*^
+!LO:TX:a:t=note	!
+1cc	2d
+.	2B
+*v	*v
+! local comment
+==
+*-

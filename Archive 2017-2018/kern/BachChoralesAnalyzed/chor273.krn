@@ -1,0 +1,145 @@
+!!!COM: Bach, Johann Sebastian
+!!!OTL: 273. Ein' feste Burg ist unser Gott
+!!!ONM: No. 273
+!!!OCL: Erk
+!!!SCA: BWV 80.8
+!!!YOE: Riemenschneider, Albert
+!!!OPR: 371 Harmonized Chorales and 69 Chorale Melodies with Figured Bass
+!!!OPT: Bach Chorale Harmonizations
+!!!ONB: From the end of Cantata 80.
+**harm	**root	**kern	**kern	**kern	**kern
+!	!	!bass	!tenor	!alto	!sprno
+*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]	*>[A,A,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A	*>A	*>A	*>A
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*D:	*D:	*D:	*D:	*D:	*D:
+*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+I	4DD	8d	8f#	4a	4dd
+.	.	8c#	8e	.	.
+=1	=1	=1	=1	=1	=1
+vi7	4BB	4B	8d	8a	4dd
+.	.	.	8e	8g	.
+Ic	4DD	8A	8f#	8f#	4dd
+.	.	8G	8g	8e	.
+Ib	8DD	8F#	4a	4d	8a
+IV	8GG	8G	.	.	8b
+viib	4CC#	8F#	4g	4e	4cc#
+.	.	8E	.	.	.
+=2	=2	=2	=2	=2	=2
+Ib	8DD	4F#	4f#	8A	8dd
+iii	8FF#	.	.	4a	8cc#
+V/V	4EE	4E	8B	.	4b
+.	.	.	8e	8g#	.
+V;	4AA;	4AA;	4c#;	4e;	4a;
+vi	4BB	4BB	8F#	4b	4dd
+.	.	.	8G#	.	.
+=3	=3	=3	=3	=3	=3
+Vb	4AA	8C#	4A	8e	4cc#
+.	.	8D	.	8f#	.
+ii	4EE	4E	8e	4g	4b
+.	.	.	8d	.	.
+iii	4FF#	4F#	4c#	8f#	4a
+.	.	.	.	8e	.
+IV	8GG	8G	8B	8d	8b
+V	8AA	8A	8c#	8c#	8a
+=4	=4	=4	=4	=4	=4
+IVb	4GG	8B	4d	4B	8g
+.	.	8G	.	.	8f#
+V	4AA	8A	8A	4c#	4e
+.	.	8AA	8G	.	.
+I;	4DD;	4D;	4F#;	4A;	4d;
+
+=:|!	=:|!	=:|!	=:|!	=:|!	=:|!
+*>B	*>B	*>B	*>B	*>B	*>B
+
+!! Repeat from the beginning.
+
+!! Continuing.
+
+I	4DD	8D	8F#	4d	4d
+.	.	8E	8G	.	.
+=5	=5	=5	=5	=5	=5
+iii	4FF#	4F#	8A	8c#	4a
+.	.	.	8d	8f#	.
+Vb/V	4EE	4G#	8c#	4e	4b
+.	.	.	8B	.	.
+V	4AA	8A	4c#	8e	4a
+.	.	8D	.	8f#	.
+V/V	4EE	4E	4B	4e	4g#
+=6	=6	=6	=6	=6	=6
+!!linebreak: 2
+V;	2AA;	2AA;	2c#;	2e;	2a;
+vi	4BB	4BB	8F#	4d	4d
+.	.	.	8G	.	.
+Ib	4DD	4F#	4A	8d	4a
+.	.	.	.	8cn	.
+=7	=7	=7	=7	=7	=7
+IV	4GG	4G	4d	8B	4b
+.	.	.	.	8d	.
+viib	4CC#	4E	4e	4g	4cc#
+I;	4DD;	4D;	4A;	4f#;	4dd;
+iii	4FF#	4F#	4A	4f#	4cc#
+=8	=8	=8	=8	=8	=8
+vi7	4BB	4BB	8A	4f#	4dd
+.	.	.	8G#	.	.
+Vb	4AA	4C#	4A	8e	4cc#
+.	.	.	.	8a	.
+vi7b	4BB	4D	4A	4f#	2b
+V/V	4EE	4E	4G#	8e	.
+.	.	.	.	8d	.
+=9	=9	=9	=9	=9	=9
+V;	4AA;	4AA;	4E;	4c#;	4a;
+ii	4EE	8E	8Gn	4e	4b
+.	.	8F#	8A	.	.
+IV	4GG	4G	8B	8d	4b
+.	.	.	8c#	8e	.
+I	4DD	4D	8d	4f#	4a
+.	.	.	8cn	.	.
+=10	=10	=10	=10	=10	=10
+Vb/ii	4BB	4D#	4B	4f#	8b
+.	.	.	.	.	8a
+ii	4EE	4E	4B	8f#	4g
+.	.	.	.	8e	.
+VI;	4BB;	4BB;	4B;	4d#;	4f#;
+vi	4BB	4BB	8B	4f#	4ddn
+.	.	.	8A	.	.
+=11	=11	=11	=11	=11	=11
+viib	4CC#	8E	8G	4e	4cc#
+.	.	8F#	8A	.	.
+IV	8GG	8G	4B	8dn	4b
+ii	8EE	8E	.	8g	.
+V7b	8AA	8C#	8e	8g	4a
+V	8AA	8AA	8c#	16f#	.
+.	.	.	.	16e	.
+I	4DD	8D	4d	4f#	8b
+.	.	8C#	.	.	8a
+=12	=12	=12	=12	=12	=12
+IVb	8GG	8BB	4d	8g	8g
+IV7	8GG	8GG	.	8B	8f#
+V	4AA	4AA	8A	4c#	4e
+.	.	.	8G	.	.
+I;	4DD;	4DD;	4F#;	4A;	4d;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!CDT: 1685/3//-1750/7/28
+!!!OCY: Deutschland
+!!!AGN: chorale
+!!!AST: Baroque
+!!!AIN: vox
+!!!YOY: 1941
+!!!PPP: New York; London
+!!!PPR: G. Schirmer
+!!!ENC: David Huron
+!!!EED: David Huron
+!!!YEN: United States of America
+!!!YER: 1992
+!!!YEC: Copyright 1992 David Huron
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YER: March 20, 1996
+!!!AMT: simple quadruple
+!!!EEV: 1.1
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

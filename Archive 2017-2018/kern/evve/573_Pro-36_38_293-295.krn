@@ -1,0 +1,31 @@
+!!!COM:	Prokofiev
+!!!OTL:	Pro-36/38/293-295
+**kern	**kern
+*part1	*part1
+*staff2	*staff1
+*I"Piano	*
+*I'Pno.	*
+*clefG2	*clefG2
+*k[b-e-a-d-g-]	*k[b-e-a-d-g-]
+*M3/4	*M3/4
+=1	=1
+4dd-	(4.ddd-
+4a-'	.
+.	4.fff-
+4g	.
+=2	=2
+*^	*
+4b-- 4ff-	[2.a-	4.eee-
+4b-- 4ff-	.	.
+.	.	4.aa-
+4b- 4ff-	.	.
+=3	=3	=3
+4b 4ffn	2.a-_	4.eee-
+4cc 4gg-	.	.
+.	.	4.ddd-)
+4dd- 4gg	.	.
+*v	*v	*
+==	==
+*-	*-
+!!!system-decoration: {(s1,s2)}
+!!!YEM:	Copyright © Natalie Dietterich

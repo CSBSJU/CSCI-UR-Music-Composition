@@ -1,0 +1,126 @@
+!!!OTL: The Flower of Magherally, S. 62
+!!!id: I0515
+**kern
+*clefG2
+*k[b-]
+*g:
+{4d
+=1
+4.b-
+8b-
+4.a
+8a
+=2
+2g
+4.d
+16g
+16a
+=3
+4.b-
+8dd
+4cc
+4a
+=4
+8b-
+4.a
+2g
+=5
+16gggg
+16gggg}
+{4.b-
+8b-
+4.a
+=6yy
+8a
+=7
+2g
+4.d
+16g
+16a
+=8
+8b-
+4.dd
+4cc
+4a
+=9
+8b-
+4.a
+4.g}
+{16b-
+16cc
+=10
+4.dd
+8dd
+4.dd
+8b
+=11
+4cc
+4cc
+8cc
+16dd
+16cc
+8.b
+16cc
+=12
+4.dd
+8g
+4g
+4e
+=13
+8f
+4.g
+2d
+=14
+16bbbb
+16gggg}
+{4.dd
+8g
+4.g
+=15yy
+16a
+16g
+=16
+4.f
+8d
+4.d
+16c
+16B
+=17
+4c
+4d
+4f
+4g
+=18
+8a
+4.g
+2g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[4
+!!!cut: The Flower of Magherally, S. 62
+!!!reg: Irland
+!!!trd: O BOYLE, Sean: 25 Irish Folksongs, Dublin 1976
+!!!rhy1: X__  X__.X_X__.X_  X___X__.XX  X__.X_X__X__  X_X__.X___
+!!!rhy2: X__.X_X__.X_  X___X__.XX  X_X__.X__X__  X_X__.X__.
+!!!key: I0515  16  G 4/4 ]  ZZ[4
+!!!mod: ACHTTONSKALA ]  AMBITUS[10b
+!!!kad: 11-51
+!!!akz: 3b21-53b43b1_3b21-53b43b1_554451-7b-5_51-7b-5-4-7b21_
+!!!fot: 'a__av_b__c__
+!!!for: 'a__b__c__d__
+!!!fok: 'Ma_Sd_Md_Vd_
+!! PHRAS[GEMISCHTTAKTIG]
+!!!fkt: Liebeslied, erz&auml;hlend
+!!!bem1: wahrscheinlich: Notationsfehler in Takt 10;
+!!!bem2: letzter Ton Zu 16tel-Note verbessert
+!! IRISCHE VKL.
+!! PR[14] 2K[6] 2G[35] 3K[10] 3G[0] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[51] ABS[51] SR[41] SP[10]
+!! ST[16] 2k[0] 2g[14] 3k[12] 3g[6] 4d[4] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[35] dm[+16] sr[14] sp[22]
+!! 1F[25] 2F[48] 3F[10] 4F[0] LF[0] 2P[6] 3P[0] 4P[0] TRI[0] DF[5] AB[52]
+!! TF[0] U3K[0] U3[4] U4[0] U4Ü[0] U5[8] U6K[0] U6[8] U7K[0] U7[2]
+!! N1[29] N2K[0] N2[15] N3K[0] N3[17] N4[4] N4Ü[0] N5[10] N6K[0] N6[4]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

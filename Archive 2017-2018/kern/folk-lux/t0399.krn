@@ -1,0 +1,106 @@
+!!!OTL: Ostereierlied (217), S. 469
+!!!id: T0399
+**kern
+*clefG2
+*k[]
+*G:
+{8g
+=1
+8g
+8b
+8b
+8a
+=2yy
+8b
+=3
+4g}
+4r
+=4
+{8a
+8a
+8g
+8a
+=5
+4b}
+4r
+=6
+{8b
+8b
+8dd
+8cc
+=7
+4b
+8g
+8g
+=8
+4a
+8g
+8a
+=9
+4b}
+4r
+=10
+{8b
+8b
+8dd
+8cc
+=11
+4b
+8g
+8g
+=12
+4a
+8g
+8a
+=13
+4.g}
+=14
+{8d
+=15
+4g
+4a
+=16
+4.b
+8d
+=17
+4g
+4a
+=18
+4b}
+4r
+=19
+{4b
+8a
+8a
+=20
+4g}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[6
+!!!cut: Ostereierlied (217), S. 469
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette, 1937 posth.
+!!!rhy1:   XXXX  X_0_
+!!!rhy2: XXXX  X_0_
+!!!key: T0399  08  G 2/4 ]  ZZ[6
+!!!mod: PENTATONIK DUR ?]  AMBITUS[8
+!!!kad: 133131
+!!!akz: 31_23_3323_3321_1313_31_
+!!!fot: 'a__b__c__cw_d__av_
+!!!for: 'a__a__aw_aw_b__c__
+!!!fok: '\__/__~__^d_/__\__
+!! PHRAS[VORWIEGEND VOLLTAKTIG]
+!!!fkt: Ansingelied f&uuml;r Volks- und Festtage, Kinderlied
+!!!bem: Pintsch, hhh Martin Blum (Pfarrer), 1917
+!! THILL; Mathias
+!! PR[65] 2K[4] 2G[4] 3K[0] 3G[4] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[13] ABS[23] SR[9] SP[4]
+!! ST[8] 2k[4] 2g[13] 3k[0] 3g[4] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[22] dm[-9] sr[17] sp[4]
+!! 1F[81] 2F[19] 3F[0] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[2] AB[27]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[4] N2K[0] N2[13] N3K[0] N3[67] N4[13] N4Ü[0] N5[0] N6K[0] N6[4]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

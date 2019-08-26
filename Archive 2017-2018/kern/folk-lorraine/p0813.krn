@@ -1,0 +1,91 @@
+!!!OTL: Es stehen drei Sterne am Himmel (Band 1), S. 122
+!!!id: P0813
+**kern
+*clefG2
+*k[]
+*C:
+{8g
+=1
+8cc
+8cc
+8g
+=2
+8a
+8a
+16g
+16f
+=3
+4.e
+=4
+4d}
+8r
+=5
+{4a
+8cc
+=6
+8b
+8b
+8a
+=7
+8g
+8b
+8a
+=8
+4g}
+=9
+{8g
+=10
+8cc
+8cc
+8g
+=11
+8a
+8a
+16g
+16f
+=12
+4.e
+=13
+4d}
+8r
+=14
+{4a
+8cc
+=15
+8b
+8b
+8a
+=16
+8g
+8b
+8a
+=17
+4g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/8 ]  ZZ[4
+!!!cut: Es stehen drei Sterne am Himmel (Band 1), S. 122
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: X_  X_X_X_  X_X_XX  X__.  X__0_
+!!!rhy2: X__X_  X_X_X_  X_X_X_  X__
+!!!key: P0813  16  C 3/8 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[7b
+!!!kad: 2525
+!!!akz: +1632_6755_+1632_6755_
+!!!fot: 'a__b__a__b__
+!!!for: 'a__b__a__b__
+!!!fok: '^d_^d_^d_^d_
+!! PHRAS[GEMISCHTTAKTIG]
+!!!fkt: Verf&uuml;hrung, Mord
+!! LOTH VKL
+!! PR[15] 2K[8] 2G[23] 3K[4] 3G[0] 4A[0] 4Ü[0] 5A[4] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[38] ABS[26] SR[31] SP[8]
+!! ST[7] 2k[15] 2g[31] 3k[0] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[46] dm[-8] sr[46] sp[0]
+!! 1F[25] 2F[61] 3F[11] 4F[0] LF[0] 2P[4] 3P[0] 4P[0] TRI[0] DF[4] AB[28]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[7] U7K[0] U7[11]
+!! N1[15] N2K[0] N2[26] N3K[0] N3[33] N4[7] N4Ü[0] N5[0] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

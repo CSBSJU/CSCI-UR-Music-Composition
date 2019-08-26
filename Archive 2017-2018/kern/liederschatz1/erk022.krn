@@ -1,0 +1,115 @@
+!!!OTL@@DE: Des M&auml;dchens Klage
+!!!ONB: Steirische Volksweise (vor 1830)
+!!!ODT: <1830
+!!!OMD: Langsam
+!!!LYR: D&uuml;ringer, Philipp Jacob
+!!!LDT: 1831
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+*>[A,B,B,C]	*>[A,B,B,C]	*>[A,B,B,C]
+*>norep[A,B,C]	*>norep[A,B,C]	*>norep[A,B,C]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*k[f#]	*k[f#]	*k[f#]
+*G:	*G:	*G:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM56	*MM56	*MM56
+8r	8d/L	8d/
+4r	8g/	8g/
+.	8a/J	8a/
+=1	=1	=1
+8.GG/ 8.G/L	8.d/ 8.g/ 8.b/L	8.b\
+16GG/ 16G/Jk	16d/ 16g/ 16b/Jk	16b\
+4GG/ 4G/	4d/ 4g/ 4b/	4b\
+2r	8r	8r
+.	8b/L	8b\
+.	8a/	8a/
+.	8g/J	8g/
+=2	=2	=2
+8.D\ 8.A\L	8.d/ 8.f#/ 8.dd/L	8.dd\
+16D\ 16A\Jk	16d/ 16f#/ 16dd/Jk	16dd\
+4D\ 4A\	4d/ 4f#/ 4dd/	4dd\
+2r	8r	8r
+.	8d/L	8d/
+.	8e/	8e/
+.	8f#/J	8f#/
+=3	=3	=3
+8.EE/ 8.E/L	8.B/ 8.e/ 8.g/L	8.g/
+16EE/ 16E/Jk	16B/ 16e/ 16g/Jk	16g/
+4EE/ 4E/	4B/ 4e/ 4g/	4g/
+2r	8r	8r
+.	8g/L	8g/
+.	8f#/	8f#/
+.	8e/J	8e/
+=4	=4	=4
+8.BB\ 8.F#\L	8.B/ 8.d#/ 8.b/L	8.b\
+16BB\ 16F#\Jk	16B/ 16d#/ 16b/Jk	16b\
+4BB\ 4F#\	4B/ 4d#/ 4b/	4b\
+2r	2r	4r
+.	.	4b\
+=5	=5	=5
+2DD/ 2D/	8r	4.cc\
+.	8dn/L	.
+.	8f#/ 8cc/	.
+.	8d/J	8b\
+4D\ 4A\	8f#/ 8cc/L	8cc\
+.	8d/	8cc#\
+4D\ 4c\	8f#/ 8a/	8dd\
+.	8d/J	8a/
+=6	=6	=6
+2G\ 2B\	8r	4ccn\
+.	8d/L	.
+.	8g/ 8b/	4b\
+.	8d/J	.
+=!|:	=!|:	=!|:
+*>B	*>B	*>B
+2GG/ 2G/	8g/ 8b/L	8r
+.	8d/	8dd\
+.	8g/ 8b/	8cc#\
+.	8d/J	8dd\
+=7	=7	=7
+2DD/ 2D/	8r	8.ee\
+.	8d/L	.
+.	.	16ee\
+.	8f#/ 8cc/	4f#/
+.	8d/J	.
+2D\ 2A\	8f#/ 8cc/L	8r
+.	8d/	8f#/
+.	8f#/ 8cc/	8e/
+.	8d/J	8d/
+=8	=8	=8
+2GG/ 2G/	8r	8.b\
+.	8d/L	.
+.	.	16b\
+.	8g/ 8b/	4g/
+.	8d/J	.
+2G\ 2B\	8r	8r
+.	8d/L	8d/
+.	8g/ 8b/	8e/
+.	8d/J	8d/
+=9	=9	=9
+2DD/ 2D/	8r	4d/
+.	8d/L	.
+.	8f#/ 8cc/	4f#/
+.	8d/J	.
+2D\ 2A\	8f#/ 8cc/L	8r
+.	8d/	8d/
+.	8f#/ 8cc/	8e/
+.	8d/J	8d/
+=10	=10	=10
+2GG/ 2G/	8r	4d/
+.	8d/L	.
+.	8g/ 8b/	4g/
+.	8d/J	.
+=11:|!	=11:|!	=11:|!
+*>C	*>C	*>C
+8G;\ 8d;\	8g;\ 8b;\ 8gg;\	8r
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/05/26/
+!!!EFL: 022/651

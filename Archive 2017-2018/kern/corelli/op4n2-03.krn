@@ -1,0 +1,250 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 4, No. 2
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*d:	*d:	*d:	*d:
+*M3/4	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1
+2.r	2.r	2.r	4dd
+.	.	.	4g
+.	.	.	4gg
+=2	=2	=2	=2
+2.r	2.r	4dd	4ff#
+.	.	4g	2gg
+.	.	4gg	.
+=3	=3	=3	=3
+4D	4D	4ff#	4aa
+4GG	4GG	2gg	2bb-
+[4G	[4G	.	.
+=4	=4	=4	=4
+4G]	4G]	4aa	2ccc
+2F#	2F#	4a	.
+.	.	[4cc	4aa
+=5	=5	=5	=5
+2G	2G	4cc]	4dd
+.	.	4b	4gg
+4G	4G	[4dd	4ff
+=6	=6	=6	=6
+2C	2C	4dd]	4ee-
+.	.	4g	4cc
+4c	4c	[4cc	4ee-
+=7	=7	=7	=7
+4F#	4F#	4cc]	2dd
+4G	4G	4b-	.
+4D	4D	4f#	4cc
+=8	=8	=8	=8
+2.E-	2.E-	2g	4b-
+.	.	.	2cc
+.	.	4a	.
+=9	=9	=9	=9
+4D	4D	2.f#	[2.dd
+4d	4d	.	.
+4c	4c	.	.
+=10	=10	=10	=10
+2.B	2.B	[2.dd	4dd]
+.	.	.	4gg
+.	.	.	4ff
+=11	=11	=11	=11
+2.c	2.c	4dd]	4ee-
+.	.	4cc	4cc
+.	.	4b-	[4ee-
+=12	=12	=12	=12
+2.F#	2.F#	4a	4ee-]
+.	.	[2aa	4dd
+.	.	.	4cc
+=13	=13	=13	=13
+2G	2G	4aa]	4b-
+.	.	4gg	4cc
+4BB	4BB	4ff	[4dd
+=14	=14	=14	=14
+2C	2C	4ee	4dd]
+.	.	4aa	[2cc
+4C	4C	4gg	.
+=15	=15	=15	=15
+4D	4D	4ff#	4cc]
+4E-	4E-	[2gg	4b-
+4C	4C	.	4a
+=16	=16	=16	=16
+4D	4D	4gg]	4b-
+2DD	2DD	2ff#	2a
+=17	=17	=17	=17
+2GG	2GG	2.gg	4g
+.	.	.	4b-
+[4G	[4G	.	4g
+=18	=18	=18	=18
+4G]	4G]	4r	4a
+2F#	2F#	4dd	2d
+.	.	4a	.
+=19	=19	=19	=19
+4G	4G	4b-	4r
+[2B-	[2B-	2r	4dd
+.	.	.	4b-
+=20	=20	=20	=20
+4B-]	4B-]	4r	4cc
+2A	2A	4ff	2f
+.	.	4cc	.
+=21	=21	=21	=21
+4B-	4B-	4dd	4r
+[2c	[2c	2r	4ee-
+.	.	.	4cc
+=22	=22	=22	=22
+4c]	4c]	4r	4dd
+2B	2B	4gg	2g
+.	.	4dd	.
+=23	=23	=23	=23
+4c	4c	4ee-	4r
+2d	2d	2r	4dd
+.	.	.	4f#
+=24	=24	=24	=24
+2.e-	2.e-	4r	4g
+.	.	4g	4b-
+.	.	4a	4cc
+=25	=25	=25	=25
+2.d	2.d	2.f#	2.dd
+=26	=26	=26	=26
+2r	2r	2.r	4aa
+.	.	.	4dd
+4D	4D	.	4ddd
+=27	=27	=27	=27
+2E	2E	2.r	4ccc
+.	.	.	4bb-
+4F#	4F#	.	4aa
+=28	=28	=28	=28
+2G	2G	4dd	2.bb-
+.	.	4g	.
+4GG	4GG	4gg	.
+=29	=29	=29	=29
+2D	2D	4ff	4aa
+.	.	4ee-	[2ddd
+4d	4d	4dd	.
+=30	=30	=30	=30
+2G	2G	2.ee-	4ddd]
+.	.	.	[2ccc
+4A	4A	.	.
+=31	=31	=31	=31
+2B-	2B-	4dd	4ccc]
+.	.	[2ff	4bb-
+4D	4D	.	4aa
+=32	=32	=32	=32
+2E-	2E-	4ff]	2gg
+.	.	4b-	.
+4E-	4E-	[4ee-	4gg
+=33	=33	=33	=33
+4F	4F	4ee-]	4a
+4G	4G	4dd	[2b-
+4E-	4E-	4cc	.
+=34	=34	=34	=34
+4F	4F	4dd	4b-]
+2FF	2FF	2cc	2a
+=35	=35	=35	=35
+4BB-	4BB-	2b-	4b-
+4B-	4B-	.	[2dd
+4F	4F	4dd	.
+=36	=36	=36	=36
+4G	4G	2ee	4dd]
+4A	4A	.	2cc#
+4AA	4AA	4ee	.
+=37	=37	=37	=37
+4D	4D	2ff	4dd
+4d	4d	.	[2ff
+4A	4A	4ff	.
+=38	=38	=38	=38
+4B-	4B-	2gg	4ff]
+4c	4c	.	2ee
+4C	4C	4gg	.
+=39	=39	=39	=39
+4F	4F	4aa-	4ff
+4E-	4E-	[2cc	4gg
+4F	4F	.	4aa-
+=40	=40	=40	=40
+4G	4G	4cc]	4ee-
+2GG	2GG	2b	2dd
+=41	=41	=41	=41
+2C	2C	2.cc	4cc
+.	.	.	[2ee-
+4c	4c	.	.
+=42	=42	=42	=42
+2.F#	2.F#	4a	4ee-]
+.	.	[2aa	4dd
+.	.	.	4cc
+=43	=43	=43	=43
+2.G	2.G	4aa]	4b-
+.	.	4gg	[2bb-
+.	.	4ff	.
+=44	=44	=44	=44
+2.C	2.C	4ee	4bb-]
+.	.	[2ccc	4aa
+.	.	.	4gg
+=45	=45	=45	=45
+2.D	2.D	4ccc]	4ff#
+.	.	4bb-	[2ddd
+.	.	4aa	.
+=46	=46	=46	=46
+2E-	2E-	4gg	4ddd]
+.	.	4aa	[2ccc
+4C	4C	4gg	.
+=47	=47	=47	=47
+4D	4D	4ff#	4ccc]
+4E-	4E-	[2gg	4bb-
+4C	4C	.	4aa
+=48	=48	=48	=48
+4D	4D	4gg]	4bb-
+2DD	2DD	2ff#	2aa
+=49	=49	=49	=49
+2GG	2GG	2gg	4gg
+.	.	.	[2dd
+4BB-	4BB-	4d	.
+=50	=50	=50	=50
+2C	2C	2e	4dd]
+.	.	.	4g
+4C	4C	4e	[4cc
+=51	=51	=51	=51
+4D	4D	4f#	4cc]
+4E-	4E-	[2g	4b-
+4C	4C	.	4a
+=52	=52	=52	=52
+4D	4D	4g]	4b-
+2DD	2DD	2f#	2a
+=53	=53	=53	=53
+2GG	2GG	2g	4g
+.	.	.	[2dd
+4BB-	4BB-	4d	.
+=54	=54	=54	=54
+2C	2C	2e	4dd]
+.	.	.	4g
+4C	4C	4e	[4cc
+=55	=55	=55	=55
+4D	4D	4f#	4cc]
+4E-	4E-	[2g	4b-
+4C	4C	.	4a
+=56	=56	=56	=56
+4D	4D	4g]	4b-
+2DD	2DD	2f#	2a
+=57	=57	=57	=57
+2.GG	2.GG	2.g	2.g
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 3710005755
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1651616381

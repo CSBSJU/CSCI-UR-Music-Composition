@@ -1,0 +1,108 @@
+!!!OTL: Falsche Liebe (8a), Melodie I, S. 47f
+!!!id: T0113
+**kern
+*clefG2
+*k[]
+*G:
+{8d
+=1
+8g
+8g
+8g
+8a
+8a
+8a
+=2
+4b
+8a
+4g}
+=3
+{8dd
+=4
+8dd
+8b
+8dd
+8dd
+8cc
+8cc
+=5
+2b}
+8r
+=6
+{8dd
+=7
+8b
+8dd
+8dd
+8ee
+8dd
+8ee
+=8
+4cc
+8b
+4a}
+8r
+=9
+{4.cc
+8cc
+8dd
+8ee
+=10
+4dd
+8cc
+4b}
+=11
+{8dd
+=12
+8dd
+8ee
+8dd
+8dd
+8cc
+8cc
+=13
+2b}
+8r
+=14
+{8dd
+=15
+8dd
+8ee
+8dd
+8dd
+8cc
+8cc
+=16
+2b}
+8r
+==
+*-
+!!!minrhy: 8
+!!!meters: 6/8 ]  ZZ[6
+!!!cut: Falsche Liebe (8a), Melodie I, S. 47f
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X  XXXXXX  X_XX_
+!!!rhy2: X  XXXXXX  X__0
+!!!key: T0113  08  G 6/8 ]  ZZ[6
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 132333
+!!!akz: 1231_5533_3642_4453_5533_5533_
+!!!fot: 'a__b__c__as"bv_bv_
+!!!for: 'a__aw_av_b__aw_aw_
+!!!fok: '^a_\__Sd_^d_\__\__
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: "erz&auml;hlende Lieder"
+!!!bem1: 1. Melodie
+!!!bem2: RAMMELDINGEN; gesungen von hhh Nikolaus Felten (!?)
+!!!bem3: am 17.2.1934
+!! THILL, Mathias:
+!! PR[21] 2K[0] 2G[9] 3K[18] 3G[0] 4A[5] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[32] ABS[85] SR[9] SP[22]
+!! ST[20] 2k[9] 2g[24] 3k[14] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[47] dm[-15] sr[33] sp[14]
+!! 1F[80] 2F[13] 3F[4] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[4] AB[92]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[7] N3K[0] N3[26] N4[21] N4Ü[0] N5[40] N6K[0] N6[7]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

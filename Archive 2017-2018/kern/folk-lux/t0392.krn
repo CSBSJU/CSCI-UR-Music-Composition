@@ -1,0 +1,104 @@
+!!!OTL: R&auml;tsel (207a), S. 453
+!!!id: T0392
+**kern
+*clefG2
+*k[]
+*G:
+{8g
+=1
+8g
+4g
+8g
+=2yy
+8g
+=3
+4g
+8d
+8b
+=4
+4b
+8b
+8b
+=5
+4b
+8g}
+=6
+{8dd
+=7
+8dd
+8dd
+8dd
+8dd
+=8
+8dd
+4cc
+8dd
+=9
+4dd
+8dd
+8cc
+=10
+4b}
+4r
+=11
+{8g
+8g
+8g
+8a
+=12
+4b
+8b
+8b
+=13
+4a
+8a
+8cc
+=14
+4b
+4b}
+=15
+{8g
+8g
+8g
+8a
+=16
+4b
+8b
+8b
+=17
+4a
+4a
+=18
+4g}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[4
+!!!cut1: R&auml;tsel (207a), S. 453
+!!!cut2: Melodie II
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette, 1937 posth.
+!!!rhy1:   X_XX  X_XX  X_XX  X_X
+!!!rhy2: X  XXXX  XX_X  X_XX  X_0_
+!!!key: T0392  08  G 2/4 ]  ZZ[4
+!!!mod: PENTATONIK DUR ?]  AMBITUS[8
+!!!kad: 1331
+!!!akz: 1133_5553_1323_1321_
+!!!fot: 'a__b__c__cw_
+!!!for: 'a__b__c__d__
+!!!fok: 'S__\__/__^__
+!! PHRAS[VORWIEGEND VOLLTAKTIG]
+!!!fkt: R&auml;tsel-, Wunsch-, Wettlied
+!!!bem1: Rammeldingen, hhh Mathias Wagener, 17.2.1934
+!!!bem2: (207b)- StraPen, fff Witry, 3.1.1933
+!! THILL; Mathias
+!! PR[45] 2K[5] 2G[11] 3K[0] 3G[3] 4A[8] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[3] 7G[0] 8A[0] MEHR[0] SI[29] ABS[38] SR[16] SP[13]
+!! ST[8] 2k[5] 2g[5] 3k[3] 3g[5] 4d[5] 4ü[0] 5d[3] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[26] dm[+3] sr[11] sp[16]
+!! 1F[79] 2F[18] 3F[0] 4F[0] LF[0] 2P[3] 3P[0] 4P[0] TRI[0] DF[3] AB[39]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[15] U6K[0] U6[0] U7K[0] U7[5]
+!! N1[49] N2K[0] N2[8] N3K[0] N3[8] N4[10] N4Ü[0] N5[5] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

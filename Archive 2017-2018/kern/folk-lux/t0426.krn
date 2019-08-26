@@ -1,0 +1,147 @@
+!!!OTL: Die schöne B&auml;uerin (238b), S. 512f
+!!!id: T0426
+**kern
+*clefG2
+*k[f#c#]
+*D:
+{4B
+=1
+8d
+16f#
+16a
+4.a
+8a
+8a
+8dd
+=2
+8dd
+8f#
+4f#}
+4r
+=3
+{4f#
+=4
+8g
+8f#
+8e
+4b
+8a
+8g
+8e
+=5
+4d}
+2r
+=6
+{4B
+=7
+8d
+16f#
+16a
+4.a
+8a
+8a
+8dd
+=8
+8dd
+8f#
+4f#}
+4r
+=9
+{4f#
+=10
+8g
+8f#
+8e
+4b
+8a
+8g
+8e
+=11
+4d}
+2r
+=12
+{4a
+=13
+8b
+8a
+4g
+4.e
+8dd
+=14
+4.ff#
+8ee
+8dd
+8f#
+4.a}
+=15
+{8a
+=16
+8b
+8a
+4a
+4.g
+8b
+=17
+8a
+8g
+4f#}
+4r
+=18
+{4d
+=19
+8d
+16f#
+16a
+4.a
+8a
+8b
+8cc#
+=20
+2dd}
+4r
+=21
+{8ee
+8dd
+=22
+8cc#
+8b
+8e
+4cc#
+8b
+8a
+8g
+=23
+2f#}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: FREI ]  ZZ[8 interpreted as [0/4, 0/4, 0/4]
+!!!cut: Die schöne B&auml;uerin (238b), S. 512f
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette, 1937 posth.
+!!!rhy1: X__  X_XXX__.X_X_X_  X_X_X__0__
+!!!rhy2: X__  X_X_X_X__X_X_X_  X__0___
+!!!key: T0426  16  D FREI ]  ZZ[8
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[12
+!!!kad: 313153+13
+!!!akz: -61+1_341_-61+1_341_56+3_565_11+1_+273_
+!!!fot: 'a__b__a__b__c__d__e__f__
+!!!for: 'a__b__a__b__c__d__e__f__
+!!!fok: '^a_^d_^a_^d_W__\__/__\__
+!!!fkt: Berufslied, Liebeslied
+!!!bem1: In der 5. Zeile ergibt sich ein vom
+!!!bem2: Herausgeber nicht angek&uuml;ndigter 5/4!;
+!!!bem3: Hamm, hhh Welter, 26.7.1932;
+!!!bem4: (238c)- Esch-Alzette, Liederheft der Sch&uuml;lerin fff Cravatte
+!! THILL; Mathias
+!! PR[8] 2K[4] 2G[6] 3K[5] 3G[1] 4A[13] 4Ü[0] 5A[0] 6K[0] 6G[4]
+!! 7K[1] 7G[0] 8A[0] MEHR[0] SI[35] ABS[77] SR[10] SP[25]
+!! ST[16] 2k[9] 2g[26] 3k[12] 3g[4] 4d[6] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[57] dm[-22] sr[35] sp[22]
+!! 1F[66] 2F[21] 3F[4] 4F[0] LF[0] 2P[9] 3P[0] 4P[0] TRI[0] DF[4] AB[85]
+!! TF[0] U3K[0] U3[4] U4[0] U4Ü[0] U5[15] U6K[0] U6[9] U7K[0] U7[14]
+!! N1[14] N2K[0] N2[21] N3K[0] N3[14] N4[5] N4Ü[1] N5[3] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

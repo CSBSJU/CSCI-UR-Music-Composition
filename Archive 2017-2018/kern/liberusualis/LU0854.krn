@@ -1,0 +1,73 @@
+!!image-file:	854_original_image.tiff
+!!image-id:	m-22b1394d-8294-4a54-ab8c-f20cfb710857
+!!system: 1, page 854
+**kern	**neume	**facs
+*clefC4	*	*
+G	punctum	236,1393,220,1373
+c	punctum	318,1346,298,1327
+B	punctum	363,1382,345,1342
+G	punctum	488,1392,471,1372
+(B	podatus	553,1386,535,1323
+c)	.	.
+A	punctum	599,1377,581,1357
+G	punctum	663,1392,645,1373
+(A	clivis	771,1412,737,1349
+G)	.	.
+F.	punctum	831,1409,803,1377
+='	='	='
+A	punctum	924,1377,905,1357
+c	punctum	1002,1370,985,1325
+c	punctum	1104,1347,1087,1325
+(B	clivis	1167,1394,1133,1343
+G)	.	.
+B	punctum	1230,1385,1213,1343
+c	punctum	1310,1347,1291,1325
+!!system: 2, page 854
+*clefC4	*	*
+A	punctum	81,1575,63,1553
+(F	podatus	145,1606,125,1561
+G)	.	.
+(G	podatus	254,1597,236,1551
+A)	.	.
+A	punctum	333,1574,315,1553
+G.	punctum	440,1590,410,1570
+G.	punctum	503,1590,473,1571
+=||	=||	=||
+!!system: 3, page 854
+*clefC4	*	*
+G	punctum	135,1905,119,1885
+A	punctum	184,1889,166,1867
+c	punctum	255,1856,236,1837
+c	punctum	309,1857,292,1837
+c	punctum	357,1856,339,1837
+c	punctum	412,1856,394,1837
+d	punctum	537,1841,521,1822
+c	cavum	599,1846,580,1828
+c.	punctum	661,1857,632,1827
+=	=	=
+c	punctum	831,1856,813,1837
+c	punctum	878,1857,861,1837
+c	punctum	942,1856,925,1837
+c	punctum	997,1856,980,1838
+c	punctum	1045,1857,1028,1837
+c	punctum	1099,1856,1083,1838
+c	punctum	1203,1857,1186,1837
+B	punctum	1258,1873,1242,1853
+c	punctum	1313,1857,1296,1838
+!!system: 4, page 854
+*clefC4	*	*
+A	punctum	82,2112,63,2092
+G	cavum	133,2119,114,2101
+G.	punctum	189,2127,160,2108
+=||	=||	=||
+c	punctum	383,2081,363,2059
+c	punctum	453,2081,436,2059
+A.	punctum	521,2112,490,2081
+c	punctum	603,2080,587,2059
+c	punctum	652,2080,634,2060
+c	punctum	698,2080,682,2059
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=854
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

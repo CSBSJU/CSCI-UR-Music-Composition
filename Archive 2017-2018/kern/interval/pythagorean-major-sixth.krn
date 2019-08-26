@@ -1,0 +1,16 @@
+!!!OTL: Pythagorean major sixth (905.865 cents)
+!!!ratio: 27/16
+!! C to A in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4aa	9.865	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1aa	5.865
+*-	*-	*-	*-

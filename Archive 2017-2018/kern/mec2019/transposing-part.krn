@@ -1,0 +1,37 @@
+!!!OTL: Creating a transposing part.
+!!
+!! Humdrum scores should be encoded at sounding pitch.  A transposition
+!! instruction can be given to display transposing parts at written pitch.
+!!
+!! To create a B-flat part for the following music, add the line:
+!!     *ITrd1c2
+!! Between the **kern line and the first note.
+!!
+!! Components of the tandem interpretation:
+!!     *I == related to instrumentation
+!!     Tr == related to transposition (to generate written pitch)
+!!     d1 == transpose up one diatonic step
+!!     c2 == which is equivalent to transposing up two chromatic steps
+!! Transposition to D-flat would be *ITrd1c1 (one diatonic step/one chromatic step).
+!!
+!! Reference: http://doc.verovio.humdrum.org/humdrum/transposing
+!!
+**kern
+*k[]
+*M4/4
+4c
+4d
+4e
+4f
+=
+4g
+4a
+4b
+4cc
+=
+4dd
+4ee
+4ff
+4gg
+==
+*-

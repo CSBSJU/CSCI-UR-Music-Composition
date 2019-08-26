@@ -1,0 +1,122 @@
+!!!OTL: Das ist ein harte Bu&szlig;, S. 67
+!!!id: S0078
+**kern
+*clefG2
+*k[]
+*a:
+{8a
+=1
+8a
+2cc
+2b
+=2
+4a
+4a
+4e
+4g
+=3
+4a
+4b
+8cc
+8b
+8a
+8b
+=4
+2.cc}
+4r
+=5
+{2cc
+2b
+=6
+4a
+4a
+4e
+4g
+=7
+4a
+4b
+8cc
+8b
+8a
+8b
+=8
+2.cc}
+=9
+{8a
+8b
+=10
+4cc
+8cc
+8b
+4cc
+8dd
+8cc
+=11
+8cc
+8b
+8b
+8a
+4b}
+=12
+{8cc
+8b
+=13
+8a
+8a
+8a
+8a
+4a
+8a
+8a
+=14
+4g#
+4g#
+4e}
+=15
+{4g
+=16
+4a
+4b
+8cc
+8b
+8a
+8b
+=17
+4cc
+4ee
+4dd
+4cc
+=18
+1b
+=19
+4a}
+2.r
+==
+*-
+!!!minrhy: 8
+!!!meters: 4/4 ]  ZZ[5
+!!!cut: Das ist ein harte Bu&szlig;, S. 67
+!!!reg: Luxemburg
+!!!trd: Die Bauernhochzeit in fr&uuml;heren Zeiten
+!!!rhy1:   X__X__  X_X_X_X_  X_X_XXXX  X__.0_
+!!!rhy2: X__X__  X_X_X_X_  X_X_XXXX  X__.
+!!!key: S0078  08  A 4/4 ]  ZZ[5
+!!!mod: HEPTATONIK MOLL ?]  AMBITUS[8
+!!!kad: 3b3b2-51
+!!!akz: 3b21-513b3b3b_3b21-513b3b3b_3b3b3b2_11-7-5_13b3b4221_
+!!!fot: 'a__a__b__bs"c__
+!!!for: 'a__av_b__c__d__
+!!!fok: 'V__V__^a_\__^a_
+!! PHRAS[GEMISCHTTAKTIG]
+!!!fkt: spöttisches Abschiedslied
+!! SPEDENER, G:
+!! PR[48] 2K[10] 2G[28] 3K[0] 3G[0] 4A[3] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[41] ABS[29] SR[38] SP[3]
+!! ST[8] 2k[0] 2g[7] 3k[0] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[3] mehr[0] si[10] dm[+31] sr[7] sp[3]
+!! 1F[19] 2F[69] 3F[6] 4F[0] LF[0] 2P[6] 3P[0] 4P[0] TRI[0] DF[4] AB[32]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[0] N3K[0] N3[7] N4[7] N4Ü[0] N5[27] N6K[0] N6[27]
+!!!n7k: 0] N7[13] O1[7] O2K[0] O2[7] O3K[0] O3[7] HÖ[0
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: ÃŸ)
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

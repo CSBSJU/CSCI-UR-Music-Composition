@@ -1,0 +1,17 @@
+#! /bin/bash
+
+cd ~/kernFiles/$1
+
+for file in *.krn; do
+
+	numS=$(grep '**kern' $file | wc -w)
+
+	extract -f $numS $file | 
+		mint |
+		humsed '/^[^=]/s/[^0-9. ]//g'  | 
+		grep -v -e '^$' -e '^!' -e '^[.]$' -e '^*' -e '^=' |
+		sed -e 's/ /:/g' |
+		cut -f1 -d':' 
+
+
+done

@@ -1,0 +1,82 @@
+!!!OTL: Der Graf und die Magd (23a), S. 94f
+!!!id: T0143
+**kern
+*clefG2
+*k[]
+*G:
+{8d
+=1
+8g
+8g
+4.g
+8a
+=2
+8b
+8b
+4.b}
+=3
+{8b
+=4
+16a
+16a
+16b
+16b
+4.cc
+8a
+=5
+8a
+8b
+4.b}
+=6
+{8dd
+=7
+8dd
+8cc
+4.b
+8dd
+=8
+8ee
+8dd
+4.a}
+=9
+{8cc
+=10
+8b
+8a
+4.g
+8b
+=11
+8b
+8a}
+4.r
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[4
+!!!cut: Der Graf und die Magd (23a), S. 94f
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_X_X__.X_  X_X_X__.
+!!!rhy2: X_  XXXXX__.X_  X_X_X__.
+!!!key: T0143  16  G 3/4 ]  ZZ[4
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 3322
+!!!akz: 13_22_56_33_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__a__a__
+!!!fok: '/__-__Sd_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem1: Rammeldingen, fff Wagener, 17.2.1934,
+!!!bem2: erg&auml;nzt: Hesperingen, fff Oberweis;
+!!!bem3: Bofferdingen, fff Georges
+!! THILL, Mathias:
+!! PR[19] 2K[2] 2G[10] 3K[5] 3G[7] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[2] 7G[0] 8A[0] MEHR[0] SI[29] ABS[42] SR[12] SP[17]
+!! ST[9] 2k[12] 2g[38] 3k[0] 3g[0] 4d[2] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[52] dm[-23] sr[50] sp[2]
+!! 1F[54] 2F[35] 3F[0] 4F[0] LF[0] 2P[11] 3P[0] 4P[0] TRI[0] DF[3] AB[46]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[7] N2K[0] N2[12] N3K[0] N3[23] N4[12] N4Ü[0] N5[21] N6K[0] N6[9]
+!!!n7k: 0] N7[5] O1[9] O2K[0] O2[2] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

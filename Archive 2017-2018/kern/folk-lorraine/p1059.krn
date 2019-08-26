@@ -1,0 +1,88 @@
+!!!OTL: Hover&auml;tchen (3-86), S. 237
+!!!id: P1059
+**kern
+*clefG2
+*k[f#]
+*D:
+{8a
+=1
+4.a
+8g
+8e
+8e
+8r
+8b
+=2
+8.b
+16a
+8.a
+16g
+4f#}
+8r
+=3
+{8a
+=4
+4.a
+8g
+8e
+8e}
+8r
+=5
+{8b
+=6
+8.b
+16a
+8.a
+16g
+4f#}
+=7
+{8d
+8f#
+=8
+4a
+4a
+4g
+4a
+=9
+4f#
+4dd
+4b}
+=10
+{8b
+8b
+=11
+4.a
+8b
+4a
+4a
+=12
+2f#}
+4.r
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[5
+!!!cut: Hover&auml;tchen (3-86), S. 237
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X_  X__.X_X_X_0_X_  X_.XX_.XX__0_
+!!!rhy2: X_  X__.X_X_X_0_
+!!!key: P1059  16  D 4/4 ]  ZZ[5
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[8
+!!!kad: 32363
+!!!akz: 5263_52_63_5436_553_
+!!!fot: 'a__b__c__d__e__
+!!!for: 'a__aw_b__c__d__
+!!!fok: '\__\__\__^a_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Fenstergangslied
+!! LOTH VKL
+!! PR[39] 2K[0] 2G[11] 3K[0] 3G[0] 4A[5] 4Ü[0] 5A[5] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[2] MEHR[0] SI[23] ABS[44] SR[11] SP[11]
+!! ST[15] 2k[2] 2g[23] 3k[9] 3g[5] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[39] dm[-16] sr[25] sp[14]
+!! 1F[4] 2F[67] 3F[25] 4F[0] LF[0] 2P[4] 3P[0] 4P[0] TRI[0] DF[4] AB[48]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[24] U6K[0] U6[7] U7K[0] U7[4]
+!! N1[20] N2K[0] N2[29] N3K[0] N3[11] N4[0] N4Ü[0] N5[4] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

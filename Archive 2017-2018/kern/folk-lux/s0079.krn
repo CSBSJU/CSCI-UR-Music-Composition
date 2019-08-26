@@ -1,0 +1,77 @@
+!!!OTL: Musikanten-Vierzeiler 1, S. 70
+!!!id: S0079
+**kern
+*clefG2
+*k[]
+*C:
+{16e
+16f
+=1
+8g
+8g
+8g
+8g
+=2
+8.a
+16a
+8a}
+=3
+{8a
+=4
+8b
+8b
+8cc
+8dd
+=5
+4ee}
+8r
+=6
+{16e
+16f
+=7
+8g
+8g
+8g
+8g
+=8
+8.a
+16a
+8a}
+=9
+{8a
+=10
+8b
+8b
+8ee
+8dd
+=11
+4cc}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[4
+!!!cut: Musikanten-Vierzeiler 1, S. 70
+!!!reg: Luxemburg
+!!!trd: Die Bauernhochzeit in fr&uuml;heren Zeiten
+!!!rhy1: XX  X_X_X_X_  X_.XX_
+!!!rhy2: X_  X_X_X_X_  X__0_
+!!!key: S0079  16  C 2/4 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 6+36+1
+!!!akz: 56_7+3_56_7+1_
+!!!fot: 'a__b__a__c__
+!!!for: 'a__aw_a__aw_
+!!!fok: '/__/__/__^a_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Hochzeitslied, Brautlied
+!! SPEDENER, G:
+!! PR[0] 2K[17] 2G[21] 3K[7] 3G[7] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[52] ABS[29] SR[38] SP[14]
+!! ST[8] 2k[7] 2g[17] 3k[17] 3g[7] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[48] dm[+4] sr[24] sp[24]
+!! 1F[19] 2F[58] 3F[3] 4F[0] LF[0] 2P[19] 3P[0] 4P[0] TRI[0] DF[4] AB[31]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[3]
+!! N1[23] N2K[0] N2[23] N3K[0] N3[27] N4[17] N4Ü[0] N5[7] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

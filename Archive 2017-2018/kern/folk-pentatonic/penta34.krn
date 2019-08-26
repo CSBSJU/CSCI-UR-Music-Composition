@@ -1,0 +1,83 @@
+!!!OTL: Little David
+!!!ARE: United States of America
+!!!AGN: Negro Spiritual
+!!!AMD: Pentatonic
+!! Strong syncopation in this piece
+**kern
+*>[A,B,A]
+*>A
+*clefG2
+*k[f#]
+*M2/4
+*MM74
+{16b/LL
+16b/JJ
+8g/L
+8b/J
+=1
+8g/
+4g/
+8e/
+=2
+8d/}
+{4g/
+8a/
+=3
+8b\
+4dd\
+8ee\
+=4
+8dd\}
+{16b\LL
+16b\JJ
+8g/L
+8b/J
+=5
+8g/
+4g/
+8e/
+=6
+8d/}
+{4g/
+8a/
+=7
+2g/}
+=8
+8r
+!! Fine
+==
+*>B
+8r
+8r
+{16dd\LL
+16dd\JJ
+=9
+4dd\
+4ee\
+=10
+4.dd\
+8b\
+=11
+8dd\L
+8ee\J
+[4dd\
+=12
+4.dd\]}
+{8dd\
+=13
+4gg\
+4ee\
+=14
+8dd\L
+8b\J
+4g/
+=15
+16a/LL
+16a/J
+8g/J
+4g/}
+=16
+8r
+!! Da Capo al Fine
+==
+*-

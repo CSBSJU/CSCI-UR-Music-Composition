@@ -1,0 +1,120 @@
+!!!OTL: Die engelische Sch&auml;ferin (1-44), S. 112
+!!!id: K1092
+**kern
+*clefG2
+*k[]
+*G:
+{4d
+=1
+8.g
+16g
+4g
+4a
+=2
+8.b
+16b
+4b
+8b
+8ee
+=3
+4dd
+8dd
+8b
+8a
+8a
+=4
+4g}
+4r
+=5
+{8d
+8d
+=6
+4g
+4g
+8a
+8a
+=7
+4b
+4b
+8b
+8ee
+=8
+4dd
+8dd
+8b
+8a
+8a
+=9
+4g}
+4r
+=10
+{8b
+8cc
+=11
+4dd
+4b
+8b
+8dd
+=12
+8dd
+8cc
+4a
+4dd
+=13
+4.b
+8dd
+8cc
+8b
+=14
+4a}
+4r
+=15
+{8d
+8d
+=16
+4g
+4g
+8a
+8a
+=17
+8b
+8b
+4b
+8b
+8ee
+=18
+4dd
+8b
+8g
+8a
+8a
+=19
+2g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[4
+!!!cut: Die engelische Sch&auml;ferin (1-44), S. 112
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 1, Luxemburg 1926
+!!!rhy1: X__  X_.XX__X__  X_.XX__X_X_  X__X_X_X_X_  X__0__
+!!!rhy2: X_X_  X__X__X_X_  X__X__X_X_  X__X_X_X_X_  X__0__
+!!!key: K1092  16  G 3/4 ]  ZZ[4
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 1121
+!!!akz: 1351_1351_5532_1351_
+!!!fot: 'a__av_b__av_
+!!!for: 'a__b__c__d__
+!!!fok: '^a_^a_^d_^a_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Werbung, Abschied
+!! KINTZELE
+!! PR[14] 2K[4] 2G[15] 3K[5] 3G[4] 4A[1] 4Ü[0] 5A[5] 6K[0] 6G[0]
+!! 7K[1] 7G[0] 8A[0] MEHR[0] SI[36] ABS[74] SR[19] SP[18]
+!! ST[16] 2k[5] 2g[28] 3k[11] 3g[4] 4d[1] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[50] dm[-14] sr[34] sp[16]
+!! 1F[54] 2F[40] 3F[4] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[4] AB[82]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[4] U6K[0] U6[1] U7K[0] U7[1]
+!! N1[20] N2K[0] N2[21] N3K[0] N3[23] N4[7] N4Ü[0] N5[17] N6K[0] N6[5]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

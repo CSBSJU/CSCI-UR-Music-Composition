@@ -1,0 +1,119 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/3//-1750/7/28/
+!!!OTL@@DE: Herr Gott, dich loben alle wir
+!!!AGN: 4-Part Chorale
+!!!SCT: BH 164
+!!!SCT: BWV 326
+!!!YEC: Copyright 2003 by Craig Stuart Sapp
+!!!license: GNU General Public License (http://www.gnu.org/copyleft/gpl.html)
+!!!SMA: 371 Bach Chorales, edited by Ludwig Erk, C.F. Peters
+!!!PDT: 1850, 1865
+**harm	**root	**kern	**kern	**kern	**kern
+!	!	!bass	!tenor	!alto	!soprno
+*	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+*	*	*clefF4	*clefF4	*clefG2	*clefG2
+*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]	*k[b-e-]
+*B-:	*B-:	*B-:	*B-:	*B-:	*B-:
+*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+I	4BB-	8BB-	4d	4f	4b-
+.	.	8AA	.	.	.
+=1	=1	=1	=1	=1	=1
+vi	2GG	8GG	2d	2g	2b-
+.	.	8AA	.	.	.
+.	.	8BB-	.	.	.
+.	.	8C	.	.	.
+I7	4BB-	8D	4d	4f	4a
+.	.	8BB-	.	.	.
+=2	=2	=2	=2	=2	=2
+IV	2EE-	8E-	2B-	2e-	2g
+.	.	8F	.	.	.
+.	.	8G	.	.	.
+.	.	8A	.	.	.
+I	4BB-	8B-	4B-	4d	4f
+.	.	8A	.	.	.
+=3	=3	=3	=3	=3	=3
+vi	4GG	8G	2B-	4d	4b-
+.	.	8F	.	.	.
+V7b/V	4CC	8E-	.	4g	2cc
+.	.	8D	.	.	.
+V7d	4FF	8E-	4A	4f	.
+.	.	8F	.	.	.
+=4	=4	=4	=4	=4	=4
+I;	2BB-;	2BB-;	2B-;	2f;	2dd;
+V/VI	4DD	4FF#	4A	4a	4dd
+=5	=5	=5	=5	=5	=5
+vi	2.GG	8GG	2B-	2g	2dd
+.	.	8D	.	.	.
+.	.	8G	.	.	.
+.	.	8F	.	.	.
+.	.	8E-	4B-	4g	4dd
+.	.	8D	.	.	.
+=6	=6	=6	=6	=6	=6
+IV7	4EE-	8E-	4B-	4g	2cc
+.	.	8C	.	.	.
+V	4FF	8F	4A	4f	.
+.	.	8E-	.	.	.
+Ib	4BB-	8D	4B-	4f	4dd
+.	.	8C	.	.	.
+=7	=7	=7	=7	=7	=7
+V7b	4FF	8BB-	4c	4f	4ee-
+.	.	8AA	.	.	.
+I	2BB-	8BB-	2B-	2f	2dd
+.	.	8C	.	.	.
+.	.	8D	.	.	.
+.	.	8E-	.	.	.
+!!linebreak: 2
+=8	=8	=8	=8	=8	=8
+V;	2FF;	2F;	2A;	2f;	2cc;
+vi	4GG	4G	4d	4g	4b-
+=9	=9	=9	=9	=9	=9
+V	2FF	8A	2c	2f	2cc
+.	.	8F	.	.	.
+.	.	8G	.	.	.
+.	.	8A	.	.	.
+vi7	4GG	8B-	4B-	8f	4dd
+.	.	8G	.	8b-	.
+=10	=10	=10	=10	=10	=10
+ii7	4CC	8E-	4B-	4g	2cc
+.	.	8D	.	.	.
+V7d	4FF	8E-	4A	8f	.
+.	.	8F	.	8e-	.
+vi	4GG	8G	4B-	4d	4b-
+.	.	8D	.	.	.
+=11	=11	=11	=11	=11	=11
+IV	4EE-	8E-	8B-	4g	4g
+.	.	8BB-	8d	.	.
+vii7D	4AA	8C	4e-	4g	2a
+.	.	8AA	.	.	.
+V/VI	4DD	8D	4d	4f#	.
+.	.	8DD	.	.	.
+=12	=12	=12	=12	=12	=12
+vi;	2GG;	2GG;	2d;	2g;	2b-;
+Vb	4FF	4A	4c	4f	4ff
+=13	=13	=13	=13	=13	=13
+I	2BB-	8B-	2d	2f	2dd
+.	.	8c	.	.	.
+.	.	8B-	.	.	.
+.	.	8A	.	.	.
+vi	4GG	8G	4d	4g	4b-
+.	.	8F	.	.	.
+=14	=14	=14	=14	=14	=14
+V7d	2FF	8E-	2A	2f	2cc
+.	.	8G	.	.	.
+.	.	8F	.	.	.
+.	.	8E-	.	.	.
+iii7	4DD	8D	4A	4f	4ee-
+.	.	8C	.	.	.
+=15	=15	=15	=15	=15	=15
+I	4BB-	8BB-	2B-	4f	4dd
+.	.	8D	.	.	.
+ii7b	4CC	8E-	.	4g	2cc
+.	.	8C	.	.	.
+V7	4FF	8F	4A	8f	.
+.	.	8FF	.	8e-	.
+=16	=16	=16	=16	=16	=16
+I;	2BB-;	2BB-;	2F;	2d;	2b-;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

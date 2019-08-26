@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#cd ~/ResearchSummer2019/$1
+cd ./$1
+
+for file in *.krn ; do
+
+	mint $file |
+	sed 's/[mMPpdA+]//g;s/[\[{()]//g;s/^[^0-9r-].*//g;s/ .*//g;s/\t.*//g;s/[^0-9r-]//g' > spine_output_intervals/interval_$file
+
+	done

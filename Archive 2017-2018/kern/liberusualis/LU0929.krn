@@ -1,0 +1,70 @@
+!!image-file:	929_original_image.tiff
+!!image-id:	m-ec44ae08-e87e-4604-abeb-e6222c0700a3
+!!system: 1, page 929
+**kern	**neume	**facs
+*clefC4	*	*
+D	punctum	248,1254,232,1231
+D	punctum	274,1253,256,1232
+C	punctum	331,1271,314,1252
+D	punctum	381,1254,363,1233
+F	punctum	463,1221,446,1200
+E	punctum	512,1238,494,1218
+D	punctum	585,1255,569,1234
+(D	torculus	618,1234,618,1195
+F	.	.
+D)	.	.
+(D	clivis	718,1273,684,1234
+C)	.	.
+=`	=`	=`
+(F	podatus	843,1233,823,1183
+G)	.	.
+A	punctum	966,1189,947,1168
+G	punctum	1022,1206,1005,1186
+F	punctum	1072,1222,1055,1203
+(F	podatus	1097,1225,1080,1185
+G)	.	.
+F.	punctum	1160,1223,1129,1191
+=`	=`	=`
+E	punctum	1271,1241,1252,1220
+F	punctum	1320,1224,1301,1203
+G	punctum	1369,1209,1350,1188
+!!system: 2, page 929
+*clefC4	*	*
+(F	cephalicus	96,1461,76,1442
+E)	.	.
+(C	podatus	218,1521,200,1481
+D)	.	.
+D	punctum	274,1501,257,1479
+D.	punctum	378,1501,348,1469
+='	='	='
+D	punctum	504,1501,486,1481
+F	punctum	579,1468,562,1448
+E	punctum	653,1485,637,1464
+F	punctum	744,1468,728,1447
+E	punctum	793,1484,776,1464
+C.	punctum	857,1517,825,1496
+=`	=`	=`
+(D	podatus	996,1481,976,1442
+F)	.	.
+(E	podatus	1106,1486,1089,1445
+F)	.	.
+D	punctum	1173,1501,1156,1481
+(C	podatus	1221,1520,1206,1481
+D)	.	.
+D.	punctum	1284,1501,1254,1469
+=||	=||	=||
+!!system: 3, page 929
+*clefC4	*	*
+A	punctum	88,1683,69,1661
+A	punctum	137,1682,120,1662
+G	punctum	187,1699,169,1678
+F	punctum	236,1715,218,1695
+(G	podatus	287,1700,269,1660
+A)	.	.
+G.	punctum	349,1699,318,1678
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=929
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

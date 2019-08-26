@@ -1,0 +1,68 @@
+!!!COM:	Bartok
+!!!OTL:	332_Bar-24/53/5-3[21]
+**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern
+*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff15	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*I"Viola	*I"Violin II	*I"Violin I	*I"Tuba	*I"Trombone	*I"Trombone	*I"Trombone	*	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Cor Anglais	*I"Oboe	*I"Oboe
+*I'Cb.	*I'Vc.	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'Tba.	*I'Tbn.	*I'Tbn.	*I'Tbn.	*	*I'Hn.	*I'Hn.	*I'Bsn.	*I'C. A.	*I'Ob.	*I'Ob.
+*clefF4	*clefF4	*clefC3	*clefG2	*clefG2	*clefF4	*clefF4	*clefF4	*clefF4	*	*clefG2	*clefG2	*clefC4	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[]	*k[]	*k[]
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4CC#t	4GG#t	4Fnt	4Ant	4B#	8r	8r	8d#	8.B#L	.	1r	2r	4B#	1r	1r	2r
+.	.	.	.	.	8CC#	8GG#	8r	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	16B#Jk	<	.	.	.	.	.	.
+4GGt	4BBt	4Et	4A#t	(8d#L	8GGG	8BB	4r	8d#	.	.	.	(8d#L	.	.	.
+.	.	.	.	16c#L	8r	8r	.	8r	.	.	.	16c#L	.	.	.
+.	.	.	.	16d#JJ)	.	.	.	.	.	.	.	16d#JJ	.	.	.
+4FFt	4BB#t	4Gnt	4c#t	(16f#LL	8FFn	8Cn	2r	8.B#L	.	.	8r	16f#LL	.	.	(16f#LL
+.	.	.	.	16eJ	.	.	.	.	.	.	.	16eJ	.	.	16eJ
+.	.	.	.	8f#J)	8r	8r	.	.	.	.	8d' 8a-	8f#J	.	.	8f#J
+.	.	.	.	.	.	.	.	16B#Jk	<	.	.	.	.	.	.
+4AAnt	4D#t	4Bt	4e#t	4a#~	8r	8r	.	8d#	.	.	4g-~ 4cc	4a#~)	.	.	4a#~)
+.	.	.	.	.	8AA^^	8D#^^	.	8r	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC#t	4GG#t	4Fnt	4Ant	(16B#LL	8CC#	8GG#	1r	8.B#L	.	8r	8r	(16B#LL	2r	1r	(16B#LL
+.	.	.	.	16A#J	.	.	.	.	.	.	.	16A#J	.	.	16A#J
+!	!	!	!	!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!
+!	!	!	!	!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	8B#J)	8r	8r	.	.	.	8c'	8e'	8B#~J)	.	.	8B#~J)
+.	.	.	.	.	.	.	.	16B#Jk	<	.	.	.	.	.	.
+!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GGt	4BBt	4Et	4A#t	(8d#L	8r	8r	.	8d#	.	8B'	8f'	(8d#L	.	.	(8d#L
+.	.	.	.	16c#L	8GGG	8BB	.	8r	.	8r	8r	16c#L	.	.	16c#L
+.	.	.	.	16d#JJ)	.	.	.	.	.	.	.	16d#JJ	.	.	16d#JJ
+4FFt	4BB#t	4Gnt	4c#t	(16f#LL	8r	8r	.	8.B#L	.	8d'	8a-'	16f#LL	(16dd-LL	.	16f#LL
+.	.	.	.	16e	.	.	.	.	.	.	.	16eJ	16cc-	.	16e
+.	.	.	.	16f#	8FFn	8Cn	.	.	.	8r	8r	8f#J	16dd-	.	16f#
+.	.	.	.	16cc#JJ)	.	.	.	16B#Jk	.	.	.	.	16aa-JJ	.	16cc#JJ
+!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4AAnt	4D#t	4Bt	4e#t	4a#~	4AA~	4D#~	.	8d#	.	8r	8r	4a#)	4ff~)	.	4a#~)
+.	.	.	.	.	.	.	.	8r	[	8g-'^^	8cc'^^	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+4CC#t	4GG#t	4Fnt	4Ant	(16B#LL	8r	8r	1r	8.B#L	.	8c'	8e'	(16B#LL	(16gnLL	2r	(16B#LL
+.	.	.	.	16A#)	.	.	.	.	.	.	.	16A#)	16f)	.	16A#)
+.	.	.	.	(16A#	8CC#	8GG#	.	.	.	8r	8r	(16A#	(16f	.	(16A#
+.	.	.	.	16B#JJ)	.	.	.	16B#Jk	.	.	.	16B#JJ)	16gJJ)	.	16B#JJ)
+!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4GGt	4BBt	4Et	4A#t	(16d#LL	8GGn	8BB	.	8d#	.	8r	8r	(16d#LL	(16b-LL	.	(16d#LL
+.	.	.	.	16c#)	.	.	.	.	.	.	.	16c#J	16a-	.	16c#J
+.	.	.	.	(16d#	8r	8r	.	8r	.	8B'	8f'	8d#'J)	16b-	.	8d#'J)
+.	.	.	.	16A#JJ)	.	.	.	.	.	.	.	.	16fJJ)	.	.
+4FFt	4BB#t	4Gnt	4c#t	(16eLL	8FFn	8Cn	.	8.B#L	.	8r	8r	(16eLL	(16cc-LL	(16eLL	(16eLL
+.	.	.	.	16f#)	.	.	.	.	.	.	.	16f#	16dd-	16f#	16f#
+.	.	.	.	(16g#	8r	8r	.	.	.	8d'	8a-'	16g#	16ee-	16g#	16g#
+!	!	!	!	!LO:TX:t=cresc.	!	!	!	!	!	!	!	!	!	!	!
+.	.	.	.	16cc#JJ)	.	.	.	16B#Jk	.	.	.	16cc#JJ	16aa-JJ	16cc#JJ	16cc#JJ
+4AAnt	4D#t	4Bt	4e#t	(8.a#L	8r	8r	.	8d#	.	4g-~	4cc~	8.a#L	8.ffL	8.a#L	8.a#L
+.	.	.	.	.	8AA^^	8D#^^	.	8r	.	.	.	.	.	.	.
+.	.	.	.	16g#Jk)	.	.	.	.	.	.	.	16g#Jk)	16ee-Jk)	16g#Jk)	16g#Jk)
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)][(s5,s6,s7,s8,s9,s10)][(s11,s12,s13,s14,s15)]
+!!!YEM:	Copyright © Natalie Dietterich

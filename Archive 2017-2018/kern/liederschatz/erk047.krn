@@ -1,0 +1,102 @@
+!!!OTL@@DE: Zitherbubens Morgenlied
+!!!COM: Bornhardt, Johann Heinrch Carl
+!!!ODT: ~1810
+!!!OMD: Allegretto
+!!!LYR: L&uuml;beck, Georg Philipp Schmidt von
+!!!LDT: 1801
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+=1-	=1-	=1-
+*clefF4	*clefG2	*clefG2
+*k[f#]	*k[f#]	*k[f#]
+*G:	*G:	*G:
+*M3/8	*M3/8	*M3/8
+*MM80	*MM80	*MM80
+4GG\	8r	8.b\
+.	8D/ 8G/ 8d/L	.
+.	.	16a/
+8r	8D/ 8G/ 8d/J	8g/
+=2	=2	=2
+4GG\	8r	8.g/
+.	8F#/ 8B/ 8f#/L	.
+.	.	16d/
+8r	8F#/ 8B/ 8f#/J	8d/
+=3	=3	=3
+8GG\L	(16b\LL	16B/LL
+.	16dd\)	16d/JJ
+8D\ 8G\ 8B\	16gg'\	16g/
+.	16bb'\JJ	16b\
+8D\ 8G\ 8B\J	8ddd'\	8dd\
+=4	=4	=4
+8GG\L	(16b\LL	16B/LL
+.	16dd\)	16d/JJ
+8D\ 8G\ 8B\	16gg'\	16g/
+.	16bb'\JJ	16b/
+8D\ 8G\ 8B\J	8ddd'\	8dd\
+=5	=5	=5
+4DD\	8r	8.cc\
+.	8D/ 8F#/ 8c/L	.
+.	.	16b\
+8r	8D/ 8F#/ 8c/J	8a/
+=6	=6	=6
+4DD\	8r	8.a/
+.	8D/ 8F#/ 8c/L	.
+.	.	16d/
+8r	8D/ 8F#/ 8c/J	8d/
+=7	=7	=7
+8DD/	16r	16r
+.	16dd'\LL	16d/
+8D\ 8F#\ 8c\L	16ff#'\	16f#/
+.	16aa'\JJ	16a/
+8D\ 8F#\ 8c\J	8ddd'\	8dd\
+=8	=8	=8
+8DD/	16r	16r
+.	16dd'\LL	16d/
+8D\ 8F#\ 8c\L	16ff#'\	16f#/
+.	16aa'\JJ	16a/
+8D\ 8F#\ 8c\J	8ddd'\	8dd\
+=9	=9	=9
+4GG\	8r	8.b\
+.	8D/ 8G/ 8B/L	.
+.	.	16cc\
+8r	8D/ 8G/ 8B/J	8dd\
+=10	=10	=10
+4CC\	8r	8dd\
+.	8E/ 8A/ 8c/L	8e/
+8r	8E/ 8A/ 8c/J	8e/
+=11	=11	=11
+4DD\	8r	8cc\
+.	8D/ 8A/ 8c/L	8a/
+8r	8D/ 8A/ 8c/J	8f#/
+=12	=12	=12
+4GG\	8r	16g/LL
+.	.	16f#/JJ
+.	8D/ 8G/ 8B/L	16g/LL
+.	.	16a/JJ
+8r	8D/ 8G/ 8B/J	8g/
+=13	=13	=13
+8GG/	8.bb\L	8.b\
+8G\ 8B\ 8d\L	.	.
+.	16ccc\k	16cc\
+8G\ 8B\ 8d\J	8ddd\J	8dd\
+=14	=14	=14
+8C/	8eee\L	8ee\
+8G\ 8A\ 8e\L	8aa\	8a/
+8G\ 8A\ 8e\J	8aa\J	8a/
+=15	=15	=15
+8D\L	8ccc\L	8cc\
+8F#\ 8c\	8aa\	8a/
+8A\ 8c\J	8ff#\J	8f#/
+=16	=16	=16
+8G\ 8B\L	8gg\L	8g/
+8D\ 8F#\ 8c\	(16bb\L	16b/LL
+.	16aa\J)	16a/JJ
+8G\ 8B\J	8gg\J	8g/
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/05/26/
+!!!EFL: 047/651

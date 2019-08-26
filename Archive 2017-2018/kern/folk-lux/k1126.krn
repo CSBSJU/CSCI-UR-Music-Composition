@@ -1,0 +1,185 @@
+!!!OTL: Der S&auml;ngerbund (2-43), S. 116f
+!!!id: K1126
+**kern
+*clefG2
+*k[b-]
+*F:
+{8c
+8d
+8e
+=1
+4.f
+8c
+8.f
+16g
+8.a
+16b-
+=2
+2cc}
+8r
+=3
+{8cc
+8dd
+8cc
+=4
+4.b-
+8b-
+8a
+8f
+8.cc
+16a
+=5
+8.g
+16a
+4g}
+8r
+=6
+{8c
+8d
+8e
+=7
+4.f
+8c
+8.f
+16g
+8.a
+16b
+=8
+2cc}
+8r
+=9
+{8g
+8g
+8g
+=10
+4ee
+4cc
+8.g
+16g
+8.a
+16b
+=11
+4dd
+4cc}
+8r
+=12
+{8cc
+8dd
+8cc
+=13
+4.b-
+8b-
+8.a
+16f
+8.cc
+16a
+=14
+2g}
+8r
+=15
+{8cc
+8dd
+8cc
+=16
+4.b-
+8b-
+8a
+8f
+8.cc
+16a
+=17
+8.g
+16a
+4g}
+8r
+=18
+{8c
+8a
+8g
+=19
+8f
+8g
+8.a
+16g
+8.f
+16a
+8.dd
+16cc
+=20
+4.cc
+8b-
+8g}
+=21
+{8cc
+8cc
+8b-
+=22
+4.a
+8a
+8.g
+16f
+8.g
+16a
+=23
+2f}
+8r
+=24
+{8c
+8a
+8g
+=25
+8f
+8g
+8.a
+16g
+8.f
+16a
+8.dd
+16cc
+=26
+4.cc
+8b-
+8g}
+=27
+{8cc
+8cc
+8b-
+=28
+4.a
+8a
+8.g
+16f
+8.g
+16a
+=29
+2f}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[10
+!!!cut: Der S&auml;ngerbund (2-43), S. 116f
+!!!reg: Luxemburg
+!!!trd: KINTZELE, Guillaume: An der Ucht, Bd. 2, Luxemburg 1927
+!!!rhy1: X_X_X_  X__.X_X_.XX_.X  X___0_
+!!!rhy2: X_X_X_  X__.X_X_X_X_.X  X_.XX__0_
+!!!key: K1126  16  F 4/4 ]  ZZ[10
+!!!mod: ACHTTONSKALA DUR ?]  AMBITUS[10
+!!!kad: 5255222121
+!!!akz: 115_432_115_726_432_432_1152_321_1152_321_
+!!!fot: 'a__b__av_c__bv_b__av_bs'av_bs'
+!!!for: 'a__b__a__c__a__b__d__a__d__a__
+!!!fok: '/__\__/__~a_\__\__Ma_Sd_Ma_Sd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: S&auml;ngerlied?, ???
+!!!bem: in der Quelle mit einer 2. Stimme versehen
+!! KINTZELE
+!! PR[39] 2K[5] 2G[11] 3K[3] 3G[0] 4A[4] 4Ü[0] 5A[2] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[25] ABS[117] SR[16] SP[9]
+!! ST[24] 2k[10] 2g[22] 3k[2] 3g[0] 4d[0] 4ü[0] 5d[2] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[36] dm[-11] sr[32] sp[3]
+!! 1F[12] 2F[47] 3F[17] 4F[8] LF[0] 2P[12] 3P[4] 4P[0] TRI[0] DF[6] AB[130]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[1]
+!! N1[7] N2K[0] N2[16] N3K[0] N3[33] N4[13] N4Ü[1] N5[25] N6K[0] N6[4]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

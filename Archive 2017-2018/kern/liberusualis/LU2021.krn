@@ -1,0 +1,104 @@
+!!image-file:	2021_original_image.tiff
+!!image-id:	m-a2e47631-c773-44c1-a03d-6c0e1ea3b670
+!!system: 1, page 2021
+**kern	**neume	**facs
+*clefF3	*	*
+F	punctum	308,262,287,225
+(F	clivis	379,297,344,243
+E)	.	.
+D.	punctum	448,293,416,263
+D	punctum	579,320,561,272
+C	punctum	634,312,618,290
+D	punctum	682,320,666,272
+C	punctum	794,311,778,290
+F	punctum	844,262,826,242
+(F	podatus	906,247,886,218
+G)	.	.
+G	punctum	1045,247,1027,226
+(F	clivis	1117,297,1084,243
+E)	.	.
+(D	scandicus	1199,301,1147,234
+E	.	.
+F)	.	.
+E	punctum	1222,288,1206,253
+C	punctum	1258,314,1229,284
+='	='	='
+E	punctum	1368,280,1349,261
+!!system: 2, page 2021
+*clefF3	*	*
+F	punctum	142,485,125,466
+(G	podatus	204,455,184,426
+A)	.	.
+(F	clivis	272,521,238,466
+E)	.	.
+D.	punctum	334,517,303,487
+=||	=||	=||
+!!system: 3, page 2021
+*clefF3	*	*
+C	punctum	177,815,160,794
+D	punctum	241,798,223,778
+F	punctum	298,765,279,745
+F	punctum	355,766,336,745
+F	punctum	436,766,418,745
+F	punctum	491,766,473,746
+F	punctum	580,766,562,745
+F	punctum	643,766,626,747
+F	punctum	692,765,675,746
+F	punctum	756,765,739,746
+F	punctum	836,766,820,747
+F	punctum	885,767,868,747
+F	punctum	958,766,941,746
+F	punctum	1030,767,1013,747
+G	punctum	1127,752,1111,733
+F	punctum	1177,767,1156,747
+F.	punctum	1236,767,1206,737
+=	=	=
+F	punctum	1392,767,1375,747
+!!system: 4, page 2021
+*clefF3	*	*
+F	punctum	152,986,134,965
+F	punctum	201,986,183,966
+F	punctum	313,986,295,966
+F	punctum	377,986,360,966
+F	punctum	427,986,408,966
+F	punctum	506,986,488,966
+F	punctum	578,985,561,966
+F	punctum	642,985,625,966
+E	punctum	699,1002,682,982
+C	punctum	812,1036,795,1015
+D	punctum	862,1018,841,997
+D.	punctum	921,1017,891,987
+=||	=||	=||
+!!system: 5, page 2021
+*clefF3	*	*
+F	punctum	271,1210,255,1189
+F	punctum	328,1210,310,1189
+F	punctum	378,1210,360,1189
+F	punctum	426,1210,407,1189
+D	punctum	475,1241,453,1222
+D.	punctum	590,1242,560,1211
+F	punctum	635,1210,617,1189
+F	punctum	682,1210,665,1189
+F	punctum	731,1210,713,1189
+=||	=||	=||
+!!system: 6, page 2021
+*clefC4	*	*
+A	punctum	174,2292,157,2271
+A	punctum	245,2291,229,2270
+A	punctum	302,2290,284,2269
+A	punctum	381,2290,365,2269
+A	punctum	445,2289,428,2268
+A	punctum	559,2288,541,2267
+A	punctum	648,2288,631,2267
+A	punctum	703,2288,687,2267
+A	punctum	816,2288,799,2267
+B	punctum	905,2294,888,2251
+A	punctum	977,2288,960,2266
+G.	punctum	1110,2304,1081,2286
+G.	punctum	1184,2304,1153,2285
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=2021
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

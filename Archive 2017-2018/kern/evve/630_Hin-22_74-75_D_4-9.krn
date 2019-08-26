@@ -1,0 +1,97 @@
+!!!COM:	Hindemith
+!!!OTL:	630_Hin-22/74-75/[D]4-9
+**kern	**kern	**dynam	**kern	**kern	**kern
+*part4	*part4	*part4	*part3	*part2	*part1
+*staff5	*staff4	*	*staff3	*staff2	*staff1
+*I"Piano	*	*	*I"Trombone	*I"Horn in F	*I"Bassoon
+*I'Pno.	*	*	*I'Tbn.	*I'Hn.	*I'Bsn.
+*clefF4	*clefG2	*	*clefF4	*clefG2	*clefF4
+*k[]	*k[]	*	*k[]	*	*k[]
+*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1
+1r	12cc^L	.	1r	1r	1r
+.	12an	.	.	.	.
+.	12enJ	.	.	.	.
+.	12gnL	.	.	.	.
+.	12b	.	.	.	.
+.	12g#J	.	.	.	.
+.	12e#L	.	.	.	.
+.	12g#	.	.	.	.
+.	12ccnJ	.	.	.	.
+.	12bL	.	.	.	.
+.	12d 12a	.	.	.	.
+.	12eJ	.	.	.	.
+=2	=2	=2	=2	=2	=2
+!	!LO:TX:t=cresc.	!	!	!	!
+1r	12f#L	p	1EE	1r	1r
+.	12g	.	.	.	.
+.	12dd-J	.	.	.	.
+.	12b-L	.	.	.	.
+.	12e-	.	.	.	.
+.	12g-J	.	.	.	.
+.	12ccL	.	.	.	.
+.	12a-	.	.	.	.
+.	12f-J	.	.	.	.
+.	12a-L	.	.	.	.
+.	12dd-	.	.	.	.
+.	12ccJ	.	.	.	.
+*	*	*	*	*clefF4	*
+=3	=3	=3	=3	=3	=3
+1r	12d-L 12b-	p	1r	1FFF	1r
+.	12e-	.	.	.	.
+.	12fJ	.	.	.	.
+.	12g-L	.	.	.	.
+.	12ddn	.	.	.	.
+.	12bJ	.	.	.	.
+.	12dL	.	.	.	.
+.	12f	.	.	.	.
+.	12dd-J	.	.	.	.
+.	12a-L	.	.	.	.
+.	12e-X	.	.	.	.
+.	12a-J	.	.	.	.
+=4	=4	=4	=4	=4	=4
+!!linebreak:original
+1r	12ddL	<	1EE	1r	1r
+.	12cc#	.	.	.	.
+.	12cJ 12b	.	.	.	.
+.	12dL	.	.	.	.
+.	12e#	.	.	.	.
+.	12fJ	.	.	.	.
+.	12ee-^L	.	.	.	.
+.	12cc	.	.	.	.
+.	12c#J	.	.	.	.
+.	12e#L	.	.	.	.
+.	12dd	.	.	.	.
+.	12g#J	.	.	.	.
+=5	=5	=5	=5	=5	=5
+1r	12eL	<	1r	1FFF	1r
+.	12g#	.	.	.	.
+.	12ee-J	.	.	.	.
+.	12ddL	.	.	.	.
+.	12B 12cc	.	.	.	.
+.	12c#J	.	.	.	.
+.	12d#L	.	.	.	.
+.	12e	.	.	.	.
+.	12eeJ	.	.	.	.
+.	12cc#L	.	.	.	.
+.	12c	.	.	.	.
+.	12e-J	.	.	.	.
+=6	=6	=6	=6	=6	=6
+!	!LO:TX:t=cresc.	!	!	!	!
+!	!LO:TX:t=cresc.	!	!	!	!
+1r	12dd#L	p	2.EE	1r	[1D
+.	12g#	.	.	.	.
+.	12c#J	.	.	.	.
+.	12g#XL	.	.	.	.
+.	12ee	.	.	.	.
+.	12dd#XJ	.	.	.	.
+.	12B-L 12cc#	.	.	.	.
+.	12c	.	.	.	.
+.	12dJ	.	.	.	.
+.	12e-L	[	4r	.	.
+.	12b- 12bb-	.	.	.	.
+.	12ggnJ	.	.	.	.
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!!system-decoration: s1[(s2,s3)]{(s4,s5)}
+!!!YEM:	Copyright © Natalie Dietterich

@@ -1,0 +1,44 @@
+!!!OTL@@FUR: Chel garoful senze mani
+!!!OTL@IT: Quella rosa senza gambo
+!!!OTL@EN: The rose without a stem
+**kern
+*clefG2
+*k[f#]
+*G:
+*M4/4
+*MM110
+*>[A,A]
+*>A
+4dd
+4ee
+=1
+[4dd
+12dd]
+12b
+12dd
+8.ee
+16dd
+8.cc
+16b
+=2
+4b
+4a
+4cc
+4dd
+=3
+[4cc
+12cc]
+12a
+12b
+8.dd
+16cc
+8.b
+16a
+=4
+2b
+==:|!
+*-
+!!!ARE: Friuli
+!!!ENC: Kelly Leistikow
+!!!END: 2002/03/07
+!!!ref: @{OTL@@FUR}/@{OTL@EN}

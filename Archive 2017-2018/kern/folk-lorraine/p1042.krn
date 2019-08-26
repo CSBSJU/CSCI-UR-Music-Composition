@@ -1,0 +1,94 @@
+!!!OTL: Des Nachts, wenn ich &uuml;ber die Gassen geh' (3-69), S. 197
+!!!id: P1042
+**kern
+*clefG2
+*k[b-e-]
+*g:
+{4g
+=1
+4b-
+8a
+8a
+4g
+8a
+8a
+=2
+4g
+4f#
+4g}
+=3
+{8g
+8a
+=4
+4b-
+8b-
+8dd
+4cc
+8b-
+8cc
+=5
+4dd
+8cc
+8b-
+4a}
+8r
+=6
+{8a
+=7
+8b-
+8a
+8b-
+8cc
+4dd
+8ee-
+8dd
+=8
+8cc
+8b-
+8a
+8g
+4cc}
+8r
+=9
+{8cc
+=10
+8dd
+8cc
+8b-
+8a
+4g
+8cc
+8a
+=11
+4b-
+8a
+8a
+4g}
+==
+*-
+!!!minrhy: 8
+!!!meters: 4/4 ]  ZZ[4
+!!!cut: Des Nachts, wenn ich &uuml;ber die Gassen geh' (3-69), S. 197
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X_  X_XXX_XX  X_X_X_
+!!!rhy2: XX  X_XXX_XX  X_XXX_0
+!!!key: P1042  08  G 4/4 ]  ZZ[4
+!!!mod: HEPTATONIK HARMONISCH MOLL]  AMBITUS[6
+!!!kad: 1241
+!!!akz: 3b111_3b452_3b544_513b1_
+!!!fot: 'a__b__c__d__
+!!!for: 'a__b__c__d__
+!!!fok: '^__^a_~a_\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Untreue
+!! LOTH VKL
+!! PR[15] 2K[5] 2G[5] 3K[15] 3G[0] 4A[5] 4Ü[0] 5A[4] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[35] ABS[55] SR[11] SP[24]
+!! ST[15] 2k[20] 2g[24] 3k[4] 3g[0] 4d[0] 4ü[0] 5d[4] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[51] dm[-16] sr[44] sp[7]
+!! 1F[5] 2F[34] 3F[46] 4F[12] LF[0] 2P[2] 3P[2] 4P[0] TRI[0] DF[6] AB[59]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[9] U6K[0] U6[0] U7K[0] U7[4]
+!! N1[18] N2K[0] N2[20] N3K[13] N3[0] N4[16] N4Ü[0] N5[16] N6K[5] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

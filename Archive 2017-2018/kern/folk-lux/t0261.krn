@@ -1,0 +1,137 @@
+!!!OTL: Ist denn Liebe ein Verbrechen (100), S. 249
+!!!id: T0261
+**kern
+*clefG2
+*k[]
+*C:
+{8.e
+16f
+=1
+*M4/4
+4g
+4cc
+8.dd
+16cc
+8b
+8a
+=2
+8g
+8e
+4g}
+=3
+{8a
+8a
+=4
+*M3/4
+4.g
+8d
+8f
+8e
+=5
+4d}
+4r
+=6
+{8.e
+16f
+=7
+*M4/4
+4g
+4cc
+8.dd
+16cc
+8b
+8a
+=8
+8g
+8e
+4g}
+=9
+{8a
+8a
+=10
+*M3/4
+4.g
+8d
+8f
+8e
+=11
+4d}
+4r
+=12
+{8cc
+8cc
+=13
+8b
+8dd
+4cc
+8g
+8g
+=14
+8cc
+8ee
+4ee}
+=15
+{8cc
+8cc
+=16
+8b
+8dd
+4dd
+8cc
+8dd
+=17
+4.ee
+8dd}
+=18
+{8cc
+8a
+=19
+4.g
+8g
+8a
+8g
+=20
+8g
+8f
+4f}
+=21
+{8a
+8a
+=22
+4.g
+8d
+8e
+8d
+=23
+4c}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 4/4 ]  ZZ[8
+!!!cut1: Ist denn Liebe ein Verbrechen (100), S. 249
+!!!cut2: Melodie I
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_.X  X__X__X_.XX_X_  X_X_X__
+!!!rhy2: X_X_  X__.X_X_X_  X__0__
+!!!key: T0261  16  C 3/4 4/4 ]  ZZ[8
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[10
+!!!kad: 5252+3+241
+!!!akz: 5+25_52_5+25_52_7+1_7+3_55_51_
+!!!fot: 'a__b__a__b__c__d__e__cs"
+!!!for: 'a__b__a__b__c__d__bw_b__
+!!!fok: '~a_\__~a_\__Va_/__\__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem: Junglinster, fff C&auml;cilie Wolter, 1900
+!! THILL, Mathias:
+!! PR[23] 2K[10] 2G[10] 3K[3] 3G[3] 4A[3] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[33] ABS[30] SR[20] SP[13]
+!! ST[8] 2k[10] 2g[20] 3k[7] 3g[0] 4d[7] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[43] dm[-10] sr[30] sp[13]
+!! 1F[61] 2F[33] 3F[0] 4F[0] LF[0] 2P[6] 3P[0] 4P[0] TRI[0] DF[3] AB[33]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[3] U7K[0] U7[3]
+!! N1[3] N2K[0] N2[10] N3K[0] N3[19] N4[6] N4Ü[0] N5[32] N6K[0] N6[13]
+!!!n7k: 0] N7[6] O1[3] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

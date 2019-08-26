@@ -1,0 +1,167 @@
+!!!OTL: Iwer Herrgottsblieschen, S. 14f
+!!!id: L0011
+**kern
+*clefG2
+*k[b-]
+*a:
+{16a
+=1
+16a
+8cc
+8cc
+8dd
+8dd
+=2
+4cc
+4a
+=3
+8cc
+8cc
+8dd
+8dd
+=4
+8cc
+8b-
+8a
+8dd
+=5
+8cc
+8b-
+8a
+8r
+=6
+16aaaa
+16aaaa}
+{4cc
+8a
+=7yy
+8r
+=8
+4cc
+8a
+8a
+=9
+8cc
+8cc
+8dd
+8dd
+=10
+16cc
+16cc
+8b-
+8a
+8dd
+=11
+16cc
+16cc
+8b-
+8a}
+8r
+=12yy
+{8cc
+8cc
+8dd
+8dd
+=13
+4cc
+8f
+8r
+=14
+8cc
+8cc
+8dd
+8dd
+=15
+4cc
+8a}
+8r
+=16
+{16a
+8cc
+8cc
+8cc
+16a
+=17yy
+16a
+8cc
+8r
+8cc
+16a
+=18
+16a
+8cc
+8cc
+8cc
+16a
+=19yy
+8cc}
+16r
+=20
+{16cc
+=21
+16a
+8cc
+8cc
+8cc
+16a
+=22yy
+8cc
+16r
+16cc#
+=23
+16a
+8cc
+8cc
+8cc
+16a
+=24yy
+8cc}
+8r
+=25
+{16a
+8cc
+8cc
+8cc
+16a
+=26yy
+8cc
+16r
+16cc#
+=27
+16a
+8cc
+8cc
+8cc
+16a
+=28yy
+8cc}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[6
+!!!cut: Iwer Herrgottsblieschen, S. 14f
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1:   X_X_X_X_  X__X__  X_X_X_X_  X_X_X_X_  X_X_X_0_
+!!!rhy2: X__X_0_  X__X_X_  X_X_X_X_  XXX_X_X_  XXX_X_0_
+!!!key: L0011  16  A 2/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA ]  AMBITUS[6
+!!!kad: 1113b3b3b
+!!!akz: 3b3b3b3b3b_3b3b3b3b3b_3b3b3b3b_3b3b_3b3b_3b3b_
+!!!fot: 'a__aw_aw_b__bv_bv_
+!!!for: 'a__b__c__d__e__ev_
+!!!fok: 'Sd_Sd_Sd_-__-__-__
+!! PHRAS[VORWIEGEND VOLLTAKTIG]
+!!!fkt: Kinderlied, Heischelied, Kinderliedterno
+!!!bem: die letzten drei Zeilen sind Sprechgesang (Kinderlied-Terno)
+!! FONTAINE, Ed.:
+!! PR[15] 2K[19] 2G[26] 3K[0] 3G[0] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[4] MEHR[0] SI[48] ABS[27] SR[44] SP[4]
+!! ST[8] 2k[7] 2g[7] 3k[11] 3g[4] 4d[4] 4ü[0] 5d[4] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[37] dm[+11] sr[15] sp[22]
+!! 1F[7] 2F[71] 3F[14] 4F[0] LF[0] 2P[7] 3P[0] 4P[0] TRI[0] DF[4] AB[28]
+!! TF[4] U3K[0] U3[4] U4[7] U4Ü[0] U5[11] U6K[0] U6[7] U7K[0] U7[4]
+!! N1[25] N2K[0] N2[11] N3K[0] N3[14] N4[11] N4Ü[0] N5[4] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

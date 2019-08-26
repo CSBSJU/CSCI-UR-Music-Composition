@@ -1,0 +1,158 @@
+!!!COM:	Honegger
+!!!OTL:	588_Hon-18/7-8/51-66
+**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part16	*part15	*part15	*part14	*part13	*part12	*part11	*part10	*part9	*part8	*part7	*part6	*part5	*part4	*part3	*part2	*part1
+*staff16	*staff15	*	*staff14	*staff13	*staff12	*staff11	*staff10	*staff9	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Contrabass	*I"Violoncello	*	*I"Viola	*I"Violin II	*I"Violin I	*I"Bass Drum	*I"Horn in F	*I"Horn in F	*I"Contrabassoon	*I"Bassoon	*I"Bass Clarinet in Bb	*I"Clarinet in Bb	*I"Clarinet in Bb	*I"Cor Anglais	*I"Oboe	*I"Flute
+*I'Cb.	*I'Vc.	*	*I'Vla.	*I'Vln. II	*I'Vln. I	*I'B. D.	*I'Hn.	*I'Hn.	*I'Cbsn.	*I'Bsn.	*I'B. Cl.	*I'Cl.	*I'Cl.	*I'C. A.	*I'Ob.	*I'Fl.
+*clefF4	*clefF4	*	*clefC3	*clefG2	*clefG2	*clefpercussion0	*clefG2	*clefG2	*clefF4	*clefF4	*clefF4	*clefG2	*clefG2	*clefG2	*clefG2	*clefG2
+*k[]	*k[]	*	*k[]	*k[]	*k[]	*	*	*	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]	*k[]
+*M4/4	*M4/4	*	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+1r	4An	.	4a-	4A-	4c#	1r	1r	1r	4r	4r	4r	4A-	4An	4A-	4c# 4a-	4c# 4a-
+.	4r	.	4r	4r	4r	.	.	.	8GGG-	8G-L	8GG-L	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8GG-J	8GG-J	.	.	.	.	.
+.	4r	.	4r	4r	4r	.	.	.	8DDD-	8D-L	8DD-L	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8DD-J	8DD-J	.	.	.	.	.
+.	4F	.	4e-	4A	4Bn	.	.	.	4r	4r	4r	4Gn	4Gn	4F	4Bn 4e-	4e-
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+1r	4A-	.	4e	4B-	4d	1r	1r	1r	4r	4r	4r	4B-	4A-	4B-	4d 4e	4d 4e
+.	4r	.	4r	4r	4r	.	.	.	8CCC#	8CC#L	8DD-L	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8C#J	8DD-J	.	.	.	.	.
+.	4r	.	4r	4r	4r	.	.	.	8EEEn	8EEnL	8FF-L	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8EnJ	8FF-J	.	.	.	.	.
+.	4A	.	4g#	4d-	4d#	.	.	.	4r	4r	4r	4B-	4d-	4An	4d# 4g#	4d# 4g#
+=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3	=3
+1r	4B	.	4b	4c	4e	1r	1r	1r	4r	4r	4r	4B	4c	4B	4en 4bn	4e 4b
+.	4r	.	4r	4r	4r	.	.	.	8AAA	8cL	8AAnL	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8CJ	8AAJ	.	.	.	.	.
+.	4r	.	4r	4r	4r	.	.	.	8EEE	8EL	8EE-XL	4r	4r	4r	4r	4r
+.	.	.	.	.	.	.	.	.	8r	8EEJ	8EE-J	.	.	.	.	.
+.	4G#	.	4f#	4c	4dn	.	.	.	4r	4r	4r	4G#	4c	4G#	4d# 4f#	4d# 4f#
+=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4	=4
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4CC	(4.D#	.	4g	4c	4Bn	1r	4c~	1r	4CC'	1r	1r	(2.An	(2.An	(2.B	8c 8g	8c 8g
+.	.	.	.	.	.	.	.	.	.	.	.	.	.	.	8r	8r
+4GG	.	.	4r	4r	4r	.	4e-~	.	4GG'	.	.	.	.	.	4r	4r
+.	8C##	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4FFF#	4D#)	.	4r	4r	2r	.	6g	.	4FFF#'	.	.	.	.	.	2r	2r
+.	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.	.
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+!LO:TX:t=pizz.	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+4r	4r	.	8A-L	8c#L	.	.	.	.	4r	.	.	8A-L	8A-L	8c#L	.	.
+.	.	.	.	.	.	.	6cc	.	.	.	.	.	.	.	.	.
+.	.	.	8GJ	8dJ	.	.	.	.	.	.	.	8GJ)	8GJ)	8dJ)	.	.
+=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5	=5
+4CC	(4.D#	.	4An	4Bn	1r	1r	6b-X	1r	4CC'	1r	1r	(2.A	(2.A	(2.B	1r	1r
+.	.	.	.	.	.	.	6a	.	.	.	.	.	.	.	.	.
+4GG	.	.	4r	4r	.	.	.	.	4GG'	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.	.
+.	8C##	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4FFF#	4D#)	.	4r	4r	.	.	4f~	.	4FFF#'	.	.	.	.	.	.	.
+4r	4r	.	8F#L	8d-L	.	.	4g~	.	4r	.	.	8F#L	8F#L	8d-L	.	.
+.	.	.	8GJ	8cJ	.	.	.	.	.	.	.	8GJ)	8GJ)	8cJ)	.	.
+=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6	=6
+!!pagebreak:original
+4DD	(4.E#	.	4A-	4B-	1r	1r	4dn~	5dn	4DD	1r	1r	(2.A-	(2.A-	(2.B	1r	1r
+.	.	.	.	.	.	.	.	5en	.	.	.	.	.	.	.	.
+4BB-	.	.	4r	4r	.	.	4r	.	4BB-	.	.	.	.	.	.	.
+.	8F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	5g	.	.	.	.	.	.	.	.
+4AAA-	4E#)	.	4r	4r	.	.	2r	.	4AAA-	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	5f#	.	.	.	.	.	.	.	.
+4r	4r	.	8GL	8BL	.	.	.	.	4r	.	.	8GL	8GL	8BnL	.	.
+.	.	.	.	.	.	.	.	5b	.	.	.	.	.	.	.	.
+.	.	.	8A-J	8cJ	.	.	.	.	.	.	.	8F#J)	8F#J)	8cJ)	.	.
+=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7	=7
+4DD	(4.E#	.	4A-	4B-	1r	1r	1r	6a	1r	1r	1r	(2.A-	(2.A-	(2.B-X	1r	1r
+.	.	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.
+4AAA-	.	.	4r	4r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	6a	.	.	.	.	.	.	.	.
+.	8F#	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4BB-	4E#)	.	4r	4r	.	.	.	6d	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	6en	.	.	.	.	.	.	.	.
+4r	4r	.	8GL	8d-L	.	.	.	.	.	.	.	8GL	8GL	8c-L	.	.
+.	.	.	.	.	.	.	.	6f#	.	.	.	.	.	.	.	.
+.	.	.	8F#J	8cJ	.	.	.	.	.	.	.	8A-J)	8A-J)	8B-J)	.	.
+=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8	=8
+4CC	(4.E-	.	4A	4Bn	1r	1r	4c	4c	1r	1r	1r	(2.An	(2.An	(2.B	1r	1r
+4GG	.	.	4r	4r	.	.	4e-	4r	.	.	.	.	.	.	.	.
+.	8D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4FFF#	4E-)	.	4r	4r	.	.	6g	2r	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.	.
+4r	4r	.	8A-L	8c#L	.	.	.	.	.	.	.	8A-L	8A-L	8c#L	.	.
+.	.	.	.	.	.	.	6cc	.	.	.	.	.	.	.	.	.
+.	.	.	8A-J	8dJ	.	.	.	.	.	.	.	8GJ)	8GJ)	8dJ)	.	.
+=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9	=9
+4CC	(4.E-	.	4An	4Bn	1r	1r	6b-	1r	1r	1r	1r	(2.A	(2.A	(2.B	1r	1r
+.	.	.	.	.	.	.	6a	.	.	.	.	.	.	.	.	.
+4FFF#	.	.	4r	4r	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.	.
+.	8D	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4GG	4E-)	.	4r	4r	.	.	4fn	.	.	.	.	.	.	.	.	.
+4r	4r	.	8F#L	8cnL	.	.	4g	.	.	.	.	8F#L	8F#L	8cL	.	.
+.	.	.	8GJ	8B-J	.	.	.	.	.	.	.	8GJ)	8GJ)	8B-XJ)	.	.
+=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10	=10
+4BBBn	(4.D	.	4G#	4A	1r	1r	4a	5an	1r	4BBn	1r	(2.A-	(2.A-	(2.A	1r	1r
+.	.	.	.	.	.	.	.	5b	.	.	.	.	.	.	.	.
+4AA-	.	.	4r	4r	.	.	4r	.	.	4A-	.	.	.	.	.	.
+.	8E-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	5cc	.	.	.	.	.	.	.	.
+4FFF	4D)	.	4r	4r	.	.	2r	.	.	4FFn	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	5dd	.	.	.	.	.	.	.	.
+4r	4r	.	8GL	8A#L	.	.	.	.	.	4r	.	8GL	8GL	8B-L	.	.
+.	.	.	.	.	.	.	.	5ee-	.	.	.	.	.	.	.	.
+.	.	.	8F#J	8BJ	.	.	.	.	.	.	.	8F#J)	8F#J)	8c-J)	.	.
+=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11	=11
+4BBB	(4.D	.	4G#	4A#	1r	1r	1r	6dd	1r	4BB	1r	(2.A-	(2.A-	(2.An	1r	1r
+.	.	.	.	.	.	.	.	6a	.	.	.	.	.	.	.	.
+4AA-	.	.	4r	4r	.	.	.	.	.	4A-	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	6b	.	.	.	.	.	.	.	.
+.	8E-	.	.	.	.	.	.	.	.	.	.	.	.	.	.	.
+4BBB	4D)	.	4r	4r	.	.	.	6fn	.	4BB	.	.	.	.	.	.
+.	.	.	.	.	.	.	.	6g	.	.	.	.	.	.	.	.
+4FFF	4r	.	8G#XL	8A#L	.	.	.	.	.	4FF	.	8A-L	8A-L	8AL	.	.
+.	.	.	.	.	.	.	.	6d	.	.	.	.	.	.	.	.
+.	.	.	8GJ	8A#XJ	.	.	.	.	.	.	.	8GJ)	8GJ)	8B-XJ)	.	.
+=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12	=12
+!!pagebreak:original
+*M6/4	*M6/4	*	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4	*M6/4
+2.GG-	4AA^ 4En	.	4F#^	4Bn	4r	4x	4E#^ 4F	4c#	1.r	2.GG-	1.r	4F#	4F#	4E#X	1.r	1.r
+.	4BB~	.	4E#~	4r	4A~	4r	4r	4r	.	.	.	4r	4r	4r	.	.
+.	4D~	.	4F##~	4r	4c#~	4r	4r	4r	.	.	.	2r	2r	2r	.	.
+2.FF	4E~	.	4A#~	4r	4d~	4r	4r	4r	.	2.FF	.	.	.	.	.	.
+.	4Fn~	.	4B~	4r	4c#~	4r	4r	4r	.	.	.	4r	4r	4r	.	.
+!	!LO:TX:t=arco	!	!	!	!	!	!	!	!	!	!	!	!	!	!	!
+.	4E^	sf	4F#X^	4Gn	4r	4x	4E#^ 4F	4Gn	.	.	.	4r	4r	4r	.	.
+=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13	=13
+2.EE	4D#~	.	4A~	1.r	2r	4r	2r	2r	1.r	2.EE	1.r	1.r	1.r	1.r	1.r	1.r
+.	4D~	.	4G#~	.	.	4r	.	.	.	.	.	.	.	.	.	.
+.	4C#~	.	4G~	.	4r	4r	4r	4r	.	.	.	.	.	.	.	.
+2.EE-	4C~	.	4F~	.	4r	4r	4r	4r	.	2.EE-	.	.	.	.	.	.
+.	4D-^	sf	4G#^	.	4B-^	4x	4C#^ 4G#	4B-X^	.	.	.	.	.	.	.	.
+.	4E-	.	4A	.	4d-	4r	4r	4r	.	.	.	.	.	.	.	.
+=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14	=14
+2.DD	4G-	.	4Bn	2r	4f	4r	2r	2r	2.DD	2.DD	1.r	1.r	1.r	1.r	1.r	1.r
+.	4A-	.	4d	.	4g-	4r	.	.	.	.	.	.	.	.	.	.
+.	4A	.	4e-	4r	4f	4r	4r	4r	.	.	.	.	.	.	.	.
+2.DD-	4G#^	.	4B-^	4Bn^	2.r	4x	4A-^ 4B-X	4c-^	2.DD-	2.r	.	.	.	.	.	.
+.	4G	.	4d-	4d#	.	4r	4r	4r	.	.	.	.	.	.	.	.
+.	4F#	.	4c	4e#	.	4r	4r	4r	.	.	.	.	.	.	.	.
+=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15	=15
+2.CC	4Fn	.	4c-	4f#	4r	4r	4r	4r	2.CC	1.r	1.r	1.r	1.r	1.r	1.r	1.r
+.	4E	.	4B-	4g#	4r	4r	4r	4r	.	.	.	.	.	.	.	.
+.	4F^	sf	4c^	4dn^	4dn^	4x	4Fn^ 4cn	4dn^	.	.	.	.	.	.	.	.
+2.BBB	4Gn	.	4d-	4f	4f	2.r	2.r	2.r	2.BBB	.	.	.	.	.	.	.
+.	4B-	.	4e-	4a	4a	.	.	.	.	.	.	.	.	.	.	.
+.	4c	.	4g-	4b-	4b-	.	.	.	.	.	.	.	.	.	.	.
+=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16	=16
+2.BBB-	4d-	.	4gn	4a	4a	4r	4r	4r	2.BBB-	1.r	1.r	1.r	1.r	1.r	1.r	1.r
+.	4c^	sf	4dn^	4dn^	4dn^	4x	4c^ 4d	4dn^ 4e-	.	.	.	.	.	.	.	.
+.	4B	.	4f	4f	4f	2.r	4r	4r	.	.	.	.	.	.	.	.
+2.AAA	4B-	.	4e	4a	4a	.	2.r	2.r	2.AAA	.	.	.	.	.	.	.
+.	4A	.	4e-	4b-	4b-	.	.	.	.	.	.	.	.	.	.	.
+.	4A-	.	4d-	4cc	4cc	4r	.	.	.	.	.	.	.	.	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4,s5,s6,s7,s8)][(s9,s10)]s11[(s12,s13,s14,s15,s16)]
+!!!YEM:	Copyright © Natalie Dietterich

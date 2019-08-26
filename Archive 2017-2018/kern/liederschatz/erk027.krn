@@ -1,0 +1,169 @@
+!!!OTL@@DE: Die Pinzgauer Wallfahrt
+!!!COM: Neuere Volksmelodie
+!!!ODT: 1820
+!!!OMD: Schrittm&auml;ssig
+!!!ONB: Oester Volkslied (Str. 2 u. 3 neuerer Zusatz)
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+*>[A,B,B]	*>[A,B,B]	*>[A,B,B]
+*>norep[A,B]	*>norep[A,B]	*>norep[A,B]
+*>A	*>A	*>A
+*clefF4	*clefG2	*clefG2
+*k[b-]	*k[b-]	*k[b-]
+*F:	*F:	*F:
+*met(C)	*met(C)	*met(C)
+*M4/4	*M4/4	*M4/4
+*MM88	*MM88	*MM88
+8F\	8A/ 8c/	8c/
+=1	=1	=1
+*	*^	*
+4FF/	(8c/L	4A\	(8c/L
+.	8f/	.	8f/J)
+*	*v	*v	*
+8F\L	8A/ 8f/)	8f/
+8F\J	8A/ 8f/J	8f/
+4F\	4A/ 4f/	4f/
+4FF/ 4F/	(8A/ 8f/L	(8f/L
+.	8c/) 8a/J	8a/J)
+=2	=2	=2
+4C/	(8c/ 8a/L	8a\
+.	8B-/) 8g/	8g\
+4C/	8B-/ 8g/	8g/
+.	8G/ 8e/J	8e/
+4F\	4A/ 4f/	4f/
+4FF/	8r	8r
+.	8A/ 8f/	8f/
+=3	=3	=3
+4FF/	8A/ (8f/L	(8f/L
+.	8a/	8a/J)
+8F\L	8f/ 8a/)	8a/
+8F\J	8f/ 8a/J	8a/
+4F\	4f/ 4a/	8a\
+.	.	8a\
+4F\	(8f/ 8a/L	(8a\L
+.	8cc/J)	8cc\J)
+=4	=4	=4
+4C/	(8a/ 8cc/L	(8cc\L
+.	8g/) 8b-/	8b-\J)
+4c\	8g/ 8b-/	8b-\L
+.	8e/ 8g/J	8g\J
+4F\	4f/ 4a/	4a/
+4A\	8r	8r
+.	8c/ 8f/	8f/
+=5	=5	=5
+4C/	(8c/ 8e/L	(8e/
+.	8g/)	8g/)
+4c\	8e/ 8g/	8g/
+.	8e/ 8g/J	8g/
+8c\L	4e/ 4g/	4g/
+8C\	.	.
+8B-\	8e/ 8g/L	8g/
+8A\J	8f/ 8a/J	8a/
+=6	=6	=6
+8G\L	8g/ 8b-/L	8b-\
+8E\	8g/ 8b-/	8b-\
+8F\	8f/ 8a/	8a/
+8A\J	8f/ 8a/J	8a/
+4c\	4e/ 4g/	4g/
+8C/	8r	8r
+8r	8f/	8f/
+=7	=7	=7
+4CC/	(8c/ 8e/L	(8e/
+.	8g/)	8g/)
+4C/	8e/ 8g/	8g/
+.	8e/ 8g/J	8g/
+8C/L	4e/ 4g/	4g/
+8CC/	.	.
+8BB-/	8e/ 8g/L	8g/
+8AA/J	8f/ 8a/J	8a/
+=8	=8	=8
+8GG/L	8g/ 8b-/L	8b-\
+8C/	8c/ 8e/ 8b-/	8b-\
+8FF/	8c/ 8f/ 8a/	8a/
+8AA/J	8c/ 8f/ 8a/J	8a/
+4C/	4c/ 4e/ 4g/	4g/
+8CC/	8r	8r
+8r	8c/	8c/
+=9	=9	=9
+8r	4a\ 4cc\	4cc^\
+8c\	.	.
+4C/	8r	8r
+.	8a\ 8cc\	8cc\
+8r	4g/ 4b-/	4b-^\
+8c\	.	.
+4C/	8r	8r
+.	8g/ 8b-/	8b-\
+=10	=10	=10
+8r	8f/ (8a/L	(8a/L
+(8c\L	[8f/	8f/
+8A\	8f/] 8cc/	8cc/
+8F\J	8a/J	8a/J
+8C/L	4e/ 4g/)	4g/)
+8C/)	.	.
+8CC/J	8r	8r
+8r	8c/	8c/
+=11	=11	=11
+8r	4a^\ 4cc^\	4cc^\
+8c\	.	.
+4C/	8r	8r
+.	8a\ 8cc\	8cc\
+8r	4g^/ 4b-^/	4b-^\
+8c\	.	.
+4C/	8r	8r
+.	8g/ 8b-/	8b-\
+=12	=12	=12
+8r	8f/ (8a/L	(8a/L
+(8c\L	[8f/	8f/
+*	*^	*
+8A\	8cc/	4f\]	8cc/
+8F\J	8a/J	.	8a/J
+*	*v	*v	*
+8C/L)	4e/ 4g/)	4g/)
+8C/	.	.
+8CC/J	8r	8r
+=!|:	=!|:	=!|:
+*>B	*>B	*>B
+8r	8c'/	8c'/
+=13	=13	=13
+2r	8A'/ 8f'/L	8f'/
+.	8c'/ 8g'/	8g'/
+.	8f'/ 8a'/	8a'/
+.	8g'/ 8b-'/J	8b-'\
+4r	8a^/ 8cc^/L	8cc^\
+.	8a/ 8cc/	8cc\
+8FF/ 8F/L	8f^/	8f/
+8FF/ 8F/J	8f/J	8f/
+=14	=14	=14
+4r	8b-^/ 8dd^/L	8dd^\
+.	8b-/ 8dd/	8dd\
+8FF/ 8F/L	8f^/	8f^/
+8FF/ 8F/J	8f/J	8f/
+4r	8a^/ 8cc^/L	8cc^\
+.	8a/ 8cc/	8cc\
+8FF/ 8F/L	16f/L	16f/
+.	16f/J	16f/
+8FF/ 8F/J	8a/ 8cc/J	8cc\
+=15	=15	=15
+4C\ 4c\	(8a^/ 8cc^/L	(8cc^\L
+.	8g/) 8b-/	8b-\J)
+8C\ 8c\L	8g/ 8b-/	8b-\
+8C\ 8c\J	8e/ 8g/J	8g/
+*^	*^	*
+(4c/	4.F\	(8a/L	4.f\	(8a\L
+.	.	8cc/	.	8cc\
+8A/)	.	8ff/J)	.	8ff\J)
+*v	*v	*	*	*
+*	*v	*v	*
+8F\ 8c\	8f/ 8a/	8a/
+=16	=16	=16
+4C\ 4c\	(8a^/ 8cc^/L	8cc^\L
+.	8g/) 8b-/	8b-\J
+8C\ 8c\L	8g/ 8b-/	8b-\
+8C\ 8B-\J	8e/ 8g/J	8g/
+4F\ 4A\	4c/ 4f/	4f/
+8FF/	8r	8r
+==:|!;	==:|!;	==:|!;
+*-	*-	*-

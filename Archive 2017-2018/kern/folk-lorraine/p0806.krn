@@ -1,0 +1,95 @@
+!!!OTL: Es woollt ein M&uuml;ller fr&uuml;h aufstehn (Band 1), S. 99
+!!!id: P0806
+**kern
+*clefG2
+*k[]
+*G:
+{8g
+8g
+8b
+=1
+4dd
+4dd
+8ee
+8dd
+=2
+4cc}
+8r
+=3
+{8b
+8dd
+8b
+=4
+4.g
+8g
+8b
+8dd
+=5
+4a}
+8r
+=6
+{8g
+8g
+8b
+=7
+4.dd
+8dd
+8ee
+16dd
+16dd
+=8
+4.cc}
+=9
+{8b
+8dd
+8b
+=10
+4.g
+8g
+8b
+8dd
+=11
+4a}
+8r
+=12
+{8d
+8d
+8d
+=13
+8cc
+8cc
+4cc
+8a
+8cc
+=14
+8b
+8a
+8g}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[5
+!!!cut: Es woollt ein M&uuml;ller fr&uuml;h aufstehn (Band 1), S. 99
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 1, Metz 1928
+!!!rhy1: X_X_X_  X__X__X_X_  X__0   (x2)
+!!!rhy2: X_X_X_  X__.X_X_X_  X__0
+!!!key: P0806  16  G 3/4 ]  ZZ[5
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 42421
+!!!akz: 54_12_54_12_43_
+!!!fot: 'a__b__av_b__c__
+!!!for: 'a__b__c__b__d__
+!!!fok: '^a_Md_^a_Md_^a_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Betrug, Mord
+!! LOTH VKL
+!! PR[23] 2K[10] 2G[15] 3K[8] 3G[3] 4A[0] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[38] ABS[40] SR[25] SP[13]
+!! ST[16] 2k[3] 2g[18] 3k[20] 3g[0] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[40] dm[-2] sr[20] sp[20]
+!! 1F[2] 2F[81] 3F[14] 4F[0] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[4] AB[42]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[7] N3K[0] N3[17] N4[12] N4Ü[0] N5[39] N6K[0] N6[17]
+!!!n7k: 0] N7[5] O1[2] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

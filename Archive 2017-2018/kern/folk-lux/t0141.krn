@@ -1,0 +1,102 @@
+!!!OTL: Die J&uuml;din und der Schreiber (22a)
+!!!id: T0141
+**kern
+*clefG2
+*k[f#c#]
+*A:
+{16a
+=1
+16a
+8a
+8a
+16a
+16a
+4a
+8g
+=2
+4f#
+8e
+4d}
+=3
+{8dd
+=4
+4dd
+8a
+4b
+16g#
+16g#
+=5
+2a}
+8r
+=6
+{8a
+=7
+4dd
+8dd
+4cc#
+8dd
+=8
+4a
+8b
+4a}
+=9
+{8f#
+=10
+4b
+8b
+4b
+8a
+=11
+4f#
+8a
+4a}
+=12
+{8a
+=13
+4a
+8e
+4g
+8f#
+=14
+4.e}
+=15
+{4.dd
+=16
+4cc#
+8a
+4b
+16cc#
+16b
+=17
+2a}
+4r
+==
+*-
+!!!minrhy: 16
+!!!meters: 6/8 ]  ZZ[6
+!!!cut1: Die J&uuml;din und der Schreiber (22a)
+!!!cut2: Melodie II, S.91
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1:   X_X_XXX__X_  X__X_X__
+!!!rhy2: X_  X__X_X__XX  X___0_
+!!!key: T0141  16  A 6/8 ]  ZZ[6
+!!!mod: ACHTTONSKALA DUR ?]  AMBITUS[8
+!!!kad: -4111-51
+!!!akz: 11-6-4_4211_4311_22-61_1-7b-5_43211_
+!!!fot: 'a__b__c__d__e__cw_
+!!!for: 'a__b__c__c__cw_bv_
+!!!fok: '\__\__^__~a_\__Sd_
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: Liebeslieder
+!!!bem: StraPen, fff Witry, 3.1.1933
+!! THILL, Mathias:
+!! PR[36] 2K[3] 2G[18] 3K[3] 3G[3] 4A[5] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[33] ABS[39] SR[21] SP[13]
+!! ST[10] 2k[0] 2g[18] 3k[10] 3g[3] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[31] dm[+2] sr[18] sp[13]
+!! 1F[29] 2F[62] 3F[10] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[3] AB[42]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[10] N2K[0] N2[13] N3K[0] N3[13] N4[25] N4Ü[0] N5[30] N6K[0] N6[8]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

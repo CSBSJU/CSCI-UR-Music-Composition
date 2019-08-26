@@ -1,0 +1,99 @@
+!!!OTL: Frau M&uuml;llerin (2-41) S. 132
+!!!id: P0914
+**kern
+*clefG2
+*k[f#c#]
+*D:
+{8A
+=1
+8.d
+16e
+8f#
+8g
+=2
+8.a
+16b
+8a}
+=3
+{8f#
+=4
+8g
+8f#
+8g
+8a
+=5
+8f#}
+4r
+=6
+{16f#
+16g
+=7
+8a
+8f#
+8a
+8f#
+=8
+8g
+8b
+8b}
+=9
+{8e
+=10
+8g
+8e
+8g
+8e
+=11
+8f#
+8a
+8.a}
+=12
+{16A
+=13
+8.d
+16e
+8f#
+8g
+=14
+8a
+8dd
+8b}
+=15
+{8ee
+=16
+8.dd
+16dd
+8cc#
+16b
+16cc#
+=17
+4dd}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[6
+!!!cut: Frau M&uuml;llerin (2-41) S. 132
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X_  X_.XX_X_  X_.XX_
+!!!rhy2: X_  X_X_X_X_  X_0__
+!!!key: P0914  16  D 2/4 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[12
+!!!kad: 53656+1
+!!!akz: 15_43_54_43_15_+1+1_
+!!!fot: 'a__b__bs'bv_aw_c__
+!!!for: 'a__b__bw_bw_c__d__
+!!!fok: '/__^__/__/__^a_Vd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Untreue, Beischlaf
+!! LOTH VKL
+!! PR[46] 2K[8] 2G[8] 3K[5] 3G[0] 4A[5] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[27] ABS[37] SR[16] SP[11]
+!! ST[9] 2k[11] 2g[11] 3k[3] 3g[0] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[27] dm[0] sr[22] sp[5]
+!! 1F[15] 2F[46] 3F[31] 4F[0] LF[0] 2P[0] 3P[8] 4P[0] TRI[0] DF[4] AB[39]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[3] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[42] N2K[0] N2[18] N3K[21] N3[0] N4[8] N4Ü[0] N5[8] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

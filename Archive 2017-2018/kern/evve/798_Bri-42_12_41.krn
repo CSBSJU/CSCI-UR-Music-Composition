@@ -1,0 +1,31 @@
+!!!COM:	Britten
+!!!OTL:	Bri-42/12/41
+**kern	**kern	**dynam	**kern	**kern	**kern	**kern
+*part5	*part5	*part5	*part4	*part3	*part2	*part1
+*staff6	*staff5	*	*staff4	*staff3	*staff2	*staff1
+*I"Piano	*	*	*I"BASS	*I"TENOR	*I"ALTO	*I"SOPRANO
+*I'Pno.	*	*	*I'B.	*I'T.	*I'A.	*I'S.
+*clefF4	*clefG2	*	*clefF4	*clefGv2	*clefG2	*clefG2
+*k[b-]	*k[b-]	*	*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*M5/4	*M5/4	*	*M5/4	*M5/4	*M5/4	*M5/4
+=1	=1	=1	=1	=1	=1	=1
+8FF`L	4d 4f# 4a	.	(4A	8F#L	(4a	8f#L
+(16EEL	.	.	.	8G#J	.	8g#J
+16FFJ	.	.	.	.	.	.
+8EE`)	[8dL 8g [8a	.	8Gn	(4A	8gn	(4a
+(16FFL	8d] 8f 8a]	>	4.Fn	.	4.fn	.
+16EEJ	.	.	.	.	.	.
+8FF`)	[8c [8f 8g#	>	.	8G#	.	8g#
+(16EEL	8cJ] 8f] 8f#	.	.	4.F#	.	4.f#
+16FFJJ	.	.	.	.	.	.
+8EE`L)	[4B- [4e- 4f	.	2E-)	.	2e-)	.
+(16FFL	.	.	.	.	.	.
+16EE	.	.	.	.	.	.
+16FF	4B-] 4e-] 4e	.	.	4En)	.	4en)
+16EE	.	.	.	.	.	.
+16FF	.	.	.	.	.	.
+16EEJJ)	.	.	.	.	.	.
+==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]{(s5,s6)}
+!!!YEM:	Copyright © Natalie Dietterich

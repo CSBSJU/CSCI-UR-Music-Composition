@@ -1,0 +1,65 @@
+!!!COM:	Schoenberg
+!!!OTL:	222_Sch-35/20/73-75
+**kern	**dynam	**kern	**kern	**kern
+*part4	*part4	*part3	*part2	*part1
+*staff4	*	*staff3	*staff2	*staff1
+*I"Violin 1	*	*I"Violin	*I"Xylophone	*I"Flute
+*I'Vln. 1	*	*I'Vln.	*I'Xyl.	*I'Fl.
+*clefG2	*	*clefG2	*clefG2	*clefG2
+*k[]	*	*k[]	*k[]	*k[]
+*M4/4	*	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1	=1
+4r	.	4r	4r	8bn 8aa- 8dddn
+.	.	.	.	8r
+*	*	*	*8va	*
+8r	p	16ff#'LL	8ccccn'L	8r
+.	.	16dn'	.	.
+!LO:TX:t=pizz.	!	!	!	!
+8gn	p	(16d	8ddddd-'J	8gn`
+.	.	16ff#JJ)	.	.
+8gL	.	(16ffLL	8cccc'L	8g`L
+.	.	16aaan)	.	.
+8g	.	16ff'	8ddddd-'	8g`
+.	.	16aaa'JJ	.	.
+8b-	.	8r	8eeee-	8b-`
+8b-J	.	(16aa-LL	8fffff-J	8b-`J
+.	.	16fnJJ)	.	.
+=2	=2	=2	=2	=2
+8b-	.	16fn'LL	8eeee-L	8b-`
+.	.	16aa-'	.	.
+8r	.	(16aa-	8fffff-	8r
+.	.	16cccc-JJ)	.	.
+4r	.	16aa-'LL	8eeee-	4r
+.	.	16cccc-'JJ	.	.
+.	.	8r	8fffff-J	.
+8b-L	.	8r	8eeeeL	8b-`L
+*	*	*8va	*	*
+8b-	.	(16bbnLL	8fffff	8b-`
+.	.	16dddd#JJ)	.	.
+8b-	.	16bb'LL	8eeee	8b-`
+.	.	16dddd#'	.	.
+*	*	*X8va	*	*
+8b-J	.	16bb'	8fffffJ	8b-`J
+.	.	16g#'JJ	.	.
+=3	=3	=3	=3	=3
+8r	.	(16bbLL	16eeeenLL	8r
+.	.	16g#JJ)	16fffff	.
+8b-	.	8r	16eeee	8b-`
+.	.	.	16fffffJJ	.
+8b-L	.	8r	8dddddnL	8b-`L
+*	*	*8va	*	*
+8gnJ	.	(16aaLL	8cccc#J	8gn`J
+.	.	16ccccJJ)	.	.
+8gL	.	16aa'LL	8dddddL	8g`L
+*	*	*X8va	*	*
+.	.	16ccc'	.	.
+8gJ	.	(16aa	8cccc#	8g`J
+.	.	16f#JJ)	.	.
+8g	.	16aa'LL	8cccc#	8g`
+.	.	16f#'JJ	.	.
+8r	.	8r	8dddddJ	8r
+*	*	*	*X8va	*
+==	==	==	==	==
+*-	*-	*-	*-	*-
+!!!system-decoration: s1,s2[(s3,s4)]
+!!!YEM:	Copyright © Natalie Dietterich

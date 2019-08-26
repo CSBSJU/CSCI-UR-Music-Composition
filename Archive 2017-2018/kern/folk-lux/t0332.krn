@@ -1,0 +1,124 @@
+!!!OTL: Der F&auml;hnrich (160a), S. 348
+!!!id: T0332
+**kern
+*clefG2
+*k[]
+*G:
+{4g
+=1
+4g
+4d
+4b
+=2
+4b
+4g
+8dd
+8ee
+=3
+4.dd
+8cc
+4b
+=4
+4b
+4a}
+=5
+{4g
+=6
+4g
+4d
+4b
+=7
+4b
+4g
+8dd
+8ee
+=8
+4.dd
+8cc
+4b
+=9
+4b
+4a}
+=10
+{8ee
+8ee
+=11
+4ee
+4dd
+8g
+8g
+=12
+4b
+4a}
+=13
+{8ee
+8ee
+=14
+4ee
+4dd
+8g
+8g
+=15
+4b
+4a}
+=16
+{8g
+8b
+=17
+4dd
+4dd
+8ee
+8ee
+=18
+4dd
+4dd}
+=19
+{8ee
+8dd
+=20
+4dd
+4dd
+4ee
+=21
+4dd}
+4r
+=22
+{8b
+8dd
+=23
+4dd
+4dd
+4cc
+=24
+4b}
+4r
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 ]  ZZ[7
+!!!cut: Der F&auml;hnrich (160a), S. 348
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937, posth.
+!!!rhy1: X_  X_X_X_  X_X_XX  X_.XX_  X_X_
+!!!rhy2: X_  X_X_X_  X_X_XX  X_.XX_  X_X_
+!!!key: T0332  08  G 3/4 ]  ZZ[7
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 2222553
+!!!akz: 1353_1353_63_63_55_55_53_
+!!!fot: 'a__a__b__b__c__cw_d__
+!!!for: 'a__a__b__b__b__aw_aw_
+!!!fok: '^a_^a_\__\__/__\__^__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: historische, Kriegs- und Soldatenlieder, Liebeslied
+!!!bem1: Mertert, hhh Johann Peter Kayser, 9.12.1917;
+!!!bem2: (160b)- Rammeldingen, hhh J.P. Gloden, 26.12.1932
+!! THILL, Mathias:
+!! PR[53] 2K[2] 2G[5] 3K[6] 3G[5] 4A[0] 4Ü[0] 5A[0] 6K[0] 6G[3]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[20] ABS[64] SR[6] SP[14]
+!! ST[11] 2k[5] 2g[13] 3k[3] 3g[3] 4d[2] 4ü[0] 5d[2] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[27] dm[-7] sr[17] sp[9]
+!! 1F[7] 2F[54] 3F[31] 4F[0] LF[0] 2P[7] 3P[0] 4P[0] TRI[0] DF[4] AB[67]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[23] N2K[0] N2[8] N3K[0] N3[15] N4[14] N4Ü[0] N5[23] N6K[0] N6[17]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

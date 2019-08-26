@@ -1,0 +1,58 @@
+!!image-file:	2262_original_image.tiff
+!!image-id:	m-390a5fa2-8070-44bc-9f42-5812c246055a
+!!system: 1, page 2262
+**kern	**neume	**facs
+*clefC4	*	*
+G.	punctum	332,308,301,286
+=	=	=
+(G	scandicus	904,285,424,246
+A	.	.
+B)	.	.
+c	punctum	520,262,502,237
+A	punctum	520,291,502,267
+B	punctum	546,271,536,246
+A	punctum	561,294,546,267
+c	virga	589,297,569,253
+B	punctum	611,294,596,266
+A	punctum	629,316,612,277
+B.	punctum	669,291,635,257
+F	punctum	780,341,763,321
+(E	torculus	883,342,830,285
+G	.	.
+F)	.	.
+F	punctum	908,325,888,302
+F	punctum	965,342,947,321
+(E	podatus	998,325,978,296
+F)	.	.
+='	='	='
+F	punctum	1118,324,1098,302
+D.	punctum	1189,358,1157,326
+(G	podatus	1198,292,1178,263
+A)	.	.
+G	punctum	1225,330,1208,277
+F	punctum	1241,326,1227,300
+(G	torculus	1301,307,1249,269
+A	.	.
+G)	.	.
+(E	torculus	1386,341,1333,284
+G	.	.
+F)	.	.
+=||	=||	=||
+(F	clivis	1484,325,1446,296
+E)	.	.
+F	punctum	1411,323,1392,300
+!!system: 2, page 2262
+*clefC4	*	*
+E	punctum	832,580,814,560
+(E	torculus	934,581,881,525
+G	.	.
+F)	.	.
+=||	=||	=||
+(F	clivis	1054,565,1016,536
+E)	.	.
+F	punctum	959,564,940,542
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=2262
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

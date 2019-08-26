@@ -1,0 +1,40 @@
+!!image-file:	911_original_image.tiff
+!!image-id:	m-f981e1d6-a4cd-4707-bffc-b1e77adfdbaa
+!!system: 1, page 911
+**kern	**neume	**facs
+*clefC4	*	*
+A	punctum	167,1124,149,1104
+A	punctum	231,1123,214,1103
+A	punctum	288,1124,270,1104
+A	punctum	425,1124,408,1104
+A	punctum	488,1124,469,1104
+A	punctum	539,1124,520,1104
+A	punctum	633,1125,616,1105
+A	punctum	690,1123,672,1104
+B	punctum	738,1130,721,1088
+A	punctum	788,1124,769,1104
+A	punctum	836,1123,818,1104
+G.	punctum	937,1140,907,1120
+G.	punctum	1000,1140,971,1118
+=||	=||	=||
+!!system: 2, page 911
+*clefC3	*	*
+c	punctum	165,1486,147,1465
+c	punctum	229,1486,212,1464
+c	punctum	286,1486,267,1465
+c	punctum	432,1487,413,1465
+c.	punctum	503,1486,478,1465
+c	punctum	543,1485,526,1465
+c	punctum	640,1485,622,1465
+c	punctum	696,1485,679,1465
+c	punctum	744,1485,728,1465
+d	punctum	801,1469,784,1448
+c	punctum	891,1485,872,1464
+(c	clivis	966,1520,919,1465
+B.)	.	.
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=911
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

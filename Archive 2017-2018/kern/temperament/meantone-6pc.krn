@@ -1,0 +1,17 @@
+!!!OTL: Meantone: regular 1/6 Pythagorean comma (with disposition Eb to G#)
+!!!URL: http://www-personal.umich.edu/~bpl/larips/meantone.html
+!!!ONB: Set to A=440
+**kern	**Dcent
+4c	5.87
+4c#	-7.82
+4d	1.96
+4d#	11.73
+4e	-1.96
+4f	7.82
+4f#	-5.87
+4g	3.91
+4a-	-9.78
+4a	0
+4b-	9.78
+4b	-3.91
+*-	*-

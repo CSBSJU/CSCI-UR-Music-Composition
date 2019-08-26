@@ -1,0 +1,49 @@
+!!!OTL: Merenchen, S. 11
+!!!id: L0005
+**kern
+*clefG2
+*k[b-]
+*a:
+{8a
+=1
+8a
+4cc
+8a
+=2yy
+8dd
+=3
+8cc
+8g
+8f
+8dd
+=4
+8cc
+8b-
+4a}
+==
+*-
+!!!minrhy: 8
+!!!meters: 2/4 ]  ZZ[1
+!!!cut: Merenchen, S. 11
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy:   X_XX  XXXX  XXX_ // 
+!!!key: L0005  08  A 2/4 ]  ZZ[1
+!!!mod: SECHSTONSKALA MOLL ?]  AMBITUS[6
+!!!kad: 1
+!!!akz: 3b3b3b_
+!!!fot: 'a__
+!!!for: 'a__
+!!!fok: 'Sd_
+!! PHRAS[VOLLTAKTIG]
+!!!fkt: Kinderlied, Reigenlied
+!! FONTAINE, Ed.:
+!! PR[38] 2K[0] 2G[0] 3K[10] 3G[0] 4A[5] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[5] MEHR[0] SI[19] ABS[21] SR[0] SP[19]
+!! ST[8] 2k[10] 2g[10] 3k[14] 3g[5] 4d[0] 4ü[0] 5d[5] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[43] dm[-24] sr[19] sp[24]
+!! 1F[96] 2F[4] 3F[0] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[2] AB[24]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[18] N2K[0] N2[5] N3K[41] N3[0] N4[14] N4Ü[0] N5[14] N6K[5] N6[0]
+!!!n7k: 0] N7[0] O1[5] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

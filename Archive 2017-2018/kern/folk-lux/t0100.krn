@@ -1,0 +1,112 @@
+!!!OTL: Die Rheinbraut (1a), S. 27
+!!!id: T0100
+**kern
+*clefG2
+*k[]
+*C:
+{8g
+=1
+4g
+8a
+4f
+8g
+=2
+8e
+8e}
+4.r
+=3
+{8g
+=4
+4g
+8a
+4f
+8g
+=5
+8e
+8e}
+4.r
+=6
+{8g
+=7
+8g
+8g
+8ee
+4ee
+8dd
+=8
+8cc
+8cc
+8e
+4g}
+=9
+{8cc
+=10
+4b
+8f
+8f
+8f
+8a
+=11
+4a
+8g
+4f}
+=12
+{8c
+8g
+=13
+8g
+8g
+8ee
+4ee
+8dd
+=14
+8cc
+8cc
+8e
+4g}
+=15
+{8cc
+=16
+4b
+8f
+8f
+8f
+8a
+=17
+4a
+8g
+4f}
+==
+*-
+!!!minrhy: 8
+!!!meters: 6/8 ]  ZZ[6
+!!!cut: Die Rheinbraut (1a), S. 27
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X  X_XX_X  XX0_.
+!!!rhy2: X  X_XX_X  XX0_.
+!!!key: T0100  08  C 6/8 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 335454
+!!!akz: 543_543_5+3+15_7464_5+3+15_7464_
+!!!fot: 'a__a__b__c__b__c__
+!!!for: 'a__a__b__c__b__c__
+!!!fok: '\__\__~__\__~__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: "Erz&auml;hlendes Lied"
+!!!bem1: STRASSEN, gesungen von Frau Witry am 24.1.1933;
+!!!bem2: gleiche Melodie (1b), anderer Text aus RAMMELDINGEN von
+!!!bem3: Nikolaus Felten am 17.2.1934; weitere Melodie (1c),
+!!!bem4: anderer Text aus ESCH/ALZETTE von Frau Rauchs 1914;
+!!!bem5: weitere Lesarten mit unwesentlichen Abweichungen aus
+!!!bem6: JUNGLINSTER (1d, 1890) und HEFFINGEN (1e, 1933)
+!! THILL, Mathias:
+!! PR[17] 2K[6] 2G[21] 3K[8] 3G[0] 4A[6] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[42] ABS[48] SR[27] SP[15]
+!! ST[12] 2k[8] 2g[17] 3k[13] 3g[4] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[42] dm[0] sr[25] sp[17]
+!! 1F[42] 2F[40] 3F[10] 4F[0] LF[0] 2P[8] 3P[0] 4P[0] TRI[0] DF[4] AB[52]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[2] N2K[0] N2[8] N3K[0] N3[14] N4[27] N4Ü[0] N5[33] N6K[0] N6[12]
+!!!n7k: 0] N7[0] O1[4] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

@@ -1,0 +1,119 @@
+!!!OTL@ENG: Clear the Way, I Come
+!!!ONM: 136
+**kern
+*Imale
+*clefF4
+*M3/4
+*MM112
+*>[A,B,B]
+*>norep[A,B]
+*>A
+8.e
+16e
+=1
+(2e
+8.c)
+16e
+=2
+16d
+8.d
+8.c
+16A
+8.A
+16A
+=3||
+*M2/4
+2A
+=4||
+*M3/4
+2A
+*>B
+=!|:
+8.c
+16c
+=5
+(4.d
+8A)
+8.A
+16d
+=6
+16d
+8.d
+8.c
+16A
+8.A
+16A
+=7
+[2A
+8A]
+16c
+16c
+=8||
+*M2/4
+8.c
+16c
+12e
+(12c
+12A)
+=9
+8.G
+16G
+16G
+8.G
+=10
+8.G
+16E
+8.E
+16E
+=11
+[2E
+=12
+4E]
+8.E
+16E
+=13||
+*M3/4
+4.E
+8C
+8.C
+16E
+=14
+16D
+8.D
+8.C
+16AA
+8.AA
+16AA
+=15||
+*M2/4
+2AA
+=16||
+*M3/4
+2AA
+==:|!
+*-
+!!!CNT: Native American -- Sioux
+!!!MRD: 1911/07//-1914///
+!!!OCL: Frances Densmore
+!!!YOR1: Teton Sioux Music, Bulletin 61,
+!!!YOR2: Bureau of American Ethnology, Smithsonian Institution
+!!!PPR: Government Printing Office
+!!!PPP: Washington, D.C.
+!!!PDT: 1918///
+!!!ENC: Craig Stuart Sapp
+!!!END: 2002/03/25/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2002/03/31/
+!!!YEC: 2002 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux136.krn
+!!!title: @{ONM}. <i>@{OTL}</i>
+!!!AGN: War Song/Song of a Typical War Expedition
+!!!MPN@@SIO: Mato'wangbli'
+!!!MPN@ENG: Bear Eagle
+!!!TXO: Teton Sioux
+!!!MLC: Standing Rock Reservation, South Dakota, United States of America
+!!!ARL: 45.9/-100.7#
+!!!catalog: Catalogue No. 634
+!!!PPG: 351
+!!!EFL: 140/245

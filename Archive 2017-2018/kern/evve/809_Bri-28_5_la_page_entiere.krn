@@ -1,0 +1,98 @@
+!!!COM:	Britten
+!!!OTL:	Bri-28/5/la page entiere
+**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern
+*part6	*part5	*part5	*part4	*part4	*part3	*part2	*part1
+*staff7	*staff6	*staff5	*staff4	*	*staff3	*staff2	*staff1
+*I"Pedals	*I"Organ	*	*I"BASS	*	*I"TENOR	*I"ALTO	*I"SOPRANO
+*I'Ped.	*I'Org.	*	*I'B.	*	*I'T.	*I'A.	*I'S.
+*clefF4	*clefF4	*clefG2	*clefF4	*	*clefG2	*clefG2	*clefG2
+*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]	*	*k[f#c#g#d#]	*k[f#c#g#d#]	*k[f#c#g#d#]
+*M7/8	*M7/8	*M7/8	*M7/8	*	*M7/8	*M7/8	*M7/8
+=1	=1	=1	=1	=1	=1	=1	=1
+8r	8r	8r	(8BBL	.	(8BL	(8BL	(8BL
+!LO:TX:t=cresc.	!	!	!	!	!	!	!
+!LO:TX:t=cresc.	!	!	!	!	!	!	!
+!LO:TX:t=cresc.	!	!	!	!	!	!	!
+!LO:TX:t=cresc.	!	!	!	!	!	!	!
+8r	8r	8r	8C#	.	8c#	8c#	8c#
+8r	8r	8r	8EJ	.	8eJ	8eJ	8eJ
+8r	8r	8r	8F#	.	8f#	8f#	8f#
+.	(16qqE	(16qqbb	.	.	.	.	.
+.	16qqF#	16qqaa#	.	.	.	.	.
+[4.EE	[4.E) [4.G# [4.B	[4.ee) [4.gg# [4.bb	4.G#)	.	4.g#)	4.g#)	4.g#)
+=2	=2	=2	=2	=2	=2	=2	=2
+4.EE]	4.E] 4.G#] 4.B]	4.ee] 4.gg#] 4.bb]	(8D#L	.	(8d#L	(8d#L	(8d#L
+.	.	.	8E	.	8e	8e	8e
+.	.	.	8G#J	.	8g#J	8g#J	8g#J
+.	(16qqE	(16qqbb	.	.	.	.	.
+.	16qqF#	16qqaa#	.	.	.	.	.
+[4.EE	[4.E) [4.G# [4.B	[4.ee) [4.gg# [4.bb	8A#	.	8a#	8a#	8a#
+.	.	.	4.B)	.	4.b)	4.b)	4.b)
+8EE_	8E_ 8G#_ 8B_	8ee_ 8gg#_ 8bb_	.	.	.	.	.
+=3	=3	=3	=3	=3	=3	=3	=3
+4EE]	4E] 4G#] 4B]	4ee] 4gg#] 4bb]	(8G#L	.	(8g#L	(8G#L	(8g#L
+.	.	.	8A#	.	8a#	8A#	8a#
+.	(16qqE	(16qqbb	.	.	.	.	.
+.	16qqF#	16qqaa#	.	.	.	.	.
+[4.EE	[4.E) [4.G# [4.B	[4.ee) [4.gg# [4.bb	8c#J	.	8cc#J	8c#J	8cc#J
+.	.	.	8d#	.	8dd#	8d#	8dd#
+.	.	.	4.e)	.	4.ee)	4.e)	4.ee)
+8EEL_	8EL_ 8G#_ 8B_	8eeL_ 8gg#_ 8bb_	.	.	.	.	.
+8EEJ_	8EJ_ 8G#_ 8B_	8eeJ_ 8gg#_ 8bb_	.	.	.	.	.
+=4	=4	=4	=4	=4	=4	=4	=4
+*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4
+8EE]	8E] 8G#] 8B]	8ee] 8gg#] 8bb]	4e^	.	4ee^	4e^	4ee^
+.	(16qqE	(16qqbb	.	.	.	.	.
+.	16qqF#	16qqaa#	.	.	.	.	.
+[4.EE	[4.E) [4.G# [4.B	[4.ee) [4.gg# [4.bb	.	.	.	.	.
+.	.	.	4e^	.	4ee^	4e^	4ee^
+8EEL_	8EL_ 8G#_ 8B_	8eeL_ 8gg#_ 8bb_	4e^	.	4ee^	4e^	4ee^
+8EEJ_	8EJ_ 8G#_ 8B_	8eeJ_ 8gg#_ 8bb_	.	.	.	.	.
+=5	=5	=5	=5	=5	=5	=5	=5
+!!pagebreak:original
+*M11/8	*M11/8	*M11/8	*M11/8	*	*M11/8	*M11/8	*M11/8
+8EE]	8E] 8G#] 8B]	8ee] 8gg#] 8bb]	(4.e^	.	(4.ee^	(4.e^	(4.ee^
+.	(16qqC	(16qqccc	.	.	.	.	.
+.	16qqD#X	16qqbb-	.	.	.	.	.
+2.EEn	2.E) 2.A- 2.c	2.ee-) 2.aa- 2.ccc#	.	.	.	.	.
+.	.	.	8C)	.	8c)	8c)	8c)
+.	.	.	[4.C	>	[4.c	[4.c	[4.c
+.	(16qqC	(16qqccc	.	.	.	.	.
+.	16qqD#X	16qqbb-	.	.	.	.	.
+[2EEn	[2E) [2A- [2c	[2ee-) [2aa- [2ccc#	4C]	.	4c]	4c]	4c]
+.	.	.	4r	]	4r	4r	4r
+=6	=6	=6	=6	=6	=6	=6	=6
+*M7/8	*M7/8	*M7/8	*M7/8	*	*M7/8	*M7/8	*M7/8
+4EEn_	4E] 4A-] 4c]	4ee-] 4aa-] 4ccc#]	8CL	.	8cL	8cL	8cL
+.	.	.	8C	.	8c	8c	8c
+.	(16qqC	(16qqccc	.	.	.	.	.
+.	16qqD#X	16qqbb-	.	.	.	.	.
+2EEn_	[2E) [2A- [2c	[2ee-) [2aa- [2ccc#	8CJ	.	8cJ	8cJ	8cJ
+.	.	.	8DL	.	8dL	8dL	8dL
+.	.	.	8E-J	.	8e-J	8e-J	8e-J
+.	.	.	8DL	.	8dL	8dL	8dL
+8EE_	8E_ 8A-_ 8c_	8ee-_ 8aa-_ 8ccc#_	8CJ	.	8cJ	8cJ	8cJ
+=7	=7	=7	=7	=7	=7	=7	=7
+*M5/8	*M5/8	*M5/8	*M5/8	*	*M5/8	*M5/8	*M5/8
+8EE]	8E] 8A-] 8c]	8ee-] 8aa-] 8ccc#]	8GL	.	8gL	8gL	8gL
+.	(16qqC	(16qqccc	.	.	.	.	.
+.	16qqD#X	16qqbb-	.	.	.	.	.
+[2EE	[2E) [2A- [2c	[2ee-) [2aa- [2ccc#	8G	.	8g	8g	8g
+.	.	.	8GJ	.	8gJ	8gJ	8gJ
+.	.	.	8FL	.	8fL	8fL	8fL
+.	.	.	8E-J	.	8e-J	8e-J	8e-J
+=8	=8	=8	=8	=8	=8	=8	=8
+*M2/4	*M2/4	*M2/4	*M2/4	*	*M2/4	*M2/4	*M2/4
+4EE]	8EL_ 8A-_ 8c_	8ee-L_ 8aa-_ 8ccc#_	4C	.	4c	4c	4c
+.	8EJ] 8A-] 8c]	8ee-J] 8aa-] 8ccc#]	.	.	.	.	.
+.	(16qqE	(16qqccc	.	.	.	.	.
+.	16qqF#X	16qqddd	.	.	.	.	.
+[4CC	[4E) [4G [4c	[4een) [4gg [4ccc	4C	.	4c	4c	4c
+=9	=9	=9	=9	=9	=9	=9	=9
+2CC]	4E_ 4G_ 4c_	4ee_ 4gg_ 4ccc_	2r	.	2r	2r	2r
+.	8EL_ 8G_ 8c_	8eeL_ 8gg_ 8ccc_	.	.	.	.	.
+.	8EJ] 8G] 8c]	8eeJ] 8gg] 8ccc]	.	.	.	.	.
+==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2,s3,s4)]{(s5,s6)}s7
+!!!YEM:	Copyright © Natalie Dietterich

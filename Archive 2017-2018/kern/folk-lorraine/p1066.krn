@@ -1,0 +1,116 @@
+!!!OTL: Das Hausen f&auml;llt mir viel zu schwer (3-93), S. 256
+!!!id: P1066
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+=1
+8g
+8f#
+8g
+8a
+=2
+8b
+8a
+8g}
+=3
+{8g
+=4
+8dd
+8ee
+8dd
+8cc
+=5
+16a
+8.b
+8a}
+=6
+{8d
+=7
+8g
+8f#
+8g
+8a
+=8
+8b
+8a
+8g}
+=9
+{8g
+=10
+8dd
+8ee
+8dd
+8cc
+=11
+16a
+8.b
+8a}
+=12
+{8a
+=13
+8a
+8dd
+8dd
+8ee
+=14
+8dd
+8cc
+8b}
+=15
+{8dd
+=16
+8dd
+8g
+8g
+8f#
+=17
+8g
+8e
+8d}
+=18
+{8d
+=19
+4g
+8g
+8g
+=20
+4a
+8dd}
+=21
+{8b
+=22
+2a
+=23
+4g}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[8
+!!!cut: Das Hausen f&auml;llt mir viel zu schwer (3-93), S. 256
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd3, Metz 1933
+!!!rhy1: X_  X_X_X_X_  X_X_X_
+!!!rhy2: X_  X_X_X_X_  XX_.X_
+!!!key: P1066  16  G 2/4 ]  ZZ[8
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: 12123-551
+!!!akz: 13_52_13_52_25_51_12_21_
+!!!fot: 'a__b__a__b__c__d__e__f__
+!!!for: 'a__b__a__b__a__a__c__d__
+!!!fok: '^a_^a_^a_^a_^a_\__/__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Eheverdru&szlig;
+!! LOTH VKL
+!! PR[25] 2K[6] 2G[14] 3K[3] 3G[0] 4A[8] 4Ü[0] 5A[0] 6K[0] 6G[3]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[33] ABS[36] SR[19] SP[14]
+!! ST[18] 2k[11] 2g[17] 3k[6] 3g[8] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[42] dm[-9] sr[28] sp[14]
+!! 1F[12] 2F[51] 3F[17] 4F[0] LF[0] 2P[12] 3P[7] 4P[0] TRI[0] DF[5] AB[41]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[5] U6K[0] U6[3] U7K[0] U7[11]
+!! N1[27] N2K[0] N2[24] N3K[0] N3[19] N4[8] N4Ü[0] N5[3] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &szlig; = sz ligature (UTF-8: ÃŸ)
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

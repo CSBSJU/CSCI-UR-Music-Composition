@@ -1,0 +1,75 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 3, No. 10
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[]	*k[]	*k[]	*k[]
+*a:	*a:	*a:	*a:
+*M3/2	*M3/2	*M3/2	*M3/2
+=1	=1	=1	=1
+2r	2r	1.r	2r
+2r	2r	.	2r
+2C	2C	.	2ee
+=2	=2	=2	=2
+1D	1D	2r	[1.a
+.	.	2r	.
+2D	2D	2ff	.
+=3	=3	=3	=3
+1E	1E	[1.b	2a]
+.	.	.	2g#
+2D	2D	.	2bb
+=4	=4	=4	=4
+1C	1C	2b]	[1.ee
+.	.	2a	.
+2C	2C	2ccc	.
+=5	=5	=5	=5
+2D	2D	2ff#	2ee]
+2E	2E	2gg#	2dd
+2F	2F	2aa	4cc
+.	.	.	4b
+=6	=6	=6	=6
+2D	2D	2a	2cc
+2E	2E	2.a	1b
+2EE	2EE	.	.
+.	.	4g#	.
+=7	=7	=7	=7
+1AA	1AA	2a	1a
+.	.	[1ee	.
+2C	2C	.	2ee
+=8	=8	=8	=8
+2D	2D	2ee]	2f#
+2E	2E	[1dd	2g#
+2F	2F	.	2a
+=9	=9	=9	=9
+1E	1E	1dd]	1g#
+[2D#	[2D#	[2cc	[2a
+=10	=10	=10	=10
+2D#]	2D#]	2cc]	2a]
+1E	1E	1b	2.a
+.	.	.	4g#
+=11	=11	=11	=11
+1.AA	1.AA	1.a	1.a
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 4171197795
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 1287197117

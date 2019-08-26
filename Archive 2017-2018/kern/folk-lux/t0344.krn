@@ -1,0 +1,88 @@
+!!!OTL: Auswndererlied (170d), S. 370f
+!!!id: T0344
+**kern
+*clefG2
+*k[]
+*G:
+{4d
+=1
+4g
+4g
+4a
+4a
+=2
+4b
+8dd
+8cc
+4a
+8b
+8a
+=3
+4g}
+2r
+=4
+{4cc
+=5
+4cc
+4ee
+4ee
+8dd
+8cc
+=6
+4b
+4dd
+4dd
+8cc}
+=7
+{8b
+=8
+4a
+4cc
+4cc
+8b
+8a
+=9
+4g
+4b
+4dd}
+=10
+{8.g
+16b
+=11
+4dd
+8a
+8cc
+4.b
+8a
+=12
+4g}
+2r
+==
+*-
+!!!minrhy: 16
+!!!meters: 4/4 ]  ZZ[4
+!!!cut: Auswndererlied (170d), S. 370f
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette, 1937 posth.
+!!!rhy1: X__  X__X__X__X__  X__X_X_X__X_X_  X__0__   (x2)
+!!!rhy2: X__  X__X__X__X_X_  X__X__X__X_
+!!!key: T0344  16  G 4/4 ]  ZZ[4
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[9
+!!!kad: 1451
+!!!akz: 12321_4635_2415_531_
+!!!fot: 'a__b__bs"c__
+!!!for: 'a__b__bw_c__
+!!!fok: '^a_^__Va_^__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Abschieds- und Wanderlieder, Heimatlieder
+!!!bem: Esch-Alzette, hhh Dominik M&uuml;ller, 1.6.1915
+!! THILL, Mathias:
+!! PR[22] 2K[4] 2G[7] 3K[7] 3G[7] 4A[4] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[30] ABS[27] SR[11] SP[19]
+!! ST[7] 2k[11] 2g[26] 3k[4] 3g[4] 4d[0] 4ü[0] 5d[4] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[48] dm[-18] sr[37] sp[11]
+!! 1F[7] 2F[63] 3F[17] 4F[0] LF[0] 2P[0] 3P[13] 4P[0] TRI[0] DF[4] AB[30]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[4] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[21] N2K[0] N2[18] N3K[0] N3[32] N4[14] N4Ü[0] N5[11] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &uuml;  = u umlaut (UTF-8: Ã¼)

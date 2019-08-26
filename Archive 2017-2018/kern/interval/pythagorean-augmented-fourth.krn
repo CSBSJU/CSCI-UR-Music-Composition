@@ -1,0 +1,16 @@
+!!!OTL: Pythagorean augmented fourth (611.730 cents)
+!!!ratio: 729/512
+!! C to F# in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4ff#	11.730	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1ff#	11.730
+*-	*-	*-	*-

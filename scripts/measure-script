@@ -1,0 +1,24 @@
+#!/bin/bash
+
+cd ~/kernFiles/$1
+
+for file in *.krn; do
+
+	numS=$(grep '**kern' $file | wc -w)
+
+	echo -n START_TOKEN
+
+	extract -p $numS $file |
+		sed 's/\\$//g' | 
+		humsed '/^[^=]/s/[^0-9.r ]//g' | 
+		grep -v -e '^$' -e '^!' -e '^[.]$' -e '^*' |
+		sed -e 's/ /:/g' -e 's/=.*/=/g' |
+		tr '\n' '-' | 
+		tr '=' '\n' |
+		sed 's/^-//g' |
+		tr -s '\n' '\n' |
+		sed -e ':a' -e 'N' -e '$!ba' -e 's/START_TOKEN\n/START_TOKEN/g' |
+		awk 'NR>1{print PREV} {PREV=$0} END{printf("%s",$0)}'
+	
+	echo END_TOKEN
+done

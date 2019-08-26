@@ -1,0 +1,16 @@
+!!!OTL: Just perfect fifth (701.95 cents)
+!!!ratio: 3:2
+!!!URL: http://en.wikipedia.org/wiki/Perfect_fifth
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4gg	1.95	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1gg	1.95
+*-	*-	*-	*-

@@ -1,0 +1,106 @@
+!!!OTL: Des M&auml;dchens Lebensstufen (199), S. 434
+!!!id: T0381
+**kern
+*clefG2
+*k[]
+*C:
+{8e
+8f
+=1
+8a
+8g
+4g
+8e
+8f
+=2
+8a
+8g
+4g}
+=3
+{8g
+8cc
+=4
+4b
+4a
+8g
+8f
+=5
+4f
+4e}
+=6
+{8e
+8f
+=7
+8a
+8g
+4g
+8e
+8f
+=8
+8a
+8g
+4g}
+=9
+{8g
+8cc
+=10
+4b
+4a
+8g
+8f
+=11
+4f
+4e}
+=12
+{8e
+8f
+=13
+4g
+4ee
+8dd
+8cc
+=14
+4cc
+4b}
+=15
+{8f
+8a
+=16
+4a
+4g
+8g
+8dd
+=17
+4dd
+4cc}
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 ]  ZZ[6
+!!!cut1: Des M&auml;dchens Lebensstufen (199), S. 434
+!!!cut2: 1. Melodie
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette, 1937 posth.
+!!!rhy1: XX  XXX_XX  XXX_
+!!!rhy2: XX  X_X_XX  X_X_
+!!!key: T0381  08  C 3/4 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[8
+!!!kad: 53537+1
+!!!akz: 66_74_66_74_5+1_6+2_
+!!!fot: 'a__b__a__b__c__cs"
+!!!for: 'a__b__a__b__b__b__
+!!!fok: '~a_^d_~a_^d_^a_/__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Hochzeits-, Ehestandslied
+!!!bem1: Hamm, fff Elise Thomas, durch Vermittlung von
+!!!bem2: ff Erasmy erhalten, 14.6.1933
+!! THILL; Mathias
+!! PR[22] 2K[13] 2G[7] 3K[0] 3G[8] 4A[7] 4Ü[0] 5A[2] 6K[0] 6G[2]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[38] ABS[60] SR[20] SP[18]
+!! ST[14] 2k[5] 2g[20] 3k[10] 3g[0] 4d[3] 4ü[0] 5d[0] 6k[0] 6g[2]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[40] dm[-2] sr[25] sp[15]
+!! 1F[68] 2F[29] 3F[0] 4F[0] LF[0] 2P[3] 3P[0] 4P[0] TRI[0] DF[3] AB[62]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[0] N2K[0] N2[2] N3K[0] N3[15] N4[15] N4Ü[0] N5[26] N6K[0] N6[20]
+!!!n7k: 0] N7[7] O1[11] O2K[0] O2[3] O3K[0] O3[2] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

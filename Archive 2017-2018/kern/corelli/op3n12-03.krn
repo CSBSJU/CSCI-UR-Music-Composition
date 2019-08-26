@@ -1,0 +1,91 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 3, No. 12
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[f#c#]	*k[f#c#]	*k[f#c#]	*k[f#c#]
+*b:	*b:	*b:	*b:
+*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1
+4E	4E	4a#	4cc#
+4D#	4D#	2r	8ff#
+.	.	.	8b
+4C#	4C#	.	4.ee
+4F#	4F#	[4cc#	.
+.	.	.	16dd#
+.	.	.	16cc#
+=2	=2	=2	=2
+4B	4B	4cc#]	4dd#
+4BB	4BB	8b	8r
+.	.	8a	8ff#
+4E	4E	8g#	8ee
+.	.	8a#	8dd#
+4BB	4BB	[4b	8cc#
+.	.	.	8b
+=3	=3	=3	=3
+4F#	4F#	4b]	4dd#
+4FF#	4FF#	4a#	4cc#
+4.BB	4.BB	4b	4b
+.	.	4r	[4bb
+8GG#	8GG#	.	.
+=4	=4	=4	=4
+8AA	8AA	2ccc#	4bb]
+8BB	8BB	.	.
+8C#	8C#	.	2aa
+8D#	8D#	.	.
+8E	8E	2bb	.
+8F#	8F#	.	.
+8G#	8G#	.	[4gg#
+8E	8E	.	.
+=5	=5	=5	=5
+8F#	8F#	2aa	4gg#]
+8E	8E	.	.
+8D#	8D#	.	2ff#
+8BB	8BB	.	.
+8E	8E	[2gg#	.
+8F#	8F#	.	.
+8G#	8G#	.	8ee
+8E	8E	.	8dd
+=6	=6	=6	=6
+4A	4A	4gg#]	8cc#
+.	.	.	8dd#
+4A#	4A#	4gg	2ee
+4B	4B	2ff#	.
+4BB	4BB	.	4dd#
+=7	=7	=7	=7
+4E	4E	2ee	4ee
+4D#	4D#	.	4b
+4C#	4C#	4r	2e
+[4AA	[4AA	4cc#	.
+=8	=8	=8	=8
+4AA]	4AA]	4f#	4d#
+8GG#	8GG#	8b	2e
+8AA	8AA	8cc#	.
+2BB	2BB	4g#	.
+.	.	4f#	4d#
+=9	=9	=9	=9
+1EE	1EE	1g#	1e
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 807102198
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 276653894

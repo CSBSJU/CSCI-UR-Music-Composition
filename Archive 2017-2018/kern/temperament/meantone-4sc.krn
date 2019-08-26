@@ -1,0 +1,16 @@
+!!!OTL: Meantone: 1/4 Syntonic comma 
+!!!URL: http://en.wikipedia.org/wiki/Quarter-comma_meantone
+**kern	**Dcent
+4c	0
+4c#	-24.0
+4d	-6.8
+4d#	+10.3
+4e	-13.7
+4f	+3.4
+4f#	-20.5
+4g	-3.4
+4a-	-27.4
+4a	-10.3
+4b-	+6.8
+4b	-17.1
+*-	*-

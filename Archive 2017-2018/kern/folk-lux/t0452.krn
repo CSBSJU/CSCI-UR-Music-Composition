@@ -1,0 +1,80 @@
+!!!OTL: Der Birnbaum (262), S. 559f
+!!!id: T0452
+**kern
+*clefG2
+*k[]
+*G:
+*M6/8
+{8b
+8b
+8b
+8b
+8a
+8b
+=2
+4.dd
+4cc}
+8r
+=3
+{8a
+8a
+8a
+8dd
+8dd
+8dd
+=4
+4b}
+4.r
+=5
+{8b
+=6
+8b
+8b
+16b
+16b
+8b}
+8r
+=7
+{8b
+=8
+8b
+8b
+16b
+16b
+8b}
+4r
+=9
+{8b
+8b
+8b}
+4.r
+==
+*-
+!!!minrhy: 16
+!!!meters: 6/8 ]  ZZ[5
+!!!cut: Der Birnbaum (262), S. 559f
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette, 1937 posth.
+!!!rhy1: X_X_X_X_X_X_  X__.X__0   (x2)
+!!!rhy2: X_X_X_X_X_X_  X__0_.
+!!!key: T0452  16  G 6/8 ]  ZZ[5
+!!!mod: VIERTONSKALA ]  AMBITUS[4
+!!!kad: 43333
+!!!akz: 3354_253_33_33_3_
+!!!fot: 'a__b__c__c__d__
+!!!for: 'a__aw_b__bv_aw_
+!!!fok: '/__^a_-__-__-__
+!! PHRAS[GEMISCHTTAKTIG]
+!!!fkt: Scherz-, Spiel-, Spottlied
+!!!bem1: Jede Strophe wird um eine (die letzte) Zeile verl&auml;ngert;
+!!!bem2: Heffingen, fff Magdalena Berchem, 1908
+!! THILL; Mathias
+!! PR[44] 2K[8] 2G[19] 3K[3] 3G[0] 4A[2] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[32] ABS[91] SR[26] SP[5]
+!! ST[27] 2k[3] 2g[11] 3k[4] 3g[0] 4d[5] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[24] dm[+8] sr[14] sp[10]
+!! 1F[2] 2F[83] 3F[15] 4F[0] LF[0] 2P[0] 3P[0] 4P[0] TRI[0] DF[3] AB[95]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[1] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[7] N2K[0] N2[12] N3K[0] N3[13] N4[13] N4Ü[0] N5[32] N6K[0] N6[13]
+!!!n7k: 0] N7[4] O1[5] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

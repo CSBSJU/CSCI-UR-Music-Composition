@@ -1,0 +1,128 @@
+!!!OTL: R&oacute;isin dubh, S. 132
+!!!id: I0551
+**kern
+*clefG2
+*k[]
+*C:
+{8g
+8e
+=1
+4g
+4c
+8e
+8g
+=2
+16dd
+16cc
+16ee
+16dd
+8cc
+8a
+8g
+8e
+=3
+8d
+8c
+4e
+4d
+=4
+2c}
+=5
+{8cc
+8dd
+=6
+4ee
+4ff
+8ee
+8cc
+=7
+4ee
+8dd
+8cc
+8b
+8g
+=8
+8dd
+8cc
+4ee
+4dd
+=9
+2cc
+=10
+16dddd
+16cccc}
+{8cc
+8dd
+=11
+4ee
+4ff
+8ee
+8cc
+=12
+4ee
+8dd
+8cc
+8b
+8g
+=13
+8dd
+8cc
+4ee
+4dd
+=14
+4cc
+4a
+=15
+16eeee
+16cccc}
+{8g
+8e
+=16
+4g
+4c
+8e
+8g
+=17
+16dd
+16cc
+16ee
+16dd
+8cc
+8a
+8g
+8e
+=18
+8d
+8c
+4e
+4d
+=19
+2c}
+==
+*-
+!!!minrhy: 16
+!!!meters: 3/4 ]  ZZ[4
+!!!cut: R&oacute;isin dubh, S. 132
+!!!reg: Irland
+!!!trd: O'SULLIVAN, Donal: Song of the Irish
+!!!rhy1: X_X_  X__X__X_X_  XXXXX_X_X_X_  X_X_X__X__  X___
+!!!rhy2: X_X_  X__X__X_X_  X__X_X_X_X_  X_X_X__X__  X___
+!!!key: I0551  16  C 3/4 ]  ZZ[4
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[11
+!!!kad: 1+161
+!!!akz: 5+221_+3+3+2+1_+3+3+2+1_5+221_
+!!!fot: 'a__b__bv_a__
+!!!for: 'a__b__bw_a__
+!!!fok: 'Sd_^__^d_Sd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Heimatlied
+!! IRISCHE V
+!! PR[5] 2K[8] 2G[11] 3K[7] 3G[8] 4A[1] 4Ü[0] 5A[0] 6K[1] 6G[0]
+!! 7K[0] 7G[0] 8A[3] MEHR[0] SI[37] ABS[119] SR[18] SP[18]
+!! ST[16] 2k[17] 2g[24] 3k[6] 3g[11] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[58] dm[-21] sr[41] sp[17]
+!! 1F[1] 2F[92] 3F[7] 4F[0] LF[0] 2P[1] 3P[0] 4P[0] TRI[0] DF[4] AB[120]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[5]
+!! N1[16] N2K[0] N2[16] N3K[0] N3[22] N4[17] N4Ü[0] N5[10] N6K[0] N6[3]
+!!!n7k: 0] N7[3] O1[5] O2K[0] O2[3] O3K[0] O3[3] HÖ[0
+!!!RNB: symbol: &oacute;= o acute  (UTF-8: Ã³)

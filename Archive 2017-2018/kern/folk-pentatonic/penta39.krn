@@ -1,0 +1,116 @@
+!!!OTL: Swing Low, Sweet Chariot
+!!!ARE: United States of America
+!!!AGN: Negro Spiritual
+!!!AMD: Pentatonic
+**kern
+*>[A,B,B,A]
+*>norep[A,B,A]
+*>A
+=1-
+*clefG2
+*k[b-]
+*met(C)
+*M4/4
+*MM52
+!! Solo
+{(4a/
+2f/
+4a/
+=2
+4.f/
+8f/
+&(8d/
+4.c/&))}
+=3
+!! Chorus
+{(8f/L
+8f/J
+8f/L
+8f/J
+8a\L
+8cc\J
+4cc\
+=4
+1cc)}
+=5
+!! Solo
+{(&(8dd\L
+8cc\J&)
+2a/
+4cc\
+=6
+4.f/
+8f/
+&(8d/
+4.c/&))}
+=7
+!! Chorus
+{(8f/L
+8f/J
+8f/L
+8f/J
+8a/L
+8a/J
+4g/
+=8
+2.f/)}
+!! Fine
+==||
+*>B
+8r
+!! Solo
+{(8a/
+=9
+4cc\
+8f/L
+8d/J
+[8f/
+4f/]
+8f/
+=10
+[8f/L
+8f/J]
+8f/L
+8f/J
+8d/
+4.c/)}
+=11
+!! Chorus
+{(8f/L
+8f/J
+8f/L
+8f/J
+8a\L
+8cc\J
+4cc\
+=12
+2.cc\)}
+8r
+!! Solo
+{(8cc\
+=13
+&(8dd\
+4cc\&)
+8a/
+4a/
+4f/)
+=14
+(8f/L
+8f/J
+8f/L
+8f/J
+&(8d/
+4.c/&)}
+=15
+!! Chorus
+{8f/L
+8f/J
+8f/L
+8f/J
+8a/L
+8a/J
+4g/
+=16
+1f)}
+==:|!
+*-

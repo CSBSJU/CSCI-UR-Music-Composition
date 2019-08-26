@@ -1,0 +1,130 @@
+!!!OTL@ENG: I Come
+!!!ONM: 100
+**kern
+*Imale
+*clefF4
+*k[b-e-a-d-g-]
+*M3/4
+*MM92
+*>[A,B,B]
+*>norep[A,B]
+*>A
+=1
+4f
+4f
+8.f
+16d-
+=2
+16f
+8.f
+8f
+8d-
+8.d-
+16B-
+=3
+16d-
+8.d-
+8d-
+8B-
+8.B-
+16F
+=4
+16B-
+8.B-
+8B-
+8F
+8F
+8F
+=5||
+*M2/4
+4F
+8F
+8F
+=6||
+*M3/4
+4B-
+8B-
+8B-
+8.B-
+16F
+=7
+16B-
+8.B-
+8B-
+8F
+8F
+8F
+=8||
+*M2/4
+2F
+=9!|:
+*M3/4
+*>B
+8F
+8d-
+16d-
+16d-
+8d-
+8d-
+8d-
+=10
+8f
+16.d-
+32d-
+4B-
+8.B-
+16F
+=11||
+*M2/4
+16B-
+8.B-
+8B-
+8F
+=12||
+*M3/4
+8F
+8F
+4F
+8F
+8F
+=13
+4.B-
+8B-
+8.B-
+16F
+=14
+16B-
+8.B-
+8B-
+8F
+8F
+8F
+=15
+2.F
+==:|!
+*-
+!!!CNT: Native American -- Sioux
+!!!MRD: 1911/07//-1914///
+!!!OCL: Frances Densmore
+!!!YOR1: Teton Sioux Music, Bulletin 61,
+!!!YOR2: Bureau of American Ethnology, Smithsonian Institution
+!!!PPR: Government Printing Office
+!!!PPP: Washington, D.C.
+!!!PDT: 1918///
+!!!ENC: Craig Stuart Sapp
+!!!END: 2002/03/25/
+!!!EED: Craig Stuart Sapp
+!!!EEV: 2002/03/31/
+!!!YEC: 2002 Craig Stuart Sapp
+!!!YEM: Licence: (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0
+!!!URL: https://raw.githubusercontent.com/craigsapp/densmore-teton-sioux/master/kern/sioux100.krn
+!!!title: @{ONM}. <i>@{OTL}</i>
+!!!AGN: Society Song/Song of the Buffalo Society
+!!!MPN@@SIO: Chetang'-hota
+!!!MPN@ENG: Gray Hawk
+!!!TXO: Teton Sioux
+!!!MLC: Standing Rock Reservation, South Dakota, United States of America
+!!!ARL: 45.9/-100.7#
+!!!catalog: Catalogue No. 546
+!!!PPG: 291
+!!!EFL: 100/245

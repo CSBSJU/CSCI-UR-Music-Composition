@@ -1,0 +1,7 @@
+#!/bin/bash
+
+cd ~/textFiles
+
+
+
+grep -o -E '\w+' $1

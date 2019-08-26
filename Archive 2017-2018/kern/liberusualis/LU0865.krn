@@ -1,0 +1,48 @@
+!!image-file:	865_original_image.tiff
+!!image-id:	m-09c1837d-8824-4477-98c3-ba427b039e91
+!!system: 1, page 865
+**kern	**neume	**facs
+*clefC4	*	*
+(F	clivis	144,332,111,282
+E)	.	.
+(F	podatus	263,303,245,258
+G)	.	.
+D.	punctum	340,335,311,303
+='	='	='
+D	punctum	470,335,453,314
+D	punctum	517,336,501,315
+(G	porrectus	566,305,516,265
+F	.	.
+G)	.	.
+A	punctum	637,269,620,251
+G	punctum	686,286,668,266
+(F	clivis	748,330,715,282
+E)	.	.
+(F	podatus	798,304,780,259
+G)	.	.
+F	punctum	819,305,806,284
+D	punctum	843,338,830,315
+=`	=`	=`
+(E	podatus	981,321,963,280
+F)	.	.
+G	punctum	1083,286,1067,267
+(F	clivis	1154,336,1120,282
+E)	.	.
+D.	punctum	1214,335,1185,305
+D	punctum	1266,335,1249,315
+=||	=||	=||
+!!system: 2, page 865
+*clefC4	*	*
+A	punctum	128,515,110,494
+A	punctum	175,515,158,494
+G	punctum	222,532,206,510
+F	punctum	272,550,253,526
+(G	podatus	318,533,301,492
+A)	.	.
+G.	punctum	378,531,349,511
+=||	=||	=||
+*-	*-	*-
+!!!URL: http://ddmal.music.mcgill.ca/liber#p=865
+!!!SMS: Liber Usualis, Desclee Company; New York, NY; 1961
+!!!URL: http://www.sanctamissa.org/en/music/gregorian-chant/choir/liber-usualis-1961.pdf
+!!!ONB: Converted from MEI 2011-05 data on 2012/11/08/ by Craig Stuart Sapp

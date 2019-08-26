@@ -1,0 +1,113 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 4, No. 10
+!!!OMV: 2
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[]	*k[]	*k[]	*k[]
+*a:	*a:	*a:	*a:
+*M4/4	*M4/4	*M4/4	*M4/4
+=1	=1	=1	=1
+2.E	2.E	1r	2.r
+4D	4D	.	[4b
+=2	=2	=2	=2
+2C	2C	4r	4b]
+.	.	2ee	4a
+2BB	2BB	.	4g
+.	.	4dd	[4bb
+=3	=3	=3	=3
+4E	4E	2cc	4bb]
+4F#	4F#	.	2aa
+4G	4G	4b	.
+4GG	4GG	4bb	[4gg
+=4	=4	=4	=4
+4D	4D	2aa	4gg]
+4D#	4D#	.	2ff#
+4E	4E	2gg	.
+[4e	[4e	.	4ee
+=5	=5	=5	=5
+4e]	4e]	4ff#	4a#
+8d	8d	8ff#	2b
+8e	8e	8gg	.
+4f#	4f#	4dd	.
+4F#	4F#	4cc#	4a#
+=6	=6	=6	=6
+4.G	4.G	4b	4b
+.	.	4r	2ee
+8A	8A	.	.
+4.B	4.B	2ff#	.
+.	.	.	[4dd
+8A	8A	.	.
+=7	=7	=7	=7
+8G#	8G#	2ee	4dd]
+8E	8E	.	.
+2A	2A	.	4cc
+.	.	2dd	[2b
+4G#	4G#	.	.
+=8	=8	=8	=8
+8A	8A	2cc	8b]
+8AA	8AA	.	8e
+8C	8C	.	2a
+8D	8D	.	.
+4.E	4.E	4b	.
+.	.	[4ee	4g
+8E	8E	.	.
+=9	=9	=9	=9
+4A	4A	4ee]	2f
+4B	4B	2dd	.
+4c	4c	.	4e
+4E	4E	4cc	4gg
+=10	=10	=10	=10
+4F	4F	8a	4aa
+.	.	8b	.
+8E	8E	2cc	8gg
+8F	8F	.	8aa
+4G	4G	.	4ee
+4G#	4G#	[4b	4dd
+=11	=11	=11	=11
+4.A	4.A	8b]	4.cc
+.	.	8e	.
+.	.	2a	.
+8A	8A	.	8cc
+4D#	4D#	.	4.b
+4E	4E	4g	.
+.	.	.	8b
+=12	=12	=12	=12
+4AA	4AA	8f#	4a
+.	.	8d#	.
+4AA#	4AA#	2e	8g
+.	.	.	8f#
+2BB	2BB	.	4g
+.	.	4d#	4f#
+=13	=13	=13	=13
+4E	4E	4e	4e
+4r	4r	4r	4r
+4D	4D	4f#	4b
+4r	4r	4r	4r
+=14	=14	=14	=14
+4C	4C	4e	4a
+4r	4r	4r	4r
+2BB	2BB	2d#	2b
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 2523885150
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 3085906063

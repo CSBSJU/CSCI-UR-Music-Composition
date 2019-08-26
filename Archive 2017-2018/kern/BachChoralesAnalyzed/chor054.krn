@@ -1,0 +1,89 @@
+!!!COM: Bach, Johann Sebastian
+!!!CDT: 1685/3//-1750/7/28/
+!!!OTL@@DE: Lobt Gott, ihr Christen, allzugleich
+!!!AGN: 4-Part Chorale
+!!!SCT: BH 054
+!!!SCT: BWV 151
+!!!YEC: Copyright 2001 by Craig Stuart Sapp
+!!!license: GNU General Public License (http://www.gnu.org/copyleft/gpl.html)
+!!!SMA: 371 Bach Chorales, edited by Ludwig Erk, C.F. Peters
+!!!PDT: 1850, 1865
+!!!ONB: Harmony and Root analysis done manually by Craig Sapp
+**harm	**root	**kern	**kern	**kern	**kern
+!	!	!bass	!tenor	!alto	!soprno
+*	*Iorgan	*Iorgan	*Iorgan	*Iorgan	*Iorgan
+*	*	*clefF4	*clefF4	*clefG2	*clefG2
+*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]	*k[f#]
+*G:	*G:	*G:	*G:	*G:	*G:
+*M4/4	*M4/4	*M4/4	*M4/4	*M4/4	*M4/4
+*met(C)	*met(C)	*met(C)	*met(C)	*met(C)	*met(C)
+*MM60	*MM60	*MM60	*MM60	*MM60	*MM60
+I	4GG	4G	4B	4d	4g
+=1	=1	=1	=1	=1	=1
+Vb	4DD	4F#	4A	8d	4dd
+.	.	.	.	8e	.
+V7	4DD	4D	8d	4f#	4dd
+.	.	.	8c	.	.
+I	4GG	8G	8B	4g	4dd
+.	.	8A	8c	.	.
+Ib	4GG	4B	4d	4g	4dd
+=2	=2	=2	=2	=2	=2
+IV	4CC	4C	8c	4g	4ee
+.	.	.	8B	.	.
+V7	4DD	4D	8A	4f#	8dd
+.	.	.	8d	.	8cc
+I;	4GG;	4G;	4d;	4g;	4b;
+Vb	4DD	4F#	4d	4a	4a
+=3	=3	=3	=3	=3	=3
+vi	4EE	4E	4G	4g	8b
+.	.	.	.	.	8cc#
+V	4DD	4D	4A	4f#	4dd
+vib	4EE	4G	4B	8e	4ee
+.	.	.	.	8f#	.
+V7/V	4AA	4A	4c#	4g	4ee
+=4	=4	=4	=4	=4	=4
+V;	2DD;	2D;	2A	2f#;	2dd;
+r	4r	4r	4r	4r	4r
+V7b	4DD	4F#	8d	4a	4dd
+.	.	.	8c	.	.
+=5	=5	=5	=5	=5	=5
+I	4GG	4G	4B	4g	4dd
+V7c	4DD	4A	4c	4f#	4dd
+Ib	4GG	4B	4d	4g	4dd
+vi	4EE	4E	4e	4g	8b
+.	.	.	.	.	8cc
+!!linebreak: 2
+=6	=6	=6	=6	=6	=6
+Ib	4GG	4BB	4d	4g	4dd
+iib	4AA	4C	4e	8a	8cc
+.	.	.	.	8g	8b
+V;	4DD;	4D;	4A;	4f#;	4a;
+iii	4BB	4BB	4B	4f#	4dd
+=7	=7	=7	=7	=7	=7
+IV7	8CC	8E	8B	8g	4cc
+viio	8FF#	8F#	8A	4a	.
+I	4GG	4G	8B	.	4b
+.	.	.	8c	[8g	.
+V	4DD	4D	4d	8g]	4a
+.	.	.	.	8e	.
+viio7/VI	4DD#	4D#	4c	4f#	4a
+=8	=8	=8	=8	=8	=8
+vi	2EE	8E	4B	2g	8g
+.	.	8F#	.	.	8a
+.	.	8G	4e	.	8b
+.	.	8A	.	.	8cc
+iii;	4BB;	4B;	4d;	4f#;	4dd;
+I	4GG	4G	4B	4g	4dd
+=9	=9	=9	=9	=9	=9
+IVb	4CC	4E	8c	4g	4cc
+.	.	.	8d	.	.
+vi7d	4EE	8D	4e	4g	8b
+.	.	8C	.	.	8a
+Ic	4GG	4D	4d	4g	4b
+V7	4DD	4D	8d	4f#	4a
+.	.	.	8c	.	.
+=10	=10	=10	=10	=10	=10
+I;	2.GG;	2.GG;	2.B;	2.d;	2.g;
+==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-
+!!chor2scor: -l 2 -s 0.6 -o %b.pmx

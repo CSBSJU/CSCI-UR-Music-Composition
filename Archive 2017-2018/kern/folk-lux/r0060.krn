@@ -1,0 +1,139 @@
+!!!OTL: Feder-die-Gans
+!!!id: R0060
+**kern
+*clefG2
+*k[f#]
+*G:
+{8d
+8d
+8g
+=1
+4g
+4g
+8a
+8g
+=2
+8f#
+8a
+4d}
+4r
+=3
+*M4/4
+{4cc
+8cc
+8b
+4a}
+4r
+=4
+*M3/4
+{4dd
+4b
+8cc
+8dd
+=5
+8dd
+8ee
+8cc}
+=6
+{8a
+8a
+8b
+=7
+4cc
+4cc
+8dd
+8cc
+=8
+8b
+8dd
+4g}
+8r
+=9
+{8g
+=10
+4g
+4d
+8e
+8f#
+=11
+4g}
+4.r
+=12
+{8g
+=13
+4g
+4d
+8e
+8f#
+=14
+*M2/4
+4g}
+4r
+=15
+{8g
+8g
+=16
+4cc
+8cc
+8cc
+=17
+4b
+8b
+8b
+=18
+4a
+8a
+8a
+=19
+4g
+4b
+=20
+4dd}
+=21
+{8dd
+8dd
+=22
+8cc
+8ee
+8dd
+8cc
+=23
+8b
+8dd
+8cc
+8b
+=24
+8a
+8cc
+8b
+8a
+=25
+4g}
+8r
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 4/4 2/4 ]  ZZ[8
+!!!cut: Feder-die-Gans
+!!!reg: Luxemburg
+!!!trd: D'Fraen um Kanddaaf an der aler Zeit, Luxemburg 1929
+!!!rhy1: XXX  X_X_XX  XXX_0_
+!!!rhy2: X_XXX_0_
+!!!key: R0060  08  G 3/4 4/4 2/4 ]  ZZ[8
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: -52411151
+!!!akz: 1-7_42_55_43_11_11_43215_4321_
+!!!fot: 'a__b__c__as"d__d__as"as"
+!!!for: 'a__b__av_av_aw_aw_bw_c__
+!!!fok: '^__\__Sd_^d_V__V__~a_\__
+!! PHRAS[VORWIEGEND AUFTAKTIG]
+!!!fkt: ??
+!! RUDEN, J.M.:
+!! PR[51] 2K[6] 2G[9] 3K[3] 3G[6] 4A[4] 4Ü[0] 5A[1] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[28] ABS[141] SR[14] SP[14]
+!! ST[24] 2k[3] 2g[7] 3k[1] 3g[3] 4d[2] 4ü[0] 5d[0] 6k[1] 6g[1]
+!! 7k[1] 7g[0] 8d[0] mehr[0] si[21] dm[+7] sr[10] sp[11]
+!! 1F[7] 2F[53] 3F[33] 4F[0] LF[0] 2P[7] 3P[0] 4P[0] TRI[0] DF[4] AB[144]
+!! TF[0] U3K[0] U3[1] U4[1] U4Ü[0] U5[21] U6K[0] U6[14] U7K[0] U7[17]
+!! N1[27] N2K[0] N2[6] N3K[0] N3[8] N4[3] N4Ü[0] N5[1] N6K[0] N6[0]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

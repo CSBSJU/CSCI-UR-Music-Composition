@@ -1,0 +1,57 @@
+!!!OTL: Miniminimo, S. 12
+!!!id: L0008
+**kern
+*clefG2
+*k[b-]
+*a:
+{16a
+=1
+16a
+16cc
+16cc
+16cc
+16cc
+4cc
+=2
+8cc
+8cc
+4cc}
+=3
+{8cc
+8cc
+8dd
+8dd
+=4
+16cc
+16dd
+16cc
+16b-
+4a}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[2
+!!!cut: Miniminimo, S. 12
+!!!reg: Luxemburg
+!!!trd: Die Luxemburger Volkslieder &auml;lterer Zeit, Luxemburg 1904 posth.
+!!!rhy1:   XXXXX__  X_X_X__
+!!!rhy2: X_X_X_X_  XXXXX__ // 
+!!!key: L0008  16  A 2/4 ]  ZZ[2
+!!!mod: VIERTONSKALA ]  AMBITUS[4
+!!!kad: 3b1
+!!!akz: 3b3b_3b3b_
+!!!fot: 'a__b__
+!!!for: 'a__b__
+!!!fok: '-__\__
+!! PHRAS[VOLLTAKTIG]
+!!!fkt: Kinderlied, Abz&auml;hllied, Kinderliedterno
+!! FONTAINE, Ed.:
+!! PR[17] 2K[7] 2G[7] 3K[14] 3G[3] 4A[0] 4Ü[0] 5A[3] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[34] ABS[29] SR[14] SP[21]
+!! ST[8] 2k[14] 2g[10] 3k[14] 3g[7] 4d[0] 4ü[3] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[48] dm[-14] sr[24] sp[24]
+!! 1F[13] 2F[71] 3F[3] 4F[0] LF[0] 2P[13] 3P[0] 4P[0] TRI[0] DF[4] AB[31]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[7]
+!! N1[13] N2K[0] N2[7] N3K[0] N3[13] N4[20] N4Ü[0] N5[30] N6K[0] N6[7]
+!!!n7k: 0] N7[3] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

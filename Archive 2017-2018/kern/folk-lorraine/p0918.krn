@@ -1,0 +1,104 @@
+!!!OTL: Bauernstand (2-45) S. 142
+!!!id: P0918
+**kern
+*clefG2
+*k[b-]
+*F:
+{16f
+=1
+16f
+8c
+8f
+8f
+8f
+=2
+8e
+8g
+4f}
+=3
+{8e
+8f
+8g
+8a
+=4
+8b-
+8a
+8g}
+=5
+{8f
+=6
+8e
+8f
+8g}
+=7
+{8f
+=8
+8e
+8e
+4c}
+=9
+{8cc
+8cc
+8cc
+8cc
+=10
+8dd
+8cc
+8b-
+8a}
+=11
+{8g
+8a
+8b-
+8a
+=12
+8cc
+8b-
+8a
+8g}
+=13
+{8c
+8f
+8f
+8f
+=14
+8e
+8g
+4g}
+=15
+{8a
+16b-
+16b-
+8cc
+8f
+=16
+8a
+8g
+4f}
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[8
+!!!cut: Bauernstand (2-45) S. 142
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1:   X_X_X_X_  X_X_X__   (x2)
+!!!rhy2: X_X_X_X_  X_X_X_
+!!!key: P0918  16  F 2/4 ]  ZZ[8
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: 122-53221
+!!!akz: -5-7_-74_-7_-7_56_25_-5-7_33_
+!!!fot: 'a__b__c__d__e__es"aw_f__
+!!!for: 'a__av_aw_aw_aw_aw_a__b__
+!!!fok: '/__^a_/__\__\__^__/__^d_
+!! PHRAS[VORWIEGEND VOLLTAKTIG]
+!!!fkt: Berufslied, geistlich, religiös
+!! LOTH VKL
+!! PR[33] 2K[2] 2G[2] 3K[12] 3G[2] 4A[4] 4Ü[1] 5A[1] 6K[0] 6G[0]
+!! 7K[0] 7G[1] 8A[0] MEHR[0] SI[26] ABS[92] SR[4] SP[22]
+!! ST[24] 2k[7] 2g[20] 3k[11] 3g[0] 4d[2] 4ü[1] 5d[1] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[41] dm[-15] sr[26] sp[15]
+!! 1F[14] 2F[77] 3F[4] 4F[0] LF[0] 2P[4] 3P[0] 4P[0] TRI[0] DF[4] AB[97]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[4] N2K[0] N2[4] N3K[0] N3[12] N4[3] N4Ü[6] N5[33] N6K[0] N6[11]
+!!!n7k: 0] N7[11] O1[11] O2K[0] O2[4] O3K[0] O3[0] HÖ[0

@@ -1,0 +1,122 @@
+!!!OTL: M&auml;dchen und Baum (2-68) S. 205
+!!!id: P0941
+**kern
+*clefG2
+*k[b-]
+*F:
+{4c
+=1
+2c
+4f
+=2
+4f
+4f
+4g
+=3
+4f
+4e
+4d
+=4
+2c}
+=5
+{4a
+=6
+2a
+4cc
+=7
+8cc
+8cc
+8cc
+8b-
+4a
+=8
+2a
+4g
+=9
+2g}
+=10
+{4g
+=11
+4b-
+4b-
+4b-
+=12
+4dd
+4cc
+4b-
+=13
+2a
+4cc
+=14
+4cc
+4f}
+=15
+{4f
+=16
+2g
+4a
+=17
+2b-
+4e
+=18
+2f
+4a
+=19
+2a}
+=20
+{4a
+=21
+4b-
+4b-
+4b-
+=22
+4dd
+4cc
+4b-
+=23
+2a
+4cc
+=24
+4cc
+4f}
+=25
+{4f
+=26
+2g
+4a
+=27
+2b-
+4e
+=28
+2f
+4a
+=29
+2a}
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 ]  ZZ[6
+!!!cut: M&auml;dchen und Baum (2-68) S. 205
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: X_  X__X_  X_X_X_  X_X_X_  X__
+!!!rhy2: X_  X__X_  XXXXX_  X__X_  X__
+!!!key: P0941  08  F 3/4 ]  ZZ[6
+!!!mod: HEPTATONIK IONISCH]  AMBITUS[9
+!!!kad: -521313
+!!!akz: -511-5_3532_4635_2413_4635_2413_
+!!!fot: 'a__b__c__d__cw_d__
+!!!for: 'a__b__c__d__c__d__
+!!!fok: '^__^d_^d_/__^d_/__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: verlorene Ehre
+!! LOTH VKL
+!! PR[30] 2K[7] 2G[14] 3K[5] 3G[1] 4A[3] 4Ü[0] 5A[1] 6K[1] 6G[1]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[34] ABS[86] SR[21] SP[13]
+!! ST[33] 2k[8] 2g[20] 3k[2] 3g[1] 4d[1] 4ü[0] 5d[0] 6k[3] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[36] dm[-2] sr[28] sp[8]
+!! 1F[27] 2F[51] 3F[7] 4F[0] LF[0] 2P[9] 3P[7] 4P[0] TRI[0] DF[5] AB[89]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[6] U6K[0] U6[2] U7K[0] U7[5]
+!! N1[16] N2K[0] N2[10] N3K[0] N3[23] N4[13] N4Ü[0] N5[21] N6K[0] N6[2]
+!!!n7k: 0] N7[0] O1[2] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

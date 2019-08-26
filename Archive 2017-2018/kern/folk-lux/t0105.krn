@@ -1,0 +1,72 @@
+!!!OTL: Margretelein und der Reiter (4a), S. 35
+!!!id: T0105
+**kern
+*clefG2
+*k[]
+*G:
+{8b
+=1
+8b
+16g
+16g
+16a
+16a
+8b
+=2
+8cc
+8b
+8a}
+=3
+{8dd
+=4
+8dd
+16b
+16b
+16cc
+16cc
+8dd
+=5
+8ee
+8dd
+8b}
+=6
+{8dd
+=7
+8dd
+8dd
+8cc
+8a
+=8
+4b}
+8r
+==
+*-
+!!!minrhy: 16
+!!!meters: 2/4 ]  ZZ[3
+!!!cut: Margretelein und der Reiter (4a), S. 35
+!!!reg: Luxemburg
+!!!trd: Singendes Volk, Esch-Alzette 1937 posth.
+!!!rhy1: X_  X_XXXXX_  X_X_X_
+!!!rhy2: X_  X_XXXXX_  X_X_X_
+!!!key: T0105  16  G 2/4 ]  ZZ[3
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[6
+!!!kad: 233
+!!!akz: 34_56_53_
+!!!fot: 'a__as"b__
+!!!for: 'a__a__b__
+!!!fok: '\__\__\__
+!! PHRAS[AUFTAKTIG]
+!!!fkt: "erz&auml;hlendes Lied"
+!!!bem1: BOXHORN; mitgeteilt von hhh Godefroid, Lehrer zu
+!!!bem2: Godbringen 1904; die gleiche Melodie aus REULAND
+!!!bem3: von fff Katharina Prim 1910
+!! THILL, Mathias:
+!! PR[17] 2K[10] 2G[19] 3K[2] 3G[0] 4A[7] 4Ü[0] 5A[2] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[40] ABS[42] SR[29] SP[12]
+!! ST[9] 2k[12] 2g[19] 3k[2] 3g[5] 4d[5] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[43] dm[-3] sr[31] sp[12]
+!! 1F[2] 2F[78] 3F[16] 4F[0] LF[0] 2P[2] 3P[2] 4P[0] TRI[0] DF[5] AB[45]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[2] U7K[0] U7[0]
+!! N1[9] N2K[0] N2[12] N3K[0] N3[21] N4[16] N4Ü[0] N5[33] N6K[0] N6[7]
+!!!n7k: 0] N7[0] O1[0] O2K[0] O2[0] O3K[0] O3[0] HÖ[0
+!!!RNB: symbol: &auml;      = a umlaut  (UTF-8: Å„)

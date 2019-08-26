@@ -1,0 +1,31 @@
+!!!COM:	Berg
+!!!OTL:	441_Ber-10/81/376-377
+**kern	**kern	**kern	**kern	**dynam	**kern	**kern	**kern	**kern	**kern	**kern	**kern	**kern
+*part11	*part10	*part9	*part8	*part8	*part7	*part6	*part5	*part5	*part4	*part3	*part2	*part1
+*staff12	*staff11	*staff10	*staff9	*	*staff8	*staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
+*I"Viola	*I"Viola	*I"Viola	*I"Violin	*	*I"Violin	*I"Treble Solo	*I"Harp	*	*I"Horn in F	*I"Horn in F	*I"Bassoon	*I"Bass Clarinet in Bb
+*I'Vla.	*I'Vla.	*I'Vla.	*I'Vln.	*	*I'Vln.	*I'Tr. Solo	*I'Hp.	*	*I'Hn.	*I'Hn.	*I'Bsn.	*I'B. Cl.
+*clefC3	*clefC3	*clefC3	*clefG2	*	*clefG2	*clefG2	*clefF4	*clefG2	*clefG2	*clefG2	*clefF4	*clefG2
+*k[]	*k[]	*k[]	*k[]	*	*k[]	*k[]	*k[]	*k[]	*	*	*k[]	*k[]
+*M3/4	*M3/4	*M3/4	*M3/4	*	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4	*M3/4
+=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1	=1
+4en~	8c'	8c'	8.ggnL	.	8ccn'	4ggn	[2.DD	2.r	4an~	4ccn~	[2.DD	[2.BB-
+.	8r	8r	.	.	8r	.	.	.	.	.	.	.
+.	.	.	(16ccnJk	.	.	.	.	.	.	.	.	.
+4cn~	4r	4r	[8eenL	.	4r	8eenL	.	.	4fn~	4an~	.	.
+.	.	.	16eeL])	.	.	8g#J	.	.	.	.	.	.
+.	.	.	(16anJJ	.	.	.	.	.	.	.	.	.
+4An~	4r	4r	8.ccnL)	.	4r	8bnL	.	.	4dn~	4fn~	.	.
+.	.	.	.	.	.	8anJ	.	.	.	.	.	.
+.	.	.	(16fnJk	]	.	.	.	.	.	.	.	.
+=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2	=2
+4Dn~ 4Gn	2.r	2.r	8.anL)	.	2.r	(4.e-	2.r	2.r	4B-X~	4e-~	4DD]	4BB-]
+.	.	.	(16e-Jk	>	.	.	.	.	.	.	.	.
+[8E-'~	.	.	[8gn	.	.	.	.	.	[8An~	[8d~	4r	4r
+4E-]	.	.	4g'~]	.	.	4cc#)	.	.	4A]	4d]	.	.
+.	.	.	.	.	.	.	.	.	.	.	4r	4r
+[8E-~	.	.	[8g'~)	.	.	8r	.	.	8A~	8d~	.	.
+==	==	==	==	==	==	==	==	==	==	==	==	==
+*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-	*-
+!!!system-decoration: [(s1,s2)][(s3,s4)]{(s5,s6)}s7[(s8,s9,s10,s11,s12)]
+!!!YEM:	Copyright © Natalie Dietterich

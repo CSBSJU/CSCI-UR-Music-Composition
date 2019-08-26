@@ -1,0 +1,110 @@
+!!!OTL: Feiner Knab (2-87) S. 255
+!!!id: P0958
+**kern
+*clefG2
+*k[]
+*G:
+{8g
+8g
+8b
+=1
+4dd
+8b
+8dd
+8ee
+8dd
+=2
+4cc
+8b}
+=3
+{8dd
+8b
+8b
+=4
+4b
+8g
+8b
+8cc
+8a
+=5
+4a
+8g}
+=6
+{8g
+8g
+8b
+=7
+4dd
+8b
+8dd
+8dd
+8dd
+=8
+4cc
+8b}
+=9
+{8dd
+8b
+8b
+=10
+4b
+8g
+8b
+8cc
+8a
+=11
+4a
+8g}
+=12
+{8g
+8g
+8b
+=13
+4dd
+8b
+8dd
+8dd
+8dd
+=14
+4cc
+8b}
+=15
+{8dd
+8b
+8b
+=16
+4b
+8g
+8b
+8cc
+8a
+=17
+4a
+8g}
+==
+*-
+!!!minrhy: 8
+!!!meters: 3/4 ]  ZZ[6
+!!!cut: Feiner Knab (2-87) S. 255
+!!!reg: Lothringen
+!!!trd: PINCK, Louis: Verklingende Weisen, Bd 2, Metz 1928
+!!!rhy1: XXX  X_XXXX  X_X
+!!!rhy2: XXX  X_XXXX  X_X
+!!!key: P0958  08  G 3/4 ]  ZZ[6
+!!!mod: SECHSTONSKALA DUR ?]  AMBITUS[6
+!!!kad: 313131
+!!!akz: 54_32_54_32_54_32_
+!!!fot: 'a__as"aw_as"aw_as"
+!!!for: 'a__a__a__a__a__a__
+!!!fok: '^a_Sd_^a_Sd_^a_Sd_
+!! PHRAS[AUFTAKTIG]
+!!!fkt: Liebe, Tod, Trauer
+!! LOTH VKL
+!! PR[20] 2K[0] 2G[0] 3K[7] 3G[4] 4A[13] 4Ü[0] 5A[0] 6K[0] 6G[0]
+!! 7K[0] 7G[0] 8A[0] MEHR[0] SI[24] ABS[45] SR[0] SP[24]
+!! ST[12] 2k[13] 2g[31] 3k[7] 3g[4] 4d[0] 4ü[0] 5d[0] 6k[0] 6g[0]
+!! 7k[0] 7g[0] 8d[0] mehr[0] si[56] dm[-32] sr[44] sp[11]
+!! 1F[2] 2F[17] 3F[63] 4F[15] LF[0] 2P[2] 3P[0] 4P[0] TRI[0] DF[5] AB[46]
+!! TF[0] U3K[0] U3[0] U4[0] U4Ü[0] U5[0] U6K[0] U6[0] U7K[0] U7[0]
+!! N1[20] N2K[0] N2[9] N3K[0] N3[26] N4[20] N4Ü[0] N5[13] N6K[0] N6[7]
+!!!n7k: 0] N7[0] O1[7] O2K[0] O2[0] O3K[0] O3[0] HÖ[0

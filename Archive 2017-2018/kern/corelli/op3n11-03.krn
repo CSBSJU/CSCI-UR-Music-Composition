@@ -1,0 +1,140 @@
+!!!COM: Corelli, Arcangelo
+!!!OTL: 
+!!!ONM: Opus 3, No. 11
+!!!OMV: 3
+!!!CDT: 1653/2/17/-1713/1/8/
+!!!OCY: Italia
+**kern	**kern	**kern	**kern
+*clefC	*clefC	*clefG	*clefG
+*k[b-]	*k[b-]	*k[b-]	*k[b-]
+*F:	*F:	*F:	*F:
+*M3/2	*M3/2	*M3/2	*M3/2
+=1	=1	=1	=1
+1E-	1E-	1g	1b-
+2E-	2E-	2g	2b-
+=2	=2	=2	=2
+1BB	1BB	1f	1dd
+2BB	2BB	2f	2dd
+=3	=3	=3	=3
+1C	1C	1e-	1g
+2c	2c	2g	2ee-
+=4	=4	=4	=4
+1F#	1F#	1a	1dd
+2F#	2F#	2a	2cc
+=5	=5	=5	=5
+1G	1G	1d	1b-
+[2F	[2F	[2a	[2dd
+=6	=6	=6	=6
+2F]	2F]	2a]	2dd]
+1E-	1E-	1g	1cc
+=7	=7	=7	=7
+1D	1D	2f#	1dd
+.	.	[1dd	.
+2D	2D	.	2ff#
+=8	=8	=8	=8
+2E	2E	2dd]	2gg
+1F#	1F#	[1cc	2aa
+.	.	.	2aa
+=9	=9	=9	=9
+1G	1G	2cc]	2dd
+.	.	2b-	[1gg
+2GG	2GG	2b	.
+=10	=10	=10	=10
+2AA	2AA	2cc	2gg]
+1BB	1BB	2dd	[1ff
+.	.	2dd	.
+=11	=11	=11	=11
+1C	1C	2g	2ff]
+.	.	[1cc	1ee-
+2c	2c	.	.
+=12	=12	=12	=12
+2F#	2F#	2cc]	[1.dd
+2G	2G	2b-	.
+2D	2D	2f#	.
+=13	=13	=13	=13
+1E-	1E-	1g	2dd]
+.	.	.	2cc
+2E	2E	2gg	2b-
+=14	=14	=14	=14
+1F	1F	1cc	1a
+2D	2D	[2b-	2ff
+=15	=15	=15	=15
+2E-	2E-	2b-]	2gg
+2F	2F	2.b-	2.cc
+2FF	2FF	.	.
+.	.	4a	4cc
+=16	=16	=16	=16
+1BB-	1BB-	2b-	1b-
+.	.	[1gg	.
+2B-	2B-	.	2gg
+=17	=17	=17	=17
+2c	2c	2gg]	1aa
+2d	2d	2ff#	.
+[2G	[2G	2gg	2bb-
+=18	=18	=18	=18
+2G]	2G]	1aa	2ccc
+1F#	1F#	.	[1cc
+.	.	2aa	.
+=19	=19	=19	=19
+1G	1G	2dd	2cc]
+.	.	[1gg	2b
+2E-	2E-	.	2cc
+=20	=20	=20	=20
+1BB	1BB	2gg]	1dd
+.	.	[1ff	.
+2BB	2BB	.	2dd
+=21	=21	=21	=21
+1C	1C	2ff]	2g
+.	.	1ee-	[1cc
+2c	2c	.	.
+=22	=22	=22	=22
+2F#	2F#	1.dd	2cc]
+2G	2G	.	[1b-
+2GG	2GG	.	.
+=23	=23	=23	=23
+1C	1C	1.cc	2b-]
+.	.	.	[1a-
+2D	2D	.	.
+=24	=24	=24	=24
+1E-	1E-	1b-	2a-]
+.	.	.	[1g
+2BB-	2BB-	2dd	.
+=25	=25	=25	=25
+2C	2C	4cc	2g]
+.	.	4b-	.
+1D	1D	1a	2.g
+.	.	.	4f#
+=26	=26	=26	=26
+1G	1G	1g	1g
+2C	2C	2g	2ee-
+=27	=27	=27	=27
+1C	1C	1f#	1dd
+2BB-	2BB-	[2g	2dd
+=28	=28	=28	=28
+2C	2C	2g]	4cc
+.	.	.	4b-
+1D	1D	2.g	1a
+.	.	4f#	.
+=29	=29	=29	=29
+1.GG	1.GG	1.g	1.g
+==	==	==	==
+*-	*-	*-	*-
+!!!RWG: This file only contains pitch and duration data.
+!!!RWG: Transposing instruments are not transposed.
+!!!RWG: Durations of rests and tied notes may be interpreted.
+!!!RWG: Key is interpreted using the Humdrum key tool.
+!!!SCA: 
+!!!YOR: Chrysander Edition
+!!!AGN: chamber
+!!!AFT: stage1
+!!!ENC: F. Bennion
+!!!END: 1997/04/15
+!!!AST: baroque
+!!!YEC: Copyright 1994, Center for Computer Assisted Research in the Humanities
+!!!YEM: Rights to all derivative electronic formats reserved.
+!!!YEM: Refer to licensing agreement for further details.
+!!!YEN: United States of America
+!!!EED: W.B. Hewlett
+!!!KEY: 515761778
+!!!EMD: Converted from MuseData to Humdrum Aug 9, 1999, by Bret Aarden using muse2kern.
+!!!VTS: 2678473583

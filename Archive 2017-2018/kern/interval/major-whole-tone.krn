@@ -1,0 +1,16 @@
+!!!OTL: Major whole tone (203.910 cents)
+!!!ratio: 9:8
+!! C-D in Pythagorean tuning
+**kern	**Dcent	**kern	**Dcent
+*Iclars	*Iclars	*Iclars	*Iclars
+*MM60	*MM60	*MM60	*MM60
+!!Melodic interval:
+4cc	0	4r	.
+8r	.	8r	.
+4dd	3.910	4r	.
+8r	.	8r	.
+4cc	0	4r	.
+4r	.	4r	.
+!!Harmonic interval:
+1cc	0	1dd	3.910
+*-	*-	*-	*-

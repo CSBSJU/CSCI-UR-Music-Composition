@@ -1,0 +1,144 @@
+!!!OTL@@DE: Liebesqual
+!!!ONB: Scha&auml;bisches Volkslied
+!!!OMD: Bewegt
+!!!OCL: Erk, Ludwig
+!!!GCO: Deutscher Liederschatz, Band 1
+**kern	**kern	**kern
+*staff3	*staff2	*staff1
+*Ipiano	*Ipiano	*Ivox
+*clefF4	*clefG2	*clefG2
+*k[]	*k[]	*k[]
+*C:	*C:	*C:
+*M2/4	*M2/4	*M2/4
+*MM120	*MM120	*MM120
+8r	8e/ 8g/	8g/
+=1	=1	=1
+8C\L	8d#/ 8f#/L	8f#/
+8G\	8e/ 8g/	8g/
+8c\	8fn/ 8a/	8a/
+8G\J	8e/ 8g/J	8g/
+=2	=2	=2
+8C\L	8d#/ 8f#/L	8f#/
+8G\	8e/ 8g/	8g/
+8c\	8fn/ 8a/	8a/
+8G\J	8e/ 8g/J	8g/
+=3	=3	=3
+8GG\L	8e/ 8g/L	8g/
+8G\	8dn/ 8fn/	8fn/
+8B\	8f/ 8dd/	8dd\
+8G\J	8d/ 8f/J	8f/
+=4	=4	=4
+8C\L	8d/ 8f/L	8f/
+8G\	8c/ 8e/	8e/
+8c\	8e/ 8cc/	8cc\
+8G\J	8e/ 8g/J	8g/
+=5	=5	=5
+8C\L	8d#/ 8f#/L	8f#/
+8G\	8e/ 8g/	8g/
+8c\	8fn/ 8a/	8a/
+8G\J	8e/ 8g/J	8g/
+=6	=6	=6
+8C\L	8d#/ 8f#/L	8f#/
+8G\	8e/ 8g/	8g/
+8c\	8fn/ 8a/	8a/
+8G\J	8e/ 8g/J	8g/
+=7	=7	=7
+8GG/	8e/ 8g/L	8g/
+8r	8dn/ 8fn/J	8fn/
+4G\ 4B\	4f/ 4g/ 4dd/	8.ff\
+.	.	16b\
+=8	=8	=8
+8c\L	4e/ 4g/ 4cc/	4cc\
+8G\J	.	.
+8C/	4r	4r
+8r	.	.
+=9	=9	=9
+2GG/	8r	4d/
+.	8d/L	.
+.	8B/ 8g/	4g/
+.	8d/J	.
+=10	=10	=10
+2G\	8r	4.b\
+.	8d/L	.
+.	8B/ 8g/	.
+.	8d/J	16b\LL
+.	.	16cc\JJ
+=11	=11	=11
+2D\	8r	8b\
+.	8d/L	8a/
+.	8c/ 8f#/	8a/
+.	8d/J	16a/LL
+.	.	16b/JJ
+=12	=12	=12
+4GG/	8r	8a/
+.	8d/L	8g/
+4r	8B/ 8g/	4g/
+.	8d/J	.
+=13	=13	=13
+2GG/	8r	4d/
+.	8d/L	.
+.	8B/ 8g/	4g/
+.	8d/J	.
+=14	=14	=14
+2G\	8r	4.b\
+.	8d/L	.
+.	8B/ 8g/	.
+.	8d/J	16b\LL
+.	.	16cc\JJ
+=15	=15	=15
+2D\	8r	8b\
+.	8d/L	8a/
+.	8c/ 8f#/	8.ee\
+.	8d/J	.
+.	.	16dd\
+=16	=16	=16
+*	*^	*
+8GG/	4.g/	(8B\L	4.g;/
+8r	.	8d\	.
+8G;\ 8B;\	.	8fn;\J)	.
+8r	8g/	8e\	8g/
+*	*v	*v	*
+=17	=17	=17
+8C\L	8d#/ 8f#/L	8f#/
+8G\	8e/ 8g/	8g/
+8c\	8fn/ 8a/	8a/
+8G\J	8e/ 8g/J	8g/
+=18	=18	=18
+8C\L	8d#/ 8f#/L	8f#/
+8G\	8e/ 8g/	8g/
+8c\	8fn/ 8a/	8a/
+8G\J	8e/ 8g/J	8g/
+=19	=19	=19
+8GG\L	8e/ 8g/L	8g/
+8G\	8dn/ 8fn/	8fn/
+8B\	8f/ 8dd/	8dd\
+8G\J	8d/ 8f/J	8f/
+=20	=20	=20
+8C\L	8d/ 8f/L	8f/
+8G\	8c/ 8e/	8e/
+8c\	8e/ 8cc/J	8cc\
+8G\J	8ee\ 8gg\	8g/
+=21	=21	=21
+8C\L	8dd#\ 8ff#\L	8f#/
+8G\	8ee\ 8gg\	8g/
+8c\	8ffn\ 8aa\	8a/
+8G\J	8ee\ 8gg\J	8g/
+=22	=22	=22
+8C\L	8dd#\ 8ff#\L	8f#/
+8G\	8ee\ 8gg\	8g/
+8c\	8ffn\ 8aa\	8a/
+8G\J	8ee\ 8gg\J	8g/
+=23	=23	=23
+8GG/L	8ee\ 8gg\L	8g/
+8G/J	8ddn\ 8ffn\J	8fn/
+4G\ 4B\ 4d\ 4f\	8.ff\ 8.bb\ 8.fff\L	8.ff\
+.	16bb\Jk	16b\
+=24	=24	=24
+8c\ 8e\L	4ee\ 4ccc\	4cc\
+8G\J	.	.
+8C/	8r	8r
+==	==	==
+*-	*-	*-
+!!!ENC: Craig Stuart Sapp
+!!!END: 2004/05/27/
+!!!EFL: 105/651
